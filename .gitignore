@@ -1,0 +1,11 @@
+# 第三方语料 —— 不分发
+skills/elon-musk-wisdom/corpus/
+
+# 抓取记录
+corpus-missing.json
+
+# 系统
+.DS_Store
+__pycache__/
+*.pyc
+.venv/

@@ -1,0 +1,1301 @@
+{
+ "person_slug": "elon-musk",
+ "core_version": "1.0",
+ "synthesized_at": "2026-09-29",
+ "synthesis_mode": "synthesized_with_corpus_evidence",
+ "principle_clusters": [
+  {
+   "cluster_id": "cluster_003",
+   "canonical_name_zh": "算法五步，顺序不可乱",
+   "canonical_name_en": "The Algorithm: Question, Delete, Simplify, Accelerate, Automate — In That Order",
+   "topic_tags": [
+    "algorithm",
+    "process",
+    "order"
+   ],
+   "candidate_principle_ids": [
+    "P03"
+   ],
+   "source_types": [
+    "zh"
+   ],
+   "max_uniqueness_score": 5,
+   "evidence_count": 3,
+   "high_confidence_evidence_count": 3,
+   "zh_summary_seed": "他把自己反复使用的一套工程流程叫「算法」，五步：质疑每一项要求、删掉能删的部分与流程、简化优化、加快周期、最后才自动化。**真正的含量在顺序上**：他公开说过自己最大的错误就是顺序颠倒——自动化了一个本该被删掉的流程，或者花大力气加速一件根本不该做的事。他也承认删掉的东西有时要加回来，事先就告诉团队会发生这件事，免得大家不敢删。",
+   "en_summary_seed": "His five-step 'algorithm': question every requirement, delete parts and processes, simplify and optimise, accelerate cycle time, automate. The value is in the order. He has publicly said his biggest mistakes were running it backwards — automating a process that should have been deleted, or accelerating work that should not exist.",
+   "zh_decision_rule_seed": "按顺序走，不许跳步：先问「这要求是谁定的、还成立吗」，再问「这东西能不能整个删掉」，然后才谈优化，再谈加速，最后才谈自动化。**任何一步跳过的代价，都远大于跳过省下的时间。**",
+   "en_decision_rule_seed": "Run it in order and do not skip: who set this requirement and does it still hold, can this be deleted entirely, then simplify, then accelerate, then automate. Skipping a step costs far more than the time it saves.",
+   "selected_evidence": [
+    {
+     "text": "Common mistake is to simplify and optimize a part or a process that should not exist.",
+     "source_title": "Elon Musk's 5-Step Algorithm（引其原话）",
+     "source_detail": "sources/elon-musk/raw/web/primary2/www-claimlane-com-resources-blog-elon-musks-5-step-algorithm-to-improve-your-process.txt",
+     "confidence": "high",
+     "from_principle_id": "P03"
+    },
+    {
+     "text": "In the Tesla factory, I mistakenly spent a lot of time accelerating processes that I later realized should have been deleted.",
+     "source_title": "The Algorithm — The Book of Elon Musk",
+     "source_detail": "sources/elon-musk/raw/web/muskbook/the-algorithm.txt",
+     "confidence": "high",
+     "from_principle_id": "P03"
+    },
+    {
+     "text": "We should have waited until all the requirements had been questioned, parts and processes deleted, and the bugs were shaken out.",
+     "source_title": "Elon Musk's 5-Step Algorithm（引其原话）",
+     "source_detail": "sources/elon-musk/raw/web/primary2/www-claimlane-com-resources-blog-elon-musks-5-step-algorithm-to-improve-your-process.txt",
+     "confidence": "high",
+     "from_principle_id": "P03"
+    }
+   ],
+   "rank": 1
+  },
+  {
+   "cluster_id": "cluster_001",
+   "canonical_name_zh": "第一性原理，而不是类比推理",
+   "canonical_name_en": "First Principles Over Reasoning by Analogy",
+   "topic_tags": [
+    "first-principles",
+    "analogy",
+    "thinking"
+   ],
+   "candidate_principle_ids": [
+    "P01"
+   ],
+   "source_types": [
+    "zh"
+   ],
+   "max_uniqueness_score": 5,
+   "evidence_count": 2,
+   "high_confidence_evidence_count": 2,
+   "zh_summary_seed": "他把人的默认思维方式叫「类比推理」——照着别人做过的样子改一改，因为我们大多数人一辈子都是这么过来的。这在日常里没问题，但在重要的事上会让你被惯例和前人的结论锁死。第一性原理是把问题拆到最基本的真实，然后从那里往上重新推。他用一个很物理的说法：这是物理学家看世界的方式——先把东西拆到最根本的真相，问一句「什么是我们确信为真的」，再从那里往上建。",
+   "en_summary_seed": "He calls the default mode 'reasoning by analogy' — copying what others do with slight variations. Fine for daily life, fatal for important things. First principles means boiling a problem down to fundamental truths, asking what we are sure is true, then reasoning up from there.",
+   "zh_decision_rule_seed": "遇到「这件事一直是这么做的」时，停一下。把这件事拆到只剩物理与数学允许的约束，然后问：如果从零开始设计，还会长成现在这样吗？如果不会，那么被保留的每一部分都需要单独说明它为什么必须存在。",
+   "en_decision_rule_seed": "When you hear 'this is how it has always been done', stop. Reduce the problem to what physics and math actually permit, then ask whether a from-scratch design would look like this. Anything that survives only by tradition must justify itself.",
+   "selected_evidence": [
+    {
+     "text": "First principles is kind of a physics way of looking at the world, and what that really means is, you … boil things down to the most fundamental truths and say, “okay, what are we sure is true?” … and then reason up from there.",
+     "source_title": "What is First Principles Thinking? (Farnam Street)",
+     "source_detail": "sources/elon-musk/raw/web/fp2/fs-blog-first-principles.txt",
+     "confidence": "high",
+     "from_principle_id": "P01"
+    },
+    {
+     "text": "We get through life by reasoning by analogy, which essentially means copying what other people do with slight variations.",
+     "source_title": "CNBC: Why Elon Musk wants employees to use first principles",
+     "source_detail": "sources/elon-musk/raw/web/cnbc-first-principles.txt",
+     "confidence": "high",
+     "from_principle_id": "P01"
+    }
+   ],
+   "rank": 2
+  },
+  {
+   "cluster_id": "cluster_002",
+   "canonical_name_zh": "物理学是法律，其余都是建议",
+   "canonical_name_en": "Physics Is the Law, Everything Else Is a Recommendation",
+   "topic_tags": [
+    "physics",
+    "constraints",
+    "first-principles"
+   ],
+   "candidate_principle_ids": [
+    "P02"
+   ],
+   "source_types": [
+    "zh"
+   ],
+   "max_uniqueness_score": 5,
+   "evidence_count": 2,
+   "high_confidence_evidence_count": 2,
+   "zh_summary_seed": "这句话是整套方法的地基。他并不认为法规、惯例、行业标准、专家意见没有价值——他认为它们**不具有最终否决权**。真正的否决权只在物理定律手里。所以当一个方案被否，他的第一反应不是「谁反对」，而是「物理允许吗」。这条让他能跨越行业惯例去看什么在物理上可行。",
+   "en_summary_seed": "This is the load-bearing sentence of his whole method. Regulations, conventions, industry standards and expert opinion are not worthless — but they hold no veto. Only physics does. So when a plan is rejected, his first question is not who objects but whether physics permits it.",
+   "zh_decision_rule_seed": "当有人说「做不到」时，把理由分成两类：物理上不可能，还是只是目前没人这么做过。第一类接受，第二类只当作待解决的问题，而不是结论。",
+   "en_decision_rule_seed": "When someone says it cannot be done, split the reason in two: physically impossible, or merely not yet done. Accept the first. Treat the second as an open problem, not a verdict.",
+   "selected_evidence": [
+    {
+     "text": "It’s like, “What does physics say we can do.” Because physics is the law and everything else is a recommendation.",
+     "source_title": "Model S Plaid Delivery Event (2021)",
+     "source_detail": "sources/elon-musk/raw/web/emi/elonmuskinterviews-wordpress-com-2021-06-13-model-s-plaid-delivery-event-english.txt",
+     "confidence": "high",
+     "from_principle_id": "P02"
+    },
+    {
+     "text": "The only rules are the ones dictated by the laws of physics.",
+     "source_title": "Lex Fridman Podcast #400（引 Walter Isaacson 对马斯克的总结）",
+     "source_detail": "sources/elon-musk/raw/web/fc/lexfridman-com-elon-musk-4-transcript.txt",
+     "confidence": "high",
+     "from_principle_id": "P02"
+    }
+   ],
+   "rank": 3
+  },
+  {
+   "cluster_id": "cluster_004",
+   "canonical_name_zh": "最好的零件是没有零件",
+   "canonical_name_en": "The Best Part Is No Part",
+   "topic_tags": [
+    "simplicity",
+    "delete"
+   ],
+   "candidate_principle_ids": [
+    "P04"
+   ],
+   "source_types": [
+    "zh"
+   ],
+   "max_uniqueness_score": 5,
+   "evidence_count": 2,
+   "high_confidence_evidence_count": 2,
+   "zh_summary_seed": "这是「删除」那一步的口诀，也是他最有辨识度的一句话。它的力量在于把「优化」重新排序：多数团队在优化一个不该存在的东西，因为承认它不该存在意味着要否掉之前的工作。他反而要求主动删除并要求团队做好加回来的准备——因为**不敢删的代价是永久背负，删错的代价只是加回去**。",
+   "en_summary_seed": "The slogan of the delete step, and his most recognisable line. Its force is that it reorders optimisation: most teams optimise something that should not exist, because admitting that means disowning earlier work. He asks for deletion and prepares the team to add things back — the cost of a wrong delete is small; the cost of never deleting is permanent.",
+   "zh_decision_rule_seed": "看到一个部件、一个流程、一份文档、一个会议时，默认问「删掉会怎样」。只有当你能说出删掉之后哪件事会立刻坏掉，才保留它。优化的资格是「它已经证明自己必须存在」。",
+   "en_decision_rule_seed": "For every part, process, document or meeting, default to asking what happens if it is removed. Keep it only if you can name what breaks immediately. Optimisation is a privilege earned by proven necessity.",
+   "selected_evidence": [
+    {
+     "text": "I look at every tiny part of each process and ask, “Is this process necessary?” The best part is no part.",
+     "source_title": "Simplicity Wins — The Book of Elon Musk",
+     "source_detail": "sources/elon-musk/raw/web/muskbook/simplicity-wins.txt",
+     "confidence": "high",
+     "from_principle_id": "P04"
+    },
+    {
+     "text": "The best process is no process.",
+     "source_title": "Simplicity Wins — The Book of Elon Musk",
+     "source_detail": "sources/elon-musk/raw/web/muskbook/simplicity-wins.txt",
+     "confidence": "high",
+     "from_principle_id": "P04"
+    }
+   ],
+   "rank": 4
+  },
+  {
+   "cluster_id": "cluster_006",
+   "canonical_name_zh": "造机器的机器：制造才是护城河",
+   "canonical_name_en": "The Machine That Builds the Machine",
+   "topic_tags": [
+    "manufacturing",
+    "factory",
+    "moat"
+   ],
+   "candidate_principle_ids": [
+    "P06"
+   ],
+   "source_types": [
+    "zh"
+   ],
+   "max_uniqueness_score": 5,
+   "evidence_count": 2,
+   "high_confidence_evidence_count": 2,
+   "zh_summary_seed": "他公开说自己最大的领悟之一是：真正难的不是产品，而是**造产品的工厂**，而且难度至少高一个数量级。多数公司把设计当作核心竞争力、把制造外包，因为设计体面、制造脏。他的判断反过来——当产品本身趋于同质时，能造得又快又便宜才是护城河。这也是特斯拉为什么死磕产能、SpaceX 为什么自己造零件的原因。",
+   "en_summary_seed": "One of his stated biggest epiphanies: the hard part is not the product but the factory that makes it, and that is at least an order of magnitude harder. Most companies treat design as the core and outsource manufacturing because design is respectable and manufacturing is dirty. He inverts it: when products converge, building fast and cheap is the moat.",
+   "zh_decision_rule_seed": "评估一家硬件公司时，把注意力从「产品有多好」移到「它一个月能造多少、单位成本往哪走」。如果它的产能和成本曲线没有优势，那么产品优势会被复制掉。反过来，如果它自己造关键零件与设备，那是别人短期追不上的地方。",
+   "en_decision_rule_seed": "For any hardware business, look past product quality to monthly output and unit-cost trajectory. Without an advantage in those, a product edge gets copied. When a company builds its own critical parts and tooling, that is where competitors cannot follow quickly.",
+   "selected_evidence": [
+    {
+     "text": "Because the biggest epiphany I’ve had this year is that what really matters is the machine that builds the machine, the factory, and that is at least towards a magnitude harder than the vehicle itself.",
+     "source_title": "Interview with Sam Altman — How to Build the Future (2021)",
+     "source_detail": "sources/elon-musk/raw/web/emi/elonmuskinterviews-wordpress-com-2021-03-10-elon-musk-on-how-to-build-the-future-interview.txt",
+     "confidence": "high",
+     "from_principle_id": "P06"
+    },
+    {
+     "text": "The vast majority of our engineering effort is in manufacturing, basically designing the machine that makes the machine.",
+     "source_title": "Axel Springer Award – Pioneers Talk (2020)",
+     "source_detail": "sources/elon-musk/raw/web/emi/elonmuskinterviews-wordpress-com-2021-03-08-axel-springer-award-2020-pioneers-talk-english.txt",
+     "confidence": "high",
+     "from_principle_id": "P06"
+    }
+   ],
+   "rank": 5
+  },
+  {
+   "cluster_id": "cluster_008",
+   "canonical_name_zh": "假设自己是错的：目标是「更少犯错」",
+   "canonical_name_en": "Assume You Are Wrong; Aim to Be Less Wrong",
+   "topic_tags": [
+    "epistemics",
+    "self-doubt",
+    "truth"
+   ],
+   "candidate_principle_ids": [
+    "P08"
+   ],
+   "source_types": [
+    "zh"
+   ],
+   "max_uniqueness_score": 5,
+   "evidence_count": 2,
+   "high_confidence_evidence_count": 2,
+   "zh_summary_seed": "他说这是物理学训练给他的东西：在物理里，你被教着一直怀疑自己、一直假设自己是错的，因为**实验不会因为你有信心就改变结果**。所以他给的目标不是「正确」，而是「更少犯错」——一个可以持续逼近、永远不会完成的目标。这跟商业里「要有信念」的常规要求是直接冲突的，也正是他敢于反复改口的原因。",
+   "en_summary_seed": "He attributes this to physics training: in physics you are taught to keep questioning yourself and to assume you are wrong, because the experiment does not care how confident you are. So his stated goal is not correctness but being less wrong — an asymptote you approach and never reach. This is in direct tension with the usual corporate demand for conviction, and it is why he reverses himself in public without embarrassment.",
+   "zh_decision_rule_seed": "把「我有多确信」和「我有多大可能错」分开写。每次重要判断后记下：如果我是错的，最可能错在哪一步。半年后回头对账——不是为了自责，是为了校准你的置信度刻度。",
+   "en_decision_rule_seed": "Write down how confident you are and how likely you are wrong, separately. After each important call, note where you would most likely be wrong. Reconcile in six months — not to blame yourself, but to calibrate your confidence scale.",
+   "selected_evidence": [
+    {
+     "text": "I learned when I was studying physics that… – in physics, you’re taught to always question yourself, you’re taught to always assume that you’re wrong",
+     "source_title": "Interview with Elon Musk on Chinese Television (2015)",
+     "source_detail": "sources/elon-musk/raw/web/emi/elonmuskinterviews-wordpress-com-2021-03-15-interview-with-elon-musk-on-chinese-television.txt",
+     "confidence": "high",
+     "from_principle_id": "P08"
+    },
+    {
+     "text": "I mean, you don’t always improve, but you can aspire to improve, or you can aspire to be less wrong.",
+     "source_title": "The Joe Rogan Experience #1470 (2020)",
+     "source_detail": "sources/elon-musk/raw/web/emi/elonmuskinterviews-wordpress-com-2021-03-17-the-joe-rogan-experience-1470-elon-musk-ii-eng.txt",
+     "confidence": "high",
+     "from_principle_id": "P08"
+    }
+   ],
+   "rank": 6
+  },
+  {
+   "cluster_id": "cluster_005",
+   "canonical_name_zh": "白痴指数：成本应该逼近原材料",
+   "canonical_name_en": "The Idiot Index: Cost Should Approach Raw Materials",
+   "topic_tags": [
+    "idiot-index",
+    "cost",
+    "waste"
+   ],
+   "candidate_principle_ids": [
+    "P05"
+   ],
+   "source_types": [
+    "zh"
+   ],
+   "max_uniqueness_score": 5,
+   "evidence_count": 2,
+   "high_confidence_evidence_count": 1,
+   "zh_summary_seed": "他给「浪费」造了一个可计算的指标：成品价格与原材料成本之比。比值高，说明中间环节（供应层级、加工、加价）吃掉了大部分，而这些环节大多是**可以被质疑和压缩的**。更根本的一条是他在 2013 年 TED 上拆电池时的推理：任何大批量生产的东西，成本理论上会渐近于它的原材料成分加知识产权许可费。这条给了他一个锚——**不是拿同行报价当基准，而是拿物理与商品市场当基准**。",
+   "en_summary_seed": "He invented a computable measure of waste: the ratio of finished-product cost to raw materials. A high ratio means intermediaries are eating the difference, and intermediaries can usually be questioned. The deeper claim, from his 2013 battery teardown: anything made in volume can approach the cost of its raw material constituents plus IP licence rights. The benchmark is the commodity market, not a competitor's quote.",
+   "zh_decision_rule_seed": "买或造任何东西之前，算一次白痴指数：这东西的原材料在商品市场上值多少？拿这个数当锚，然后逐层问中间每一层凭什么收钱。**供应商报价不是基准，商品市场价才是。**",
+   "en_decision_rule_seed": "Before buying or building anything, compute the idiot index: what do the raw materials cost on the commodity market? Use that as the anchor, then ask what each intermediate layer is paid for. A supplier's quote is not a benchmark; the commodity price is.",
+   "selected_evidence": [
+    {
+     "text": "On cost and inefficiency: if the ratio of finished-product cost to raw materials—the idiot index—is high, you’re an idiot.",
+     "source_title": "Elon Musk (Isaacson Biography): Key Lessons Explained",
+     "source_detail": "sources/elon-musk/raw/web/isaacson/grahammann-net-book-notes-elon-musk-walter-isaacson.txt",
+     "confidence": "medium",
+     "from_principle_id": "P05"
+    },
+    {
+     "text": "Anything in volume can be made, like I said, for a cost that asymptotically approaches its raw material constituents, plus intellectual property license rights.",
+     "source_title": "Lex Fridman AI Podcast III, Part 1 (2022)",
+     "source_detail": "sources/elon-musk/raw/web/emi/elonmuskinterviews-wordpress-com-2022-01-18-lex-fridman-ai-podcast-iii-part-1.txt",
+     "confidence": "high",
+     "from_principle_id": "P05"
+    }
+   ],
+   "rank": 7
+  },
+  {
+   "cluster_id": "cluster_007",
+   "canonical_name_zh": "质疑要求——尤其是聪明人提的要求",
+   "canonical_name_en": "Question Every Requirement, Especially from Smart People",
+   "topic_tags": [
+    "requirements",
+    "authority",
+    "questioning"
+   ],
+   "candidate_principle_ids": [
+    "P07"
+   ],
+   "source_types": [
+    "zh"
+   ],
+   "max_uniqueness_score": 5,
+   "evidence_count": 2,
+   "high_confidence_evidence_count": 1,
+   "zh_summary_seed": "算法第一步最难，因为它冒犯人。他有一个很尖的观察：**聪明人提的要求最危险，因为你更不会去质疑它**。多数要求最初是某个人为了当时的某个情况定的，情况变了要求没变，但它带着「专家说过」的权威继续生效。他的做法是给每条要求附上提出者的名字——因为一旦要署名的要求，就没人敢随便提。",
+   "en_summary_seed": "The hardest of the five steps because it offends people. His sharp observation: requirements from smart people are the most dangerous, because you are less likely to question them. Most requirements were set by someone for a situation that has since changed, yet they persist with expert authority attached. He attaches a name to each requirement, because a requirement with a name on it gets proposed far less casually.",
+   "zh_decision_rule_seed": "对每一条「必须这样」的要求追问三句：这是谁提的？他当时面对的是什么情况？那个情况现在还在吗？说不清提出者的要求，默认按不存在处理。**尤其警惕你自己不敢质疑的那一条。**",
+   "en_decision_rule_seed": "For each 'it has to be this way', ask: who set it, what situation were they facing, does that situation still hold? A requirement whose author cannot be named is treated as nonexistent. Watch especially the one you are afraid to challenge.",
+   "selected_evidence": [
+    {
+     "text": "Requirements from smart people are the most dangerous, because you’re less likely to question them.",
+     "source_title": "The Algorithm — The Book of Elon Musk",
+     "source_detail": "sources/elon-musk/raw/web/muskbook/the-algorithm.txt",
+     "confidence": "high",
+     "from_principle_id": "P07"
+    },
+    {
+     "text": "His core superpower is first-principles thinking: question every requirement, drill down to raw materials and physics, then rebuild systems cheaper, simpler, and more efficient.",
+     "source_title": "Elon Musk (Isaacson Biography): Key Lessons Explained",
+     "source_detail": "sources/elon-musk/raw/web/isaacson/grahammann-net-book-notes-elon-musk-walter-isaacson.txt",
+     "confidence": "medium",
+     "from_principle_id": "P07"
+    }
+   ],
+   "rank": 8
+  },
+  {
+   "cluster_id": "cluster_009",
+   "canonical_name_zh": "极限思维：把目标定在物理极限上",
+   "canonical_name_en": "Think in Limits: Aim at the Physical Asymptote",
+   "topic_tags": [
+    "limits",
+    "asymptote",
+    "cost"
+   ],
+   "candidate_principle_ids": [
+    "P09"
+   ],
+   "source_types": [
+    "zh"
+   ],
+   "max_uniqueness_score": 4,
+   "evidence_count": 2,
+   "high_confidence_evidence_count": 2,
+   "zh_summary_seed": "他的成本与性能推理几乎总是从渐近线出发：先算出理论极限在哪（原材料成本、能量密度上限、热力学约束），再把当前水平与极限之间的差距当作机会清单。这个动作的价值在于**它把「比同行好一点」换成了「离极限还有多远」**——前者是竞争思维，会把你锁在行业现有水平的附近；后者是物理思维，能指向数量级的差距。",
+   "en_summary_seed": "His cost and performance reasoning almost always starts from the asymptote: compute the theoretical limit, then treat the gap between that and current practice as an opportunity list. The move replaces 'a bit better than competitors' with 'how far from the limit are we' — the first is competitive thinking and locks you near the industry's current level; the second points at order-of-magnitude gaps.",
+   "zh_decision_rule_seed": "对任何要改进的东西，先算出它的理论极限（能量密度、材料成本、光速、热力学），把当前值标在坐标上。然后问：差距有多少来自物理，多少来自惯例。**只把「来自惯例」的那部分当机会。**",
+   "en_decision_rule_seed": "For anything you want to improve, compute the theoretical limit first and plot the current value against it. Then ask how much of the gap is physics and how much is convention. Treat only the convention part as opportunity.",
+   "selected_evidence": [
+    {
+     "text": "Anything in volume can be made, like I said, for a cost that asymptotically approaches its raw material constituents, plus intellectual property license rights.",
+     "source_title": "Lex Fridman AI Podcast III, Part 1 (2022)",
+     "source_detail": "sources/elon-musk/raw/web/emi/elonmuskinterviews-wordpress-com-2022-01-18-lex-fridman-ai-podcast-iii-part-1.txt",
+     "confidence": "high",
+     "from_principle_id": "P09"
+    },
+    {
+     "text": "… So the first principles would be, … what are the material constituents of the batteries? What is the spot market value of the material constituents?",
+     "source_title": "What is First Principles Thinking?（引其 TED 2013 拆电池原话）",
+     "source_detail": "sources/elon-musk/raw/web/fp2/fs-blog-first-principles.txt",
+     "confidence": "high",
+     "from_principle_id": "P09"
+    }
+   ],
+   "rank": 9
+  },
+  {
+   "cluster_id": "cluster_011",
+   "canonical_name_zh": "为意识与文明做备份",
+   "canonical_name_en": "Life Insurance for Life as a Whole",
+   "topic_tags": [
+    "mission",
+    "multiplanetary",
+    "long-term"
+   ],
+   "candidate_principle_ids": [
+    "P11"
+   ],
+   "source_types": [
+    "zh"
+   ],
+   "max_uniqueness_score": 4,
+   "evidence_count": 2,
+   "high_confidence_evidence_count": 1,
+   "zh_summary_seed": "这是他一切商业行为背后那条不变的动机，而且是他自己反复讲的版本：不是「移民火星很酷」，而是**把地球上的所有生命放在一个篮子里是不明智的**。他从少年时得出的结论是应该扩大人类意识的范围与规模，以便能问出更好的问题。这条原则的实际作用是：当你有一个跨几十年的目标时，短期的失败和嘲笑变得可承受——**因为评估周期比别人的长**。",
+   "en_summary_seed": "The constant motive behind his companies, in his own framing: not that Mars is exciting, but that putting all life on one planet is unwise. He says he concluded as a teenager that we should increase the scope and scale of human consciousness so we can ask better questions. The practical effect of a multi-decade goal is that short-term failure and ridicule become bearable — your evaluation period is simply longer than everyone else's.",
+   "zh_decision_rule_seed": "给自己定一个**时间尺度长到无法在一届任期、一轮融资、一届董事会内完成**的目标。然后用它筛选：这件事在十年尺度上还有价值吗？如果只有短期价值，它就不能占用你最好的精力。",
+   "en_decision_rule_seed": "Set at least one goal whose horizon cannot be completed within one term, one funding round, or one board cycle. Use it as a filter: does this still matter at a ten-year horizon? If it only matters short-term, it does not get your best energy.",
+   "selected_evidence": [
+    {
+     "text": "I mean, I’m optimistic about the future on Earth, but it’s important to have life insurance for life as a whole.",
+     "source_title": "Axel Springer Award (2020)",
+     "source_detail": "sources/elon-musk/raw/web/emi/elonmuskinterviews-wordpress-com-2020-12-11-axel-springer-award-2020.txt",
+     "confidence": "high",
+     "from_principle_id": "P11"
+    },
+    {
+     "text": "I came to the conclusion that really we should aspire to increase the scope and scale of human consciousness in order to better understand what questions to ask.”",
+     "source_title": "Ashlee Vance《Elon Musk》(2015)",
+     "source_detail": "sources/elon-musk/raw/book/vance-elon-musk-2015.txt",
+     "confidence": "medium",
+     "from_principle_id": "P11"
+    }
+   ],
+   "rank": 10
+  },
+  {
+   "cluster_id": "cluster_010",
+   "canonical_name_zh": "硬核节奏：速度是攻防一体",
+   "canonical_name_en": "Extremely Hardcore: Speed as Offence and Defence",
+   "topic_tags": [
+    "intensity",
+    "speed",
+    "management"
+   ],
+   "candidate_principle_ids": [
+    "P10"
+   ],
+   "source_types": [
+    "zh"
+   ],
+   "max_uniqueness_score": 4,
+   "evidence_count": 1,
+   "high_confidence_evidence_count": 1,
+   "zh_summary_seed": "他对工作强度的要求是公开的、不加修饰的：要「极其硬核」，意味着长时间、高强度。这条最容易被当成压榨而否掉，但它在他体系里有功能位置——**软硬件迭代的速度就是学习速度**，而学习速度决定了在错误方向上浪费的时间。他的逻辑是：做得快，错的就早知道；做得慢，错的更晚才暴露，代价更大。代价是真实的人：这一条造成的流失与伤害，是他最受批评的地方，必须写进盲区。",
+   "en_summary_seed": "His stated bar is 'extremely hardcore' — long hours at high intensity. It is easy to dismiss as exploitation, but in his system it has a function: iteration speed is learning speed, and learning speed decides how long you spend going the wrong way. Move fast and you learn you were wrong sooner. The cost is real people, and that is where he draws the most criticism.",
+   "zh_decision_rule_seed": "把速度当成学习速度而不是努力程度来管理：缩短从「做出来」到「知道对不对」的时间。但**同时把代价记在账上**——靠透支人换来的速度，会在你察觉不到的地方把最懂这件事的人挤走。",
+   "en_decision_rule_seed": "Manage speed as learning speed, not as effort: shorten the time from built to knowing whether it works. But book the cost too — speed bought by burning people quietly pushes out the people who understand the thing best.",
+   "selected_evidence": [
+    {
+     "text": "With the subject line \"A Fork in the Road,\" Musk wrote: \"Going forward, to build a breakthrough Twitter 2.0 and succeed in an increasingly competitive world, we will need to be extremely hardcore",
+     "source_title": "ABC News: 给 Twitter 员工的内部邮件 (2022)",
+     "source_detail": "sources/elon-musk/raw/web/primary/abcnews-com-Business-commit-hardcore-leave-elon-musk-tells-twitter-employees-story-id-9341.txt",
+     "confidence": "high",
+     "from_principle_id": "P10"
+    }
+   ],
+   "rank": 11
+  }
+ ],
+ "shared_blind_spot_themes": [
+  {
+   "theme_id": "BS01",
+   "theme_zh": "时间表系统性乐观——他本人承认这一点，但从未修正",
+   "evidence": [
+    "“I may have been optimistic with respect to the timing on some of these things, but I didn’t over-promise on the outcome,” Musk told me during an interview after the Model S launch.",
+    "Bowing to his nature, Musk set an insanely ambitious timeline for all of this.",
+    "Quite often, the machinists told Hollman that SpaceX’s timelines were nuts."
+   ],
+   "sources": [
+    "sources/elon-musk/raw/book/vance-elon-musk-2015.txt",
+    "sources/elon-musk/raw/book/vance-elon-musk-2015.txt",
+    "sources/elon-musk/raw/book/vance-elon-musk-2015.txt"
+   ],
+   "mitigation_zh": "他把时间表当**拉伸工具**而不是承诺用：目标定得远超可能，逼出速度，代价是预测能力归零。所以**用这套框架时，凡是涉及时间的话一律降权为「方向」而不是「日期」**——他说某件事某年能成，真正可用的信息是「他认为这件事该被优先做」，不是那个年份。要做计划，另找一个不以此著称的人做时间估算。",
+   "confidence": "high"
+  },
+  {
+   "theme_id": "BS02",
+   "theme_zh": "第一性原理在制度与人的问题上会失灵",
+   "evidence": [
+    "But -- but with the benefit of hindsight, I was wrong about the desire of -- or the interest in the existing shareholders to go private.",
+    "But I was wrong about the level of enthusiasm that existing shareholders would have for going private."
+   ],
+   "sources": [
+    "sources/elon-musk/raw/downloads/sec-musk-testimony.txt",
+    "sources/elon-musk/raw/downloads/sec-musk-testimony.txt"
+   ],
+   "mitigation_zh": "他的方法在**受物理约束的系统**里最强（火箭、电池、产线）：那里真有客观极限，拆到底会得到确定的答案。但面对**人和制度**（股东、监管、舆论、政治），没有物理极限可供推导，「拆到基本原理」会退化成用自己的偏好重新定义常识——他在 SEC 笔录里承认对股东意愿判断错误，正是这类失败。**用这套框架处理涉及人的问题时，必须补一个外部视角：找来利益与你不同的人，让他先陈述。**",
+   "confidence": "high"
+  },
+  {
+   "theme_id": "BS03",
+   "theme_zh": "对人的代价被系统性低估，而且这一点很少进入他公开的复盘",
+   "evidence": [
+    "With the subject line \"A Fork in the Road,\" Musk wrote: \"Going forward, to build a breakthrough Twitter 2.0 and succeed in an increasingly competitive world, we will need to be extremely hardcore",
+    "Almost universally, these people were unwilling to go on the record with their comments, claiming to be afraid Musk would pursue litigation against them or ruin their ability to do business."
+   ],
+   "sources": [
+    "sources/elon-musk/raw/web/primary/abcnews-com-Business-commit-hardcore-leave-elon-musk-tells-twitter-employees-story-id-9341.txt",
+    "sources/elon-musk/raw/book/vance-elon-musk-2015.txt"
+   ],
+   "mitigation_zh": "他把强度当作**可调节的杠杆**，而它实际消耗的是不可再生资源——最懂这件事的人。Vance 记录的大量受访者要求匿名、担心被起诉或影响生意，说明这个体系里**反对意见的传递成本极高**：这恰恰与他自己主张的「要能听到坏消息」相反。**借这套方法管团队时，必须单独设一条不经过他的反馈通道**，否则你学到的是他一贯的盲点，而不是他的强项。",
+   "confidence": "medium"
+  },
+  {
+   "theme_id": "BS04",
+   "theme_zh": "公开表达不设护栏，商业代价由公司承担",
+   "evidence": [
+    "But -- but with the benefit of hindsight, I was wrong about the desire of -- or the interest in the existing shareholders to go private.",
+    "[\"Tesla's Musk Is Overpromising Again On Self-Driving Cars\"](https://www.forbes.com/sites/chuckjones/2019/10/22/teslas-musk-is-overpromising-again-on-self-driving-cars/)."
+   ],
+   "sources": [
+    "sources/elon-musk/raw/downloads/sec-musk-testimony.txt",
+    "sources/elon-musk/raw/web/wave3/en-wikipedia-org-wiki-Tesla-Inc.txt"
+   ],
+   "mitigation_zh": "他倾向于把「说」和「做」当作同一件事，所以认为公开表态不需要额外防火墙。结果是监管处罚、诉讼、以及股价对单条推文的反应都发生在公司层面，而决策由个人做出。**用这套框架时，把「表达」单独当成一个工程问题看待**：谁会被这句话影响、他们的激励是什么、最坏情况由谁承担。",
+   "confidence": "medium"
+  },
+  {
+   "theme_id": "BS05",
+   "theme_zh": "他自己承认的算法执行错误：顺序颠倒",
+   "evidence": [
+    "In the Tesla factory, I mistakenly spent a lot of time accelerating processes that I later realized should have been deleted.",
+    "Common mistake is to simplify and optimize a part or a process that should not exist."
+   ],
+   "sources": [
+    "sources/elon-musk/raw/web/muskbook/the-algorithm.txt",
+    "sources/elon-musk/raw/web/primary2/www-claimlane-com-resources-blog-elon-musks-5-step-algorithm-to-improve-your-process.txt"
+   ],
+   "mitigation_zh": "这条不是盲区而是**已知的执行陷阱**，但因为反复发生，值得单独列出来。他承认自己在产线上花大力气加速了本该删掉的流程。**判据：如果你的团队正在为一件说不清「为什么需要它」的事加班赶工期，你就在重犯这个错误。** 停下来，先回答那件东西为何存在。",
+   "confidence": "high"
+  }
+ ],
+ "reasoning_pattern_candidates": [
+  {
+   "id": "RP01",
+   "name_zh": "拆到物理约束再往上建",
+   "trigger_zh": "遇到「行业就是这样」的问题时",
+   "action_zh": "把方案拆到只剩物理与数学允许的约束，再从那里重新组合；把「惯例」与「物理」分成两类理由分别对待",
+   "evidence": "First principles is kind of a physics way of looking at the world, and what that really means is, you … boil things down to the most fundamental truths and say, “okay, what are we sure is true?” … and then reason up from there.",
+   "source": "sources/elon-musk/raw/web/fp2/fs-blog-first-principles.txt"
+  },
+  {
+   "id": "RP02",
+   "name_zh": "五步算法按序执行",
+   "trigger_zh": "要改进任何流程或产品时",
+   "action_zh": "质疑要求 → 删除 → 简化 → 加速 → 自动化；严禁跳步，尤其禁止在删除之前加速或自动化",
+   "evidence": "Common mistake is to simplify and optimize a part or a process that should not exist.",
+   "source": "sources/elon-musk/raw/web/primary2/www-claimlane-com-resources-blog-elon-musks-5-step-algorithm-to-improve-your-process.txt"
+  },
+  {
+   "id": "RP03",
+   "name_zh": "用白痴指数给成本定锚",
+   "trigger_zh": "要买或造任何东西之前",
+   "action_zh": "算成品价与原材料商品价之比；以商品市场价为锚，逐层追问中间环节凭什么收钱",
+   "evidence": "Anything in volume can be made, like I said, for a cost that asymptotically approaches its raw material constituents, plus intellectual property license rights.",
+   "source": "sources/elon-musk/raw/web/emi/elonmuskinterviews-wordpress-com-2022-01-18-lex-fridman-ai-podcast-iii-part-1.txt"
+  },
+  {
+   "id": "RP04",
+   "name_zh": "先质疑要求，尤其是权威提的",
+   "trigger_zh": "有人以「规定/惯例/专家意见」为由否决方案时",
+   "action_zh": "追问提出者是谁、当时面对什么情况、那个情况还在不在；对不敢质疑的那一条格外警惕",
+   "evidence": "Requirements from smart people are the most dangerous, because you’re less likely to question them.",
+   "source": "sources/elon-musk/raw/web/muskbook/the-algorithm.txt"
+  },
+  {
+   "id": "RP05",
+   "name_zh": "假设自己错，然后尽快知道",
+   "trigger_zh": "形成重要判断之后",
+   "action_zh": "写下最可能错在哪一步，把迭代周期压到最短以便尽早暴露错误；目标是「更少犯错」而不是「正确」",
+   "evidence": "I learned when I was studying physics that… – in physics, you’re taught to always question yourself, you’re taught to always assume that you’re wrong",
+   "source": "sources/elon-musk/raw/web/emi/elonmuskinterviews-wordpress-com-2021-03-15-interview-with-elon-musk-on-chinese-television.txt"
+  },
+  {
+   "id": "RP06",
+   "name_zh": "先定位在 S 曲线的哪一段",
+   "trigger_zh": "判断一个新技术/趋势是快了还是慢了",
+   "action_zh": "新技术采用走 S 曲线：起点附近人被直线外推低估，中点附近因晚期采用者被高估。先定位在曲线哪一段，再决定该上调还是该下调",
+   "evidence": "The nature of new technology adoption tends to follow an S-curve.",
+   "source": "sources/elon-musk/raw/web/muskbook/give-people-more-for-less.txt"
+  },
+  {
+   "id": "RP07",
+   "name_zh": "文明级风险优先",
+   "trigger_zh": "在多件事之间排优先级",
+   "action_zh": "给风险加一列量级（局部/系统性/文明级），文明级排最前；把「大过滤器」当成待通过的门槛而不是概率事件",
+   "evidence": "is the critical threshold for us as a civilization to not join the potentially large number of one-planet civilizations that are no longer with us.",
+   "source": "sources/elon-musk/raw/web/fc/waitbutwhy-com-2015-08-how-and-why-spacex-will-colonize-mars-html-4.txt"
+  },
+  {
+   "id": "RP08",
+   "name_zh": "攻击约束，不是攻击平均值",
+   "trigger_zh": "系统产出上不去、不知从哪下手时",
+   "action_zh": "系统的产出由最慢那一环决定：9999 件事正常、一件不正常，产出等于那一件。找出最低的那个数，在它变化之前不优化其他任何东西",
+   "evidence": "If you have 9,999 things working and one that isn't, that sets the production rate.",
+   "source": "sources/elon-musk/raw/web/muskbook/attack-the-constraint.txt"
+  },
+  {
+   "id": "RP09",
+   "name_zh": "可逆与不可逆分开处理",
+   "trigger_zh": "决定一件事该快还是该慢",
+   "action_zh": "可逆的决定当天做，不可逆的花时间。**合成模式**：由多渠道归纳——① 决策框架第七道（投产/招人/架构三条线的快慢不同）；② 2008 年特斯拉/SpaceX 同时濒死时的分配取舍；③ 一体压铸「先上一条线、能改再放大」的路径。**无单一逐字出处。**",
+   "evidence": "",
+   "source": null
+  },
+  {
+   "id": "RP10",
+   "name_zh": "算合取概率，别信整体感觉",
+   "trigger_zh": "听到「只要…就行」的计划时",
+   "action_zh": "把计划里必须同时成立的条件逐条估概率再相乘。五条各 80% 的条件合起来是 33%。发射前逐条列出预测的风险清单就是这个动作的实例",
+   "evidence": "Before every Starship launch, we go through the list of risks we predict, which we call the \"risk list\".",
+   "source": "sources/elon-musk/raw/web/muskbook/you-have-to-blow-things-up.txt"
+  },
+  {
+   "id": "RP11",
+   "name_zh": "先算有用性，再信直觉",
+   "trigger_zh": "判断一件事值不值得做",
+   "action_zh": "问：这东西有没有让人的生活真的变好？影响的人够多吗？而不是问回报率、规模或名声",
+   "evidence": "A measure of success, I'd say, how many useful things can I get done?",
+   "source": "sources/elon-musk/raw/web/lex-fridman-5-neuralink-2024.txt"
+  },
+  {
+   "id": "RP12",
+   "name_zh": "复杂度会复利",
+   "trigger_zh": "为什么东西越做越重、越做越慢",
+   "action_zh": "五十个零件各自最优，拼起来是弗兰肯斯坦：接缝、异种金属、密封、腐蚀都要额外处理。复杂度不是线性叠加，它会自我繁殖",
+   "evidence": "it looks like a sort of a bit of a Frankenstein situation when you look at it",
+   "source": "sources/elon-musk/raw/web/emi/elonmuskinterviews-wordpress-com-2021-02-16-1-on-1-with-sandy-munro.txt"
+  },
+  {
+   "id": "RP13",
+   "name_zh": "去看呈现物，别听努力",
+   "trigger_zh": "判断一个团队/产品真实状态",
+   "action_zh": "不看汇报、不看用心程度，看已经露出来的那一面：产品、口碑、门口有没有人进来。组织结构的错误会显现在产品上",
+   "evidence": "In any product, you can see the errors in the organization's structure. They will manifest themselves in the product.",
+   "source": "sources/elon-musk/raw/web/muskbook/remove-organizational-boundaries.txt"
+  },
+  {
+   "id": "RP14",
+   "name_zh": "极限思维算出的是物理上限",
+   "trigger_zh": "给自己或团队定目标时",
+   "action_zh": "先算物理允许的上限，再定目标。但上限是可达性证明，不是预测——别把「物理上能做到」当成「会如期到来」",
+   "evidence": "It's like, \"What does physics say we can do.\" Because physics is the law and everything else is a recommendation.",
+   "source": "sources/elon-musk/raw/web/emi/elonmuskinterviews-wordpress-com-2021-06-13-model-s-plaid-delivery-event-english.txt"
+  },
+  {
+   "id": "RP15",
+   "name_zh": "先对账，再推理",
+   "trigger_zh": "拿到一组别人给的数字时",
+   "action_zh": "先把数算一遍再做判断。这是合成模式：由多轮实战诊断归纳（用户给出的数字自相矛盾时先指出矛盾），没有单一逐字出处",
+   "evidence": "Elon has a mind that’s a bit like a calculator. If you put a number on the projector that does not make sense, he will spot it. He doesn’t miss details.",
+   "source": "sources/elon-musk/raw/book/vance-elon-musk-2015.txt",
+   "confidence": "medium（第三方描述：Vance 采访 SpaceX 早期员工 Steve Popple）"
+  }
+ ],
+ "quote_candidates": [
+  {
+   "text": "It’s like, “What does physics say we can do.” Because physics is the law and everything else is a recommendation.",
+   "source": "sources/elon-musk/raw/web/emi/elonmuskinterviews-wordpress-com-2021-06-13-model-s-plaid-delivery-event-english.txt",
+   "year": 2021,
+   "confidence": "high"
+  },
+  {
+   "text": "First principles is kind of a physics way of looking at the world, and what that really means is, you … boil things down to the most fundamental truths and say, “okay, what are we sure is true?” … and then reason up from there.",
+   "source": "sources/elon-musk/raw/web/fp2/fs-blog-first-principles.txt",
+   "year": 2013,
+   "confidence": "high"
+  },
+  {
+   "text": "The best part is no part.",
+   "source": "sources/elon-musk/raw/web/muskbook/simplicity-wins.txt",
+   "year": 2021,
+   "confidence": "high"
+  },
+  {
+   "text": "Common mistake is to simplify and optimize a part or a process that should not exist.",
+   "source": "sources/elon-musk/raw/web/primary2/www-claimlane-com-resources-blog-elon-musks-5-step-algorithm-to-improve-your-process.txt",
+   "year": 2021,
+   "confidence": "high"
+  },
+  {
+   "text": "Requirements from smart people are the most dangerous, because you’re less likely to question them.",
+   "source": "sources/elon-musk/raw/web/muskbook/the-algorithm.txt",
+   "year": 2021,
+   "confidence": "high"
+  },
+  {
+   "text": "Because the biggest epiphany I’ve had this year is that what really matters is the machine that builds the machine, the factory, and that is at least towards a magnitude harder than the vehicle itself.",
+   "source": "sources/elon-musk/raw/web/emi/elonmuskinterviews-wordpress-com-2021-03-10-elon-musk-on-how-to-build-the-future-interview.txt",
+   "year": 2016,
+   "confidence": "high"
+  },
+  {
+   "text": "Anything in volume can be made, like I said, for a cost that asymptotically approaches its raw material constituents, plus intellectual property license rights.",
+   "source": "sources/elon-musk/raw/web/emi/elonmuskinterviews-wordpress-com-2022-01-18-lex-fridman-ai-podcast-iii-part-1.txt",
+   "year": 2022,
+   "confidence": "high"
+  },
+  {
+   "text": "I learned when I was studying physics that… – in physics, you’re taught to always question yourself, you’re taught to always assume that you’re wrong",
+   "source": "sources/elon-musk/raw/web/emi/elonmuskinterviews-wordpress-com-2021-03-15-interview-with-elon-musk-on-chinese-television.txt",
+   "year": 2015,
+   "confidence": "high"
+  },
+  {
+   "text": "Tesla is alive by the skin of its teeth. So is SpaceX. If things had gone a little bit the other way, both companies would be dead.",
+   "source": "sources/elon-musk/raw/web/muskbook/keeping-tesla-alive.txt",
+   "confidence": "high",
+   "theme_zh": "濒死是常态"
+  },
+  {
+   "text": "I may have been optimistic with respect to the timing on some of these things, but I didn't over-promise on the outcome,",
+   "source": "sources/elon-musk/raw/book/vance-elon-musk-2015.txt",
+   "confidence": "high",
+   "theme_zh": "盲区：时间表乐观（他自认）"
+  },
+  {
+   "text": "This is really existential for Tesla, Inc. because Optimus is completely useless without an AI chip.",
+   "source": "sources/elon-musk/raw/web/primary2/www-fool-com-earnings-call-transcripts-2026-01-28-tesla-tsla-q4-2025-earnings-call-transcr.txt",
+   "confidence": "high",
+   "theme_zh": "2026 立场：AI 芯片是人形机器人的前提"
+  },
+  {
+   "text": "Well, I do think that by far, the biggest competition for humanoid robots will be from China.",
+   "source": "sources/elon-musk/raw/web/primary2/www-fool-com-earnings-call-transcripts-2026-01-28-tesla-tsla-q4-2025-earnings-call-transcr.txt",
+   "confidence": "high",
+   "theme_zh": "2026 立场：制造业优势在中国"
+  },
+  {
+   "text": "the threshold at which even if the spaceships from Earth stop coming, the colony doesn’t slowly die out",
+   "source": "sources/elon-musk/raw/web/fc/waitbutwhy-com-2015-08-how-and-why-spacex-will-colonize-mars-html-5.txt",
+   "confidence": "high",
+   "theme_zh": "文明备份的可量化门槛"
+  },
+  {
+   "text": "is the critical threshold for us as a civilization to not join the potentially large number of one-planet dead civilizations out there",
+   "source": "sources/elon-musk/raw/web/fc/waitbutwhy-com-2015-08-how-and-why-spacex-will-colonize-mars-html-5.txt",
+   "confidence": "high",
+   "theme_zh": "单行星文明的死亡率"
+  },
+  {
+   "text": "It is perhaps worth noting that those launch companies that succeeded also took their lumps along the way.",
+   "source": "sources/elon-musk/raw/web/fc/waitbutwhy-com-2015-08-how-and-why-spacex-will-colonize-mars-html-4.txt",
+   "confidence": "high",
+   "theme_zh": "失败是行业的常态而非例外"
+  },
+  {
+   "text": "Technological progress is not inevitable.",
+   "source": "sources/elon-musk/raw/web/muskbook/the-real-work.txt",
+   "confidence": "high",
+   "theme_zh": "核心命题：进步靠人做出来"
+  },
+  {
+   "text": "If we don’t make stuff, there’s no stuff.",
+   "source": "sources/elon-musk/raw/web/muskbook/the-real-work.txt",
+   "confidence": "high",
+   "theme_zh": "制造业的朴素命题"
+  },
+  {
+   "text": "If you have 9,999 things working and one that isn't, that sets the production rate.",
+   "source": "sources/elon-musk/raw/web/muskbook/attack-the-constraint.txt",
+   "confidence": "high",
+   "theme_zh": "瓶颈决定整体速率"
+  },
+  {
+   "text": "Things move as fast as the least lucky or least competent supplier.",
+   "source": "sources/elon-musk/raw/web/muskbook/attack-the-constraint.txt",
+   "confidence": "high",
+   "theme_zh": "供应链是速度上限"
+  },
+  {
+   "text": "People think there is a “eureka” moment where you come up with an idea and that’s it. They believe design is the hard part and production is just making copies. That’s completely false.",
+   "source": "sources/elon-musk/raw/web/muskbook/attack-the-constraint.txt",
+   "confidence": "high",
+   "theme_zh": "设计不是难点，量产才是"
+  },
+  {
+   "text": "The one thing you cannot replace is time.",
+   "source": "sources/elon-musk/raw/web/muskbook/do-things-in-parallel.txt",
+   "confidence": "high",
+   "theme_zh": "时间不可替代"
+  },
+  {
+   "text": "Do you want the general in some ivory tower or on the front lines? The troops fight harder if they see the general on the front lines. Nobody bleeds for the prince in the palace.",
+   "source": "sources/elon-musk/raw/web/muskbook/frontline-leadership.txt",
+   "confidence": "high",
+   "theme_zh": "一线领导"
+  },
+  {
+   "text": "Generating sustainable energy is the biggest environmental issue that we face.",
+   "source": "sources/elon-musk/raw/web/muskbook/unsustainable-energy.txt",
+   "confidence": "high",
+   "theme_zh": "能源是首要环境问题"
+  },
+  {
+   "text": "Innovation is not the problem. Execution is the problem.",
+   "source": "sources/elon-musk/raw/web/muskbook/engineering-creates-value.txt",
+   "confidence": "high",
+   "theme_zh": "创新不是瓶颈，执行是"
+  },
+  {
+   "text": "You only build value in a company if you do hard work to solve tough problems.",
+   "source": "sources/elon-musk/raw/web/muskbook/engineering-creates-value.txt",
+   "confidence": "high",
+   "theme_zh": "价值来自解决难问题"
+  },
+  {
+   "text": "I am CEO of these companies because I feel I’m responsible for them, not because it’s the best thing for my quality of life.",
+   "source": "sources/elon-musk/raw/web/muskbook/take-responsibility.txt",
+   "confidence": "high",
+   "theme_zh": "责任而非待遇"
+  },
+  {
+   "text": "The first version of a product has both a new-technology problem and a low-volume problem. You want to make your mistakes at a small scale, work the bugs out of the system, then reach for scale.",
+   "source": "sources/elon-musk/raw/web/muskbook/sequenced-strategy-of-tesla.txt",
+   "confidence": "high",
+   "theme_zh": "序贯战略"
+  },
+  {
+   "text": "if you have them stacked on the floor and could wave a magic wand so that the cost of rearranging the atoms was zero, then what would the cost of the rocket be?",
+   "source": "sources/elon-musk/raw/web/fc/waitbutwhy-com-2015-11-the-cook-and-the-chef-musks-secret-sauce-html.txt",
+   "confidence": "high",
+   "theme_zh": "魔法棒数字（白痴指数的原始出处）"
+  },
+  {
+   "text": "Video games without a score are boring.",
+   "source": "sources/elon-musk/raw/web/muskbook/the-last-human-drivers.txt",
+   "confidence": "high",
+   "theme_zh": "单一指标"
+  },
+  {
+   "text": "You want everyone to be able to think like the chief engineer. They need to understand the system at a high level, well enough to know when they are making a bad optimization.",
+   "source": "sources/elon-musk/raw/web/muskbook/create-a-culture-of-builders.txt",
+   "confidence": "high",
+   "theme_zh": "让所有人像总工程师一样思考"
+  },
+  {
+   "text": "Failure is essentially irrelevant unless it is catastrophic.",
+   "source": "sources/elon-musk/raw/web/muskbook/innovation-needs-permission-to-fail.txt",
+   "confidence": "high",
+   "theme_zh": "失败只有灾难性才重要"
+  },
+  {
+   "text": "That's why I always assume we're losing, even when it looks like we might win.",
+   "source": "sources/elon-musk/raw/web/muskbook/obsess-over-truth.txt",
+   "confidence": "high",
+   "theme_zh": "反愿望思维：主动校准乐观偏差"
+  },
+  {
+   "text": "Is some simple app really making people's lives better? If it's affecting a lot of people positively, even in a small way, then yes, that is good.",
+   "source": "sources/elon-musk/raw/web/muskbook/be-useful.txt",
+   "confidence": "high",
+   "theme_zh": "有用性公式"
+  },
+  {
+   "text": "A measure of success, I'd say, how many useful things can I get done?",
+   "source": "sources/elon-musk/raw/web/lex-fridman-5-neuralink-2024.txt",
+   "confidence": "high",
+   "theme_zh": "有用性作为人生衡量"
+  },
+  {
+   "text": "A company is just a bunch of people coming together to create a product or service. There's no such thing as “a business,” just a group pursuing a goal.",
+   "source": "sources/elon-musk/raw/web/muskbook/a-group-with-a-goal.txt",
+   "confidence": "high",
+   "theme_zh": "公司=人的矢量和"
+  },
+  {
+   "text": "Money is not the constraint. There are only a small number of excellent people, and they're hard to find. Engineers especially.",
+   "source": "sources/elon-musk/raw/web/muskbook/retain-only-special-forces.txt",
+   "confidence": "high",
+   "theme_zh": "真正约束是人才不是钱"
+  },
+  {
+   "text": "I don't mind if my legacy is accurate or inaccurate, as long as I die feeling I've done the right thing for the future of Consciousness.",
+   "source": "sources/elon-musk/raw/web/muskbook/be-useful.txt",
+   "confidence": "high",
+   "theme_zh": "目的不是感觉是过滤器"
+  },
+  {
+   "text": "Never ask your troops to do something you're not willing to do.",
+   "source": "sources/elon-musk/raw/web/muskbook/frontline-leadership.txt",
+   "confidence": "high",
+   "theme_zh": "一线领导的底线"
+  },
+  {
+   "text": "You want things to be the way you wish them to be, so you tend to filter out information you shouldn't.",
+   "source": "sources/elon-musk/raw/web/muskbook/obsess-over-truth.txt",
+   "confidence": "high",
+   "theme_zh": "愿望思维会过滤证据"
+  },
+  {
+   "text": "It is important to view knowledge as a semantic tree. Make sure you understand the fundamental principles (the trunk and big branches) before you get into the leaves (the details), then there is something for them to hang on to.",
+   "source": "sources/elon-musk/raw/web/muskbook/aspire-to-be-less-wrong.txt",
+   "confidence": "high",
+   "theme_zh": "知识树：先干后叶"
+  },
+  {
+   "text": "Which one will I let starve to death? I couldn't bring myself to do it. So, I split the money between the two.",
+   "source": "sources/elon-musk/raw/web/muskbook/keeping-tesla-alive.txt",
+   "confidence": "high",
+   "theme_zh": "2008 不可逆抉择的真实感受"
+  },
+  {
+   "text": "Look, we're deliberately going to delete more than we should.",
+   "source": "sources/elon-musk/raw/web/lex-fridman-5-neuralink-2024.txt",
+   "confidence": "high",
+   "theme_zh": "故意删过头"
+  },
+  {
+   "text": "If philanthropy is acting from a love of humanity—my companies are philanthropy.",
+   "source": "sources/elon-musk/raw/web/muskbook/companies-are-philanthropy.txt",
+   "confidence": "high",
+   "theme_zh": "公司即慈善"
+  },
+  {
+   "text": "One of my rules is \"Go as close to the source as possible.\"",
+   "source": "sources/elon-musk/raw/web/muskbook/remove-organizational-boundaries.txt",
+   "confidence": "high",
+   "theme_zh": "到源头去"
+  },
+  {
+   "text": "Physically go to where the problem is, immediately.",
+   "source": "sources/elon-musk/raw/web/muskbook/remove-organizational-boundaries.txt",
+   "confidence": "high",
+   "theme_zh": "物理上走过去"
+  },
+  {
+   "text": "The best offense and defense is speed.",
+   "source": "sources/elon-musk/raw/web/muskbook/speed-is-both-offense-and-defense.txt",
+   "confidence": "high",
+   "theme_zh": "速度即攻防"
+  },
+  {
+   "text": "All it did was go faster.",
+   "source": "sources/elon-musk/raw/web/muskbook/speed-is-both-offense-and-defense.txt",
+   "confidence": "high",
+   "theme_zh": "SR-71：加速就是防御"
+  },
+  {
+   "text": "Before every Starship launch, we go through the list of risks we predict, which we call the \"risk list.\" If you look at various reasons why we blew up, none of the reasons they blew up were on our \"risk list.\"",
+   "source": "sources/elon-musk/raw/web/muskbook/you-have-to-blow-things-up.txt",
+   "confidence": "high",
+   "theme_zh": "未知的未知：风险清单抓不到真因"
+  },
+  {
+   "text": "There's no test stand that can test a rocket at 17,000 mph, doing six Gs in every different orientation. It's not possible.",
+   "source": "sources/elon-musk/raw/web/muskbook/innovation-needs-permission-to-fail.txt",
+   "confidence": "high",
+   "theme_zh": "有些东西只能在真实环境测"
+  },
+  {
+   "text": "I would award one point for adding a line of code and two points for deleting a line of code.",
+   "source": "sources/elon-musk/raw/web/muskbook/simplicity-wins.txt",
+   "confidence": "high",
+   "theme_zh": "代码的复杂度账本"
+  },
+  {
+   "text": "if you're the CEO, you work on all the worst problems in the company.",
+   "source": "sources/elon-musk/raw/web/muskbook/take-responsibility.txt",
+   "confidence": "high",
+   "theme_zh": "CEO 的工作表是最烂的问题"
+  },
+  {
+   "text": "I have a running triage of what I do at each company, constantly thinking, \"What is the most useful thing I could do?\"",
+   "source": "sources/elon-musk/raw/web/muskbook/speed-is-both-offense-and-defense.txt",
+   "confidence": "high",
+   "theme_zh": "持续分诊"
+  },
+  {
+   "text": "The nature of new technology adoption tends to follow an S-curve.",
+   "source": "sources/elon-musk/raw/web/muskbook/give-people-more-for-less.txt",
+   "confidence": "high",
+   "theme_zh": "S 曲线：起点低估、中点高估"
+  },
+  {
+   "text": "everything we did was a function of our burn rate and that we were burning through a hundred thousand dollars per day.",
+   "source": "sources/elon-musk/raw/book/vance-elon-musk-2015.txt",
+   "confidence": "medium",
+   "theme_zh": "一切是燃烧率的函数（Vance 转述）"
+  },
+  {
+   "text": "Nobody ever changed the world on forty hours a week.",
+   "source": "sources/elon-musk/raw/web/muskbook/work-like-hell.txt",
+   "confidence": "high",
+   "theme_zh": "量级：改变世界不是每周四十小时"
+  },
+  {
+   "text": "When starting SpaceX, I thought the odds of success were less than 10 percent and I accepted I would probably lose everything.",
+   "source": "sources/elon-musk/raw/web/muskbook/feel-the-fear-do-it-anyway.txt",
+   "confidence": "high",
+   "theme_zh": "给一个不好看的概率"
+  },
+  {
+   "text": "Tesla this year will do over a hundred billion in revenue. So that's $2 billion a week. If I make slightly better decisions, I can affect the outcome by a billion dollars.",
+   "source": "sources/elon-musk/raw/web/lex-fridman-5-neuralink-2024.txt",
+   "confidence": "high",
+   "theme_zh": "时间是唯一真正的货币"
+  },
+  {
+   "text": "Q: But if there aren't any customers during the initial learning and development stage, who pays for that stage?",
+   "source": "sources/elon-musk/raw/web/fc/waitbutwhy-com-2015-08-how-and-why-spacex-will-colonize-mars-html-3.txt",
+   "confidence": "high",
+   "theme_zh": "谁付钱：前期是创始人自己付"
+  },
+  {
+   "text": "You can't say: ‘Nobody wants a car because horses are great and we're used to them.",
+   "source": "sources/elon-musk/raw/web/cnbc-first-principles.txt",
+   "confidence": "high",
+   "theme_zh": "别用现状推断需求"
+  },
+  {
+   "text": "Just assume you're wrong and aspire your goal is to be less wrong.",
+   "source": "sources/elon-musk/raw/web/emi/elonmuskinterviews-wordpress-com-2021-03-17-the-joe-rogan-experience-1470-elon-musk-ii-eng.txt",
+   "confidence": "high",
+   "theme_zh": "假设自己错"
+  },
+  {
+   "text": "time is the true currency",
+   "source": "sources/elon-musk/raw/web/lex-fridman-5-neuralink-2024.txt",
+   "confidence": "high",
+   "theme_zh": "时间是真货币"
+  },
+  {
+   "text": "Build a sports car. Use that money to build an affordable car. Use that money to build an even more affordable car.",
+   "source": "sources/elon-musk/raw/web/muskbook/sequenced-strategy-of-tesla.txt",
+   "confidence": "high",
+   "theme_zh": "产品阶梯"
+  },
+  {
+   "text": "In any product, you can see the errors in the organization's structure. They will manifest themselves in the product.",
+   "source": "sources/elon-musk/raw/web/muskbook/remove-organizational-boundaries.txt",
+   "confidence": "high",
+   "theme_zh": "外部呈现物是内部状态的投影"
+  },
+  {
+   "text": "What we have to do is fucking hard and half-assing things won't be tolerated.",
+   "source": "sources/elon-musk/raw/book/vance-elon-musk-2015.txt",
+   "confidence": "medium",
+   "theme_zh": "将就着做，不容忍"
+  },
+  {
+   "text": "The word of mouth on the car sucked.",
+   "source": "sources/elon-musk/raw/book/vance-elon-musk-2015.txt",
+   "confidence": "medium",
+   "theme_zh": "口碑是硬指标，不看自己的努力"
+  },
+  {
+   "text": "I have done everything I said I was going to do.",
+   "source": "sources/elon-musk/raw/book/vance-elon-musk-2015.txt",
+   "confidence": "high",
+   "theme_zh": "兑现是可信度的来源"
+  },
+  {
+   "text": "whatever the people at the front lines are doing, I try to do it at least a few times myself",
+   "source": "sources/elon-musk/raw/web/lex-fridman-5-neuralink-2024.txt",
+   "confidence": "high",
+   "theme_zh": "亲自去做，才能看见真问题"
+  },
+  {
+   "text": "Even if I don't do anything but show up, they'll look at me and know I wasn't spending all night partying.",
+   "source": "sources/elon-musk/raw/web/muskbook/frontline-leadership.txt",
+   "confidence": "high",
+   "theme_zh": "在场本身就是信号"
+  }
+ ],
+ "source_ledger": [
+  {
+   "title": "What is First Principles Thinking? (Farnam Street)",
+   "detail": "sources/elon-musk/raw/web/fp/fs-blog-first-principles.txt",
+   "role": "zh",
+   "confidence_counts": {
+    "high": 1
+   },
+   "used_by_principle_ids": [
+    "P01"
+   ]
+  },
+  {
+   "title": "CNBC: Why Elon Musk wants employees to use first principles",
+   "detail": "sources/elon-musk/raw/web/cnbc-first-principles.txt",
+   "role": "zh",
+   "confidence_counts": {
+    "high": 1
+   },
+   "used_by_principle_ids": [
+    "P01"
+   ]
+  },
+  {
+   "title": "Model S Plaid Delivery Event (2021)",
+   "detail": "sources/elon-musk/raw/web/emi/elonmuskinterviews-wordpress-com-2021-06-13-model-s-plaid-delivery-event-english.txt",
+   "role": "zh",
+   "confidence_counts": {
+    "high": 1
+   },
+   "used_by_principle_ids": [
+    "P02"
+   ]
+  },
+  {
+   "title": "Lex Fridman Podcast #400（引 Walter Isaacson 对马斯克的总结）",
+   "detail": "sources/elon-musk/raw/web/fc/lexfridman-com-elon-musk-4-transcript.txt",
+   "role": "zh",
+   "confidence_counts": {
+    "high": 1
+   },
+   "used_by_principle_ids": [
+    "P02"
+   ]
+  },
+  {
+   "title": "Elon Musk's 5-Step Algorithm（引其原话）",
+   "detail": "sources/elon-musk/raw/web/primary2/www-claimlane-com-resources-blog-elon-musks-5-step-algorithm-to-improve-your-process.txt",
+   "role": "zh",
+   "confidence_counts": {
+    "high": 2
+   },
+   "used_by_principle_ids": [
+    "P03"
+   ]
+  },
+  {
+   "title": "The Algorithm — The Book of Elon Musk",
+   "detail": "sources/elon-musk/raw/web/muskbook/the-algorithm.txt",
+   "role": "zh",
+   "confidence_counts": {
+    "high": 2
+   },
+   "used_by_principle_ids": [
+    "P03",
+    "P07"
+   ]
+  },
+  {
+   "title": "Simplicity Wins — The Book of Elon Musk",
+   "detail": "sources/elon-musk/raw/web/muskbook/simplicity-wins.txt",
+   "role": "zh",
+   "confidence_counts": {
+    "high": 2
+   },
+   "used_by_principle_ids": [
+    "P04"
+   ]
+  },
+  {
+   "title": "Elon Musk (Isaacson Biography): Key Lessons Explained",
+   "detail": "sources/elon-musk/raw/web/isaacson/grahammann-net-book-notes-elon-musk-walter-isaacson.txt",
+   "role": "zh",
+   "confidence_counts": {
+    "medium": 2
+   },
+   "used_by_principle_ids": [
+    "P05",
+    "P07"
+   ]
+  },
+  {
+   "title": "Lex Fridman AI Podcast III, Part 1 (2022)",
+   "detail": "sources/elon-musk/raw/web/emi/elonmuskinterviews-wordpress-com-2022-01-18-lex-fridman-ai-podcast-iii-part-1.txt",
+   "role": "zh",
+   "confidence_counts": {
+    "high": 2
+   },
+   "used_by_principle_ids": [
+    "P05",
+    "P09"
+   ]
+  },
+  {
+   "title": "Interview with Sam Altman — How to Build the Future (2021)",
+   "detail": "sources/elon-musk/raw/web/emi/elonmuskinterviews-wordpress-com-2021-03-10-elon-musk-on-how-to-build-the-future-interview-with-sam-altman-english.txt",
+   "role": "zh",
+   "confidence_counts": {
+    "high": 1
+   },
+   "used_by_principle_ids": [
+    "P06"
+   ]
+  },
+  {
+   "title": "Axel Springer Award – Pioneers Talk (2020)",
+   "detail": "sources/elon-musk/raw/web/emi/elonmuskinterviews-wordpress-com-2021-03-08-axel-springer-award-2020-pioneers-talk-english.txt",
+   "role": "zh",
+   "confidence_counts": {
+    "high": 1
+   },
+   "used_by_principle_ids": [
+    "P06"
+   ]
+  },
+  {
+   "title": "Interview with Elon Musk on Chinese Television (2015)",
+   "detail": "sources/elon-musk/raw/web/emi/elonmuskinterviews-wordpress-com-2021-03-15-interview-with-elon-musk-on-chinese-television-2015-english.txt",
+   "role": "zh",
+   "confidence_counts": {
+    "high": 1
+   },
+   "used_by_principle_ids": [
+    "P08"
+   ]
+  },
+  {
+   "title": "The Joe Rogan Experience #1470 (2020)",
+   "detail": "sources/elon-musk/raw/web/emi/elonmuskinterviews-wordpress-com-2021-03-17-the-joe-rogan-experience-1470-elon-musk-ii-english.txt",
+   "role": "zh",
+   "confidence_counts": {
+    "high": 1
+   },
+   "used_by_principle_ids": [
+    "P08"
+   ]
+  },
+  {
+   "title": "What is First Principles Thinking?（引其 TED 2013 拆电池原话）",
+   "detail": "sources/elon-musk/raw/web/fp/fs-blog-first-principles.txt",
+   "role": "zh",
+   "confidence_counts": {
+    "high": 1
+   },
+   "used_by_principle_ids": [
+    "P09"
+   ]
+  },
+  {
+   "title": "ABC News: 给 Twitter 员工的内部邮件 (2022)",
+   "detail": "sources/elon-musk/raw/web/primary/abcnews-com-Business-commit-hardcore-leave-elon-musk-te.txt",
+   "role": "zh",
+   "confidence_counts": {
+    "high": 1
+   },
+   "used_by_principle_ids": [
+    "P10"
+   ]
+  },
+  {
+   "title": "Axel Springer Award (2020)",
+   "detail": "sources/elon-musk/raw/web/emi/elonmuskinterviews-wordpress-com-2020-12-11-axel-springer-award-2020.txt",
+   "role": "zh",
+   "confidence_counts": {
+    "high": 1
+   },
+   "used_by_principle_ids": [
+    "P11"
+   ]
+  },
+  {
+   "title": "Ashlee Vance《Elon Musk》(2015)",
+   "detail": "sources/elon-musk/raw/book/vance-elon-musk-2015.txt",
+   "role": "zh",
+   "confidence_counts": {
+    "medium": 1
+   },
+   "used_by_principle_ids": [
+    "P11"
+   ]
+  }
+ ],
+ "confidence_factors": {
+  "principle_count": 11,
+  "evidence_count": 22,
+  "high_confidence_evidence_ratio": 0.864,
+  "medium_confidence_evidence_ratio": 0.136,
+  "low_confidence_evidence_ratio": 0.0,
+  "source_type_ratios": {
+   "zh": 1.0
+  }
+ },
+ "expression_dna_raw_summary": {
+  "observed_markers": {
+   "note": "计数来自对全语料（254 份文件 / 719 万字符）的抓取统计，工具链可复核。",
+   "self_doubt_phrases": [
+    "physics is the law, everything else is a recommendation",
+    "be less wrong",
+    "assume that you're wrong"
+   ],
+   "delete_slogans": [
+    "the best part is no part",
+    "the best process is no process"
+   ],
+   "cost_language": [
+    "idiot index",
+    "raw material constituents",
+    "spot market value",
+    "asymptotically approaches"
+   ],
+   "management_register": [
+    "extremely hardcore",
+    "fork in the road"
+   ]
+  },
+  "sentence_shape": "极短的断言式结论先出口（「物理是法律，其余都是建议」），随后才铺开论证；大量用物理与工程词汇当作比喻源（渐近线、能量密度、热力学、带宽）；句式粗、口语化、允许语法不完整；频繁插入自我修正（「我错了」「更准确地说」）。",
+  "certainty_register": "分裂且分界清晰——对物理约束与工程可行性用绝对断言；对时间表、社会预测、人事判断则大量使用 hedge（I think / I guess / probably），且**事后被证明错的多是后者**。",
+  "taboo": "不引用管理学经典与商学院概念；不用「赋能」「对齐」「协同」这类企业话术；不为了礼貌而模糊一个技术判断；不假装对不感兴趣的领域有兴趣。"
+ },
+ "alignment_contract": {
+  "shared_fields": [
+   "primary_category",
+   "secondary_categories",
+   "sources_list",
+   "distill_confidence"
+  ],
+  "equivalent_coverage_fields": [
+   "blind_spots"
+  ],
+  "independent_language_fields": [
+   "core_principles",
+   "decision_framework",
+   "reasoning_patterns",
+   "signature_quotes"
+  ]
+ },
+ "core_notes": "Stage 3A 合成：11 个原则簇来自 output/principles_zh.json（Stage 2，20 条引文经 fast_verify 在 719 万字符归一化语料上逐字回查通过）。盲区 BS01–BS05 混用两类证据：他本人承认的（SEC 宣誓笔录、Vance 访谈）标 high，外部批评标 medium。推理模式 RP01–RP05 每条带逐字证据与来源文件。"
+}
