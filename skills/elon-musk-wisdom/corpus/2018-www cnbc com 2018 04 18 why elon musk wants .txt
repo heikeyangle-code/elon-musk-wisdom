@@ -1,0 +1,68 @@
+# SOURCE: https://www.cnbc.com/2018/04/18/why-elon-musk-wants-his-employees-to-use-a-strategy-called-first-principles.html
+# TITLE: Why Elon Musk wants his employees to use an ancient mental strategy called 'first principles'
+# FETCHED: fetch_content_cache
+
+Elon Musk is clamping down on spending at Tesla and, to do this, he's drawing on an ancient philosophy called "first principles."
+
+The term was coined more than 2,000 years ago by the ancient Greek philosopher Aristotle, who believed we learn more by understanding a subject's fundamental principles, those "things better known and clearer to us," according to Terence Irwin's 1989 book "[Aristotle's First Principles](https://books.google.com/books?id=8tYcp0vYd5EC&printsec=frontcover#v=onepage&q&f=false)."
+
+"Going forward, we will be far more rigorous about expenditures. I have asked the Tesla finance team to comb through every expense worldwide, no matter how small, and cut everything that doesn't have a strong value justification," says Musk in an internal email sent Tuesday, which was first obtained by [electric vehicle website Electrek](https://electrek.co/2018/04/17/tesla-model-3-production-goal-6000-units-per-week/#disqus_thread) and [car news and opinion site Jalopnik](https://jalopnik.com/tesla-switching-to-24-7-shifts-to-push-for-6-000-model-1825335216), and later [confirmed by CNBC](https://www.cnbc.com/2018/04/17/elon-musk-internal-email-6000-model-3s-per-week-by-june.html).
+
+Musk said he would be personally reviewing all expenses above a million dollars.
+
+"A fair criticism leveled at Tesla by outside critics is that you're not a real company unless you generate a profit, meaning simply that revenue exceeds costs. It didn't make sense to do that until reaching economies of scale, but now we are there," said Musk.
+
+Tesla managers with expenses above $1 million — or a set of related expenses that would total $1 million over the course of 12 months — are required to have "a detailed, first principles understanding of the supplier quote, including every line item of parts & labor, before we meet," says Musk, who is looking to eliminate mid-level contractors adding expense, but not doing work. "There is a very wide range of contractor performance, from excellent to worse than a drunken sloth," says Musk.
+
+This is not the first time Musk has drawn on the "first principles" way of thinking, nor is he the only CEO to lean on the ancient philosophy.
+
+On the surface, Tesla and Netflix don't have much in common. One makes cars, solar panels and energy-efficient batteries, and the other streams TV shows and movies. But Musk and Netflix CEO Reed Hastings have both used the same "first principles" decision-making strategy to grow their billion-dollar businesses.
+
+While most of us think through issues based on common knowledge about them, starting over from scratch to get at the root of the problem can help you see it in a new light.
+
+As Musk [explained at a TED conference](https://www.ted.com/talks/elon_musk_the_mind_behind_tesla_spacex_solarcity) in 2013: "We get through life by reasoning by analogy, which essentially means copying what other people do with slight variations. And you have to do that. Otherwise, mentally, you wouldn't be able to get through the day. But when you want to do something new, you have to apply the \[first principles\] approach."
+
+In an episode of LinkedIn founder Reid Hoffman's podcast, "[Masters of Scale](http://www.stitcher.com/podcast/stitcher/masters-of-scale)," Hoffman interviews Hastings about how he used first principles thinking to scale Netflix from a [DVD-rental mailing service](https://qz.com/954668/the-unique-strategy-netflix-nflx-deployed-to-reach-90-million-worldwide-subscribers/) in the late 1990s into one of the world's [most popular streaming services](http://variety.com/2017/digital/news/netflix-lab-day-behind-the-scenes-1202011105/).
+
+Hoffman notes that the decision-making system is popular in Silicon Valley and offers the following definition:
+
+First principle thinking is the idea that everything you do is underpinned by a foundational belief, or first principles. Instead of blindly following directions or sticking to a process, a first principle thinker will constantly ask, "What's best for the company?" and, "Couldn't we do it this other way instead?"
+
+This method allows you to step back and break a problem down into its core parts.
+
+Hastings says creativity and innovation were stifled at the software company he started before Netflix, since they "were unable to adapt" due to "a bunch of people who valued following the process, rather than the first principle thinking."
+
+![This is how Tesla CEO Elon Musk stays productive](https://image.cnbcfm.com/api/v1/image/104535034-makeit_061617_elon_musk_productivity_DGB_mezz.jpg?v=1529475420&w=750&h=422&vtcrop=y)
+
+At Netflix, he approached things differently. He knew the advent of broadband internet across the U.S. would pose a challenge to Netflix's DVD-rental business. To avoid leading another company that lacked imagination, he decided to staff Netflix with first principle thinkers and encourage this critical-thinking style.
+
+"We ask people to do what you would think is best for the company," Hastings tells Hoffman. "We don't give them any more guideline than that."
+
+If this method of reasoning frustrates them, Hastings says, then they probably are not a good match for Netflix.
+
+"It seemed inevitable to \[Hastings\], that streaming entertainment would eclipse DVDs, just as surely as the combustion engine eclipsed the horse and carriage," Hoffman says.
+
+Likewise, in a [2012 interview with Kevin Rose](https://www.youtube.com/watch?v=L-s_3b5fRd8), Musk said that if he hadn't used first principles thinking to advance Tesla technology, he would have been stuck in the horse-and-carriage stage of the transportation revolution.
+
+"You can't say: 'Nobody wants a car because horses are great and we're used to them. They can eat grass \[and\] there's lots of grass all over the place and there's no gasoline people can buy, so people are never going to get cars.' People did say that, you know," Musk said.
+
+For Musk, first principles thinking means boiling things down to "the most fundamental truths" and then reasoning up from there.
+
+![How top tech entrepreneurs use regret as motivation to succeed](https://image.cnbcfm.com/api/v1/image/104543974-makeit_20170621_grant_regret2_mezz.jpg?v=1529475466&w=750&h=422&vtcrop=y)
+
+Musk used the cost of batteries as an example. "People would say, 'Historically it's cost $600 per kilowatt-hour, and so it's not going to be much better than that in the future.' And you say, 'No, what are the batteries made of?' First principles means you say, 'Okay, what are the material constituents of the batteries?'
+
+"You just have to think of clever ways to take those materials and combine them into the shape of a battery cell, and you can have batteries that are much, much cheaper than anyone realizes."
+
+Although it "takes a lot more mental energy," Musk said this method of thinking has helped him [revolutionize the energy industry](https://www.vox.com/2015/5/1/8528689/tesla-energy-batteries).
+
+"Somebody could say, in fact people do, that battery packs are really expensive and that's just the way they'll always be, because that's the way they've been in the past," Musk said. "Well, no, that's pretty dumb, because if you applied that reasoning to anything new, then you would never be able to get to that new thing."
+
+_**Don't miss:  
+**[This email by Elon Musk highlights one of the most important traits for a CEO  
+](http://www.cnbc.com/2017/06/20/this-email-by-elon-musk-highlights-one-of-the-most-important-traits-for-a-ceo.html)_[_How Elon Musk and 2 other highly-successful business leaders stay productive  
+_](http://www.cnbc.com/2017/06/17/how-elon-musk-and-3-other-highly-successful-business-leaders-stay-productive.html)
+
+**_**_Like this story? [Like CNBC Make It on Facebook](edit)._**_**
+
+![This CEO wants to put a computer chip in your brain](https://image.cnbcfm.com/api/v1/image/104400007-makeit_brainimplants_mezz.jpg?v=1529474797&w=750&h=422&vtcrop=y)

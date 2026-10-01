@@ -1,0 +1,117 @@
+# SOURCE: https://elonmuskinterviews.wordpress.com/2021/06/13/model-s-plaid-delivery-event-english/
+# TITLE: Model S Plaid Delivery Event
+# FETCHED: fetch_content_cache
+
+_On 10th June 2021, the product launch of Tesla’s new Model S Plaid took place in Fremont, California. This is the transcript of the presentation given by Elon Musk, which was livestreamed on [YouTube](https://www.youtube.com/watch?app=desktop&v=kUmkbzQ-BS0&feature=youtu.be). Many of the images included in the text contain links that lead to video sequences that were shown at the event. To access the [German translation](https://elon-musk-interviews.com/?p=1644), please klick on the link. For those who are in a hurry but don’t want to miss any of the content, I can recommend Remo Uherek’s [supercut version](https://www.youtube.com/watch?v=V9ZHs6gENGU)._
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/06/titel.jpg?w=1024)
+
+**Franz von Holzhausen:** (0:41) Good evening, ladies and gentlemen. Welcome to Fremont, California. We’re out here at the test track of our Fremont factory, just a few meters away from where we actually build all of our Tesla vehicles. We’re super excited to have you all here. In fact, almost nine years ago, on June 22, 2012, we had our first Model S delivery event right over there in the factory. So we’ve come a long way in a few years. We set out to design, engineer, and manufacture the best car on the planet, and we’ve been working tirelessly every day to try to make that happen. And tonight, we’re going to show you the next best version of Model S.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/06/bild-franz.jpg?w=1024)
+
+And I brought this along _(refers to a sledgehammer)_ because we might be breaking a few records – but more about that later. So, let’s get Elon out here and have him show you how we made the best car in the world.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/06/bild-elon.jpg?w=1024)](https://youtu.be/kUmkbzQ-BS0?t=107)
+
+**Elon Musk:** (4:20) Alright, thanks for coming, and thanks for tuning in. As Franz was saying, this is nine years since we delivered the first Model S, the first car produced here in Fremont – so almost a decade. And I think we’ve really taken it to a whole new level with Plaid. Some of you may know that – I mean, basically, our product plan is stolen from Spaceballs. “We’ve gone plaid speed.” What we’re really wanting to achieve here is like, you know – “Why make this really fast car that’s crazy fast and everything?”
+
+And I think there is something that’s quite important to the future of sustainable energy, which is that we got to show that an electric car is the best car, hands down, you know. So, it’s got to be clear. It’s like, man, sustainable energy cars can be the fastest cars, can be the safest cars, can be the most kick-ass cars in every way. And that’s why we did the Plaid. It’s just to show ‘hands down, this is the way to go’.
+
+(5:39) So yes, pressing slide, here we go, alright… – We’ve made huge improvements from the original car. Well, actually, has anyone here – probably some have – bought the early Model S like… \[cheers from the audience\]. Yeah, thank you for your support. So you can see the huge improvements we’ve made. It started off with good performance, but now with Plaid, we’ve managed to break the two-second barrier, if you will. No production car has ever done zero to 60 in under two seconds. And this is a four-door car, seats five adults, etc., etc. It’s like, you know, single movement.
+
+I mean, this is like what I call ‘limit of physics engineering’. It’s not (… 6:45). It’s like, “What does physics say we can do.” Because physics is the law and everything else is a recommendation. In addition to a crazy performance, it’s also got a long range. Even with the tri-motor high performance, it’s got almost a 400-mile range. And in the dual-motor configuration, it’s got a 412-mile range. So 420 give or take – that joke will never end. And we’ve also improved the supercharging speed, so you can get 187 miles of range in 15 minutes.
+
+(7:36) Yeah, so, quickest production car – to be clear – of any kind ever made, like said first, to ever break the two-second barrier. Later tonight, you’ll get a chance to drive around the track. This is really something you have to feel to believe because it hits you right in the limbic system. It’s like, “Damn!” It is basically, how can we make a spaceship a car, you know.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/06/bild-8_25.jpg?w=1024)
+
+And then, in terms of additional stats, it’s also the fastest production car to complete a quarter mile, so 9.23 seconds. It’s got a 200 mph top speed, over 1,000 horsepower, almost 400-mile range like I said, charges so fast, you know, it’ll be probably done by the time you have a coffee basically.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/06/bild-carbon.jpg?w=1024)](https://youtu.be/kUmkbzQ-BS0?t=516)
+
+(8:43) And talking about some of the sort of details behind it. We have an all-new battery pack. And then something we’re really proud of is the new carbon-sleeved rotors for the motor. This is the first time that there’s – to the best of our knowledge – a production electric motor that has a carbon overwrapped rotor. This is a super hard thing to do because carbon and copper have, you know, very different rates of thermal expansion.
+
+In order to do a carbon overwrapped rotor, you’ve got to wind it at extremely high tension. It’s a very hard thing to do. We actually had to design the machine that makes the rotor – no such machine existed before. It also means that we can make have the electromagnetic field be super efficient and have a tight gap even at super high rpm. And this is single speed from zero to 200 miles an hour. It’s just like the rpm is so crazy that just the centripetal force wants to expand the rotor. So the carbon overwrap actually basically holds the rotor together. It’s like, madness.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/06/bild-motor.jpg?w=1024)](https://youtu.be/kUmkbzQ-BS0?t=609)
+
+(10:04) So yeah, so let’s see. In fact, we’re going to show you the motor; in fact, you might have had a chance to see the drive unit. We can go closer. I mean, this is really an amazing work of engineering. There’s just never been an electric motor like this. You can pick this motor up with your hands. And it can accelerate a two-ton car to 60 miles an hour in two seconds. That kind of power to weight is insane. It goes up to 20,000 rpm, and maybe a little more.
+
+Okay, let’s switch back to the slides, I think.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/06/bild-11_37.jpg?w=1016)
+
+We also were able to achieve the lowest drag coefficient of any car ever made. Really, I think Tesla engineering has outdone itself here. This is a car that looks good but also gets an incredible drag coefficient. And this is the true drag coefficient of the car, including with wheels in motion. Sometimes you’ll hear drag coefficients quoted, but that’ll be without the wheels moving. And the wheels cause sort of air churn and incremental drag. This is the actual drag coefficient of the car. So it’s, to have a good-looking sports car have that low drag coefficient is really tough.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/06/bild-heat.jpg?w=1024)
+
+(12:16) We also have the latest and greatest in heat pump, which is the, basically, HVAC system for the car. It’s 30% better cold-weather range and requires 50% less energy for cabin heating in freezing conditions. You’ll see very little degradation in cold weather. And the radiator is twice as big for heat rejection. So, you’ll be able to actually do back-to-back zero to 60s, go on the track just (… 12:45), and as you’ll see tonight, this car is going to go over and over again, and it doesn’t get winded. Think we got to take this back to maybe the Nürburgring, see what happens.
+
+And then, of course, you know, when we first delivered the Model S, there were no supercharges anywhere in the world. Back in 2012 – no superchargers anywhere. Now there are 25,000 supercharges all around the world. We opened 30 just in the last week, and we’re going to keep going so that you can basically travel anywhere you want with peace of mind, super easy, keep increasing the power of the superchargers you know, 250 kilowatts, obviously that will start going to, you know, 280, 300, 350. Yeah.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/06/bild-crash-test.jpg?w=820)
+
+(13:50) And then it’s also engineered for maximum safety as well. In fact, this is designed to be… – Our aspiration for this car – it still has to be tested by the US government – but we think we can get the lowest probability of injury of any car ever tested. In fact, these are the actual NHSTA ‘probability of injury’ numbers. All top five cars with the lowest probability of injuries ever tested – all five are Teslas. With the Plaid Model S, what you have is a car that is quicker than any sports car, and it’s faster than any Porsche, safer than any Volvo – in the same car. That’s insane.
+
+And then the design – we’ve obviously made a lot of refinements to the exterior. We’ve completely redone the interior. I think once you drive the new Model S, it really feels like you’re driving the future. And other cars, especially like non-Tesla cars, are going to feel very last century.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/06/timestamp-15_21.jpg?w=1024)](https://youtu.be/kUmkbzQ-BS0?t=884)
+
+(15:16) So, all-new interior. As you can see, we changed the orientation of the main screen, so it’s easier to watch movies and that kind of thing in landscape. I mean, in other notes, we have ventilated front seats. So yeah. Anyway, you drive around, and it really feels like, “Okay, we’re in 2021, great.”
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/06/bild-15_57.jpg?w=998)
+
+We have this yoke steering wheel, which is a little different, but I think once you try it, you’ll think it’s great. The visibility of the main screen is super clear, especially for autopilot. So you can see the entire panoramic view – you can basically see the mind’s eye of the car. And yeah, it’s really cool.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/06/timestamp-16_00.jpg?w=1006)](https://youtu.be/kUmkbzQ-BS0?t=884)
+
+(16:18) And then we’ve gotten rid of the stalks. I think, generally, all input is error. We want, if you have to do something, that the car could have done already, that should be taken care of – the software should just do it. You can actually just literally walk up to the car, it senses that you’re approaching, unlocks the car based on your phone, it just basically pairs with the phone, knows that you’re coming to the car, opens the door… extends the handle, you sit down, and you just drive. You don’t have to press the drive or anything like that. The car knows you want to drive and figures like, yeah, good guess, you know.
+
+And then it’s using the autopilot system to know where the obstacles are. Obviously, if there’s something in front of you, you want to go backwards. And if there’s something, you know, in the back of it, you want to go front, most likely. And then it will adapt to your needs. So if it sees that you’re always doing this, you know, you’re changing to reversal forward in particular situations, it’ll try to remember that and geocoded to that location, so then you won’t have to do it in the future. It will just keep minimizing the amount of input that you need to do until the car just reads your mind. So it’s going to be great.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/06/bild-17_54.jpg?w=1002)
+
+(17:48) We’ve redesigned… we moved the interior so that the front IP is actually slimmer and thinner, so we’re able to move the front seats forward, giving more room to the backseat, and we reclined the backseat more and reduced the interior trim. Basically, in the current Model S, the backseat is not amazing, but the new one, it’s actually a legit backseat. It’s like, yeah, it’s good. I think it’s quite a comfortable backseat, and you’ve got also a rear screen, and you can control everything from the back.
+
+It’s got dual inductive chargers for your phones in the back and dual inductive in the front. It’s a 36-watt power supply, so you can actually charge like your, you know, laptop or anything, basically. It’s got 36-watt USB-C. It can also pair with multiple Bluetooth devices simultaneously, so multiple people could be controlling music, or somebody could be playing a video game. You can do multiple wireless things simultaneously.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/06/timestamp-19_20.jpg?w=1006)](https://youtu.be/kUmkbzQ-BS0?t=1122)
+
+(19:15) And then, similar to the Model 3 and Y, we instead of having air vents, we use intersecting columns of air, and we just vary the speed of the air. There’s no vents that you can see. And you can just touch the screen and move the screen around, and it’ll just move the air wherever you want it, and the air is much more diffuse. It just feels like an invisible air conditioning system. It’s great. It’s a tri-zone, so there’s a zone for the rear, and left front, right front zone.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/06/timestamp-20_05.jpg?w=1024)](https://youtu.be/kUmkbzQ-BS0?t=1164)
+
+And then the 17-inch touchscreen is… it feels like a movie theater. The sound is incredible. It’s like a home theater experience. So if you’re sitting somewhere waiting, or for whatever reason or at a supercharger, you can just catch up on what are your favorite Netflix show or iTunes or whatever the case, maybe YouTube. And of course, you can also play video games. And the same thing for the rear. Basically, the system feeds all three screens, and so you can do things in the front and rear, it’s great.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/06/timestamp-20_42.jpg?w=1021)](https://youtu.be/kUmkbzQ-BS0?t=1205)
+
+(20:41) We have an all-new sound system designed by Tesla audio, and we have acoustic glass throughout the car, so the car is very quiet when going down the highway, even at very high speeds like you’re doing like 100 miles an hour, it’s still quiet. And this is a Tesla designed codec, so it will keep uploading improved versions of the sound system. It’s completely software defined. We’ll keep tweaking it and dynamically adjusting to whether you’re using streaming or whether it’s coming via Bluetooth for your phone or different streaming services. It will actually… and if the data rate changes, it’ll adapt that. So basically, it always sounds good. And it’s just going to get better.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/06/timestamp-21_41.jpg?w=1024)](https://youtu.be/kUmkbzQ-BS0?t=1261)
+
+And then we’ve got an all-new UI.
+
+**Audience:** Waypoints!
+
+**Elon Musk:** You really want waypoints? \[cheers from the audience\] Okay, does everybody here want waypoints? \[loud cheers from the audience\] Alright, fine, we’ll do – waypoints. Damn it. All right. We’ll do waypoints, fine.
+
+(22:22) So, but obviously, it also interfaces with your calendar. Basically, if you just get in the car, and you just sort of swipe down from navigate – you don’t have to enter anything, just swipe down – the car will automatically figure out if you want to go to home, work, or what’s on your calendar. So it’ll default to calendar priority, and obviously, if you’re at home, and it’s kind of a weekday or whatever, it assumes you’re going to go to work. You just swipe down, and it automatically navigates to work and checks traffic and gives you an optimal route.
+
+It’s just like a nice little easy thing. And you can actually set it to automatically generate the most probable route. So you just get in, and it’s going to guess what route you want, and you don’t have to press anything. Anyway, the UI is basically easy to move around, expand, contract, shift music to the left, to the right. And we’re going to keep improving it. It basically feels like a modern tablet or phone.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/06/timestamp-23_31.jpg?w=1024)](https://youtu.be/kUmkbzQ-BS0?t=1369)
+
+(23:23) And then – it’s not PS4, it’s PS5. There’s, I think, never been a car that has state-of-the-art infotainment, where this is literally at the level of a PlayStation 5. Yeah, I mean, if you think about future where the car is often in autopilot or full-self-driving mode, then entertainment is going to become increasingly important. You’re going to want to watch movies, play games, use the internet, just the things you want to do if you’re not driving. And this is actual PlayStation 5 level performance. We try to do a gaming demo.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/06/timestamp-24_22.jpg?w=837)](https://youtu.be/kUmkbzQ-BS0?t=1424)
+
+Yes. It can play Cyberpunk. This is somebody playing the car right now – playing live. It’s, you know, like pretty great. So have fun in the game, and it’s going to be great. High frame rate will do 60 frames a second with state-of-the-art games.
+
+Alright, so we got incredible performance, interior of the future, I think engineering that’s practically alien, like I said, simultaneously the safest car in the world and the fastest. This is insane.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/06/bild-25_27.jpg?w=1014)
+
+(25:18) We also got like a look at some things like the power curve. I think this really illustrates the difference. It maintains 1000 horsepower all the way up to 200 miles an hour. This car crashes.
+
+Alright. And deliveries begin now. So, we’re in production, we’re going to deliver the first 25 cars now. And then, basically, we should be at, you know, several 100 cars per week soon and 1000 cars a week, probably next quarter. So please enjoy. We put a lot of work into this. I like to thank the incredible work of the Tesla engineering and production teams. My hat is off to Tesla engineering, production, design – the whole group. They really put their heart and soul into this, so I hope you enjoy it. So, let’s deliver some cars. (26:37)

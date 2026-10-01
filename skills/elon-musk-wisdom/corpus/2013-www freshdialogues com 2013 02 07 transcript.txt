@@ -1,0 +1,78 @@
+# SOURCE: https://www.freshdialogues.com/2013/02/07/transcript-of-elon-musk-interview-with-alison-van-diggelen-iron-man-growing-up-in-south-africa/
+# TITLE: Transcript of Elon Musk Interview: Iron Man, Growing up in South Africa
+# FETCHED: fetch_content_cache
+
+By [Alison van Diggelen](https://www.freshdialogues.com/new/welcome/), host of [Fresh Dialogues](https://www.freshdialogues.com/new/media/)
+
+On January 22, 2013, Elon Musk [joined me in conversation](http://www.youtube.com/watch?v=AHHwXUm3iIg&feature=share&list=UUHDr4RtxwA1KqKGwxgdK4Vg) at the [Computer History Museum](http://www.computerhistory.org/) to share his life story and key turning points that led to the creation of PayPal, SpaceX, Tesla Motors and SolarCity. [John Hollar](http://www.computerhistory.org/atchm/author/jhollar/), President and CEO of the Computer History Museum introduced the program. Here is a transcript of the in-depth interview. Note: this is a partial transcript of Musk’s early days in South Africa. Check back soon for more excerpts.
+
+**John Hollar**: Here’s a thought exercise. If you compiled a list of the 75 most influential people of the 20th Century, who would be on your list? Or if you compiled a list perhaps of the 100 people who most affected the world in the 20th Century, who would be on that list? Now, [think of the same list](http://www.time.com/time/specials/packages/article/0,28804,1984685_1984745_1985495,00.html) that you might start compiling for the 21st Century so far. And if all of that proves to be a little too much, I can offer some help. Elon Musk has been on every single one of those lists that has been compiled for the 20th Century to date, no matter who seems to be drawing the lists up.  
+.  
+
+Few scientists, entrepreneurs or industrialists of the last century can stake a claim to a career as boldly ambitious as the one Elon Musk is fashioning now. Transforming a large measure of the world’s commerce and payments systems as [cofounder and chairman of PayPal](http://ecorner.stanford.edu/author/elon_musk) in 1999, might be enough for anyone for one life time, but Elon Musk has gone on from there to pursue his passion for solving business, environmental and scientific problems on a global scale. He may be best known for his work [at Tesla](http://www.autoblog.com/tesla/), where he serves as CEO and head of product design. The path breaking Tesla Roadster, and now the Model S have changed almost all the assumptions that the automotive world has made about what the styling, performance and future of a new generation of electric cars might be. Simultaneously, he serves as chairman and principal shareholder of SolarCity, the nation’s leading provider of solar power systems. But perhaps his most ambitious and intriguing work is taking place [at SpaceX](http://www.nytimes.com/2012/10/08/science/space/spacex-to-send-rocket-holding-cargo-to-space-station.html), where he is CEO and chief designer. SpaceX is erasing the boundaries between space flight and private enterprise. It has a multi-billion dollar, multi-year agreement with NASA to be a workhorse for cargo flights to and from the International Space Station, and in 2015, that is the companies stated goal: it will begin manned space flight.  What is the source of Elon Musk’s revolutionary thinking? How has he been able to do what he’s done with the investors he’s attracted and the teams that he’s built?
+
+Exploring these questions and more tonight with Elon is Alison van Diggelen, who is a very notable and noteworthy journalist here in Silicon Valley, a [contributor to KQED](http://science.kqed.org/quest/audio/growing-pains-for-californias-electric-car-charging-network/) and the [Huffington Post](http://www.huffingtonpost.com/alison-van-diggelen/); and one of the best interviewers in the field through her series, [Fresh Dialogues](https://www.freshdialogues.com/about-us/). We’re delighted to have Alison here tonight. This is her first time on stage. She’s going to be terrific, as will Elon. Please join me in welcoming Elon Musk and Alison van Diggelen.
+
+[**Alison van Diggelen**](https://www.freshdialogues.com/about-us/): Good evening. Tonight I’d like to explore what makes a revolutionary. Elon, I’d like you to take us on a journey from South Africa to Silicon Valley and beyond.
+
+So I’d like to start…you grew up in South Africa. I heard a wonderful story about when you were six years old and you started breaking the rules even then. You were six years old and you were invited by your cousin to a birthday party. But there were two problems with that: one you were grounded, and two it was on the other side of town. Can you tell us how you got there?
+
+**Elon Musk**: All right. Well, this was when I was six, so the memory is a little fuzzy at this point. But as I recall, I was grounded for some reason. I don’t know why but I felt it was unjust (laughter)…and I really wanted to go to this party, my cousin’s party, who was five…a kids’ party. So at first, I was going to take my bike and I told my mom this, which was a mistake and she told me some story about how you needed a license for a bike and the police would stop me. So I wasn’t 100% sure if that was true or not, but I thought I’d better walk just in case. I sort of thought I knew the way, but it was clear across town…10 or 12 miles really quite far, further than I realized actually…So I just started walking to my cousin’s house. It took me about four hours and just as my mom was leaving the party with my brother and sister, she saw me walking down the road and freaked out. I saw she saw me, so I then sprinted to my cousin’s house – I was just about two blocks away – and climbed a tree and refused to come down…(laughter).
+
+**![Elon Musk interview with Alison van Diggelen](https://www.freshdialogues.com/wp-content/uploads/2013/02/208385_10151349796285816_1687593994_n-340x226.jpg)Alison van Diggelen**: The first of _many_ rule-breaking adventures for Elon Musk. So, by the time you were 12, you were already an entrepreneur and making a profit…
+
+**Elon Musk**: Well…A small one…
+
+**Alison van Diggelen**: You earned $500 equivalent in (South African) Rand for creating a video game. Can you tell us about that and what the inspiration was?
+
+**Elon Musk**: Yes sure. So when I was about 10, I walked into a computer store in South Africa and saw an actual computer. I previously had some earlier precursors to the Atari system then I got the Atari system which I’m sure a lot of people here have played. Then I sort of actually started having a computer where you could make your own games and it was a [Commodore VIC-20](http://en.wikipedia.org/wiki/Commodore_VIC-20) . So that was the first computer I bought and then I got some books on how to teach yourself programming and this was like the coolest thing I’d ever seen so this was super-awesome and I started programming games in order to buy more games so that really put a circular thing…so more games, better computers. That kind of thing.
+
+**Alison van Diggelen**: Right. So the money wasn’t the end goal for you, it was more a means to an end?
+
+**Elon Musk**: Yeah. Basically I’d spend money on better computers and Dungeons & Dragons modules. Things like that. (laughs) Master 3000 basically.
+
+**Alison van Diggelen**: I understand at that time you were heavily into comics…I’m curious to know, did you love Iron Man? The comic Iron Man, was that…? ![Robert Downey Jr, Ironman](https://www.freshdialogues.com/wp-content/uploads/2013/02/images-1.jpeg)
+
+**Elon Musk**: I did like Iron Man, yes.
+
+**Alison van Diggelen**: You did? And did you ever imagine you’d be the inspiration for the (Iron Man) [movie version](http://marvel.com/ironman3)?
+
+**Elon Musk**: I did not. That was pretty much, I would say zero percent chance.
+
+**Alison van Diggelen**: What kind of kid were you? Can you look back and see yourself? Were you a loner kid? A bookish kid?
+
+**Elon Musk**: I wasn’t all that much of a loner…at least not willingly (laughter). I certainly was very very bookish. I was reading all the time. So I was either reading, working on my computer, reading comics, playing Dungeons & Dragons…that kind of thing.
+
+**Alison van Diggelen**: I understand Hitchhikers Guide to the Galaxy, that wonderful book by Douglas Adams, that was a key book for you. What was it about that book that fired your imagination?
+
+**![Elon Musk interview with Alison van Diggelen](https://www.freshdialogues.com/wp-content/uploads/2013/02/312356_10151349796645816_129814118_n-340x226.jpg)Elon Musk**: I guess when I was around 12 or 15…I had an existential crisis, and I was reading various books on trying to figure out the meaning of life and what does it all mean? It all seemed quite meaningless and then we happened to have some books by Nietzsche and Schopenhauer in the house, which you should _not_ read at age 14 (laughter). It is bad, it’s really negative. So then I read [Hitchhikers Guide to the Galaxy](http://en.wikipedia.org/wiki/The_Hitchhiker's_Guide_to_the_Galaxy_\(novel\)) which is quite positive I think and it highlighted an important point which is that a lot of times the question is harder than the answer. And if you can properly phrase the question, then the answer is the easy part.   So, to the degree that we can better understand the universe, then we can better know what questions to ask. Then whatever the question is that most approximates: what’s the meaning of life? That’s the question we can ultimately get closer to understanding. And so I thought to the degree that we can expand the scope and scale of consciousness and knowledge, then that would be a good thing.”
+
+**Alison van Diggelen**:  So you were having these deep thoughts at what age? 10…14?
+
+**Elon Musk**: Yeah. In the…puberty, I guess….13 through 15. Probably the most traumatic years.
+
+**Alison van Diggelen**: So by the time you were 17, you were…had actually left (South Africa)…I assume you’d hatched the plan earlier when you were 14, 15?
+
+**Elon Musk**: I did hatch the plan earlier. Actually I tried to hatch several plans, which they did not hatch (laughter).
+
+**![Elon Musk, Iron Man, Fresh Dialogues Transcript](https://www.freshdialogues.com/wp-content/uploads/2013/02/Elon-Musk-640.jpg)Alison van Diggelen**: But by 17, you were on a plane from South Africa. You’d had enough of South Africa, you were ready to seek new pastures. Now why was it the United States was your destination? Why not Europe or somewhere else?
+
+**Elon Musk**: Well, whenever I would read about cool technology, it would tend to be in the United States…or more broadly North America, including Canada. So, I wanted to be where the cutting edge technology was and of course, within the United States, Silicon Valley is where the heart of things is. Although at the time, I didn’t know where Silicon Valley was…it sounded like some mythical place (laughter)…I tried to convince my mother or father, who were divorced, if either one of them would move to the United States, then I could get there. At one point I convinced my father but then he reneged, unfortunately.
+
+**Alison van Diggelen**: You had him convinced? And then he changed his mind?
+
+**Elon Musk**: He did say yes, and then he changed his mind.
+
+**Alison van Diggelen**: Why?
+
+**Elon Musk**: I don’t know. I guess he was fairly established in engineering, established in South Africa and didn’t want to have to go through that again in another country.
+
+**Alison van Diggelen**: So you got on that plane all by yourself at 17?
+
+**Elon Musk**: Yes, so…[my mother](http://www.bizjournals.com/sanfrancisco/blog/2011/09/elon-musks-63-year-old-pregnant-mother.html?page=all) was born in Canada. Her father was American. But unfortunately she didn’t get her American citizenship, so then that broke the link and I couldn’t get my American citizenship. But she was born in Canada, so I actually filled out the forms for her and got her a Canadian passport, and me too. Within three weeks of getting my Canadian passport, I was in Canada.
+
+…To be continued.
+
+[Check back soon](https://www.freshdialogues.com/) for the next chapter of Elon Musk’s journey: **University of Pennsylvania, two days at Stanford, his first startup…and the inspiration for PayPal.**
+
+[Transcript Excerpt](https://www.freshdialogues.com/2013/01/25/elon-musk-the-reluctant-ceo-of-tesla-motors-interview-transcript/): On How Elon Musk became Tesla’s Reluctant CEO

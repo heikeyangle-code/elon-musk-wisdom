@@ -1,0 +1,42 @@
+# SOURCE: https://www.elonmuskbook.org/the-book-of-elon-musk-free-online-version/break-down-the-impossible
+# HARVESTED: 2026-09-29
+
+Thank you for visiting the site. Enjoy the published content and the book. We appreciate your support, and please pay it forward.
+
+The Book of Elon Musk Elon Musk's Most Useful Ideas In His Own Words
+
+Mar 31
+
+Mar 31 Break Down the "Impossible"
+
+Eric Jorgenson
+
+The general principles of first-principle thinking apply to software, hardware, anything really. Often, we were told something was impossible, but once we broke it down into its constituent elements, we could solve those.344
+
+For xAI in 2024, we were trying to build a training supercluster (a giant network of computers to train an AI model). We went to the various suppliers and said we needed one hundred thousand H100s (superpowerful computer chips) to be able to train coherently. Their estimates for how long it would take to complete that were eighteen to twenty-four months. Well, we needed to get that done in six months or we wouldn’t be competitive.
+
+So, we broke that down. We need a building; we need power; we need cooling.
+
+We didn’t have enough time to build a building from scratch. So, we found a factory in Memphis that was no longer in use. The input power was 15 megawatts and we needed 150 megawatts. So, we rented generators and put them along one side of the building.
+
+Then, we needed cooling. So, we rented about a quarter of the mobile cooling capacity of the US and put the chillers on the other side of the building.
+
+That didn’t fully solve the problem because the power variations during training are very big. Power can drop by 50 percent in 100 milliseconds, which the generators can’t keep up with. So then we added Tesla megapacks and modified the software in the megapacks to be able to smooth out the power variation during the training run.
+
+Then there were a bunch of networking challenges. Networking cables for one hundred thousand GPUs (graphics processing units) are very, very difficult. We ran the networking team to do the cabling in four shifts, 24/7. I was sleeping in the data center and doing cabling myself.345
+
+Now called Colossus, it is currently the largest AI training platform in the world. It was constructed in 122 days. Ninety-two days later, it had been doubled to two hundred thousand GPUs.346
+
+Eric Jorgenson
+
+CEO of Scribe Media. Author of The Almanack of Naval and The Anthology of Balaji. Investing in technology startups as GP at Rolling Fun. Podcast: Smart Friends. Happy to be in touch through Twitter or email.
+
+Website
+
+About the book
+
+Book and website curating and sharing Elon's wisdom. Coming soon on March 24th. Follow on Twitter.
+
+Mar 31 Do Things in Parallel
+
+Mar 31 Set Aggressive Timelines

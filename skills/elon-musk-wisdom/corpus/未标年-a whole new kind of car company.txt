@@ -1,0 +1,64 @@
+# SOURCE: https://www.elonmuskbook.org/the-book-of-elon-musk-free-online-version/a-whole-new-kind-of-car-company
+# HARVESTED: 2026-09-29
+
+Thank you for visiting the site. Enjoy the published content and the book. We appreciate your support, and please pay it forward.
+
+The Book of Elon Musk Elon Musk's Most Useful Ideas In His Own Words
+
+Mar 31
+
+Mar 31 A Whole New Kind of Car Company
+
+Eric Jorgenson
+
+Ultimately, what we induce other companies to do will have a greater impact than the cars we make ourselves.533
+
+Q: A Tesla is a very different product, but how different is Tesla as a company from a traditional auto company?
+
+A typical car company manages a supply chain, assembles vehicles, and sends them to dealers. They might make the engine, but most of the actual technology development and parts manufacturing is done by suppliers. Most of the vehicle software is done by suppliers too. The amount of “real work” done by car companies like GM or Ford is not as much as you think. They don’t do sales or service either; dealerships do.534
+
+At Tesla, we do our own sales and service. We don’t have dealerships.535 I have made it a principle within Tesla that we should never attempt to make service a profit center. It does not seem right to me when companies make a profit off customers when their product breaks.536 The best way to experience service is, of course, to not need service.537
+
+If we charge for something, it is not because we want to make things more expensive; it’s because we can’t figure out how to make it less expensive.538
+
+There’s a lot of vertical integration at Tesla. We make the battery pack, the power electronics, and the drivetrain ourselves. We’re vertically integrated because the pace we needed to move was much faster than the supply chain could move. To the degree you rely on the legacy supply chain, you inherit the legacy constraints—including their speed, costs, and technology.
+
+We do car insurance now, too. Car insurance is a bigger deal than it may seem. A lot of people are paying 30–40 percent as much as their car lease payment for insurance. The car insurance industry is incredibly inefficient because they’ve got all these middlemen, from the insurance agent all the way to the final reinsurer. There are a half dozen companies each taking a cut.539
+
+Insurance is driven by statistics, so even if you’re a good driver at twenty years old, it’s extremely expensive. Tesla allows for real-time insurance based on how you actually drive the car. If you drive the car in a safer way, you pay lower insurance. Our insurance is based on how you drive, not how people who fit your demographic have driven historically.540
+
+Tesla is as much a software company as a hardware company. The software in a Tesla operates the car, the screen, the charging…all developed by us. Then, Tesla built an autopilot AI team from scratch, the best real-world AI team on Earth. We also built a chip team too, because the hardware we could buy wasn’t capable of running our AI software.541
+
+Q: How important is the look and design of the cars?
+
+The value of beauty and inspiration is underrated, no question.542
+
+If you want to make something beautiful, you must trigger whatever fundamental aesthetic algorithms there are. Our brains have some intrinsic elements that represent beauty, which trigger the emotion of appreciation of beauty in our mind.
+
+I think these are relatively consistent among people. Not completely. Not everyone likes exactly the same thing, but there’s a lot of commonality. It is important to combine aesthetic design with functionality.
+
+What was hard about the Model S and Model X was to combine aesthetics and utility, to balance the two. You can make a car look good by giving it certain proportions—making it low and slim. But if you do that, the utility is significantly affected. The big challenge is trying to figure out how to get five adults plus two kids in a seven-seater with high utility and keep it looking good. To make a sports car look good is relatively easy. But to make a sedan or an SUV look good is quite difficult.543
+
+Another incredibly important design principle is to have it feel bigger on the inside than it looks on the outside. That’s also a hard thing to do.544
+
+Most people don’t consciously notice the small details, but they do subconsciously. Your mind takes in an overall impression. You know if something is appealing or not, even though you may not be able to point out exactly why. That sense is a summation of many details. Most of us experience this as “that’s ugly,” or “that’s beautiful,” or “wow, that’s elegant,” but can’t break down why.545
+
+You can train yourself. You can make yourself pay attention to “why.” You can learn to bring subconscious awareness into conscious awareness. Look closely and carefully. Look at each object’s geometry.546
+
+Pay attention to the little details. Train yourself to notice them. Notice the nuances of design, shape, form, function, and the way it looks in different lights. Anyone can do this, although it is a double-edged sword, because then you always notice all the little things. Now when something’s off—even a little thing—it drives me bananas.
+
+If you’re trying to make a perfect product, attention to detail is essential.547
+
+Eric Jorgenson
+
+CEO of Scribe Media. Author of The Almanack of Naval and The Anthology of Balaji. Investing in technology startups as GP at Rolling Fun. Podcast: Smart Friends. Happy to be in touch through Twitter or email.
+
+Website
+
+About the book
+
+Book and website curating and sharing Elon's wisdom. Coming soon on March 24th. Follow on Twitter.
+
+Mar 31 The Edge of Sanity
+
+Mar 31 Give People More for Less

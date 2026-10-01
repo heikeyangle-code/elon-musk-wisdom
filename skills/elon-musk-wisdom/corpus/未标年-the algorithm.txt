@@ -1,0 +1,100 @@
+# SOURCE: https://www.elonmuskbook.org/the-book-of-elon-musk-free-online-version/the-algorithm
+# HARVESTED: 2026-09-29
+
+Thank you for visiting the site. Enjoy the published content and the book. We appreciate your support, and please pay it forward.
+
+The Book of Elon Musk Elon Musk's Most Useful Ideas In His Own Words
+
+Mar 31
+
+Mar 31 The Algorithm
+
+Eric Jorgenson
+
+I became a broken record on The Algorithm. But it’s helpful to say it to an annoying degree.
+
+I have everyone at my companies rigorously implement a five-step process for engineering. I call it The Algorithm. I’ll list the steps, then explain. The order is very important.
+
+Make your requirements less dumb.
+
+Try very hard to delete the part or process.
+
+Simplify or optimize.
+
+Accelerate.
+
+Automate.
+
+Q: Why is the order of the steps so important?
+
+I’ve personally made the mistake of going backward—on all five steps—multiple times. Many things at Tesla were automated, accelerated, simplified, and then deleted.
+
+One example was fiberglass mats on top of the battery pack. At one point I was basically living on the battery pack production line, because it was choking the entire car’s production. The first mistake was trying to fix the automation to make the robot better, to make it move faster on a shorter path. We increased the rate by 20 percent, then 100 percent. Then, we tried to optimize the use of glue and the drying speed.
+
+Automating was a mistake, then accelerating was a mistake, then optimizing was a mistake. Finally, I asked the battery safety team, “What the hell are these mats for? Fire protection?”
+
+They said, “No, they’re for noise and vibration.”
+
+I said, “But…you’re the battery team.”
+
+So I asked the noise vibration analysis team, “What’s the mat for?”
+
+They said fire safety. It was like being in a Dilbert cartoon. I feel like I’m in a Dilbert cartoon quite frequently.
+
+So we ran a test: a car with and without the fiberglass mats and a microphone in both. No one could tell the difference. So, we deleted the part (the mats), which deleted a step that required two million dollars of robotics, because it was just a big pile of nonsense.324
+
+Q: Can you walk me through the steps?
+
+The first step is to question the requirements, and make your requirements less dumb. You have to start there, because otherwise you could get the perfect answer to the wrong question. This step makes the question the least wrong possible.
+
+Your requirements are definitely dumb. It does not matter who gave them to you. Requirements from smart people are the most dangerous, because you’re less likely to question them. Always question requirements, even if it came from me. Everyone is wrong some of the time.
+
+Whatever requirements or constraints you do have must come from a person, not a department. You can’t actually ask a department. You have to be able to ask a person, and the person putting forth the requirement must take responsibility for that requirement. Otherwise, you could have a requirement made up by an intern two years ago off the cuff, or someone who isn’t even at the company anymore. You must know the name of the real person who made every requirement.
+
+Many times we’ve had dumb requirements, dug into them, and discovered no one currently working in that department agrees with the requirement. These things are often way more silly than you think. So step one is make your requirements less dumb.325
+
+Step two: Try very hard to delete the part or process. It sounds obvious, but people often forget to try deleting something entirely.
+
+If you’re not adding deleted things back in 10 percent of the time, you’re clearly not deleting enough. Somewhat illogically, people often feel they’ve succeeded if they are not forced to put anything back in. But actually they have failed in a different way, because they’ve been overly conservative and have left things in there that shouldn’t be.
+
+The bias tends to be very strong for adding this part or process step “just in case we need it.” But you can make “just in case” arguments for many, many, many things.
+
+People tend to remember, with sometimes a jarring level of pain, when they deleted something they later needed. They overcorrect, and put too much stuff in there, which overcomplicates things.
+
+I tell them this in advance: “Look, we’re deliberately going to delete more than we should. Some of the things we delete, we’re going to put back in. At least one in ten things, we’re going to add back in.” People get a little shook by that. But if you’re so conservative in deleting that you never have to put anything back in, you obviously have a lot of stuff that isn’t needed. So, you’ve got to overcorrect for that tendency.
+
+At SpaceX, I would tell the team, “We are on a deletion rampage!! Nothing is sacred. We will delete any remotely questionable tubes, sensors, manifolds, etc. tonight. Please go ultrahardcore on deletion and simplification.” We put immense effort into reducing mass.
+
+There’s a recursive factor to mass. If you add an extra ton of heat shielding, you also need more fuel to get it to orbit, and you need more fuel to deorbit, and you need more fuel to land it. Also the structure now has more load on it, because it’s carrying an extra ton of heat shield. This applies to any given ton.
+
+Adding each ton is almost like adding two tons when it’s fully considered. We’ve calculated it to be around a 1.8 recursion factor, but we’re probably forgetting something that gets us closer to two. Every one ton of mass begets an extra ton. That is why it is very important to delete.326
+
+Recapping so far: Step one, make your requirements less dumb. Step two, try hard to delete the part or process.327
+
+Then, once you have deleted as much as you can, the third step is to simplify or optimize. The third step. The third step. Not the first step. Why?
+
+The most common mistake of smart engineers is to optimize a thing that should not exist.
+
+Everyone was trained in high school and college to answer the question in front of them. It’s convergent logic. You can’t tell the professor, “Your question is dumb.” You have to answer the question. Without knowing it, almost everyone has this mental straightjacket on. They’ll work on optimizing a thing that should simply not exist.
+
+Then, and only then, step four: accelerate cycle time. Once you’re moving in the right direction, and moving efficiently…you’re moving too slow. Go faster. You can always make things go faster.
+
+But, do not go faster until you have worked on the other three things first. I mistakenly spent a lot of time accelerating processes that I later realized should have been deleted. Speeding up something that shouldn’t exist is absurd. If you’re digging your grave, don’t dig it faster. Stop digging.
+
+Step five, the final step, is to automate. The big mistake I made in the Tesla factories in Nevada and Fremont was trying to automate every step too early. To fix that, we had to tear hundreds of expensive robots out of the production line. We put a hole in the side of the building just to remove all that equipment.328
+
+Always wait until the end of designing a process—after you have questioned all the requirements and deleted unnecessary parts—before you introduce automation.329
+
+Eric Jorgenson
+
+CEO of Scribe Media. Author of The Almanack of Naval and The Anthology of Balaji. Investing in technology startups as GP at Rolling Fun. Podcast: Smart Friends. Happy to be in touch through Twitter or email.
+
+Website
+
+About the book
+
+Book and website curating and sharing Elon's wisdom. Coming soon on March 24th. Follow on Twitter.
+
+Mar 31 Simplicity Wins
+
+Mar 31 Don't Waste Time

@@ -1,0 +1,121 @@
+# SOURCE: https://elonmuskinterviews.wordpress.com/2021/11/19/tesla-ai-day-the-tesla-bot/
+# TITLE: Tesla AI Day – The Tesla Bot and Q&A
+# FETCHED: fetch_content_cache
+
+_In this part of the Tesla AI Day [YouTube video](https://www.youtube.com/watch?v=j0z4FweCy4M&t=3037s) (2:06:49 – 2:31:13), Elon Musk presents the plans for the Tesla bot “Optimus” to the public and then answers questions from the audience together with the Tesla AI team. You can access the [German translation](https://elon-musk-interviews.com/?p=2148) and [part 1](https://elon-musk-interviews.com/2021/08/31/tesla-ai-day-the-presentation-i/) and [part 2](https://elon-musk-interviews.com/2021/09/29/tesla-ai-day-the-presentation-ii/) of the English transcript by clicking on the links._
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/11/titelfoto.jpg?w=1024)
+
+**Elon Musk:** (2:06:49) _(a person in a Tesla Bot costume leaves the stage after his performance)_ All right. Thank you.
+
+Unlike Dojo, obviously, that was not real. Dojo is real, the Tesla Bot will be real. Basically, if you think about what we’re doing right now with the cars, Tesla is arguably the world’s biggest robotics company because our cars are like semi-sentient robots on wheels. And with the full self-driving computer, essentially, the inference engine on the car, which will keep evolving, obviously, and Dojo and all the neural nets, recognizing the world, understanding how to navigate through the world, it kind of makes sense to put that on to a humanoid form.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/11/bild-1.jpg?w=1024)
+
+They’re also quite good at sensors and batteries and actuators. So, we think we’ll probably have a prototype sometime next year that basically looks like this. And it’s intended to be friendly, of course, and navigate through a world built for humans, and eliminate dangerous, repetitive, and boring tasks. We’re setting it such that it is at a mechanical level, at a physical level, you can run away from it and most likely overpower it. So, hopefully, that doesn’t ever happen. But you never know. It’ll be a light… five miles an hour, you can get run faster, and that’d be fine.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/11/bild-3.jpg?w=1024)
+
+It’s around five foot eight, has sort of a screen where the head is for useful information. But as otherwise, basically got the autopilot system, and it’s got cameras, got eight cameras, and full self-driving computer and making use of all of the same tools that we use in the car. I mean, things I think that are really hard about having a useful humanoid robot is that you cannot navigate through the world without being explicitly trained. I mean, without explicit line-by-line instructions.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/11/bild-4.jpg?w=1024)
+
+Can you talk to it and say, you know, please, pick up that bolt and attach it to a car with that wrench? And it should be able to do that. It should be able to, you know… please go to the store and get me the following groceries. That kind of thing. So, yeah, I think we can do that. This, I think, will be quite profound, because if you say it like what is the economy? It is, at the foundation, it is labor. So, what happens when there is, you know, no shortage of labor? That’s why I think long term that there will need to be universal basic income. Yeah. But not right now, because this robot doesn’t work. We just need a minute.
+
+But I think essentially, in the future, physical work will be a choice. If you want to do it, you can, but you won’t need to do it. I think that, obviously, has profound implications for the economy because given that the economy at its foundational level is labor, I mean, capital equipment is just distilled labor, then, is there any actual limit to the economy? Maybe not. So, yeah, join our team and help build this.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/11/bild-2.jpg?w=1024)
+
+(2:11:12) Alright, so I think we’ll have everyone come back on the stage, and you guys can ask questions if you’d like.
+
+_(the AI team joins Elon Musk on stage)_
+
+We’re happy to answer any questions you have about anything on the software or hardware side, where things are going. And yeah, fire away.
+
+Because the lights are like interrogation lights, so we actually cannot see … ah, there we go, great. All right, cool.
+
+**Audience:** (2:12:57) I can just… okay, there we go. First off, I mean, thanks to all the presenters. That was just super cool to see everything. I’m just curious at a high level, and this is kind of a question for really anyone who wants to take it. To what extent are you interested in publishing or open-sourcing anything that you do for the future?
+
+**Elon Musk:** Well, I mean, it is fundamentally extremely expensive to create the system. So somehow it has to be paid for. I’m not sure how to pay for it if it’s fully open-sourced unless people want to work for free. But I should say that if other car companies want to license it and use it in their cars, that would be cool. This is not intended to be just limited to Tesla cars.
+
+**Audience:** (2:14:05) It’s for the Dojo supercomputer. Did you solve the compiler problem of scaling to these many nodes? Or, if it is solved, is it only applicable to Dojo? Because I’m doing research in deep learning accelerators, and getting the correct scalability or the distribution, even in one chip, is extremely difficult from the research projects perspective. So I was just curious.
+
+**AI team member:** Have we solved the problem? Not yet. Are we confident we will solve the problem? Yes. We have demonstrated networks on prototype hardware. Now we have performance models showing the scaling. The difficulty is, as you said, how do we keep the localities? If we can do enough model parallel, enough data parallel, to keep most of the things local, we just keep scaling. We have to fit the parameters in our working set in our SRAM that we have, and we flow through the pipe.
+
+**Audience:** (2:15:11) There’s still opportunities…?
+
+**AI team member:** There’s plenty of opportunities. As we get further scale for further processor nodes, have more local memory, memory (…) also bandwidth, we can do more things. But as we see it now, the applications that Tesla has, we see a clear path.
+
+**Ganesh Venkataramanan:** And our modularity story means we can have different ratios, different aspects created out of it. I mean, this is something that we chose for our applications internally.
+
+**Audience:** (2:15:45) I was just saying that the locality portion of it, given that training, is such a soft scaling application. Even though you have all this compute and have a high bandwidth interconnect, it could not give you that performance because you are doing computations on limited memory at different locations. So that’s very curious to me when you said it’s solved because I just jumped onto the opportunity. I would love to know more, given that, how much you can open source.
+
+**Elon Musk:** I guess the proof’s in the pudding. We should have Dojo operational next year, and we’ll, obviously, use it for video training. I mean, fundamentally, this is about like… The primary application initially is we’ve got vast amounts of video, and how do we train vast amounts of video as efficiently as possible and also shorten the amount of time. Like, if you’re trying to train to a task, just in general innovation is how many iterations, and what is the average progress between each iteration. And so, if you can reduce the time between iterations, the rate of improvement is much better. So, you know, if it takes like sometimes a couple of days for a model to train versus a couple hours, that’s a big deal.
+
+But the acid test here, and what I’ve told the Dojo team is like, it’s successful if the software team wants to turn off the GPU cluster. But if they want to keep the GPU cluster on, it’s not successful.
+
+**Audience:** (2:17:38) Hi, right over here. Loved the presentation. Thank you for getting us out here. Loved everything, especially the simulation part of the presentation. I was wondering, it looked very realistic. Are there any plans to maybe expand simulation to other parts of the company in any way?
+
+**Ian Glow:** Hi, I’m Ian Glow. I manage the autopilot simulation team. So, as we go down the path to full self-driving, we’re gonna have to simulate more and more of the vehicle. Currently, we’re simulating vehicle dynamics, we’re gonna need BMS, we’re going to need the MCU, we’re gonna need every single part of the vehicle integrated. And that actually makes the autopilot simulator really useful for places outside of autopilot. So, we want to expand eventually to being a universal simulation platform.
+
+But I think before that, we’re going to be spinning up a lot of Optimus’ support, and then a little bit further down the line, we have some rough ideas and potentially how to get the simulation infrastructure and some of the cool things we’ve built into the hands of people outside of the company.
+
+**Elon Musk:** Optimus is the codename for the Tesla bot.
+
+**Ian Glow:** Oops.
+
+**Elon Musk:** Optimus Prime.
+
+**Audience:** (2:18:56) Hi, this is (…). Thank you for the great presentation and putting all of these cool things together. Yeah, for a while, I have been thinking that the car is already a robot. So why not a humanoid robot. And I’m so happy that today you mentioned that you’re going to build such thing. Especially I think that this can give opportunity for ways of putting multi-modality together.
+
+For instance, we know that… in the example that you are showed that there was a dog and we saw some passengers or running together. The language and symbolic processing can really help for visualizing that. I was wondering if I could hear a little more about these type of putting modalities together, including language and vision, because I have been working with, for instance, mini GPTs and Andrej put out there. And yeah, I didn’t hear much about other modalities that’s going into the car or at least in the simulation. Is there any comment that you could tell us?
+
+**Elon Musk:** Well, driving is fundamentally, basically, almost entirely vision neural nets. Like, basically, it’s running on a biological vision neural net. And what we’re doing here is a silicon camera neural net. There is some amount of audio, you know, you want to hear if there’s like emergency vehicles, or, you know, I guess converse with the people in the car. If somebody’s yelling something at the car, the car needs to understand what that is. So, you know, all the things that are necessary for it to be fully autonomous.
+
+**Audience:** (2:21:11) Hi, thank you for all the great work that you’ve shown. My question is for the team because the data that was shown seems to be predominantly from the United States that the FSD computer is being trained on. But as it gets rolled out to different countries, which have their own road systems and challenges that come with it, how do you think that it’s gonna scale? I’m assuming like the ground up is not a very viable solution. So, how does that transfer to different countries?
+
+**Elon Musk:** Well, we actually do train using data from probably like 50 different countries. But we have to pick… As we’re trying to advance full self-driving, we need to pick one country. And since we’re located here, we pick the US. And there were a lot of questions like why not even Canada? Well, because the roads are a little different in Canada, different enough. And so, when trying to solve a hard problem, you want to say, like, okay, let’s not add additional complexity right now. Let’s just solve it for the US. And then we will extrapolate to the rest of the world. But we do use video from all around the world.
+
+**Andrej Karpathy:** I think a lot of what we are building is very country agnostic. Fundamentally, all the computer vision components and so on, don’t care too much about country-specific sort of features. Every different countries have roads, and they have curbs, and they have cars, and everything we’re building is fairly general for that.
+
+**Elon Musk:** Yeah. And then the prime directive is ‘don’t crash’.
+
+**Andrej Karpathy:** Right. And that’s true for every country.
+
+**Elon Musk:** Yes. This is the prime directive. And even right now, the car is pretty good at not crashing. And so, just basically, whatever it is, don’t hit it. Even if it’s a UFO that crash-landed on the highway – still don’t hit it. It should not need to recognize it in order to not hit it. That’s very important.
+
+**Audience:** (2:23:20) I wanted to ask that, when you do the photometric process, multiview geometry, how much of an error do you see? Is that like one millimeter, one centimeter? I’m just… if it’s not confidential. What is the difference between the synthetically created geometry to the actual geometry?
+
+**Ashok Elluswamy:** Yeah, it’s usually within a couple of centimeters, three or four centimeters. That’s the standard deviation.
+
+**Audience:** What were different kinds of modalities to bring down that error?
+
+**Ashok Elluswamy:** We primarily tried to find scalable ways to label. In some occasions, we use other sensors to help benchmark, but we primarily use cameras for this system.
+
+**Audience:** Okay, thanks.
+
+**Elon Musk:** Yeah, I mean, I think we want to aim for the car to be positioned accurately to this sort of centimeter level, you know, something on that order.
+
+**Ashok Elluswamy:** Obviously, it willdepend on distance, like close by things can be much more accurate than farther away things, and they will matter less because the car doesn’t have to make decisions much farther away. And as it comes closer, it’ll become more and more accurate.
+
+**Elon Musk:** Exactly. A lot of questions.
+
+**Audience:** (2:24:41) Hi, thanks, everybody. My question has to do with sort of AI and manufacturing. It’s been a while since we’ve heard about the alien dreadnought concept. Is the humanoid that’s behind you guys, is that kind of brought out of the production hell’s timeline and saying that humans are underrated in that process?
+
+**Elon Musk:** Well, sometimes something that I say is taken to too much of an extreme. There are parts of the Tesla system that are almost completely automated. And then there are some parts that are almost completely manual. And if you were to walk through the whole production system, you would see a very wide range from, yeah, like I said, fully automatic to almost completely manual. But most of it is already automated. And then, with some of the design architecture changes, like going to large aluminum, high pressure die-cast components, we can take the entire rear third of the car and cast it as a single piece. And now we’re going to do that the front third of the car is a single piece, so the body line drops by like 60 to 70% in size.
+
+But yeah, the robot is not prompted specifically by manufacturing needs. It’s just that … we’re just obviously making the pieces that are needed for a useful humanoid robot. So I guess we probably should make it. And if we don’t, someone else would, will, and so I guess we should make it – and make sure it’s safe. I should say like also volume manufacturing is extremely difficult and underrated. And we’ve gotten pretty good at that. It’s also important for that humanoid robot, like how do you make the humanoid robot not be super expensive.
+
+**Audience:** (2:26:49) Hi. Thank you for the presentation. And my question will be about scaling of Dojo. And, in particular, how do you scale the compute nodes in terms of thermals and power delivery? Because there is only so much heat that you can dispense and only so much power that you can bring to like cluster rack. And how do you point to scale it and how do you point to scale it in multiple data centers?
+
+**Bill Chang:** Hi, I’m Bill; I’m one of the Dojo engineers. So, from a thermal standpoint and power standpoint, we’ve designed it very modular. So, what you saw on the compute tile, that will cool the entire tile. Once we hook it up to it is liquid-cooled on both the top and the bottom side. It doesn’t need anything else. And when we talk about clicking these together, once we click it to power, and once we click it to cooling, it will be fully powered and fully cooled. And all of that is less than a cubic foot.
+
+**Elon Musk:** Tesla has a lot of expertise in power electronics and in cooling. So we took the power electronics expertise from the vehicle powertrain and the sort of the advanced cooling that we developed for the power electronics and for the vehicle and apply that to the supercomputer. Because as you point out, getting heat out is extremely important; it’s just really heat-limited. So yeah, it’s funny that, like, at the compute level, it’s operating at less than a volt, which is a very low voltage with a lot of amps, so, therefore, a lot of heat. I squared R is what really bites you in the ass.
+
+**Audience:** (2:28:58) Hi, my question’s also merely a question of scaling. It seems like a natural consequence of using, you know, significantly faster training hardware is that you’d be either training models over a lot more data, or you’d be training a lot more complex models, which would be potentially significantly more expensive to run at inference time on the cars. I guess I was wondering if there was a plan to also apply Dojo as something that you’d be using on the self-driving cars, and if so, do you foresee additional challenges there?
+
+**Ganesh Venkataramanan:** As you could see, Andrej’s models are not just for cars. There are auto labeling models, there are other models that are beyond car application, but they feed into the car stack. Dojo will be used for all of those, too, not just the car inference part of the training.
+
+**Elon Musk:** I mean, Dojo’s first application will be consuming video data for training for that would then be run in the inference engine on the car. And that I think is an important test to see if it actually is good – is it actually better than GPU cluster or not? But then, beyond that, it’s basically a generalized neural net training computer. But it’s very much optimized to be a neural net. You know, CPUs and GPUs, they’re not designed specifically for training neural nets. We’ve been able to make GPUs especially very efficient for training neural nets, but that was never their design intent.
+
+Basically, GPUs are essentially running at neural net training in emulation mode. With Dojo, we’re saying like, okay, let’s just “asic” the whole thing, let’s just have this thing that’s build for one purpose, and that is a neural net training. And just generally, any system that is designed for a specific purpose will be better than one that is designed for general purpose. (2:31:13)

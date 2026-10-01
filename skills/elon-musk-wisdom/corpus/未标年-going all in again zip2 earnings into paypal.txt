@@ -1,0 +1,64 @@
+# SOURCE: https://www.elonmuskbook.org/the-book-of-elon-musk-free-online-version/going-all-in-again-zip2-earnings-into-paypal
+# HARVESTED: 2026-09-29
+
+Thank you for visiting the site. Enjoy the published content and the book. We appreciate your support, and please pay it forward.
+
+The Book of Elon Musk Elon Musk's Most Useful Ideas In His Own Words
+
+Mar 31
+
+Mar 31 Going All In, Again (Zip2 Earnings into PayPal)
+
+Eric Jorgenson
+
+It was frustrating.
+
+We built incredible technology at Zip2, and it had not been used. I wanted to build another internet company to show technology can be extremely effective when used properly.425
+
+I felt like we had our wings clipped somewhat with Zip2. I wanted to avoid being constrained by our customers like that, and go direct-to-consumer. That’s what motivated me to start PayPal.426
+
+Q: How did you come up with the idea for PayPal?
+
+I thought, What was essentially digital? What exists in the form of information, but is not high bandwidth? In 1999, most people still had modems, so video was not really feasible. Money is low bandwidth and mostly digital. What can we do to make money work better?427
+
+Money is like a database for guiding people to decide what they should do. You can think of banks as a set of databases.428
+
+The 1990s financial infrastructure was a bunch of ancient mainframes, running ancient code, doing batch processing with poor security, and a series of heterogeneous databases. A herky-jerky frickin’ monstrosity.
+
+From an information theory standpoint, finance would be much better if it could be real-time, secure, and fast. Essentially just one real-time database. Let’s try to build that.
+
+Q: Can you explain the PayPal idea from an information theory perspective?
+
+Think of money as information. People often think money has power in and of itself. It does not. Money is just information. Money is a database for resource allocation across time and space.
+
+Let’s try thinking in the limit, as I explained before. If you are stranded on a tropical island with a trillion dollars, it’s useless. On the island there are no resources to allocate, except yourself, so money doesn’t help. If you’re stranded with no food, all the Bitcoin in the world will not stop you from starving.
+
+You need something to create ratios of value between products and services. In an economy, you have a massive number of products and services. You can’t trade for everything. That would be extremely unwieldy. You need something to create the ratio of exchange between goods and services. You also need something that allows us to shift obligations across time, like debt and equity.429
+
+The quality of money as a system is a function of different variables. Just like an internet connection, you want high bandwidth, low latency, and few errors.430
+
+What PayPal really did was help improve the bandwidth—the speed at which money could move. Instead of mailing checks back and forth, you could do real-time exchange of money online. Sellers could then ship items immediately instead of waiting for a check and then for the bank to clear it.431
+
+We should look at currencies from an information theory standpoint.
+
+Whichever has least error and latency will win.
+
+That’s what X.com originally was. I thought we should try to do all the financial things as well—not just payments. I still think that’s what PayPal should have done, but whatever. It’s water under the bridge at this point.432
+
+I rolled most of my Zip2 money into X.com, investing $12.5 million.433 In 1999, Sequoia invested in X.com, buying $5 million in shares, and Mike Moritz joined the company’s board. When Moritz invested, he said we should hire a CEO. I said, “Great, I don’t want to be CEO.” I had no desire to be a CEO. It’s a lot of chores…being CEO sucks. He also told me, “Dude, you should not invest basically everything except your house and car in your startup. ”434
+
+I kept the chips on the table.435
+
+Eric Jorgenson
+
+CEO of Scribe Media. Author of The Almanack of Naval and The Anthology of Balaji. Investing in technology startups as GP at Rolling Fun. Podcast: Smart Friends. Happy to be in touch through Twitter or email.
+
+Website
+
+About the book
+
+Book and website curating and sharing Elon's wisdom. Coming soon on March 24th. Follow on Twitter.
+
+Mar 31 Starting Zip2
+
+Mar 31 Listen Well, Correct Fast

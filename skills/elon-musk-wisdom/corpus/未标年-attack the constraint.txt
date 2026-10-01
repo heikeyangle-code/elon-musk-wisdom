@@ -1,0 +1,42 @@
+# SOURCE: https://www.elonmuskbook.org/the-book-of-elon-musk-free-online-version/attack-the-constraint
+# HARVESTED: 2026-09-29
+
+Thank you for visiting the site. Enjoy the published content and the book. We appreciate your support, and please pay it forward.
+
+The Book of Elon Musk Elon Musk's Most Useful Ideas In His Own Words
+
+Mar 31
+
+Mar 31 Attack the Constraint
+
+Eric Jorgenson
+
+Designing a rocket is trivial.
+
+There are tons of books you can read, and if you can understand equations, you can design a rocket. Real easy. But making even one of these things and getting it to orbit is very hard.369
+
+It’s the same thing for cars. It’s easy to make a car prototype; it’s hard to do car production.370
+
+This is underappreciated. People think there is a “eureka” moment where you come up with an idea and that’s it. They believe design is the hard part and production is just making copies. That’s completely false.371
+
+At Tesla, we learned a valuable lesson. The production line will move as fast as the slowest and least lucky part of the entire production line. Let’s say there are ten thousand things that have to go right for production to work. If you have 9,999 things working and one that isn’t, that sets the production rate.372
+
+Things move as fast as the least lucky or least competent supplier. Any natural disaster you care to name has happened to our suppliers. A supplier had a factory burn down. An earthquake. A tsunami. Massive hail. A tornado. A ship sank. A shoot-out at the Mexican border. I’m not kidding. That delayed trunk carpet.373
+
+So when scaling SpaceX, we spent ten to one hundred times more effort on designing the manufacturing system than on designing the Raptor engine.374 We built the rockets first and the factory later, because building the production system is the harder thing.375
+
+Design is overrated, and manufacturing is underrated. There is 1,000 percent, maybe 10,000 percent more work that goes into the production system than the product itself.376 Especially for a product with new technology. The difficulty of manufacturing is proportionate to the amount of new technology in the product.377
+
+Eric Jorgenson
+
+CEO of Scribe Media. Author of The Almanack of Naval and The Anthology of Balaji. Investing in technology startups as GP at Rolling Fun. Podcast: Smart Friends. Happy to be in touch through Twitter or email.
+
+Website
+
+About the book
+
+Book and website curating and sharing Elon's wisdom. Coming soon on March 24th. Follow on Twitter.
+
+Mar 31 The Factory Is the Product
+
+Mar 31 Manufacturing Is the Moat

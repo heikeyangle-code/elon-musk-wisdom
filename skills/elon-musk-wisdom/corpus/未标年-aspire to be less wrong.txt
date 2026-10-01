@@ -1,0 +1,64 @@
+# SOURCE: https://www.elonmuskbook.org/the-book-of-elon-musk-free-online-version/aspire-to-be-less-wrong
+# HARVESTED: 2026-09-29
+
+Thank you for visiting the site. Enjoy the published content and the book. We appreciate your support, and please pay it forward.
+
+The Book of Elon Musk Elon Musk's Most Useful Ideas In His Own Words
+
+Mar 31
+
+Mar 31 Aspire to Be Less Wrong
+
+Eric Jorgenson
+
+The mental tools of physics are powerful. They tell us to assume we’re wrong and that our goal is to be less wrong. Aspire to be less wrong. I don’t think you’re going to succeed every day in being less wrong. But if you can succeed in being less wrong most of the time, you’re doing great.135
+
+It’s OK to be wrong. Just don’t be confident and wrong.136
+
+Aspirationally, you want to believe things proportionate to the evidence. Not inversely proportional to the evidence.137
+
+Most people can learn a lot more than they think they can.
+
+They sell themselves short by not trying.138
+
+Read books, because the data rate of reading is much greater than when somebody is speaking. What’s the output rate of speech? A couple hundred bits per second, maybe a few thousand per second if you’re going full tilt. You can get several times that by reading. The main reason I didn’t go to lectures in college was because the data rate was too slow.139
+
+I encourage you to read a lot of books. Just read. Try to ingest as much information as you can.
+
+I was always really interested in reading. When I was a kid, I read everything I could get my hands on.140 Around nine or ten I ran out of things to read in our house, so in desperation I read the encyclopedia—which turned out to be a good idea. I found all sorts of things I didn’t even know existed—a lot, obviously.
+
+I’d recommend everyone read or skim through the condensed version of the Encyclopedia Britannica. You can always skip subjects. If you read a few paragraphs and know you’re not interested, just jump to the next one.141
+
+Develop good general knowledge, so you at least have a rough “lay of the land” of the full knowledge landscape. Read a broad range of material. How can you know what you’re really interested in if you’re not at least doing a broad, light exploration of the knowledge landscape?142
+
+As a kid, I played historical strategy video games, like Civilization. This shows you how civilization formed. Through the technology tree, you invent different things. You’d invent literacy, democracy, and gunpowder. You start to realize, “Oh wow, there are stages to technology. You can’t have democracy without creating literacy.” There are stages of technology and development of ideas. That’s a helpful framework.143
+
+It is important to view knowledge as a semantic tree. Make sure you understand the fundamental principles (the trunk and big branches) before you get into the leaves (the details), then there is something for them to hang on to.144
+
+Some ideas come from reading about a sad trend in technology. When I read about the Concorde being retired, I was like, “Jeez, we don’t even have supersonic transport anymore. That’s terrible.” I never had a chance to fly on the Concorde. That seemed like a terrible thing, so I started reading about it.
+
+I learned the Concorde was designed back in the sixties. Aerodynamics have improved a great deal since then, with computational fluid dynamics. Engine efficiencies have improved massively. Even if you just change the engines on the Concorde, you could double the range or thereabouts. I thought, Well, what if we could figure out an efficient design that could make it economically competitive to have a supersonic aircraft? I started looking into it more and did the math on all of it.145
+
+You can get super efficient and super fast when electric aircraft have vertical takeoff and landing, and go supersonic. We could make a breakthrough aircraft several generations beyond what currently exists.146
+
+Diving into SpaceX and Tesla, I had to learn how to make hardware. I’d never seen a CNC machine or laid out carbon fiber. I didn’t know any of those things, but if you read books and talk to experts, you can pick them up quickly.147 I started going to the Palo Alto public library to read about rocket engineering and started calling experts, asking to borrow their old engine manuals.148
+
+Most people self-limit their ability to learn. It’s pretty straightforward—just read books and talk to people.149
+
+The physics background is helpful as the foundation. But in rocketry I am self-taught, meaning I don’t have an aerospace degree. I just read a lot of books and talked to a lot of people.150
+
+Talk to people from different walks of life, in different industries, professions, and skills. Try to learn as much as possible. Search for meaning.151
+
+Eric Jorgenson
+
+CEO of Scribe Media. Author of The Almanack of Naval and The Anthology of Balaji. Investing in technology startups as GP at Rolling Fun. Podcast: Smart Friends. Happy to be in touch through Twitter or email.
+
+Website
+
+About the book
+
+Book and website curating and sharing Elon's wisdom. Coming soon on March 24th. Follow on Twitter.
+
+Mar 31 Thinking in Limits
+
+Mar 31 Engineering Is Magic

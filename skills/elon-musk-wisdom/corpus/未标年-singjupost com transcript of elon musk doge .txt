@@ -1,0 +1,65 @@
+# SOURCE: https://singjupost.com/transcript-of-elon-musk-doge-teams-interview-by-bret-baier-of-fox-news
+# TITLE: Transcript of Elon Musk, DOGE Team’s Interview by Bret Baier of Fox News
+# FETCHED: fetch_content_cache
+
+Read the full transcript of Elon Musk and Department of Government Efficiency (DOGE) team’s exclusive interview with Fox News Channel’s Bret Baier, highlighting their waste-cutting efforts. The group included Airbnb co-founder Joe Gebbia, former Morgan Stanley banker Anthony Armstrong, software engineer Aram Moghaddassi, COO Steve Davis, health care entrepreneur Brad Smith, Cloud Software Group CEO Tom Krause, and former oil executive Tyler Hassen.
+
+**TRANSCRIPT:**
+
+## Introduction and Budget Goals
+
+BRET BAIER: Thanks for having us and doing this. I know there’s a lot of interest in this. First, let me start with you, Elon. What are the budgetary savings goals and how much do you think you’ve achieved so far?
+
+ELON MUSK: Our goal is to reduce the deficit by a trillion dollars. So from a nominal deficit of two trillion, to try to cut the deficit in half to one trillion. Or looked at it in total federal spending to drop the federal spending from seven trillion to six trillion.
+
+We want to reduce the spending by eliminating waste and fraud, reduce the spending by 15 percent, which seems really quite achievable. The government is not efficient, and there’s a lot of waste and fraud, so we feel confident that a 15 percent reduction can be done without affecting any of the critical government services.
+
+BRET BAIER: I’m going to talk to all the guys here about the specifics, but for you, what’s the most astonishing thing you’ve found out in this process?
+
+ELON MUSK: The sheer amount of waste and fraud in the government. **It is astonishing. It’s mind-blowing. We routinely encounter wastes of a billion dollars or more.**
+
+Casually. For example, the simple survey, literally a 10-question survey that you could do with SurveyMonkey cost you about $10,000. The government was being charged almost a billion dollars for that.
+
+BRET BAIER: For just the survey?
+
+ELON MUSK: A billion dollars for a simple online survey, do you like the national park? And then there appeared to be no feedback loop for what would be done with that survey. So the survey would just go into nothing.
+
+BRET BAIER: You technically are a special government employee, and you’re supposed to be 130 days. Are you going to continue past that, or do you think that’s what you’re going to do?
+
+ELON MUSK: I think we will have accomplished most of the work required to reduce the deficit by a trillion dollars within that time frame.
+
+BRET BAIER: So in that time frame, 130 days. And the process is a report at some point, 100 days?
+
+ELON MUSK: Not really a report. We are cutting the waste and fraud in real time, so every day that passes. **Our goal is to reduce the waste and fraud by $4 billion a day, every day, seven days a week. And so far, we are succeeding.**
+
+## Addressing Critics
+
+BRET BAIER: And we’re going to talk in the specifics, but there obviously are DOGE critics who are reading all kinds of stuff. Obviously, lawmakers on the other side of the aisle are attacking you, and they characterize the approach as this, fire, ready, and then aim. And how do you approach that? How do you respond to that?
+
+ELON MUSK: Well, I do agree that we actually want to be careful in the cuts, so we want to measure twice, if not thrice, and cut once. And actually, that is our approach. They may characterize it as shooting from the hip, but it is anything but that.
+
+Which does not say that we don’t make mistakes. If we were to approach this with the standard of making no mistakes at all, that would be like saying someone in baseball has got to bat 1,000. That’s impossible. So when we do make mistakes, we correct them quickly, and we move on.
+
+## Steve Davis – DOGE Chief Operating Officer
+
+BRET BAIER: Some people say this shouldn’t take a rocket scientist. Steve Davis, you are a rocket scientist.
+
+STEVE DAVIS: Used to be.
+
+BRET BAIER: Now, essentially, you’re the chief operating officer of DOGE, day-to-day operations. Fair to say?
+
+STEVE DAVIS: Yeah, part of the DOGE team.
+
+BRET BAIER: So how did you end up here? What’s the biggest challenge you see?
+
+STEVE DAVIS: The reason I’m here, which is probably for many, is that I think the goal is incredibly inspiring. I think most of the taxpayers in the country would agree that in order to have the country going bankrupt would be a very bad thing, and therefore the country going not bankrupt is a good thing that all of us are willing to kind of put our lives on hold in order to do.
+
+I think the thing that’s special right now is we actually believe there’s a chance to succeed, that there’s an administration that’s supportive and a great cabinet and just a great group that will actually make success a possible outcome. And I think that’s, given the inspiring mission and given the non-zero chance of success, it was worth doing.
+
+ELON MUSK: I’d just like to sort of reemphasize that point. **The success of DOGE is only possible with President Trump and with the outstanding cabinet that he’s selected. It would be impossible without the support of the president and the cabinet.**
+
+BRET BAIER: But you’re finding the money. I mean, it’s big numbers, right?
+
+STEVE DAVIS: Yeah, like Elon said, the minimum impulse bid is often a billion dollars. So, for example, the $830 million, which was the online survey, that’s an enormous amount of money that wouldn’t have been found if the DOGE team wasn’t working with it, in that case, the Department of Interior.
+
+But then, taking it one step further, DOGE then publishes these things on our website for maximum transparency. So now the general public, it would have been impossible for the general public to have seen that. Now anyone can just log into DOGE.gov anytime and see these payments.

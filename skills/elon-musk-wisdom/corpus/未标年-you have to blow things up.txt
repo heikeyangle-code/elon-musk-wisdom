@@ -1,0 +1,60 @@
+# SOURCE: https://www.elonmuskbook.org/the-book-of-elon-musk-free-online-version/you-have-to-blow-things-up
+# HARVESTED: 2026-09-29
+
+Thank you for visiting the site. Enjoy the published content and the book. We appreciate your support, and please pay it forward.
+
+The Book of Elon Musk Elon Musk's Most Useful Ideas In His Own Words
+
+Mar 31
+
+Mar 31 You Have to Blow Things Up
+
+Eric Jorgenson
+
+The first goal is to make the damn thing work—we’ll optimize it later
+
+We want to push the envelope. If you don’t push the envelope, you cannot achieve the goal of a fully and rapidly reusable rocket with high payload. It’s not possible. You have to go close to the edge on margins.643
+
+We intentionally iterate the design of the Starship at SpaceX rapidly. This is a fundamentally different optimization for Starship versus a polar extreme like our Dragon capsule. Since Dragon now carries crew, there can be no failures, ever. Everything’s going to be tested. There can never be a failure, ever, for any reason whatsoever. With human crew in a developed vehicle, we’re in extreme conservatism mode.
+
+Falcon is a little less conservative. It is possible for us to have, say, a failure with a booster on landing. That’s not the end of the world. Early Starship models were the polar opposite of Dragon. We were iterating rapidly to learn.644
+
+Q: Is that different from other space programs?
+
+NASA’s space shuttle had almost no iteration because there were people on board. You can’t be blowing up shuttles. That lack of iteration was a problem. There were a lot of issues they were aware of, but people were too afraid to make changes to a design that had already worked. There was risk-reward asymmetry. If you make a change and something goes wrong, big punishment. If you make a change and it goes right, small reward.
+
+They had seen the issues with the O-ring and the insulation coming off and hitting the wing before, but there had not been a catastrophe. They figured it was good enough because it worked before. But that’s like Russian roulette: “Look, I’ve pulled the trigger and I’m fine.”
+
+It’s hard to iterate when people are on board every mission. Starship does not have anyone on board during early trials so we can blow things up, learn, and iterate. That’s really helpful. To improve safety, you need to fly a lot and have a lot of redundancy. So if you lose an engine on the booster, it doesn’t matter. Even losing multiple engines shouldn’t matter.645
+
+We don’t want to design to eliminate every risk. Otherwise, we will never get anywhere.646
+
+Before every Starship launch, we go through the list of risks we predict, which we call the “risk list.” If you look at various reasons why we blew up, none of the reasons they blew up were on our “risk list.” There’s a crazy amount of new technology, all evolving simultaneously. We need time and trials to iron out the unknown unknowns.647
+
+Q: What is the big-picture vision SpaceX is iterating toward?
+
+The overarching optimization is: “What is the fastest time to a city on Mars?”
+
+Then subset → fastest time to a fully usable rocket.
+
+And subset → fastest time to orbit.648
+
+Initial production was simply a learning exercise. None of the initial designs will be long term. We’re just trying to learn in the shortest period of time. The early Starship assembly yard looked like a garage shop, to be frank. It’s weird—we have superadvanced technology being built in a tent in a parking lot.
+
+Early versions of Starship didn’t even have doors. We didn’t need doors. We did need to be superfocused on getting to orbit. Then superfocused on getting the ship back. Doors were just unnecessary complexity. The first ten ships (or more) we won’t get back from orbit. We probably won’t be flying them again. Maybe once or twice—if we’re lucky.649
+
+Eliminate what isn’t necessary to solve the key problem.650.
+
+Eric Jorgenson
+
+CEO of Scribe Media. Author of The Almanack of Naval and The Anthology of Balaji. Investing in technology startups as GP at Rolling Fun. Podcast: Smart Friends. Happy to be in touch through Twitter or email.
+
+Website
+
+About the book
+
+Book and website curating and sharing Elon's wisdom. Coming soon on March 24th. Follow on Twitter.
+
+Mar 31 Landing NASA Contracts
+
+Mar 31 Building the Just Barely Possible

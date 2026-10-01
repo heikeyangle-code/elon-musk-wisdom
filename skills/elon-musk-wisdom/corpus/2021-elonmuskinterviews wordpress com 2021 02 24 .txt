@@ -1,0 +1,995 @@
+# SOURCE: https://elonmuskinterviews.wordpress.com/2021/02/24/the-joe-rogan-experience-1169-elon-musk-v-english/
+# TITLE: The Joe Rogan Experience #1169 – Elon Musk (V)
+# FETCHED: fetch_content_cache
+
+_This is the fifth, last and – with a running time of just under an hour (01:39:26 – 02:36:53) – longest part of the transcript of the [Joe Rogan Experience #1169](https://www.youtube.com/watch?v=ycPr5-27vSI&t=7627s) with Elon Musk. Apart from the famous but rather unspectacular joint scene, this conversation offers insight into views on human nature and a very beautiful approach to how we can better interact with each other. It also covers privacy, the first Tesla, Porsche’s physics, solar glass roofs, watches, horses, Joe’s strange dream, and Elon’s sleepless nights, among other topics – all in all, a wild mix. For the [German translation](https://elon-musk-interviews.com/2021/02/24/the-joe-rogan-experience-1169-elon-musk-v-deutsch/) and [part four](https://elon-musk-interviews.com/2021/02/09/the-joe-rogan-experience-1169-elon-musk-iv-english/) of the interview, click on the links._
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/02/rogan5-titel2-1.jpg?w=1024)
+
+**Elon Musk:** (01:39:26) And I, actually, had this conversation at dinner several years ago with a district attorney. I was like, „Man, it must, sometimes, seem pretty, pretty dark because, you know, man, there’s some terrible human beings out there. And he was like, „Yup.“ And he was like dealing with some case, which consisted of a couple of old ladies that would run people over somehow for insurance money. It was rough. Like, „Wow, that’s pretty rough.“ It’s hard to maintain faith in humanity if you’re a district attorney, (01:40:00)  but, you know, it’s only a few percent of society that are actually bad.
+
+And then if you go to the worst, say 0.1% of the society of the worst, one in a thousand, one in a million, you know. Like how bad is the millionth worst person in the United States? Pretty damn bad. Like damn evil. One in a million of evil is so evil; people cannot even conceive of it. But there are 330 million people in the United States. So, that’s 330 people out there somewhere. But by the same token, there are also 330 people who are incredible angels and unbelievably good human beings on the other side.
+
+**Joe Rogan:** But because of our fear of danger, we tend to — our thoughts tend to gravitate towards the worst-case scenario. And we want to frame that. And that’s one of the real problems with prejudice; whether it’s prejudice towards different minorities, or prejudice towards police officers, or anything, it’s like we want to look at the worst-case scenario and say, „This is an example of what this is all about.“
+
+And you see that even with people, how they frame genders. Some men frame women like that. They get ripped off by a few women, and they decide, „All women are evil.“ Some women get fucked over by a few men, „All men are shit.“ And this is very toxic.And it’s also — It’s a very unbalanced way of viewing the world, and it’s very emotionally based, and it’s based on your own experience, your own anecdotal experience. And it can be very influential to the people around you, and it’s just a dangerous way. It’s a dangerous thought process and pattern to promote.
+
+**Elon Musk:** It is. It is a very dangerous pattern. I really think people should give other people the benefit of the doubt and assume that they are good until proven otherwise. And, I think, really, most people are actually pretty good people. Nobody’s perfect.
+
+**Joe Rogan:** They have to be. If you think of vast numbers of us that are just interacting with each other constantly – we have to be better than we think we are.There’s no other way.
+
+**Elon Musk:** I mean, here are these weapons but how many times, like, …nobody’s presumably try to murder you and you’re-
+
+**Joe Rogan:** Nobody yet.
+
+**Elon Musk:** Yes, nobody. It’s like the sword right there.
+
+**Joe Rogan:** Not the flamethrower, fake flamethrower here-
+
+**Elon Musk:** Exactly.
+
+**Joe Rogan:** It’s not a flamethrower. Now, we’ve got a real problem, I’m going to put it on that side, too, and leave it for the guests.
+
+**Elon Musk:** Yeah.
+
+**Joe Rogan:** I’m like, „Look, man, if I say something that fucked up, it’s right there.“
+
+**Elon Musk:** It will liven things up for sure. It’s guaranteed to make any party better.
+
+**Joe Rogan:** Yeah. Well, that’s — I mean, that’s the armed civilization theory, right. An armed community is a safe and polite community. You know, in Texas, it’s kind of true. People in Texas are super polite. Therefore – they’ve got a gun.
+
+**Elon Musk:** Yes. Don’t make somebody angry.You don’t know what’s going to happen.
+
+**Joe Rogan:** Yeah, it’s not a good move to piss people off when everybody can have a gun.
+
+**Joe Rogan:** You’re off to just let that guy get in your lane.
+
+**Elon Musk:** Yeah. You know, we got a big test site in Central Texas near Waco.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/02/rogan5-mcgregor.jpg?w=1024)
+
+**Joe Rogan:** Oh yeah? Beautiful.
+
+**Elon Musk:** Yes, Space X in McGregor. It’s about 15 minutes away from Waco.
+
+**Joe Rogan:** That’s close to where Ted Nugent lives.
+
+**Elon Musk:** It is?
+
+**Joe Rogan:** Shout out to Ted Nugent.
+
+**Elon Musk:** Okay, cool.
+
+**Joe Rogan:** Yeah.
+
+**Elon Musk:** Yeah, there’s — You know, we have lots of fire, and loud explosions, and things, and people are cool with it.
+
+**Joe Rogan:** They don’t give a fuck out there.
+
+**Elon Musk:** They’re very supportive.
+
+**Joe Rogan:** You can buy fireworks where, you know, your kids go to school.
+
+**Elon Musk:** You know, it’s dangerous.
+
+**Joe Rogan:** Yes**,** but it’s free.
+
+**Elon Musk:** It’s free.
+
+**Joe Rogan:** There’s something about Texas that’s very enticing because of that. It is dangerous, but it’s also free.
+
+**Elon Musk:** Right. I kind of like Texas, actually.
+
+**Joe Rogan:** I prefer it over places that are more restrictive but more liberal because you could always be liberal. Like just because things are free and just because you have a certain amount of, you know, right-wing type characters, it doesn’t mean you have to be that way, you know.And, honestly, there’s a lot of those people that are pretty fucking open-minded and let you do whatever you want to do. As long as you don’t bother them.
+
+**Elon Musk:** Yeah, exactly.
+
+**Joe Rogan:** That’s my hope right now with the way we’re able to communicate with each other today, and how radically different it is than generations past is that we all just, the dust settles. We all realize, like what you’re saying, that most people are good.
+
+**Jaime:** Most people are good.
+
+**Joe Rogan:** The vast majority.
+
+**Elon Musk:** Yes. I think if you give people the benefit of doubt, for sure.
+
+**Joe Rogan:** I think you’re right. Do you know who could help with that? Mushrooms.
+
+**Elon Musk:** Mushrooms.
+
+**Joe Rogan:** Don’t you think?
+
+**Elon Musk:** They’re delicious.
+
+**Joe Rogan:** Yeah, right. They’re good for you too. All of them. All kinds of them.
+
+What do you see in terms of, like, when you think about the future of your companies, (01:45:00) what do you see as bottlenecks? What do you see in terms of bottlenecks of things that are holding back innovation? Is it regulatory commissions and people that don’t understand the technology that is influencing policy? What could potentially be holding you guys back right now? Is there anything that you would change?
+
+**Elon Musk:** Yeah, that’s a good question. You know, I wish politicians were better at science. That would help a lot.
+
+**Joe Rogan:** That’s a problem.
+
+**Elon Musk:** Yes.
+
+**Joe Rogan:** There’s no incentive for them to be good at science.
+
+**Elon Musk:** There isn’t. Actually, you know, they’re pretty good at science in China, I have to say. The mayor of Beijing has, I believe, an environmental engineering degree, and the deputy mayor has a physics degree. I met them, and the mayor says, „Shanghai is really smart and-„
+
+**Joe Rogan:** You’re up on technology. What do you think about this government policy of stopping the use of Huawei phones? And there’s something about the worry about spying. I mean, from what I understand from real tech people, they think it’s horseshit.
+
+**Elon Musk:** I don’t know.
+
+**Joe Rogan:** Like the government say, „Don’t you buy Huawei phones.“ Are you up on that at all? No? Should we just abandon this idea?
+
+**Elon Musk:** If you have like top secret stuff, then you want to be pretty careful about what hardware you use. But, you know, like most people do not have top-secret stuff. Nobody really cares what porn you watch. It’s like nobody actually cares, you know. So-.
+
+**Joe Rogan:** If they do, that’s kind of on them.
+
+**Elon Musk:** Yeah. National spy agencies do not give a rat’s ass which porn you watch. They do not care. So, like, what secrets does a national spy agency have to learn from the average citizen? Nothing.
+
+**Joe Rogan:** Well, that’s the argument against the narrative. And the argument by a lot of these tech people is that the real concern is that these companies, like Huawei, are innovating at a radical pace, and they’re trying to stop them from integrating into our culture and letting this… Like right now, they’re the number two cell phone manufacturer in the world.Samsung is number one. Huawei is number two. Apple is now number three. They surpassed Apple as number two. And the idea is that this is all taking place without them having any foothold whatsoever in America. There are no carriers that have their phones. You have to buy their phones unlocked through some sort of a third party, and then put-
+
+**Elon Musk:** Okay.
+
+**Joe Rogan:** And the worry is, you know, that these are somehow another controlled by the Chinese government. The Communist Chinese government is going to distribute these phones. And I don’t know if the worry’s economic influence or they’ll have too much power. I don’t know what it is. Are you paying attention to any of this?
+
+**Elon Musk:** Not really.I don’t think we should worry too much about Huawei phones, you know. Maybe a national security agency shouldn’t have Huawei phones. Maybe that’s a question mark. But I think for the average citizen, this doesn’t matter. Just like no, they’re not. I’m pretty sure the Chinese government does not care about the goings of the average American citizen.
+
+**Joe Rogan:** Is there a time where you think that there will be no security, will be impossible to hold back information that whatever bottleneck we’ll let go, we’re going to give in? That whatever bottleneck between privacy and ultimate innovation will have to be bridged in order for us to achieve the next level of technological proficiency that we’re just going to abandon it, and there’ll be no security, no privacy?
+
+**Elon Musk:** Do people want privacy? Because they seem to put everything on the internet. Practically-.
+
+**Joe Rogan:** Well, right now, they are confused, but when you’re talking about your Neuralink, and this idea that one day, we’re going to be able to share information, and we’re going to be some sort of a thing that’s symbiotically connected?
+
+**Elon Musk:** Yeah. I think we really need to worry about security in that situationfor sure. That’s like security paramount.
+
+**Joe Rogan:** But, also, what we will be. This will be so much different. Our concerns about money, about status, about all these things, will seemingly go by the wayside if we really become enlightened, if we really become artificially enlightened by some sort of an AI interface where we have this symbiotic relationship with some new internet type connection to information. (01:50:00) But, you know, what happens then? What is important? What is not important? Is privacy important when we’re all gods?
+
+**Elon Musk:** I think the things that we think are important to keep private right now we probably will not think are important to keep…
+
+**Joe Rogan:** Shame, right? Information, right? What do you hide? Emotions? What are we hiding?
+
+**Elon Musk:** I don’t know. Maybe it’s like embarrassing stuff.
+
+**Joe Rogan:** Right, embarrassing stuff.
+
+**Elon Musk:** But I think there’s not that much that’s kept private by people that is actually relevant.That other people would actually care about. When you think other people care about it, but they don’t really care about it. And, certainly, governments don’t.
+
+**Joe Rogan:** Well, some people care about it. But then, it gets weird when it gets exposed. Like Jennifer Lawrence, when those naked pictures of her got exposed, like, I think, in some ways, people liked her more.They realized she’s just a person. It’s just a girl who likes sex, and is just alive, and has a boyfriend, and sends him messages. And now, you get to look into it, and you probably shouldn’t have, but somebody let it go, and they put it online, and all right.
+
+**Elon Musk:** She seems to be doing okay.
+
+**Joe Rogan:** She’s a person. She’s just you and me, and it’s the same thing. She’s just in some weird place where she’s on a 35-foot-tall screen with music playing every time she talks.
+
+**Elon Musk:** Yeah. I mean, I’m sure she’s not happy about it, but she’s clearly doing fine.
+
+**Joe Rogan:** But once this interface is fully realized where we really do become something far more powerful in terms of our cognitive ability, our ability to understand irrational thoughts and mitigate them, and that we’re all connected in some sort of an insane way. I mean, what would be our thoughts on wealth, our thoughts on social status? Like how many of those just evaporate? And our need for privacy, maybe our need for privacy, will be the ultimate bottleneck that we’ll have to surpass.
+
+**Elon Musk:** I think the things that we think are important now will probably not be important in the future, but there will be things that are important. It’s just, like, different things.
+
+**Joe Rogan:** What will be more important?
+
+**Elon Musk:** I don’t know. There might be some more ideas potentially. I don’t think Darwin’s going away.Darwin’s going to be there.Darwin will be there forever.It would just be a different arena.
+
+**Joe Rogan:** A digital arena.
+
+**Elon Musk:** Different arena. Darwin is not going away.
+
+**Joe Rogan:** What keeps you up at night?
+
+**Elon Musk:** Well, it’s quite hard to run companies.Especially car companies, I would say. It’s quite challenging.
+
+**Joe Rogan:** The car business is the hardest one of all the things you do?
+
+**Elon Musk:** Yes.
+
+**Joe Rogan:** Because it’s a consumer-oriented business as opposed to like SpaceX?
+
+**Elon Musk:** SpaceX is no walk in the park, but a car company, it’s very difficult to keep a car company alive. It’s very difficult. You know, there are only two car companies in the history of American car companies that haven’t gone bankrupt, and that’s Ford and Tesla. That’s it.
+
+**Joe Rogan:** Yeah, Ford rode out that crazy storm, huh? They’re the only one.
+
+**Elon Musk:** By the skin of their teeth.
+
+**Joe Rogan:** Shout out to the Mustang.Yeah, by the skin of their teeth. That is interesting, right?
+
+**Elon Musk:** Same with Tesla, we barely survived.
+
+**Joe Rogan:** How close did you get to folding?
+
+**Elon Musk:** Very close. I mean, 2008 is not a good time to be a car company, especially a startup car company, and especially an electric car company. That was like stupidity squared.
+
+**Joe Rogan:** And this is when you had those cool Roadsters with the T-top?With a target top?
+
+**Elon Musk:** Yeah. We had like a — It was a highly modified Elise chassis. The body was all completely different. By the way, that was a super dumb strategy that we actually did because we-
+
+**Joe Rogan:** Why was it dumb?
+
+**Elon Musk:** It was based on two false premises. One false premise was that we would be able to cheaply convert the Lotus Elise and use that as a car platform, and that we’ll be able to use technology from this little company called AC Propulsion for the electric drive train and the battery.
+
+The problem is, the AC propulsion technology did not work in production, and we ended up using none of it in the long-term. None of it. We had to resign everything.And then once you add a battery pack and electric motor to the car, it got heavier. It got 30% heavier. It invalidated the entire structure, (01:55:00) all the crash structure. Everything had to be redone. I think, less than 7% of the parts were common with any other device, including cars or anything.
+
+**Joe Rogan:** 7%?
+
+**Elon Musk:** Yes.
+
+**Joe Rogan:** Everything? Including tires, and wheels, bolts, brakes?
+
+**Elon Musk:** Yeah, even every-
+
+**Joe Rogan:** Steering wheel? Seat?
+
+**Elon Musk:** I think the steering wheel was almost the same. Yes, the windscreen.
+
+**Joe Rogan:** Different?
+
+**Elon Musk:** No, the windscreen is the same. We were able to keep the windscreen.
+
+**Joe Rogan:** Less than 7%. So, that’s basically-
+
+**Elon Musk:** Every body panel is different. The entire structure was different. We couldn’t use the HVAC system, the air conditioner. It was a belt-driven air conditioner. So, now, we needed something that was electrically driven. We need a new AC compressor.
+
+**Joe Rogan:** And all that takes away from the battery life as well, right?
+
+**Elon Musk:** Yeah. We need a small, highly efficient air conditioning system that fits in a tiny car and was electrically powered, not belt-driven. It was very difficult.
+
+**Joe Rogan:** How much of those weigh, those cars, the Roadster?
+
+**Elon Musk:** I think it was 2,700 pounds.
+
+**Joe Rogan:** That’s still very light.
+
+**Elon Musk:** 2,700. Depending on which version, 2,650 to 2,750 pounds, something like that.
+
+**Joe Rogan:** And what was the weight distribution?
+
+**Elon Musk:** It was about 50 — Well, there were different versions of the car. So, it’s about 55% on the rear.
+
+**Joe Rogan:** That’s not bad.
+
+**Elon Musk:** It was rear-biased.
+
+**Joe Rogan:** Right, but not bad. Considering like a 911, which is like one of the most popular sports cars of all time. Heavy rear-end bias.
+
+**Elon Musk:** Well, I mean, yeah. The 911, I’m not going to joke, is like the master despite Newton not being on their side. If you’re fighting Newton, it’s very difficult. The moments of inertia on a 911 don’t make any sense.
+
+**Joe Rogan:** They do once you understand them. Once you understand-
+
+**Elon Musk:** You don’t want to hang the engine off the ass. This is not a wise move.
+
+**Joe Rogan:** You don’t want to let up on the gas when you’re in a corner.
+
+**Elon Musk:** The problem with something where the engine is mounted over the rear axle or off the rear axle towards the rear is that your polar moment of inertia is fundamentally screwed. You cannot solve this. It’s unsolvable. You’re screwed. Polar moment of inertia, you’re screwed essentially if you spawn the car like a top, that’s your polar moment of inertia. You’re just — I promised I wouldn’t swear on this show, by the way.
+
+**Joe Rogan:** Really?
+
+**Elon Musk:** Yeah.
+
+**Joe Rogan:** To who?
+
+**Elon Musk:** This was for a friend.
+
+**Joe Rogan:** Tell that friend to go fuck himself. Who told you not to swear?
+
+**Elon Musk:** A friend.
+
+**Joe Rogan:** He’s not a good friend.
+
+**Elon Musk:** I said I wouldn’t swear.
+
+**Joe Rogan:** Realize you’re fucking Elon Musk. You can do whatever you want, man. If you ever get confused, call me.
+
+**Elon Musk:** I’ll swear in private. Swear up a storm.
+
+**Joe Rogan:** Okay, just say fricken. It’s a fun way. It’s like old house moms. Wives and shit that have children, „Oh, this fricken thing.“
+
+**Elon Musk:** Yeah. But, anyway, it’s kind of incredible how well Porsche handles given that it’s the physics. The moments of inertia are so messed up. To actually still make it work well is incredible.
+
+**Joe Rogan:** Well, if you know how to turn into the corner once you get used to the feeling of it, there are actual benefits to it. You know, there are some benefits.
+
+**Elon Musk:** The car I had before Tesla was a 911.
+
+**Joe Rogan:** 997?
+
+**Elon Musk:** Yeah.
+
+**Joe Rogan:** Great car, man.
+
+**Elon Musk:** Yeah. I mean, particularly, the Porsche wouldn’t have the variable vanes on the turbo, and it didn’t have the turbo lag. That was great.That was really great. The turbo lag is, like, you know, you floor it, like phone home, call your mom.
+
+**Joe Rogan:** The older one, right?
+
+**Elon Musk:** About an hour later, the car accelerates.
+
+**Joe Rogan:** And super dangerous too because then the wheel will start spinning. There’s something fun about it, though, like feeling that rear weight kicking around, you know. And again-
+
+**Elon Musk:** No, it’s great.
+
+**Joe Rogan:** … it’s not efficient.
+
+**Elon Musk:** There’s a good feel to it.
+
+**Joe Rogan:** But that’s what I was talking about earlier about that little car that I have, the ’93 911. It’s not fast. It’s not the best handling car, but it’s more satisfying than any other car I have because it’s so mechanical. It’s like everything about it, like crack holes and bumps, and it gives you all this feedback. And I take it to the [Comedy Store](https://en.wikipedia.org/wiki/The_Comedy_Store) because when I get there, I feel like my brain is just popping, and it’s on fire. It’s like a strategy for me now that I really stop driving other cars there. I drive that car there just for the brain juice, just for the interaction.
+
+**Elon Musk:** I mean, you should try Model S P100D.
+
+**Joe Rogan:** I’ll try it.
+
+**Elon Musk:** It will blow your mind and your skull.
+
+**Joe Rogan:** Okay. Tell me what to order, I’ll order it.
+
+**Elon Musk:** Model S P100D. (02:00:00)
+
+**Joe Rogan:** Okay. Jamie, write it down.
+
+**Elon Musk:** That’s the car that I drive.
+
+**Joe Rogan:** Okay, I’ll get the car you drive.
+
+**Elon Musk:** It will blow your mind out of your skull.
+
+**Joe Rogan:** How far can I drive?
+
+**Elon Musk:** About 300 miles.
+
+**Joe Rogan:** That’s good. For LA regular days, that’s good.
+
+**Elon Musk:** You will never notice the battery.
+
+**Joe Rogan:** Never?
+
+**Elon Musk:** Never.
+
+**Joe Rogan:** How hard is it to get like one of them crazy plugs installed in your house? Is that difficult?
+
+**Elon Musk:** No, it’s super easy.It’s like a dryer plug. It’s like a dryer outlet.
+
+**Joe Rogan:** Didn’t you come up with some crazy tiles for your roof that are solar paneled?
+
+**Elon Musk:** Yeah, I have it on my roof right now, actually. I’m just trying it out. The thing is, it takes a while to test roof stuff because roofs have to last a long time. So, like, you want your roof to last like 30 years.
+
+**Joe Rogan:** Could you put it over a regular roof?
+
+**Elon Musk:** No. So, there are two versions. It’s like the solar panels you put on a roof. So, like, it depends on whether your roof’s new or old. So, if your roof’s new, you don’t want to replace the roof. You want to put solar panels on the roof.So, that’s like retrofit, you know. And they were trying to make the retrofit panels look real nice.
+
+But then, the new product was coming out with it is if you have a roof that’s either you’re building a house, or you’re going to replace your roof anyway, then you make the tiles have solar cells embedded in the tiles.And then, it’s quite a tricky thing because you want to not see the solar cell behind the glass tile. So, you have to really work with the glass, and the various coatings, and the layers, so that you don’t see the solar cells behind the glass. Otherwise, it doesn’t look right.So, it’s really tricky.
+
+**Joe Rogan:** There it is. Jaime put it up there.Man, that looks good.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/02/rogan5-spanish-1.jpg?w=1024)
+
+**Elon Musk:** See, like, if you look closely, you can see. If you zoom in, like, you can see the cell. But if you zoom out, you don’t see the cell.
+
+**Joe Rogan:** Right, but it looks cool though. Invisible solar cells.
+
+**Elon Musk:** You see?Like that’s hard.It’s really hard because you have to get the sunlight to go through.But when it gets reflected back out, it hides the fact that there’s a cell there.
+
+**Joe Rogan:** Now, are those available to the consumer right now?Those on that roof right there?
+
+**Elon Musk:** Yes.
+
+**Joe Rogan:** That’s amazing. Oh, that looks good.Ooh, I like that.
+
+**Elon Musk:** That one is hard.
+
+**Joe Rogan:** Oh. So, you get that kind of fake Spanish-looking thing. I like that.
+
+**Elon Musk:** That’s French slate.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/02/rogan5-french.jpg?w=1024)
+
+**Joe Rogan:** That’s why people in Connecticut are smoking pipes. Look at that one.
+
+**Elon Musk:** Yeah.
+
+**Joe Rogan:** That’s badass, dude. So, now-
+
+**Elon Musk:** Those all actually work.
+
+**Joe Rogan:** I believe you. So, the solar panels that are on that house that we just looked at, is that sufficient to power the entire home?
+
+**Elon Musk:** It depends on your energy on how efficient-
+
+**Joe Rogan:** Expenditure?
+
+**Elon Musk:** Yeah. So, generally, yes. I would say it’s probably for most. It’s going to vary, but anywhere from more than you need to maybe half. Like, call it half to 1.5 of the energy that you need, depending on how much roof you have relative to living space.
+
+**Joe Rogan:** And how ridiculous you are with your TV.
+
+**Elon Musk:** TVs no problem. Air conditioning is the problem. If you have an efficient air conditioner, and you don’t — and depending on how — like, are you air conditioning rooms when they don’t need to be air-conditioned, which is very common because it’s a pain in the neck, you know. It’s like programming a VCR. It’s just a blinking 12:00. So, people are just like, „To the hell with that. I’m just going to make it this temperature all day long.“.
+
+**Joe Rogan:** Right. They don’t have a smart home where if you’re in the room, then it stays cool, right?
+
+**Elon Musk:** Yeah, it should predict when you’re going to be home, and then cool the rooms that you’re likely to use with a little bit of intelligence. We’re not talking about like genius home here. We’re talking like elementary basic stuff. You know, like if you could hook that into the car, like manage you coming home. Like there’s no point keeping the home really cool when you’re not there.But it can tell that you’re coming home; it’s just going to cool it to the right temperature right when you get there.
+
+**Joe Rogan:** Do you have an app that works with your solar panels or anything like that?
+
+**Elon Musk:** Yeah, we do.But we need to hook it into the air conditioning to really make the air conditioning work.
+
+**Joe Rogan:** Have you thought about creating an air conditioning system? I know you have. Trick question.
+
+**Elon Musk:** Cannot answer questions about the future of potential products.
+
+**Joe Rogan:** Okay. Let’s just let it go. We’ll move on to the next thing.
+
+**Elon Musk:** That would be an interesting idea.
+
+**Joe Rogan:** Yeah, I would say radiant heating and all that, good ideas. Now, when you think about the efficiency of these homes, and you think about implementing solar power and battery power, is there anything else that people are missing? Is there any other — Like, I just saw a smartwatch that is powered by the heat of the human body. It’s some new technology. (02:05:00)
+
+**Elon Musk:** It’s able to fully power that way?
+
+**Joe Rogan:** I don’t know if it’s fully or if it’s — Like this watch right here, this is a Casio.It’s called Pro Trek. And it’s like an outdoors watch, and it’s solar-powered. And so, it has the ability to operate for a certain amount of time on solar.So, if you have it exposed, it could function for a certain amount of time on solar.
+
+**Elon Musk:** Yeah. Well, you know, like there are self-winding watches where, you know, it’s just got a weight in the watch. And as you move your wrist, the way it moves from one side to the other, and it winds the watch up. That’s a pretty cool thing.
+
+**Joe Rogan:** Yeah. Well, it’s amazing that like Rolex is that it’s all done mechanically.There are no batteries in there. There is no nothing.
+
+**Elon Musk:** Yeah. You could do the same thing. You create a little charger that’s based on wrist movement. It really depends on how much energy your watch uses.
+
+**Joe Rogan:** You know what’s fucked up about that, though? We accept a certain amount of like fuckery with those watches. Like I brought my watch. I have a Rolex that my friend, Lorenzo, gave me, and I brought it to the watch store, and I said, „This thing’s always fast.“ I said, „It’s always like after a couple of months, it’s like five minutes fast.“ And they go, „Yup.“ They go, „Yeah.“
+
+**Elon Musk:** Really?
+
+**Joe Rogan:** „It’s just what it does.“
+
+**Elon Musk:** Okay.
+
+**Joe Rogan:** I go, „Hold on.“ I go, „So, you’re telling me that it just is always going to be fast?“ They’re like, „Yeah. It’s just like every few months; you get like reset it.“
+
+**Elon Musk:** It seems like they should recalibrate that thing.
+
+**Joe Rogan:** They can’t. They tried. They say, every few months, whether it’s four months, or five months, or six months, it’s going to be a couple of minutes fast.
+
+**Elon Musk:** Okay. It seems like they should really recalibrate that because if it’s always fast, you can just, you know, delete those minutes.
+
+**Joe Rogan:** You should figure that shit out. You need to fucking kick down the door at Rolex and go, „You bitches are lazy.“
+
+**Elon Musk:** It’s kind of amazing that you can keep time mechanically on a wristwatch with these tiny little gears.
+
+**Joe Rogan:** It’s amazing. I mean, the whole luxury watch market is fascinating. I’m not that involved in terms like I don’t buy them. I’ve bought them as gifts. I don’t buy them for myself. But when I look at them online, there’s a million-dollar watches out there now that are like they have like little rotating moons and stars.Like, look at this thing, how much is that one, Jaime?
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/02/rogan5-uhr-1.jpg?w=1024)
+
+**Jaime:** I don’t know. I just picked one.
+
+**Joe Rogan:** These are fucking preposterous.
+
+**Elon Musk:** I like gears.
+
+**Joe Rogan:** I love them.
+
+**Elon Musk:** Yeah. I think they are beautiful.
+
+**Joe Rogan:** But there are some of these people that are just taking it right in the ass. They’re buying these watches for like $750,000. „Yeah, that’s a Timex, son.“ Nobody knows. It’s not any better than some Casio that you could just buy online.Well, here’s the thing. If you’re a person that doesn’t just want to know the time, you want craftsmanship, you want some artisan’s touch, you want innovation in terms of like a person figuring out how gears and cogs all line up perfectly, to every time it turns over, it’s basically a second.
+
+I mean, that’s just — There’s this art to that. It’s not just telling time. I like my watch a lot, but if it got hit by a rock, I wouldn’t be sad.It’s just to watch. It’s a mass-produced thing that runs on some quartz battery. But those things, there’s art to that.
+
+**Elon Musk:** Yeah. No, I agree. It’s beautiful. Love it.
+
+**Joe Rogan:** Yeah. There’s something amazing about it. It’s because it represents the human creativity. It’s not just electronic innovation. There’s something. It’s a person’s work in that.
+
+**Elon Musk:** Yes.
+
+**Joe Rogan:** You don’t have a watch on.
+
+**Elon Musk:** No.
+
+**Joe Rogan:** Ever?
+
+**Elon Musk:** I used to have a watch.
+
+**Joe Rogan:** What happened?
+
+**Elon Musk:** My phone tells the time.
+
+**Joe Rogan:** That’s a good point. Well, if you lose your phone? Do you — Wait, hold on.Let me guess; you are a no-case guy.
+
+**Elon Musk:** That’s correct. Living on the edge. Living on the edge without a case.
+
+**Joe Rogan:** Neil deGrasse Tyson. Neil deGrasse Tyson was in here last week. I’m marveled at his ability to get through life without a case.
+
+**Elon Musk:** That’s right.
+
+**Joe Rogan:** You know, he takes his phone, and he flips it in between his fingers like a soldier would do it with his rifle. He just rolls that shit in between his fingers. It’s marvelous. He says that’s the reason why they do it. He said, „Would you look at someone who has a rifle? Why would they do that? Why would they flip it around like that?“ It’s like, when it goes to drop, they have it in their hand. They catch it quickly.So, that’s what he does with his phone. He’s just flipping his phone around all the time.
+
+(_Joe realizes that Elon examines something_) I got that in Mexico. I was hoping it holds joints.
+
+**Elon Musk:** Does it do anything? It tips to open.
+
+**Joe Rogan:** No.
+
+**Elon Musk:** Oh, it’s just a hole. You could store things in there.
+
+**Joe Rogan:** Yeah. But like, try to put a joint in there. (_passes him something_) Close it. You put like one, one blunt. One, that seems pretentious. You know, that’s the idea behind it. I bought it when I was in Mexico because I figured it would be a good size to hold joints. (_takes a joint and lights it_) (02:10:00)
+
+**Elon Musk:** So, is that a joint? Or is it a cigar?
+
+**Joe Rogan:** No.
+
+**Elon Musk:** Okay.
+
+**Joe Rogan:** It’s marijuana inside of tobacco.
+
+**Elon Musk:** Okay. So, it’s like posh, part tobacco and pot.
+
+**Joe Rogan:** Yeah. You ever had that?
+
+**Elon Musk:** Yeah. I think I tried one once.
+
+**Joe Rogan:** Come on, man. You probably can’t because of stockholders, right?
+
+**Elon Musk:** I mean, it’s legal, right?
+
+**Joe Rogan:** Totally legal. (_passes Elon the joint_)
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/02/rogan5-titel-2.jpg?w=1024)
+
+**Elon Musk:** Okay.
+
+**Joe Rogan:** How does that work? Do people get upset at you if you do certain things?
+
+(_Elon looks skeptically at the joint_) It’s just tobacco and marijuana in there. (_Elon takes one puff of it and gives it back to Joe_) That’s all it is. The combination of tobacco and marijuana is wonderful. First turned on to it by Charlie Murphy, and then reignited by Dave Chappelle. There you go. (_passes the joint to Jaime_)
+
+**Jaime:** Plus whiskey.
+
+**Elon Musk:** Exactly.
+
+**Joe Rogan:** Perfect. Balances it out.
+
+**Elon Musk:** Alcohol is a drug that’s been grandfathered in.
+
+**Joe Rogan:** Well, it’s not just a drug. It’s a drug that gets a bad rep because you just have a little, it’s great.
+
+**Elon Musk:** Fine.
+
+**Joe Rogan:** Yeah, a little sip here and there, and your inhibitions are relaxed, and it shows your true self. And, hopefully, you’re more joyous, and friendly, and happy, and everything’s good. The real worry is the people that can’t handle it. Like the real worry about people who can’t handle cars and go 0 to 60 in 1.9 seconds or anything. Have you ever considered something that — Like, imagine if one day, everyone has a car that’s on the same, at least, technological standard as one of your cars, and everyone agrees that the smart thing to do is not just to have bumpers but to perhaps have some sort of a magnetic repellent device, something, some electromagnetic field around the cars that as cars come close to each other, they automatically radically decelerate because of magnets or something.
+
+**Elon Musk:** Well, I mean, our cars brake automatically.
+
+**Joe Rogan:** Brake? When they see things?
+
+**Elon Musk:** Yes.
+
+**Joe Rogan:** But like a physical barrier, like-
+
+**Elon Musk:** Well, the wheels work pretty well.
+
+**Joe Rogan:** The wheels do.
+
+**Elon Musk:** Yeah, they work pretty well. Decelerated at, you know, 1.1 to 1.2 Gs, that kind of thing.
+
+**Joe Rogan:** Is your concern that one day all your cars will be on the road, and then, there’ll still be regular people with regular cars 20-30 years from now that will get in the mix and be the main problem?
+
+**Elon Musk:** Yeah. I think it’d be sort of like, you know, there was a time of transition where there were horses and gasoline cars on the road at the same time. It’s been pretty weird.
+
+**Joe Rogan:** That would be the weirdest.
+
+**Elon Musk:** Yeah. I mean, horses were tricky. You know, back when Manhattan had like 300.000 horses, then figure out like if a horse lives 15 years, you got 20,000 horses dropping dead every day or every year, I should say. Every year, it’s 20,000 horses if there are 300,000 horses in a 15-year lifespan.
+
+**Joe Rogan:** Back in the [Gangs of New York](https://en.wikipedia.org/wiki/Gangs_of_New_York) days, that movie.
+
+**Elon Musk:** Yeah.It’s a lot of dead horses. You needed a horse to move the horse, and they’ll probably get pretty freaked out if they have to move a dead horse.
+
+**Joe Rogan:** Do you think they know what’s going on? Do you think it’s as hard?
+
+**Elon Musk:** Yeah.I mean, it’s got to be pretty weird.
+
+**Joe Rogan:** No, I would imagine.
+
+**Elon Musk:** Like, in my mind, dragging this dead, you know, horse around, and I’m a horse.They might not like it.
+
+**Joe Rogan:** Do you ever stop and think about your role in civilization? Do you ever stop and think about your role in the culture? Because me, as a person, who never met you until today, when I think of you, you know, I’ve always thought of you as being this weirdo super inventor dude who just somehow or another keeps coming up with new shit, but there’s not a lot of you out there. Like everybody else seems to be — I mean, obviously, you make a lot of money, and there’s a lot of people that make a lot of money.
+
+_(Elon looks at something on the desk)_ You like that clock?
+
+**Elon Musk:** Yeah.
+
+**Joe Rogan:** Pretty dope, right?
+
+**Elon Musk:** This is a great clock.
+
+**Joe Rogan:** You want one? I’ll get you one.
+
+**Elon Musk:** Sure.
+
+**Joe Rogan:** Okay, done.
+
+**Elon Musk:** I like weird things like this.
+
+**Joe Rogan:** Oh, this is the coolest. It’s TGT Promotion. What is this? [TGT Studios](https://tgt-studios.com/)?
+
+**Jaime:** Yeah.
+
+**Joe Rogan:** Yeah. So, a gentleman who makes all this by hand.
+
+**Elon Musk:** Yeah, it’s really cool. My study is filled with weird devices.
+
+**Joe Rogan:** Well, get ready for another one.
+
+**Elon Musk:** All right.
+
+**Joe Rogan:** I’m sending it your way.
+
+**Elon Musk:** Cool.
+
+**Joe Rogan:** You want a werewolf too? I’ll hook you up.
+
+**Elon Musk:** All right. I’ll take one.
+
+**Joe Rogan:** Okay. One werewolf and one clock coming up.
+
+Do you think about your role in the culture? Because me, as a person, who never met you until today, I’ve always looked at you and like, „Wow.“ Like, „How does this guy just keep inventing shit?“ Like, how do you keep coming up with all these new devices? And do you ever consider how unusual — Like I had a dream once that there were a million Teslas. Instead of like one Tesla, there were a million Teslas. Not just say the car but Nikola.
+
+**Elon Musk:** Oh, yeah, sure.
+
+**Joe Rogan:** And that in his day, (02:15:00) there were a million people like him who were radically innovative.It was a weird dream, man. It was so strange. And I’ve had it more than once.
+
+**Elon Musk:** That would result in a very rapid technology innovation. That’s for sure.
+
+**Joe Rogan:** It’s one of the only dreams of my life I’ve had more than one time.
+
+**Elon Musk:** Okay, wow.
+
+**Joe Rogan:** Like where I’ve woken up, and it’s in the same dream. I’m in the same dream. And in this dream, it’s the 1940s, 1950s, but everyone is severely advanced. There are flying blimps with like LCD screens on the side of them. And everything is bizarre and strange. And it stuck with me for whatever — Obviously, this is just a stupid dream. But for whatever reason, all these years, that stuck with me like it takes one man, like Nikola Tesla, to have more than a hundred inventions that were patents, right. I mean, he had some pretty fucking amazing ideas. But there was-In his day, there were very few people like him.
+
+**Elon Musk:** Yeah, that was true.
+
+**Joe Rogan:** What if there was a million? Like what in the experience-
+
+**Elon Musk:** Things would advance very quickly.
+
+**Joe Rogan:** Right, but there’s not a million Elon Musks. There’s one motherfucker. Do you think about that, or you just try not to?
+
+**Elon Musk:** I don’t think you’d necessarily wanted to be me.
+
+**Joe Rogan:** Well, what’s the worst part about you?
+
+**Elon Musk:** I never thought people would like it that much.
+
+**Joe Rogan:** Well, most people wouldn’t, but they can’t be you. So, that’s like some superhero type shit. You know, we wouldn’t want to be Spiderman. I’d rather just sleep tight in Gotham City and hope he’s out there doing his job.
+
+**Elon Musk:** It’s very hard to turn it off.
+
+**Joe Rogan:** Yeah. What’s the hardest part?
+
+**Elon Musk:** It might sound great if it’s turned on, but what if it doesn’t turn off?
+
+**Joe Rogan:** Now, I showed you the [isolation tank](https://en.wikipedia.org/wiki/Isolation_tank), and you’ve never experienced that before. I think that could help you turn it off a little bit just for the night.
+
+**Elon Musk:** Okay.
+
+**Joe Rogan:** Yeah. Just give you a little bit of sleep, a little bit of perspective. It’s magnesium that you get from the water as well that makes you sleep easier because the water has Epsom salts in it. But maybe some sort of strategy for sacrificing your — or not sacrificing but enhancing your biological recovery time by figuring out a way, whether it’s through meditation or some other ways to shut off that thing at night. Like you must have like a constant stream of ideas that’s running through your head all the time.
+
+(_Elon looks at his phone_) You’re getting text messages from chicks.
+
+**Elon Musk:** No. I’m getting text messages from a friend saying, „What the hell are you doing smoking weed?“.
+
+**Joe Rogan:** Is that bad for you? It’s legal.
+
+**Jaime:** Yeah.
+
+**Joe Rogan:** It’s government-approved.
+
+**Elon Musk:** It’s not — You know, I’m not a regular smoker of weed.
+
+**Joe Rogan:** How often do you smoke it?
+
+**Elon Musk:** Almost never. I mean, it’s-
+
+**Joe Rogan:** How does it feel?
+
+**Elon Musk:** I don’t actually notice any effect.
+
+**Joe Rogan:** Well, there you go. There was a time where – I think it was Ramdas or someone -gave some Buddhist monk a bunch of acid.And he ate it, and it had no effect on him.
+
+**Elon Musk:** I doubt that.
+
+**Joe Rogan:** I would say that too, but I’ve never meditated to the level that some of these people have where they’re constantly meditating all day. They don’t have any material possessions. And all of their energy is spent trying to achieve a certain mindset. I would like to cynically deny that. I’d like to cynically say, „Hey, just fuck and think the same way I do.“ They’re just hanging out with flip-flops on and make weird noises, but maybe no.
+
+**Elon Musk:** You know, I know a lot of people like weed, and that’s fine, but I don’t find that it is very good for productivity.
+
+**Joe Rogan:** For you.
+
+**Elon Musk:** Not for me.
+
+**Joe Rogan:** Yeah. I mean, I would imagine that for someone like you, it’s not. For someone like you, it would be more like a cup of coffee, right. You have a mate.
+
+**Elon Musk:** Yeah. It’s more like the opposite of a cup of coffee.
+
+**Joe Rogan:** What is that?
+
+**Elon Musk:** It’s like a cup of coffee in reverse.
+
+**Joe Rogan:** Weed is?
+
+**Elon Musk:** Yeah.
+
+**Joe Rogan:** No, I’m saying you would like more. More like will be beneficial to you. It would be like coffee.
+
+**Elon Musk:** I like to get things done. I like to be useful. That is one of the hardest things to do is to be useful.
+
+**Joe Rogan:** When you say you like to get things done, like, in terms of what gives you satisfaction? When you complete a project, when something that you invent comes to fruition, and you see people enjoying it, that feeling.
+
+**Elon Musk:** Yes, doing something useful for other people that I like doing.
+
+**Joe Rogan:** That’s interesting for other people.
+
+**Elon Musk:** Yes.
+
+**Joe Rogan:** Do you think that that is maybe the way you recognize (02:20:00) that you have this unusual position in the culture where you can uniquely influence certain things because of this? I mean, you essentially have a gift, right.I mean, you would think it was a curse, but I’m sure it’s been fueled by many, many years of discipline and learning. But you, essentially, have a gift, and that you have this radical sort of creativity engine when it comes to innovation and technology. It’s like you’re just you’re going at very high RPMs.
+
+**Elon Musk:** All the time. That doesn’t stop.
+
+**Joe Rogan:** What is that like?
+
+**Elon Musk:** I don’t know what would happen if I got into a sensory deprivation tank.
+
+**Joe Rogan:** Let’s try it.
+
+**Elon Musk:** It sounds a little concerning.
+
+**Joe Rogan:** But why?
+
+**Elon Musk:** It’s like running the engine with no resistance. That is-
+
+**Joe Rogan:** Is that what it is, though? Maybe it’s not.
+
+**Elon Musk:** Maybe it’s fine. I don’t know.I’ll try it. I’ll try it. It’s fine.
+
+**Joe Rogan:** Have you ever experimented with meditation or anything?
+
+**Elon Musk:** Yes.
+
+**Joe Rogan:** What do you do, or what have you done rather?
+
+**Elon Musk:** I mean, just sort of sit there, and be quiet, and then repeat some mantra, which acts as a focal point. It does still the mind. It does still the mind, but I don’t find myself drawn to it frequently.
+
+**Joe Rogan:** Do you think that perhaps productivity is maybe more attractive to you than enlightenment or even the concept of whatever enlightenment means. Like, what are you trying to achieve when you’re meditating all the time? With you, it seems almost like there’s a franticness to your creativity that comes out of this burning furnace. And in order for you to calm that thing down, you might have to throw too much water on it.
+
+**Elon Musk:** It’s like a never-ending explosion.
+
+**Joe Rogan:** What is it like? Try to explain it to a dumb person like me. What’s going on?
+
+**Elon Musk:** Never-ending explosion.
+
+**Joe Rogan:** It’s just constant ideas just bouncing around.
+
+**Elon Musk:** Yes.
+
+**Joe Rogan:** Damn.So, when everybody leaves, it’s just Elon sitting at home brushing his teeth, just a bunch of ideas bouncing around your head.
+
+**Elon Musk:** Yeah, all the time.
+
+**Joe Rogan:** When did you realize that that’s not the case with most people?
+
+**Elon Musk:** I think, when I was, I don’t know, five or six or something. I thought I was insane.
+
+**Joe Rogan:** Why did you think you were insane?
+
+**Elon Musk:** Because it is clear that other people do not. Their mind wasn’t exploding with ideas all the time.
+
+**Joe Rogan:** So, they weren’t expressing it. They weren’t talking about it all day. And you realized by the time you were five or six like, „Oh, they’re probably not even getting this thing that I’m getting.“
+
+**Elon Musk:** No. It was just strange. It was like, „Hmm, kind of strange.“ That was my conclusion, kind of strange.
+
+**Joe Rogan:** But did you feel diminished by it in any way? Like knowing that this is a weird thing that you really probably couldn’t commiserate with other people, they wouldn’t understand you.
+
+**Elon Musk:** I hope they wouldn’t find out because they might like to put me away or something.
+
+**Joe Rogan:** You thought that?
+
+**Elon Musk:** For a second, yes.
+
+**Joe Rogan:** When you were little?
+
+**Elon Musk:** Yeah. They put people away. What if they put me away?
+
+**Joe Rogan:** Like when you were little, you thought this?
+
+**Elon Musk:** Yes.
+
+**Joe Rogan:** Wow. Well, you thought, „This is so radically different than the people that are around me. If they find out, I got this stream coming in.“
+
+**Elon Musk:** Yeah.
+
+**Joe Rogan:** Whoa.
+
+**Elon Musk:** But, you know, I was only like five or six probably.
+
+**Joe Rogan:** Do you think this is like — I mean, there are outliers biologically. You mean, there are people that are 7 foot 9, there’s people that have giant hands, there’s people that have eyes that are 20/15 vision. There’s always outliers. Do you feel like you like caught this, like you have got some — you’re like on some weird innovation creativity sort of wave that’s very unusual? Like you tapped into — I mean, just think of the various things you’ve been able to accomplish in a very short amount of time, and you’re constantly doing this. That’s a weird — You’re a weird person, right.
+
+**Elon Musk:** Right, I agree.
+
+**Joe Rogan:** Yeah. Like, what if there’s a million Elon Musks?
+
+**Elon Musk:** Well, that would be very, very weird.
+
+**Joe Rogan:** Whoa.
+
+**Elon Musk:** Yeah, it would be pretty weird. I agree. What if there were a million Joe Rogans?
+
+**Joe Rogan:** There probably is. There’s probably two million. (02:25:00) I mean, I think that’s the case with a lot of folks.
+
+**Elon Musk:** Yeah. I mean, but, like, you know, my goal is, like, try to do useful things, try to maximize the probability for the future’s good, make the future exciting, something you look forward to, you know. You know, with Tesla, I want to try to make things that people love. How many things can you buy that you really love, that really give you joy? So rare, so rare. I wish there were more things. That’s what we try to do. Just make things that somebody loves.That’s so difficult.
+
+**Joe** **Rogan****:** When you think about things that someone loves, like, do you specifically think about like what things would improve people’s experience, like what would change the way people interface with life that would make them more relaxed or more happy? You really think, like, when you’re thinking about things like that, is that like one of your considerations? Like what could I do that would help people that maybe they wouldn’t be able to figure out?
+
+**Elon Musk:** Yeah. Like what are the set of things that can be done to make the future better? I think, a future where we are a space-faring civilization and out there among the stars, this is very exciting. This makes me look forward to the future. This makes me want that future. You know, the things, there need to be things that make you look forward to waking up in the morning. You wake up in the morning, you look forward to the day, you look forward to the future.
+
+And a future where we are a space-faring civilization and out there among the stars, I think, that’s very exciting. That is a thing we want; whereas, if we knew we would not be a space-faring civilization but forever confined to Earth, this would not be a good future. That would be very sad, I think. I don’t want a sad future.
+
+**Joe Rogan:** It would be so sad in terms of just the finite lifespan of the Earth itself and the solar system itself. But even though it’s possibly — You know, I mean, how long do they feel like the sun and the solar system is going to exist? How many hundreds of millions of years?
+
+**Elon Musk:** Well, it’s probably, if you’re saying when does the sun boil the oceans-
+
+**Joe Rogan:** Right.
+
+**Elon Musk:** About 500 million years.
+
+**Joe Rogan:** So, is it sad that we never leave because, in 500 million years, that happens? Is that what you’re saying?
+
+**Elon Musk:** No. I just think like if there are two futures, and one future is we’re out there among the stars, and the things we read about and see in science fiction movies, the good ones, are true, and we have these starships, and we’re going see what other planets are like, and we’re a multi-planet species, and the scope and scale of consciousness is expanded across many civilizations, and many planets, and many star systems, this is a great future. This is a wonderful thing to me. And that’s what we should strive for.
+
+**Joe Rogan:** But that’s biological travel. That’s cells traveling physically to another location.
+
+**Elon Musk:** Yes.
+
+**Joe Rogan:** Do you think that’s definitely where we’re going?
+
+**Elon Musk:** No.
+
+**Joe Rogan:** Yeah, I don’t think so either. I used to think so. And, now, I’m thinking more likely less than ever. Like almost every day less likely.
+
+**Elon Musk:** We can definitely go to the moon and Mars.
+
+**Joe Rogan:** Yeah. Do you think we will colonize?
+
+**Elon Musk:** I think we will go to the asteroid belt. And we can go to the moons of Jupiter, Saturn, even get to Pluto.
+
+**Joe Rogan:** That’d be the craziest place ever if we colonized Mars, and we terraformed it and turned it into a big Jamaica. Just oceans and-
+
+**Elon Musk:** I think we should. I think that would be great. That would be great. Amazing.
+
+**Joe Rogan:** It’s possible, right?
+
+**Elon Musk:** Yes.
+
+**Joe Rogan:** We can turn the whole thing into Cancún.
+
+**Elon Musk:** Well-
+
+**Joe Rogan:** I mean, over time.
+
+**Elon Musk:** It wouldn’t be easy but yes. You could warm it up.
+
+**Joe Rogan:** Yeah, you can warm it up. You could add air. You get some water there. I mean, over time, hundreds of millions of years or whatever it takes.
+
+**Elon Musk:** We’ll be a multi-planet species.
+
+**Joe Rogan:** Yeah, that would be amazing.
+
+**Elon Musk:** We’re a multi-planet species. That’s what we want to be. I’m pro-human.
+
+**Joe Rogan:** Me too. Yeah, me too.
+
+**Elon Musk:** I love humanity. I think it’s great.
+
+**Joe Rogan:** We’re glad as a robot that you love humans because we love you too, and we don’t want you to kill us and eat us. And-
+
+**Elon Musk:** I mean, you know, strangely, I think a lot of people don’t like humanity and see it as a blight, but I do not.
+
+**Joe Rogan:** Well, I think one of those — I think, part of that is just they’ve been — you know, they’ve been struggling. When people struggle, they associate their struggle (02:30:00) with other people. They never internalize their problems. They look to other people as holding them back, and people suck, and fuck people, and it’s just — You know, it’s a never-ending cycle. But not always. Again, most people are really good. Most people, the vast majority.
+
+**Elon Musk:** This may sound corny.
+
+**Joe Rogan:** It does sound corny.
+
+**Elon Musk:** But love is the answer.
+
+**Joe Rogan:** It is the answer.
+
+**Elon Musk:** Yup.
+
+**Joe Rogan:** Yeah, it is. It sounds corny because we’re all scared. You know, we’re all scared of trying to love people, being rejected, or someone taking advantage of you because you’re trying to be loving. What if we all could just relax and love each other?
+
+**Elon Musk:** It wouldn’t hurt to have more love in the world.
+
+**Joe Rogan:** It definitely wouldn’t hurt.
+
+**Elon Musk:** Yeah, we should do that.
+
+**Joe Rogan:** Yeah, I agree, man.
+
+**Elon Musk:** Like really.
+
+**Joe Rogan:** How are you going to fix that? Do you have a love machine you’re working on?
+
+**Elon Musk:** No, but probably spend more time with your friends and less time on social media.
+
+**Joe Rogan:** Now, deleting social media from your applications, from your phones, will that give you a 10% boost to happiness? What do you think the percentage is?
+
+**Elon Musk:** I think probably something like that, yeah.
+
+**Joe Rogan:** Yeah, a good 10%.
+
+**Elon Musk:** Yeah, I mean, the only thing I’ve kept is Twitter because I kind of like meet some means of getting a message out, you know.Well, that’s about it. So far, so good.
+
+**Joe Rogan:** Well, what’s interesting with you, you actually occasionally engage with people on Twitter.What percentage of that is a good idea?
+
+**Elon Musk:** Good question.
+
+**Joe Rogan:** Probably 10%, right? It’s hard.
+
+**Elon Musk:** It’s mostly — I think, it’s on balance, more good than bad, but there’s definitely some bad. So, hopefully, the good outweighs the bad.
+
+**Joe Rogan:** Do you ever think about how odd it is, the weird feeling that you get when someone says something shitty to you on Twitter, and you read it? That weird feeling. This weird little negative jolt. It’s like a subjective negative jolt of energy that you don’t really need to absorb, but you do anyway. Like, „I want to fuck this guy. Fuck him.“
+
+**Elon Musk:** I mean, there’s a lot of negativity on Twitter.
+
+**Joe Rogan:** It is, but it’s weird in its form. Like the way, if you ingest it as if you’re like — you try to be like a little scientist as you’re ingesting it, you’re like, „How weird is this?“ And I’m even getting upset at some strange person saying something mean to me. It’s not even accurate.
+
+**Elon Musk:** I mean, the vast number of negative comments, for the vast majority, I just ignore them, the vast majority.But every now and again, you get drawn in. It’s not good.You make mistakes.
+
+**Joe Rogan:** Yes, you can make mistakes.
+
+**Elon Musk:** We can make some mistakes.
+
+**Joe Rogan:** We’re all human. We can make mistakes. Yeah, it’s hard. And people love it when you say something, and you take it back, and they’re like, „Fuck you. We saved it forever. I’ll fucking screenshot that shit, bitch. You had that thought. You had that thought.“ I’m like, „Well, I deleted it.“ „Not good enough. You had the thought. I’m better than you. I never had that thought. You had that thought, you piece of shit. Look, I saved it. I put it on my blog. Bad thought.“
+
+**Elon Musk:** Yeah. I’m not sure why people think that anyone would think that deleting a tweet makes them go away. It’s like, „Hello, been on the internet for a while.“ Anything is forever.
+
+**Joe Rogan:** Yeah. Well, it’s even like, the thing is they don’t want you to be able to delete it because the problem is if you don’t delete it, and you don’t believe it anymore, it’s really hard to say, „Hey, that thing above, I don’t really believe that anymore. I changed the way I view things.“Because people would go, „Well, fuck you. I have that over there. I’m going to just take that. I’m not going to pay attention to that shit you wrote underneath it.“
+
+**Elon Musk:** It’s on your permanent record.
+
+**Joe Rogan:** Yeah. It’s forever like a tattoo.
+
+**Elon Musk:** Like high school, „We’ll put this on your permanent record.“
+
+**Joe Rogan:** Yeah. It’s like a tattoo. You keep it.
+
+Well, it’s this thing where there’s a lack of compassion. It’s a lack of compassion issue. People are just intentionally shitty to each other all the time online and trying to catch me. They’re more trying to catch people doing something that’s arrestable, like a cop trying to, like, get, you know, arrests on his record. It’s like they’re trying to catch you for something, more than they’re logically looking at it thinking it’s a bad thing that you’ve done, or that it’s an idea they don’t agree with so much, they needed to insult you. They’re trying to catch you.
+
+**Elon Musk:** Yeah, I mean, it’s way easier to be mean on social media than it is to be mean in person.
+
+**Joe Rogan:** It’s weird. It’s not a normal way of human interacting. (02:35:00) It’s cheating. You’re not supposed to be able to interact so easily when people are not looking at you.You would never do that. You don’t be so mean when somebody is looking in their eyes. If you did, you’d feel like shit.
+
+**Elon Musk:** Most people.
+
+**Joe Rogan:** Yeah, unless you’re a sociopath, you’d feel terrible.
+
+**Elon Musk:** Yes.
+
+**Joe Rogan:** Elon Musk, this has been a pleasure.
+
+**Elon Musk:** Yeah, likewise.
+
+**Joe Rogan:** It really has been.
+
+**Elon Musk:** It’s been an honor. Thank you for having me.
+
+**Joe Rogan:** Thanks for doing this because I know you don’t do a lot of long-form stuff like this. I hope I didn’t weird you out, and I hope you don’t get mad that you smoked weed.It’s not bad. It’s legal. We’re in California. This is just as legal as this whiskey we’ve been drinking.
+
+**Elon Musk:** Exactly.
+
+**Joe Rogan:** This is all good, right?
+
+**Elon Musk:** Cheers.
+
+**Joe Rogan:** Cheers. Thank you. Is there any message you would like to put out other than love is the answer because I think you really nailed it with that?
+
+**Elon Musk:** No. I think, you know, I think people should be nicer to each other, and give more credit to others, and don’t assume that they’re mean until you know they’re actually mean. You know, just, it’s easy to demonize people. You’re usually wrong about it. People are nicer than you think. Give people more credit.
+
+**Joe Rogan:** I couldn’t agree more. And I want to thank you not just for all the crazy innovations you’ve come up with and your constant flow of ideas but that you choose to spread that idea, which is very vulnerable, but it’s very honest, and it resonates with me.And I believe it.
+
+**Elon Musk:** It’s true.
+
+**Joe Rogan:** I believe it’s true too. So, thank you.
+
+**Elon Musk:** You’re welcome.
+
+**Joe Rogan:** All you assholes out there, be nice. Be nice, bitch. All right. Thank you, everybody. Thank you, Elon.
+
+**Elon Musk:** All right, thank you.
+
+**Joe Rogan:** Good night, everybody. (02:36:53)

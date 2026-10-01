@@ -1,0 +1,62 @@
+# SOURCE: https://www.elonmuskbook.org/the-book-of-elon-musk-free-online-version/engineering-wins-wars
+# HARVESTED: 2026-09-29
+
+Thank you for visiting the site. Enjoy the published content and the book. We appreciate your support, and please pay it forward.
+
+The Book of Elon Musk Elon Musk's Most Useful Ideas In His Own Words
+
+Mar 31
+
+Mar 31 Engineering Wins Wars
+
+Eric Jorgenson
+
+In Sun Tzu’s The Art of War, there is no chapter on technology. It is an interesting book I’ve read many times. It’s packed with wisdom, but there should be a chapter saying: “If you have a decisive technological advantage, you can win with minimal casualties to your side.”166
+
+Technology plays a much stronger role in war than is generally understood: technology viewed in the broadest sense, including a better phalanx, or spears made of bronze, iron, or steel. These can be big differences.167
+
+The Romans won their wars through technology.168
+
+One of the advantages Romans had was good metallurgy. Their swords were martensitic (an improvement over austenitic metallurgy), so they were stronger. The Romans were often fighting opponents whose swords would basically bend over a Roman sword. If you’re in a sword fight and your sword bends like a noodle…big disadvantage.169
+
+The Romans were great engineers. Even things like building roads gave them a military advantage. If you’re trying to march an army somewhere fast, roads beat the heck out of a small winding path through the forest.170
+
+But when fighting outside the Roman empire, they sometimes lost their wars because of their opponent’s technology. When the Romans fought the Scythians, they did not have a good counter to mounted war archers, especially if they got lured into flat terrain. They were pretty much helpless against the technology of a mounted archer.171
+
+When there’s a rapid change in the rate of technology, engineering plays a pivotal role.
+
+If there is a big difference in the technologies—even if the other side has more people, better generals, and is smarter—the side with the advanced technology will win.172
+
+The technology war of fighters and bombers during World War II is fascinating. The US completely crushed it on bombers at the end of the war, but they didn’t start out that way. At the start of World War II in the Pacific, entire US squadrons were sometimes shot down with zero Japanese losses. A total KO. The US fighters at the beginning of World War II were not good either. Their tactics were terrible, the aircraft were terrible, and the training was incorrect, too.173
+
+It’s interesting to see where they started out and how fast things innovated. There was impressive design work by many countries: Japan, the US, Germany, UK, Russia, and others had some impressive fighter designs.174
+
+It was a constant technological rock-paper-scissors game. One country would make a plane, another made a new plane to beat that one, then another country would make an even newer plane. What really matters is the pace of innovation.175
+
+When the rate of change of technology is high enough, or there is a big technological difference between one side and the other, then that technology dominates and you get a lopsided victory.176
+
+Many books on the strategy of war actually don’t address technology, or do only in a tangential manner. But obviously, if there is an overwhelming technological advantage, that side will win even if the odds are dramatically stacked against them.177
+
+To use an extreme example (a limit case), if you can shoot lasers from space to any spot on the ground by just pointing at it, it would not matter if you’re fighting Julius Caesar, Heinz Guderian, or Napoleon. They just got lasered from space.178
+
+Most battles in history, because technology moved slowly, were more about maneuvering, tactics, and strategy. But when there’s technological discontinuity, it fundamentally changes the whole situation. Wars in the modern era are very much technology race wars. How fast can we create new technology? The best example would be the nuclear bomb. Anyone who made nuclear bombs first, won. That’s it. End of story.179
+
+That was the reason for the US Manhattan Project. People think it was a government project. I’d like to emphasize that it was a creation of the physics community more than it was the government. The government supported it, but it was a decision and creation from the physics community. Without them, it would not have happened.180
+
+They simply came to the conclusion that they couldn’t let Hitler have the bomb. So they made it first to be certain of it. There isn’t a better example of a super weapon—anyone who gets it wins.181
+
+Play to win, or don’t play at all.182
+
+Eric Jorgenson
+
+CEO of Scribe Media. Author of The Almanack of Naval and The Anthology of Balaji. Investing in technology startups as GP at Rolling Fun. Podcast: Smart Friends. Happy to be in touch through Twitter or email.
+
+Website
+
+About the book
+
+Book and website curating and sharing Elon's wisdom. Coming soon on March 24th. Follow on Twitter.
+
+Mar 31 Engineering Is Magic
+
+Mar 31 Engineering Creates Value

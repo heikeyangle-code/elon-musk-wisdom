@@ -1,0 +1,93 @@
+# SOURCE: https://www.humanmars.net/2024/04/spacex-starship-update-2024.html
+# TITLE: SpaceX Starship update 2024
+# FETCHED: fetch_content_cache
+
+On April 4th at Starbase, Texas SpaceX CEO and lead designer **Elon Musk** provided an unannounced update of SpaceX's [**Starship**](https://www.humanmars.net/p/starship.html "Summary about the SpaceX's Starship Super Heavy in development") architecture. Here are slides and animations from his presentation.
+
+**Full presentation:**
+
+> [](https://twitter.com/SpaceX/status/1776669097490776563?ref_src=twsrc%5Etfw)
+
+  
+
+### Slides from the presentation
+
+Starship v1, v2 and v3 specifications:
+
+[![SpaceX Starship update 2024 - Starship v1, v2 & v3 specifications](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0O02cNHralxyV5Z6S0AYy2db8p4NBCxBemYQB24YdYOOa6t1GazHSMxDDTdCItHp8kQCukv_SwV6G15rpQ2H4V0sKLGl06o75yzCWL0g6WmG1LhJA2gtcHqPSU0658a1R1cqQxlCn3ctY7l0eZ_X97YnFrOWFDKuhx46neIESaq2RIdTaRr6drm5XATVO/s1200/SpaceX%20Starship%20update%202024%20-%20Starship%20v1,%20v2%20&%20v3%20specifications.png "SpaceX Starship update 2024 - Starship v1, v2 & v3 specifications")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg0O02cNHralxyV5Z6S0AYy2db8p4NBCxBemYQB24YdYOOa6t1GazHSMxDDTdCItHp8kQCukv_SwV6G15rpQ2H4V0sKLGl06o75yzCWL0g6WmG1LhJA2gtcHqPSU0658a1R1cqQxlCn3ctY7l0eZ_X97YnFrOWFDKuhx46neIESaq2RIdTaRr6drm5XATVO/s2048/SpaceX%20Starship%20update%202024%20-%20Starship%20v1,%20v2%20&%20v3%20specifications.png)
+
+Thrust comparison of Raptor v1, v2 and v3:
+
+[![SpaceX Starship update 2024 - Raptor engine v1, v2 & v3 specifications](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL0yd5fkOiHHM4JQB33e4qYiJWES4yiGypMx7gfoJGJSjFesr7VQkLgNLwcIwaiWgITn7wp0RPzFTx6rK7k6gn_dwpi_a1E7JVJK7mmdoMSdCH-SYW4PxwNE3p_OhI0PENOAbLZng7lKxFiQJxKI8IorQMSQ1_CnDUGfZxvpiId6_KaYL3oxwuE0y5dIj3/s1200/SpaceX%20Starship%20update%202024%20-%20Raptor%20engine%20v1,%20v2%20&%20v3%20specifications.png "SpaceX Starship update 2024 - Raptor engine v1, v2 & v3 specifications")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgL0yd5fkOiHHM4JQB33e4qYiJWES4yiGypMx7gfoJGJSjFesr7VQkLgNLwcIwaiWgITn7wp0RPzFTx6rK7k6gn_dwpi_a1E7JVJK7mmdoMSdCH-SYW4PxwNE3p_OhI0PENOAbLZng7lKxFiQJxKI8IorQMSQ1_CnDUGfZxvpiId6_KaYL3oxwuE0y5dIj3/s2048/SpaceX%20Starship%20update%202024%20-%20Raptor%20engine%20v1,%20v2%20&%20v3%20specifications.png)
+
+First Mechazilla launch tower pairs at Starbase, Texas and Cape Canaveral, Florida:
+
+[![SpaceX Starship update 2024 - Mechazilla Launch tower pair](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbgAzz5I_ruOgKw4pnVdou_1G7bRdUUvQBI-7ipqxXzLkANfBeDBl9tbJ_sOP5LhC86X5zAuDsku3bRkxGYAdkT02Mvt6jhU8XIlupOONN-7mJLWeJBq-aB1wntYGuf0tuxvSahwIuuzk15ZelqurUpwiaC0E6MHiGh0XUzh9k1851vVrCY8QjSzwioUdk/s1200/SpaceX%20Starship%20update%202024%20-%20Mechazilla%20Launch%20tower%20pair.jpg "SpaceX Starship update 2024 - Mechazilla Launch tower pair")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgbgAzz5I_ruOgKw4pnVdou_1G7bRdUUvQBI-7ipqxXzLkANfBeDBl9tbJ_sOP5LhC86X5zAuDsku3bRkxGYAdkT02Mvt6jhU8XIlupOONN-7mJLWeJBq-aB1wntYGuf0tuxvSahwIuuzk15ZelqurUpwiaC0E6MHiGh0XUzh9k1851vVrCY8QjSzwioUdk/s2048/SpaceX%20Starship%20update%202024%20-%20Mechazilla%20Launch%20tower%20pair.jpg)
+
+Super Heavy landing animation:
+
+> [](https://twitter.com/SpaceX/status/1776669517860786631?ref_src=twsrc%5Etfw)
+
+Mass to Orbit comparison of Falcon rockets and Starship:
+
+[![SpaceX Starship update 2024 - Falcon vs Starship Mass to Orbit](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO_CIXSUhO3-mHcnwzvfzvuyHh0Ht6ofofajdMHVHxrIyBF0TCZWFEpOUzLG_kc3gQ4DGaZoOvP5DmUkddh_MaJ6wAPrYtz45ScITD49gOxH8sfDegQKKXNm_hdMzTujkrF0KYywoQPAb4sbx03tu7OJl_Z9v8lnJ3Ti0DUlaWnzRHhFkWetZ5AGVKFczt/s1200/SpaceX%20Starship%20update%202024%20-%20Falcon%20vs%20Starship%20Mass%20to%20Orbit.png "SpaceX Starship update 2024 - Falcon vs Starship Mass to Orbit")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiO_CIXSUhO3-mHcnwzvfzvuyHh0Ht6ofofajdMHVHxrIyBF0TCZWFEpOUzLG_kc3gQ4DGaZoOvP5DmUkddh_MaJ6wAPrYtz45ScITD49gOxH8sfDegQKKXNm_hdMzTujkrF0KYywoQPAb4sbx03tu7OJl_Z9v8lnJ3Ti0DUlaWnzRHhFkWetZ5AGVKFczt/s2048/SpaceX%20Starship%20update%202024%20-%20Falcon%20vs%20Starship%20Mass%20to%20Orbit.png)
+
+Offshore Starship launch sites:
+
+[![SpaceX Starship update 2024 - Offshore Starship launch sites](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfpzX0r6-LDZImx0dw8COekIFO0mqmtRSXOAXc0ebjSLj8i4z2KHU4QouiF_BEDh6gArz6Q2en0Zq3yQKW_Rc4zynFzbUr2HiePiFrLADl9XcIYOiihWbB9yz_vNB0QiwV23VybRYq9I4hs0IJvjGTsQCTbonEvlvp5viqvie5gbfPkqqlpCusNebLF0Bo/s1200/SpaceX%20Starship%20update%202024%20-%20Offshore%20Starship%20launch%20sites.jpg "SpaceX Starship update 2024 - Offshore Starship launch sites")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhfpzX0r6-LDZImx0dw8COekIFO0mqmtRSXOAXc0ebjSLj8i4z2KHU4QouiF_BEDh6gArz6Q2en0Zq3yQKW_Rc4zynFzbUr2HiePiFrLADl9XcIYOiihWbB9yz_vNB0QiwV23VybRYq9I4hs0IJvjGTsQCTbonEvlvp5viqvie5gbfPkqqlpCusNebLF0Bo/s2048/SpaceX%20Starship%20update%202024%20-%20Offshore%20Starship%20launch%20sites.jpg)
+
+Starship destinations:
+
+[![SpaceX Starship update 2024 - Starship destinations](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitajT7jTO0rusAKUB5c2YlqHmpO8CiRXHLjUBmiAdkO0zgcuytq8R6oFlDM2pog_Nnl7_Avh7yNNfOPSke1yX1aB2iDZueYoNwDDlZSI2ecU9GrZpInoGKJeCGdKcQ2pdCcc-lWoM-cD4TzHZy7i1jyCbRvXnoBIUSIc_nAOn985VktknYj6gzPyjzdFCg/s1200/SpaceX%20Starship%20update%202024%20-%20Starship%20destinations.png "SpaceX Starship update 2024 - Starship destinations")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEitajT7jTO0rusAKUB5c2YlqHmpO8CiRXHLjUBmiAdkO0zgcuytq8R6oFlDM2pog_Nnl7_Avh7yNNfOPSke1yX1aB2iDZueYoNwDDlZSI2ecU9GrZpInoGKJeCGdKcQ2pdCcc-lWoM-cD4TzHZy7i1jyCbRvXnoBIUSIc_nAOn985VktknYj6gzPyjzdFCg/s2048/SpaceX%20Starship%20update%202024%20-%20Starship%20destinations.png)
+
+Artemis Base Camp in the Lunar South Pole region:
+
+[![SpaceX Starship update 2024 - Artemis Base Camp](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSZSohKdiuqBDkVNLUVo34tjohKH9D6RYUVoeJOtay4RtFBqkIY3ZcBPjtqhz17jY1ZwAZI_7FeWs1FTtFKGKCz78SW3MP2XSl1vsCXn2CfFWjm2wXTm_8gHTZRT0shxm4cGww9lBdWtEyBIu6dUoq3LF3OrA5QZULU8SNE01HaSauuSB_Wix_rH1LoSnx/s1200/SpaceX%20Starship%20update%202024%20-%20Artemis%20Base%20Camp.jpg "SpaceX Starship update 2024 - Artemis Base Camp")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjSZSohKdiuqBDkVNLUVo34tjohKH9D6RYUVoeJOtay4RtFBqkIY3ZcBPjtqhz17jY1ZwAZI_7FeWs1FTtFKGKCz78SW3MP2XSl1vsCXn2CfFWjm2wXTm_8gHTZRT0shxm4cGww9lBdWtEyBIu6dUoq3LF3OrA5QZULU8SNE01HaSauuSB_Wix_rH1LoSnx/s2048/SpaceX%20Starship%20update%202024%20-%20Artemis%20Base%20Camp.jpg)
+
+Mars return trip sequence:
+
+[![SpaceX Starship update 2024 - Mars return trip sequence](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTUZxmbjkxNnekp5dDQw5e5xfLEj3uBrn0_L-kLsdGURj-nF1Ea1D5PvOXZ_5QrtEUb9nZk1dsia3mEQ1OJ2QBYkO_kpvuWsLktSizaQW00S9ZXlLoDUsRmjd5gcriJrMEZ6XtEcS_oAKKlupabvTs74fxfDkkagx8i3kUCmvsvVk8KuulzuN03cTgUNVX/s1200/SpaceX%20Starship%20update%202024%20-%20Mars%20return%20trip%20sequence.png "SpaceX Starship update 2024 - Mars return trip sequence")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgTUZxmbjkxNnekp5dDQw5e5xfLEj3uBrn0_L-kLsdGURj-nF1Ea1D5PvOXZ_5QrtEUb9nZk1dsia3mEQ1OJ2QBYkO_kpvuWsLktSizaQW00S9ZXlLoDUsRmjd5gcriJrMEZ6XtEcS_oAKKlupabvTs74fxfDkkagx8i3kUCmvsvVk8KuulzuN03cTgUNVX/s2048/SpaceX%20Starship%20update%202024%20-%20Mars%20return%20trip%20sequence.png)
+
+Earth-Mars trasfer orbits:
+
+[![SpaceX Starship update 2024 - Earth-Mars Trasfer orbits](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc3RGwn8TPdyKLK7LON5r8UfFIfys1t2UYhFWRLs9mabiDcOKpTh4U8l4_3eNZEnrs3OvK_tIMeOn5PRyTxgLb1Iz8xMvzQWV7BROFJKym14YI0MenbBpL0pDb7dX2CAnxCxUYv8xDaaxywwqSMJm7Y5BkyZS8uQDR6ORkZ12oheOnrDoo5LbJ5F6kLyDi/s1200/SpaceX%20Starship%20update%202024%20-%20Earth-Mars%20Trasfer%20orbits.png "SpaceX Starship update 2024 - Earth-Mars Trasfer orbits")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjc3RGwn8TPdyKLK7LON5r8UfFIfys1t2UYhFWRLs9mabiDcOKpTh4U8l4_3eNZEnrs3OvK_tIMeOn5PRyTxgLb1Iz8xMvzQWV7BROFJKym14YI0MenbBpL0pDb7dX2CAnxCxUYv8xDaaxywwqSMJm7Y5BkyZS8uQDR6ORkZ12oheOnrDoo5LbJ5F6kLyDi/s2048/SpaceX%20Starship%20update%202024%20-%20Earth-Mars%20Trasfer%20orbits.png)
+
+Landing site and Infrastructure requirements for Mars Base Alpha:
+
+[![SpaceX Starship update 2024 - Landing site requirements for Mars Base Alpha](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKuDeT8rMDSkVnD-iS1Dfg-xvMNxN22K88zbDB6rsQ7Z64kd24u46w0m3UrCxxsDIzbVuvSI-amoaqSuACbE6aHjGzjxMtG009Uou_Jh-lV3mb_d-enr1_-63mRvBo2Au9Wfz9NXQhavrq-obSuecsE-T8im8FQzWu7wKQBNxmBID00bWqGCGby5vvffKv/s1200/SpaceX%20Starship%20update%202024%20-%20Landing%20site%20requirements%20for%20Mars%20Base%20Alpha.png "SpaceX Starship update 2024 - Landing site requirements for Mars Base Alpha")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjKuDeT8rMDSkVnD-iS1Dfg-xvMNxN22K88zbDB6rsQ7Z64kd24u46w0m3UrCxxsDIzbVuvSI-amoaqSuACbE6aHjGzjxMtG009Uou_Jh-lV3mb_d-enr1_-63mRvBo2Au9Wfz9NXQhavrq-obSuecsE-T8im8FQzWu7wKQBNxmBID00bWqGCGby5vvffKv/s2048/SpaceX%20Starship%20update%202024%20-%20Landing%20site%20requirements%20for%20Mars%20Base%20Alpha.png)
+
+[![SpaceX Starship update 2024 - Infrastructure requirements for Mars Base Alpha](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPh_EgjaLgUr5T44kccx_5klKvpglW9a7Ik9OkE_BE21xNt2u6x9nrpYe6NybtiKXAbdvE3Hmcjm4migXAH3BpUA_TzsDJYZrSZHEJZsvGdGizgFBIzJcFQWtiCTIaQj1bHsEm6RzvG0yylU3A9cXtAJR9fGD21By-6YzS8l6ONDhRg2DIrZM9e9g-WVeM/s1200/SpaceX%20Starship%20update%202024%20-%20Infrastructure%20requirements%20for%20Mars%20Base%20Alpha.png "SpaceX Starship update 2024 - Infrastructure requirements for Mars Base Alpha")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgPh_EgjaLgUr5T44kccx_5klKvpglW9a7Ik9OkE_BE21xNt2u6x9nrpYe6NybtiKXAbdvE3Hmcjm4migXAH3BpUA_TzsDJYZrSZHEJZsvGdGizgFBIzJcFQWtiCTIaQj1bHsEm6RzvG0yylU3A9cXtAJR9fGD21By-6YzS8l6ONDhRg2DIrZM9e9g-WVeM/s2048/SpaceX%20Starship%20update%202024%20-%20Infrastructure%20requirements%20for%20Mars%20Base%20Alpha.png)
+
+The scale needed for Mars colonization:
+
+[![SpaceX Starship update 2024 - Vehicles per year comparison](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgInhR2nv5Szle3ilesJVGdN9QffsuJ-L4P3kDrPw0AuNlPB43pSxqYyqOwwKGfiqoozJ-gSoCSsfXP8-kdfqlthbBR0eJuxEUFkFOvBbK7nXIe28bGu4eTW7Cic37JNUrYWhKSuuDRaZM9gU28HOBUN_HljgF6tQBXUfky1s5ndbjRUYPKAcoxXCVvpQIm/s1200/SpaceX%20Starship%20update%202024%20-%20Vehicles%20per%20year%20comparison.png "SpaceX Starship update 2024 - Vehicles per year comparison")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgInhR2nv5Szle3ilesJVGdN9QffsuJ-L4P3kDrPw0AuNlPB43pSxqYyqOwwKGfiqoozJ-gSoCSsfXP8-kdfqlthbBR0eJuxEUFkFOvBbK7nXIe28bGu4eTW7Cic37JNUrYWhKSuuDRaZM9gU28HOBUN_HljgF6tQBXUfky1s5ndbjRUYPKAcoxXCVvpQIm/s2048/SpaceX%20Starship%20update%202024%20-%20Vehicles%20per%20year%20comparison.png)
+
+[![SpaceX Starship update 2024 - Launch requirements for Mars colonization](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq3sLxnaXn1wdWzrgB-mvcO-7jNpWsw-qjB0IH3fNvfhPRQRxW9J5B-fzMLG3qQCaVRqDnzDbbcC7w52W1QAEW8FWcEC8pNxBS0dARSowKo9PZyzJTeRRro6qRcCNIx2SBHMIx6GF0egsVbYy2AmVvcDyPPpNCINw8rdTF6BKq__GoKbYzF33rTGyxlPP1/s1200/SpaceX%20Starship%20update%202024%20-%20Launch%20requirements%20for%20Mars%20colonization.jpg "SpaceX Starship update 2024 - Launch requirements for Mars colonization")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgq3sLxnaXn1wdWzrgB-mvcO-7jNpWsw-qjB0IH3fNvfhPRQRxW9J5B-fzMLG3qQCaVRqDnzDbbcC7w52W1QAEW8FWcEC8pNxBS0dARSowKo9PZyzJTeRRro6qRcCNIx2SBHMIx6GF0egsVbYy2AmVvcDyPPpNCINw8rdTF6BKq__GoKbYzF33rTGyxlPP1/s2048/SpaceX%20Starship%20update%202024%20-%20Launch%20requirements%20for%20Mars%20colonization.jpg)
+
+Starship fleet approaching Mars:
+
+[![SpaceX Starship update 2024 - Starship fleet approaching Mars](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE9uDEJhD50MktHtJOFbLvqQfpK211hkTkRyyrvvYibXqNH_KHXKwbDH_0Cy3rPsWFLalRI9gC4HeoQn5pJaT-zvd6rdtRkHvTRSRUoS-iGFjYGG1En0dR-_TBd2yebJkJrXJW-LAS6QZR7G1rxPjLn-zxi2LQXozInE0yCwaXGFKX7VJzhGxTfIdcrZ5G/s1200/SpaceX%20Starship%20update%202024%20-%20Starship%20fleet%20approaching%20Mars.jpg "SpaceX Starship update 2024 - Starship fleet approaching Mars")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjE9uDEJhD50MktHtJOFbLvqQfpK211hkTkRyyrvvYibXqNH_KHXKwbDH_0Cy3rPsWFLalRI9gC4HeoQn5pJaT-zvd6rdtRkHvTRSRUoS-iGFjYGG1En0dR-_TBd2yebJkJrXJW-LAS6QZR7G1rxPjLn-zxi2LQXozInE0yCwaXGFKX7VJzhGxTfIdcrZ5G/s2048/SpaceX%20Starship%20update%202024%20-%20Starship%20fleet%20approaching%20Mars.jpg)
+
+Mars Base Alpha:
+
+[![SpaceX Starship update 2024 - Mars Base Alpha](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKTzRGpa3nHYA2xUQzCmpjCKr0zUcXrG3ehxNfGEfSKXaB8397ezPrNth16-JicaT5UTKy-gqJzpdCROqmqMl1NQrxsX-Za8FTgTsatjaz3UIpYbOxPHoanCHEslLWApHiO20u7lVZbNrbvyy7DfAm-IYgOfQWhtJf18EApIq9fDiR6KVV7iOv7kMz13Cs/s1200/SpaceX%20Starship%20update%202024%20-%20Mars%20Base%20Alpha.jpg "SpaceX Starship update 2024 - Mars Base Alpha")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgKTzRGpa3nHYA2xUQzCmpjCKr0zUcXrG3ehxNfGEfSKXaB8397ezPrNth16-JicaT5UTKy-gqJzpdCROqmqMl1NQrxsX-Za8FTgTsatjaz3UIpYbOxPHoanCHEslLWApHiO20u7lVZbNrbvyy7DfAm-IYgOfQWhtJf18EApIq9fDiR6KVV7iOv7kMz13Cs/s2048/SpaceX%20Starship%20update%202024%20-%20Mars%20Base%20Alpha.jpg)
+
+Starbase, Texas:
+
+[![SpaceX Starship update 2024 - Starbase](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2mTcmDilghesuNQasnCE3Q9zbYlH9kPk6qB-G7RTZMyXUh-cSZW-8Dy28JAUvBeFdgESSJM2FuRgRAF82eU9CQO1HAFAnzIx8bHFXPXr0avTy0JK8bsY-WFe27CyS85CmhzYBFmhL3c2fJQuVuSOZNdUwx-ucp4e683bURgjWfs0fvLAGnXjuvijIXIUI/s1200/SpaceX%20Starship%20update%202024%20-%20Starbase%201.jpg "SpaceX Starship update 2024 - Starbase")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj2mTcmDilghesuNQasnCE3Q9zbYlH9kPk6qB-G7RTZMyXUh-cSZW-8Dy28JAUvBeFdgESSJM2FuRgRAF82eU9CQO1HAFAnzIx8bHFXPXr0avTy0JK8bsY-WFe27CyS85CmhzYBFmhL3c2fJQuVuSOZNdUwx-ucp4e683bURgjWfs0fvLAGnXjuvijIXIUI/s2048/SpaceX%20Starship%20update%202024%20-%20Starbase%201.jpg)
+
+[![SpaceX Starship update 2024 - Starbase](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT50dZHq_u3Tchyphenhyphenqrpc3Gtxvqsv8hP44B9YRrGnyoz8VhXUmjG0eJACRfO4iEF6RCs40NGfk9XN81eoVfSzBhwc0ZVApOhDpEKppT7eFKLUdzVgxojQ1x9OOYjqg65W7OoGIjXex_vtKhd0uT7jpU3E1et0IxmMA-SV_qXgH5OzoaK1cBjxVWgXcCKTWv1/s1200/SpaceX%20Starship%20update%202024%20-%20Starbase%202.jpg "SpaceX Starship update 2024 - Starbase")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiT50dZHq_u3Tchyphenhyphenqrpc3Gtxvqsv8hP44B9YRrGnyoz8VhXUmjG0eJACRfO4iEF6RCs40NGfk9XN81eoVfSzBhwc0ZVApOhDpEKppT7eFKLUdzVgxojQ1x9OOYjqg65W7OoGIjXex_vtKhd0uT7jpU3E1et0IxmMA-SV_qXgH5OzoaK1cBjxVWgXcCKTWv1/s2048/SpaceX%20Starship%20update%202024%20-%20Starbase%202.jpg)
+
+Elon Musk in front of Starship prototypes at Starbase, Texas:
+
+[![SpaceX Starship update 2024 - Elon Musk in front of Starship prototypes at Starbase, Texas](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkUvNqhSlAWXZkwMrfaobi7Lhg157hauXGFoWt9-DqE5rjl7s09K2Fvq95f6dwDEQyk3EmmOPqiJem0QRSzjhCJpa3GZT0RuEnRoCitdsk3tPHsL2D0z729DLCpcItAOk980IuUIHUgmokoMKa1dswAm5LspxFfXl8ykUbUT2HmA-Lo1TKApsEkkSKTUDr/s1200/SpaceX%20Starship%20update%202024%20-%20Elon%20Musk%20in%20front%20of%20Starship%20prototypes%20at%20Starbase,%20Texas.jpg "SpaceX Starship update 2024 - Elon Musk in front of Starship prototypes at Starbase, Texas")](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkUvNqhSlAWXZkwMrfaobi7Lhg157hauXGFoWt9-DqE5rjl7s09K2Fvq95f6dwDEQyk3EmmOPqiJem0QRSzjhCJpa3GZT0RuEnRoCitdsk3tPHsL2D0z729DLCpcItAOk980IuUIHUgmokoMKa1dswAm5LspxFfXl8ykUbUT2HmA-Lo1TKApsEkkSKTUDr/s2048/SpaceX%20Starship%20update%202024%20-%20Elon%20Musk%20in%20front%20of%20Starship%20prototypes%20at%20Starbase,%20Texas.jpg)
+
+  
+
+### Elon's previous Starship presentations:
+
+*   [Starship update 2022](https://www.humanmars.net/2022/02/spacex-starship-update-2022.html "Slides and animations from SpaceX Starship 2022 update presentation by Elon Musk") (February 2022)
+*   [Starship update 2019](https://www.humanmars.net/2019/09/slides-from-spacex-starship-2019-update.html "Slides from SpaceX Starship 2019 update presentation by Elon Musk") (September 2019)
+*   [Big Falcon Rocket v2018](https://www.humanmars.net/2018/09/official-schematics-for-big-falcon.html "Official schematics for Big Falcon Rocket v2018 by Elon Musk, SpaceX") (September 2018)
+*   [Big Falcon Rocket v2017](https://www.humanmars.net/2017/09/making-life-multiplanetary-official.html "Official schematics for BFR by Elon Musk, SpaceX") (IAC, September 2017)
+*   [Interplanetary Transport System](https://www.humanmars.net/2016/09/official-schematics-for-interplanetary.html "Official schematics for Interplanetary Transport System by SpaceX") (IAC, September 2016)

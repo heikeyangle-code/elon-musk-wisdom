@@ -1,0 +1,86 @@
+# SOURCE: https://www.rollingstone.com/culture/culture-features/elon-musk-on-his-fears-dreams-twitter-morality-and-mars-118265/
+# TITLE: Elon Musk on His Fears, Dreams, Twitter, Morality and Mars
+# FETCHED: fetch_content_cache
+
+Culture
+
+"Edison and Tesla both did great things. Edison's issue was that he was a dick. Tesla's issue is that he went crazy and started talking to pigeons."
+
+_[The New York Times](https://www.nytimes.com/2015/05/17/books/review/elon-musk-by-ashlee-vance.html?_r=0)_ has called [Elon Musk](https://www.rollingstone.com/t/elon-musk/) “arguably the most successful and important entrepreneur in the world.” It’s an easy case to make: He’s probably the only person who has started four billion-dollar companies – PayPal, Tesla, SpaceX and Solar City. But at his core, Musk is not a businessman or entrepreneur. He’s an engineer, inventor and, as he puts it, “technologist.” And as a naturally gifted engineer, he’s able to find the design inefficiencies, flaws and complete oversights in the tools that power our civilization.
+
+For [_Rolling Stone_‘s latest cover story](/culture/culture-features/elon-musk-the-architect-of-tomorrow-120850/), we spent nine months in the world of Elon Musk at: SpaceX, Tesla, Neuralink, OpenAI and the Boring Company – and in his home. Here, a few of the off-topic discussions we had along the way that didn’t make it into the main story.
+
+**Do you believe in God?  
+**I try to let the weight of evidence determine my opinion.
+
+**Do you have a spiritual practice?  
+**Not really. I believe in science.
+
+**What do you think happens when you die?  
+**I think you cease to exist. I hope I’m wrong in a positive way. But most likely, you’re just gone.
+
+**Do you remember your last dream?  
+**I do remember, but I’m not going to tell you.
+
+## Trending Stories
+
+**Why?  
+**Because I don’t wish to appear neurotic.
+
+**Do you think there are ideas to be had from dreams?  
+**I think you need to be course-studied to read dreams as anything other than random.
+
+**What are you afraid of?  
+**Extinction of human civilization.
+
+**Anything else?  
+**I don’t think we should dwell on fear. It’s not productive. I have occasionally made decisions out of fear and they’ve generally been wrong.
+
+**Personal or work decisions?  
+**Both. I found that almost always a decision made out of fear is the wrong decision.
+
+**Do you ever worry that other governments or industries are going to try to stop you?  
+**Never attribute to malice that which can easily be explained by incompetence or stupidity, or not caring. Most of the time, people don’t care. If they’re not against you, they don’t think of you at all.
+
+**Are you concerned about your personal or company information getting hacked?  
+**There are hacking attempts all the time. But the best defense is just to advance technology quickly – and others end up copying yesterday’s technology. A high rate of innovation is the best defense.
+
+## Editor’s picks
+
+**Do you think the end justifies the means?  
+**It’s more like you want to maximize net good. The problems with the end justifies the means, is that if the means are incredibly horrible and they just spike up to good briefly at the end, then that’s not a good world. However, if there’s a short bit of bad and then a lot of good, the net good is high.
+
+**At what point do people on Mars start to consider themselves Martians?  
+**I don’t know. When did people in America consider themselves Americans?
+
+**If the moon or Mars goes to war with the Earth—  
+**Earth would win.
+
+![Elon Musk, chief executive officer for Space Exploration Technologies Corp. (SpaceX), speaks during the 67th International Astronautical Congress (IAC) in Guadalajara, Mexico, on Tuesday, Sept. 27, 2016. Musk's vision for building a self-sustaining city on Mars will require full rocket reusability, refueling the spacecraft in orbit and propellant production on the Red Planet.](https://rolingstone-com.go-vip.co/wp-content/uploads/2018/06/elon-mars-7548448d-44b5-4f03-8716-49d368c33597.jpg "Elon Musk, chief executive officer for Space Exploration Technologies Corp. (SpaceX), speaks during the 67th International Astronautical Congress (IAC) in Guadalajara, Mexico, on Tuesday, Sept. 27, 2016. Musk's vision for building a self-sustaining city on Mars will require full rocket reusability, refueling the spacecraft in orbit and propellant production on the Red Planet.")
+
+**Do you have a practice or ritual that helps you think from a bigger perspective instead of getting caught in the day-to-day?  
+**I sometimes think quietly. I get lost in thought. I’ll pace around the bedroom late at night. A day or two before I told people I would publish the [Hyperloop paper,](https://www.spacex.com/sites/spacex/files/hyperloop_alpha-20130812.pdf) I realized, _This thing doesn’t work. The equations don’t close. This is going to be very embarrassing._ I was up all night and finally figured it out. I was quite stressed. I pace if I’m under pressure.
+
+**What’s the timeframe like from, “OK, I have this idea” to “I’m gonna present this idea” to “I’m gonna start working on this idea?”  
+**Pretty short.
+
+**Do you look at making new things as puzzles or problem-solving?  
+**Puzzles are solving a problem that has no point in and of itself. It’s just for the puzzle’s sake. I try to do useful things.
+
+**I had to drive a gas car recently and it felt like I was in—  
+**A steam engine.
+
+**Do you think future generations are going to look back and think, “Why were people doing that?”  
+**If somebody said you’re gonna pour the liquid remains of dinosaurs into your vehicle and burn them in order to move from one place to another, releasing toxic fumes – and by the way, you better not have your car on in a closed room cause you’re gonna die – you’d say, “Why are we doing that?” People drive basically parked in traffic with the air inlet for their cabin right in front of the exhaust pipe of another car. It’s insane. You’re sucking up the toxic gas from the car in front of you. You’re slowly poisoning yourself. Why don’t you just have a lick of arsenic while you’re at it?
+
+**Is it more motivating when people have faith in what you’re doing or when they don’t believe in you?  
+**I’m not basing it on whether people have faith or not. I base it on the scientific method. I’m not going to take a vote for how many people think the world is round and base it on that. The world _is_ round.
+
+**So when scientists discovered than an electron can be in two places at once, how do you—  
+**I don’t think it can be in two places at once. I think it’s rendered as we see it. Dynamic rendering. That explains quantum probability.
+
+**Do you ever wish that Twitter was around when people like Edison and Tesla were alive?  
+**That would be cool. Edison and Tesla both did great things. Edison’s issue was that he was a bit of a dick. Tesla’s issue is that he went crazy and started talking to pigeons. Nobody’s perfect.
+
+**Do you ever think about how you’re going to keep all your projects going when you’re not here?  
+**That would be great. You don’t know how to do that, do you?

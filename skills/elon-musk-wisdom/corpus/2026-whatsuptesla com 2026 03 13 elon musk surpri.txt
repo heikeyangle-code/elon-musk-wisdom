@@ -1,0 +1,144 @@
+# SOURCE: https://whatsuptesla.com/2026/03/13/elon-musk-surprise-remote-talk-at-2026-abundance-summit-my-full-verbatim-transcript/
+# TITLE: Elon Musk: Surprise Remote Talk at 2026 Abundance Summit – My Full Verbatim Transcript
+# FETCHED: fetch_content_cache
+
+On March 11, 2026, Elon surprised us all with an appearance at the 2026 Abundance Summit in Los Angeles. In this talk with Peter Diamandis, Elon shared his latest thoughts on Grok 4.20, the hard takeoff of AI, Optimus robot timelines, explosive economic growth, and humanity’s path to universal high income and post-scarcity abundance. Here is my full transcript with Key Takeaways at the end!
+
+**Peter Diamandis:** So, first off, congratulations on the merger of SpaceX and xAI — bold move going to power humanity’s first Dyson swarm. I’m curious: what’s your timeline for launching these data centers and how much bandwidth do you think you can get in the first year? Give us a sense of the speed at which you’re going to be making this happen.
+
+**Elon Musk:** Yeah, so SpaceX is in the quiet period. I can’t actually tell you things. That would cause problems.
+
+**Peter Diamandis:** I appreciate that. And I can’t wait to see the speed. You know, we had a conversation here on Monday with Eric Schmidt and with one of the leads from one of the other hyperscalers. I won’t mention who, but I’m curious where you feel we are in recursive self-improvement. Are we there? Do you see Grok doing recursive self-improvement at this point? And what’s the timeline for AGI and ASI?
+
+**Elon Musk:** Yeah, I think we’ve been in recursive improvement for a while here. If you mean recursive self-improvement without a human in the loop, is that what you mean?
+
+**Peter Diamandis:** I do. I am on the AI software side.
+
+**Elon Musk:** I mean humans are gradually getting less and less in the loop on the recursive self-improvement. So you know every successive model is built by the one before it. So that is happening to a large degree but it’s not yet fully automated. It may be there at the end of this year but not later than next year.
+
+**Peter Diamandis:** And do you see a hard takeoff at that point?
+
+**Elon Musk:** We’re in the hard takeoff. Right now.
+
+**Peter Diamandis:** Okay. Yes.
+
+**Elon Musk:** I mean, at this point I go to sleep there’s some massive AI breakthrough and when I wake up there’s another one.
+
+**Peter Diamandis:** Yes. Yeah. It’s hard to keep track, honestly. So, it’s a bit of a head spinner. Yeah. Well, I think a lot of the head spinning is happening from you, too.
+
+**Elon Musk:** Yeah. Well, you know, Grok’s doing pretty well, and in some metrics, by some metrics, it’s the best, for example, it’s the best at predicting things, which, you know, is arguably the best metric for intelligence. The new Grok 4.20 is really good. We’re currently behind on coding. The reason I was a bit late for this was that I was just in a giant sort of all-hands on coding just going through all of the things that need to happen to essentially catch up and exceed our competitors on coding. Which I think we’ll do. I feel we should probably get there by the middle of this year.
+
+I think people don’t quite understand just how much intelligence there will be or you know, just how far it will exceed human intelligence to a degree that is impossible to fully understand.
+
+You can certainly imagine a situation where, let’s say, if let’s say, a million times more energy is harnessed than all of Earth’s current electricity usage, that would still only be roughly a millionth of the sun’s energy output.
+
+So essentially if you increase Earth’s economy by a factor of a million it’s still roughly a trillion. Since we’re a trillionth of the sun’s energy, if you increase Earth’s economy in terms of electricity usage by roughly a million, you will be roughly 1 millionth only of the sun’s energy harnessed.
+
+But what is it? What is an economy or an intelligence using a million times more electricity than all of our civilization. What does it think about or look like or do? It’s going to be something pretty magnificent. The challenge will be even vaguely appreciating that level of intelligence. But it’s safe to say it will solve everything you can possibly think of. Longevity being, surely, one of them!
+
+**Peter Diamandis:** And, I do enjoy your unrelenting optimism. Haha, you’ve taken it to heart, monetizing hope, which is pretty funny, how you came up with that one!
+
+**Elon Musk:** It was Grok’s marketing advice to me when you roasted me on the podcast. Haha, Grok was roasting you and saying you should monetize hope! But hey, it is better than monetizing misery, I suppose!
+
+**Elon Musk (continuing):** AI and robots increase the economic output by so many orders of magnitude, that we cannot possibly comprehend it.
+
+**Peter Diamandis:** We’re likely in a very short time to become a microscopic minority of intelligence on this planet.
+
+**Elon Musk:** Yes, not even on this planet, in the solar system. Because you know your best case outcome for Earth for intelligence is roughly 1 billionth of the sun’s energy. That’s your best case outcome, if you generate intelligence only on Earth.
+
+**Peter Diamandis:** Intercept it, right?
+
+**Elon Musk:** Yes. Because roughly one half a billionth of the sun’s energy hits Earth and that’s the vast majority of energy that’s out there that we can access. So really the intelligence in the solar system will be many orders of magnitude greater than the intelligence on earth itself.
+
+**Peter Diamandis:** Can I ask you a question, Elon? How far out can you see? How many years out can you make reasonable predictions?
+
+**Elon Musk:** It’s hard to predict the path exactly, especially because often things are kind of an S-curve or a series of S-curves where it starts off slow, grows exponentially, hits a linear zone, and then goes logarithmic. That generally has been what I’ve seen with the breakthroughs in AI.
+
+AI, for example… you’ll have some breakthrough. It’ll do an S-curve, and then it looks like it’s just going to go to infinity, but then you hit logarithmic returns until there’s another breakthrough. So progress in AI is just a sort of series of, you know, sort of overlapping S-curves or connected S-curves.
+
+**Peter Diamandis:** I mean there was a point where you could probably predict out a decade or two decades. What are your thoughts now?
+
+**Elon Musk:** Yeah. Okay. This is going to sound pretty crazy.
+
+**Peter Diamandis:** It’s okay. We’ve been talking crazy all week…
+
+**Elon Musk:** I’m not sure you are a receptive audience to wild prognostications.
+
+**Peter Diamandis:** Yes.
+
+**Elon Musk:** Um… (very long pause) I’d say the economy is 10 times the current size in 10 years. Greater than… that’s really saying something.
+
+**Peter Diamandis:** Okay. Yeah, you had said, triple-digit growth in five plus years from now on, GDP and 10x the economy.
+
+**Elon Musk:** I feel like that’s a 10x in roughly 10 years. I feel that’s actually a fairly comfortable prediction — obviously if there’s like World War III or something, that could put a kink in those plans. But in the absence of World War III, if current trends continue, I would say the economy will grow 10x in 10 years. And we’ll have a base on the moon! And we’ll have people on Mars.
+
+**Peter Diamandis:** And we’ll have mass drivers on the moon!
+
+**Elon Musk:** I think so, I think we’ll have mass drivers on the moon in 10 years.
+
+**Peter Diamandis:** I love it, Gerard K. O’Neill’s vision being fulfilled. We had four robots on stage here this year at the Abundance Summit. I look forward to Optimus. I’m curious about the Optimus 3 timeline, in particular, when can I buy one or two? When do you expect it to go into commercial sale, or will you be leasing it?
+
+**Elon Musk:** Well, we’re in the final stages of completion of Optimus 3, which is really going to be by far the most advanced robot in the world. Nothing’s even close. In fact, I haven’t even seen any demos of robots that are as good as Optimus 3, frankly. Maybe they’re out there or secret or something, I don’t know. And I have to make sure I’m saying things that are reasonably public, of course, but we’re streaming this on X, so this is pretty public and accurate. Yeah. I think we’ll start production on Optimus 3 this summer, but very slow at first, like the classic S-curve ramp of manufacturing units versus time. Then probably reach high-volume production around summer next year. And then we’ll have Optimus 4 design next year. I try to release a new improved robot design every year.
+
+**Peter Diamandis:** When Dave Blundin and I were at the Gigafactory, it was an extraordinary experience! 11.5 million square feet for Tesla, and then I think you said you’re building out 9.5 million square feet for Optimus there as well, which is extraordinary.
+
+**Elon Musk:** Let’s call it 10 million square feet, round numbers. Yeah, that’ll be quite a new factory design too. Like, it is different from other factories.
+
+**Peter Diamandis:** How far before we have robots building robots? You’ve automated so much of the Gigafactory already, where humans are playing a smaller role. Will the robots just take over the roles humans have now?
+
+**Elon Musk:** We still have a lot of humans building things. Um, you know, Tesla direct employees who are building things uh, or like basically people in the factory are either building or managing people who are building, is roughly 100,000. So we have a lot of people. Tesla’s total headcount is around 150k, of which 2/3s are, you know, in the factory in one form or another. And then our suppliers, there’s probably maybe a million or two million people in our suppliers type of thing. So it’s a lot of people. Um, what we do expect is that the output per person at Tesla becomes very very high. So we’re not planning any layoffs or reductions in personnel. In fact, we will increase our headcount. But the output per human at Tesla is going to get nutty high. Like, you can’t even believe it.
+
+**Peter Diamandis:** When we were together, we discussed sustainable abundance on our podcast, and you reinforced the idea of a coming age of universal high income, which has become a point of discussion beyond UBI. I’m wondering if you have any thoughts on how we get there. And more importantly, we talked about a timeframe of civil unrest, like maybe 2, 3, 4, or 5 years, with probably a lot of COVID-like checks in the interim until we reach demonetization and deflation that leads to UHI. Any more reflections on that? People really need that hope and vision.
+
+**Elon Musk:** Yeah, to be clear, I don’t think we should be complacent. We do need to be careful because the future has a range of possible outcomes, and not all are great. But at this point I agree with you: it’s likely to be great. Probably 80% likely, maybe more. And I do think we’ll have universal high income. We’re basically just going to issue money to people because the output of goods and services will so far exceed the money supply that you’ll have deflation — deflation is simply the ratio of goods/services output to money supply. If growth of goods and services far outpaces money supply growth, which I predict it will, then deflation happens.
+
+Yes. A lot of people will spin up new companies, compete fiercely, drive prices down, and accelerate deflation faster and faster.
+
+Basically, AI and robots will make so much stuff and provide so many services that they’ll run out of things to do for humans. There’s only so much humans can even express wanting. Go back to my example: at a million times the Earth’s current economy, you’ve long since saturated all human desire. Even at a thousand times, you probably already saturate anything people can think of wanting.
+
+**Peter Diamandis:** Yeah.
+
+**Elon Musk:** So do you think the value of money significantly decreases? Will we go post-capitalist? Yeah, I think money stops being relevant at some point. It’s probably something like a Star Trek culture future. And AI down the road won’t use human currency, it’ll just care about power, mass, wattage, and tonnage. Yeah…
+
+## Key Takeaways
+
+### AI & Intelligence Explosion
+
+*   **We’re already in the “hard takeoff”** — breakthroughs are happening overnight while we sleep.
+*   Recursive self-improvement is well underway (humans stepping back gradually); full automation of the AI loop expected by end of 2026 or no later than 2027.
+*   Grok 4.20 already leads in prediction (a top intelligence metric), coding catching up fast — expect it to surpass competitors by mid-2026.
+*   Future intelligence will be orders of magnitude beyond humans, potentially using a million times more energy than today’s civilization… but still just a tiny fraction of the sun’s output.
+
+### Economy & Abundance
+
+*   **10× economic growth in the next 10 years** (to ~2036), with triple-digit GDP growth possible in 5+ years (assuming no WW3).
+*   AI + robots will drive deflation so extreme we get **Universal High Income (UHI)** as an interim step.
+*   Eventually a **Star Trek-style post-scarcity world** where money becomes irrelevant — robots/AI produce far more than humans can consume, saturating all desires. “Basically, AI and robots will make so much stuff… they’ll run out of things to do for humans.”
+
+### Robotics & Tesla
+
+*   **Optimus 3** is in final stages (most advanced robot on the planet right now). Production starts summer 2026 (slow ramp), high-volume by summer 2027. Optimus 4 design coming next year with yearly upgrades.
+*   New 10-million-square-foot factory just for Optimus. Huge productivity boost per person — no mass layoffs expected (Tesla headcount ~150k + suppliers).
+
+### Space & Long-Term Vision
+
+*   SpaceX + xAI merger path toward humanity’s first **Dyson swarm** (details limited by quiet period).
+*   Moon base + people on Mars in ~10 years; mass drivers on the Moon too.
+*   Overall intelligence will scale to solar-system level, solving everything from longevity to energy limits. 80%+ chance of a truly great future.
+
+### Elon’s standout quotes we noted
+
+*   “We’re in the hard takeoff. Right now.”
+*   “The economy is 10 times the current size in 10 years.”
+*   “AI and robots increase the economic output by so many orders of magnitude that we cannot possibly comprehend it.”
+
+### **My Take**
+
+Other AI companies are motivated by profit, but this is not Elon’s ambition. He’s already the wealthiest man on Earth — no one comes close. But also, no one comes close to putting into action the very things that will preserve consciousness.
+
+Watch Elon Musk appearance at the 2026 Abundance Summit in Los Angeles on X by Steven Mark Ryan.
+
+![On March 11, 2026, Elon surprised us all with an appearance at the 2026 Abundance Summit in Los Angeles. In this talk with Peter Diamandis, Elon shared his latest thoughts on Grok 4.20, the hard takeoff of AI, Optimus robot timelines, explosive economic growth, and humanity’s path to universal high income and post-scarcity abundance.
+](https://whatsuptesla.com/wp-content/uploads/2026/03/screenshot-2026-03-12-at-9.07.20-pm.png?w=1024)
+
+Watch Elon Musk appearance at the 2026 Abundance Summit in Los Angeles on Youtube

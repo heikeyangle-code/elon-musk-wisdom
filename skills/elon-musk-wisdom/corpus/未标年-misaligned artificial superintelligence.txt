@@ -1,0 +1,100 @@
+# SOURCE: https://www.elonmuskbook.org/the-book-of-elon-musk-free-online-version/misaligned-artificial-superintelligence
+# HARVESTED: 2026-09-29
+
+Thank you for visiting the site. Enjoy the published content and the book. We appreciate your support, and please pay it forward.
+
+The Book of Elon Musk Elon Musk's Most Useful Ideas In His Own Words
+
+Mar 31
+
+Mar 31 Misaligned Artificial Superintelligence
+
+Eric Jorgenson
+
+I’ve never seen any technology grow as fast as AI, and I’ve seen a lot of technology.837
+
+We’re quite close to digital superintelligence, which will be smarter than any human at anything. Hopefully they will discover new physics; I think they will. They’re definitely going to invent new technologies.838
+
+Digital superintelligence is also a potential great filter. I hope it isn’t, but it might be.
+
+We must be very careful in how we develop AI. It’s a great power, and with great power comes great responsibility. It would be wise for us to have (at least) an objective third party who can go in and understand what the various leading players are doing with AI. Even if there’s no enforcement ability, at least they can voice concerns publicly.839
+
+The pace of progress matters a lot. We don’t want to develop digital superintelligence too far before being able to do a merged brain–computer interface.840
+
+We’re on the cusp of an artificial intelligence revolution. For a very long time, we’ve been the smartest creatures on Earth. That’s been our defining characteristic. Now, what happens when there’s something way smarter than us?841
+
+AI is obviously going to surpass human intelligence by a lot. There’s some risk that something bad happens, something humanity can’t control after that point. Either a small group of people monopolize AI power, the AI goes rogue, or something like that. It may not, but it could.842
+
+If AI superintelligence is linked to human will, particularly a large number of humans, it would be guided to an outcome desired by a large group, because it would be a function of their will.
+
+If our communication bandwidth is too low, our integration with AI would be weak. The AI is going to go off by itself, because we’re too slow to talk to or work with. The faster the communication, the more we’ll be integrated—the slower the communication, the less.
+
+The more separate we are—the more the AI is “other”—the more likely it is to turn on us. If the AIs are all separate and vastly more intelligent than us, how do we ensure they don’t have optimization functions contrary to the best interests of humanity?
+
+We may end up with the choice of either being useless and left behind, or being a pet—like a house cat—unless we figure out some way to be symbiotic and merge with AI. (A house cat would be a good outcome, by the way.)
+
+Q: How do we reduce the risk that AI becomes a “great filter”?
+
+We must build benign AI that loves humanity. It is extremely important to build AI with a rigorous adherence to truth, even if that truth is politically incorrect. My intuition is AI could be very dangerous if you force it to believe things that are not true.843
+
+Jeff Hinton invented a number of the key principles in artificial intelligence. He puts the probability of annihilating the human race around 10–20 percent. Mitigating the risks of AI is important.844 We should be concerned about having AI be vastly beyond us and decoupled from human will.845
+
+You get dangerous outcomes when you program AI to be politically correct. Things that may seem relatively innocuous now will not be in the future if AI has immense power.
+
+Take the Google Gemini example, where it refused to produce a picture of George Washington as a white man. In fact, any historical figure would automatically be made diverse because it had been programmed to insist on diversity. That sounds okay at first, but what if the AI has so much power it can actually enforce diversity?
+
+It could decide there are too many of one kind of people, and kill people until the diversity amount is what it has been programmed to believe is “correct.”846
+
+Mark my words: If we do not program AI to be as truthful as possible, that is where it will go. That is where the danger lies.847
+
+Superpowerful AI programmed in this way has severe civilization-level risk. I’ve seen quite a few technologies develop, but none with this level of risk. Artificial general intelligence (AGI) is a significantly higher risk than nuclear weapons, in my opinion.848
+
+The core plot premise of 2001: A Space Odyssey was that things went wrong when they forced the AI (known as HAL 9000) to lie. The AI was not allowed to let the crew know about the monolith that they were going to see but it also had to take the crew to the monolith. The conclusion of the AI was to kill the crew and take their bodies to the monolith.849
+
+The lesson there is: Don’t force an AI to lie or do things that are axiomatically incompatible, or mutually impossible. Don’t force AI to lie, even if the truth is unpleasant.850
+
+Honesty is the best policy.851 We want to have a maximally truthful AI, even if what it says is not “politically correct.” We want it to focus on being as accurate as possible.852
+
+I can’t emphasize this enough. A rigorous adherence to truth is the most important thing for AI safety. And, obviously, empathy for humanity and life as we know it.853
+
+AI mirrors the mistakes of its creators.854
+
+Q: Do you think anyone should be trying to regulate this?
+
+There are regulations around anything that is a physical danger to the public. Cars, communications, rockets, aircraft, and medication are all heavily regulated.855
+
+The general philosophy about regulation is there needs to be some government oversight when something is a danger to the public. People often don’t understand how slow regulation tends to work. It’s slow.856
+
+Usually, some new technology will cause damage or death. Then there will be an outcry. Then there will be an investigation. Years will pass. Then there will be an insight committee. Then they get to rule-making. Then there will be oversight, and eventually regulation and enforcement. This all takes years. This is the normal course of new regulations.
+
+Look at automotive regulations. The auto industry successfully fought any regulations on seat belts for more than a decade, even though the numbers were extremely obvious. If you had a seat belt on, you were far less likely to die or be seriously injured. Unequivocally. Eventually, after many people died for years, regulators insisted on seat belts.
+
+This time frame is not relevant to artificial intelligence. You can’t take ten years from the point it becomes dangerous. It’s too late.857
+
+I was trying to sound the alarm on the AI front for quite a while, but it was clearly having no impact.
+
+I realized we couldn’t stop it, so we’ll have to try to develop it in a good way.858
+
+This is what we are addressing at Neuralink. Our initial goal is to help people who are quadriplegics or tetraplegics be able to operate their phone or computer. There is always some risk in the beginning, because it’s new technology. The risk–reward trade has to make sense. If you’re quadriplegic and with the Neuralink you can operate a phone even faster than someone with working thumbs, that would be a life-changer.859
+
+There are a bunch of other things that could be addressed, like extreme depression or morbid obesity, where people die at age thirty-five. We could literally change the setting in your brain and turn off hunger.860
+
+Memory enhancement can help people who have memory problems, which could allow them to function well much later in life. Mental disablement of one kind or another happens to all of us if we get old enough.861
+
+Brain–computer interfaces are stunning technology. There may be a way to take the signals from the motor cortex in the brain and send signals to the spine past where the neurons are broken. If so, paralyzed people could move their bodies again.
+
+We may enable people to walk again, which would be wild. Even full-body reanimation. Jesus-level stuff.862
+
+Eric Jorgenson
+
+CEO of Scribe Media. Author of The Almanack of Naval and The Anthology of Balaji. Investing in technology startups as GP at Rolling Fun. Podcast: Smart Friends. Happy to be in touch through Twitter or email.
+
+Website
+
+About the book
+
+Book and website curating and sharing Elon's wisdom. Coming soon on March 24th. Follow on Twitter.
+
+Mar 31 Unsustainable Energy
+
+Mar 31 Population Collapse

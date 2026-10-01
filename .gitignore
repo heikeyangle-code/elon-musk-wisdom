@@ -1,7 +1,5 @@
-# 第三方语料 —— 不分发
-skills/elon-musk-wisdom/corpus/
-
-# 抓取记录
+# 语料随仓库分发（见 THIRD-PARTY.md）
+# 只忽略抓取过程产物
 corpus-missing.json
 
 # 系统

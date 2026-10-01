@@ -1,0 +1,42 @@
+# SOURCE: https://whatsuptesla.com/2025/04/27/elonatwestpointpartone/
+# TITLE: Elon Musk’s 2024 West Point Talk: My Transcript of Insights on the Future of Technology in Warfare (Part 1)
+# FETCHED: fetch_content_cache
+
+This is the first of a multi part series, that allows you to closely study Elon’s words spoken at West Point on August 16, 2024. The full video was released on February 6, 2025. If you love history of civilizations, and like to study battles and war, you’ll find value in Elon’s insight. I know I did.
+
+## **Featuring Elon Musk interviewed by Shane Reeves**
+
+## **Elon Musk at West Point: AI and Drones Will Define Future Warfare**
+
+**How do you see warfare transforming in the future?** Elon replied with, “the biggest factor I think by far is AI and drones. The current war in Ukraine is very much a drone war already – sort of a contest between Russia and trying to see who can deploy the most number of drones. Now if there’s a major power war, it’s very much going to be a drone war. It’s gonna be drones and AI and … I do worry about the existential risk of AI, which is that if you employ AI and drones, do you Eventually go down this path where you get to terminator? We should try to avoid that! We should minimize the terminator risk. But essentially when you’re making military drones, you are making terminators. And I think you will be somewhat forced into giving the Drone localized AI. Because if the AI is far away, it can’t control as well as localized AI.”
+
+Elon explained that localized AI means it’s an autonomous scaling machine which will be completely autonomous if you give it the OK in a particular arena and then it just goes.
+
+**Will our military have the same types of concerns and limitations?** To this question Elon replied, “it depends on how much existential risk there is in these wars, if it’s a regional war, I think it will be more tempered, if it goes beyond regional war, then all bets are off. And then you start deploying things that you really would not want to deploy. So hopefully, that does not happen.”
+
+In response to a comment by Reeves, that machines are not just disrupting warfare today they are commonplace, Elon said “drones are going to be overwhelmingly what matters for any powers that have significant technology. Elon added, my personal belief is like, it’ll actually be I think probably too dangerous to have humans at the front. It’s drones at the front. Drones don’t miss.”
+
+  
+Reeves asked, or commented, because of the lethality then, it’s too dangerous to have humans at the front? Elon responded “Yes, I mean, if you have seen some of the computer-controlled sniper rifles, they just don’t miss. So you are finding a machine that is going to aim with micron level accuracy, and it never gets tired.”
+
+  
+Reeves asked Elon how he thinks the United States should be leveraging technology to further our national defense?
+
+  
+Elon paused, and replied, “Well I think we probably need to invest in drones, the United States is strong in terms of technology of the items, but, the production rate is low, so, it is a small number of units, relatively speaking, but I think that basically there is a production rate issue with the rate, like if you say how fast can you make drones, imagine there is a Drone conflict. The outcome of that Drone conflict will be based on: How many drones does each side have in that particular skirmish times the kill ratio… so let’s say that the United States would have a set of drones that have a high kill ratio, but then, the other side has far more drones. If you have got a 2 to 1 kill ratio, and the other side has four times as many drones, you are still going to lose.”
+
+  
+Reeves asked Elon if he thinks that our industrial base can scale to make the number of drones that Elon is talking about?
+
+  
+Elon replied, “I think that’s going to be the biggest challenge. It can scale. But it is not currently scaling.” Reeves asked why. Elon thought about the current state of Drone procurement in the U.S.A, and also mentioned,
+
+“I read a lot of military history and the thing that I go to sleep with is usually an audiobook on military history of one kind or another so I find the subject very interesting and one of the things that tends to happen is that countries are geared up pretty much enough to fight the last war, but not the next war. And it’s hard to change. If you look at the uniforms at the start of World War I and the tactics they use at the start of World War I, they were not significantly different from the Napoleonic era. You know, when the French were marching into war with brightly colored uniforms. It looks great. But that’s not what you want to be, you know when someone is pointing a gun at you you don’t want a great looking uniform you want a uniform that blends in so, there is a tendency to be gearing up to fight the last war in the U.S. So that would be kind of the Cold War I guess. So, it usually takes some kind of shock factor to adjust. I would recommend adjusting now.”
+
+![](https://whatsuptesla.com/wp-content/uploads/2025/04/screenshot-2025-04-27-at-8.11.37e280afam.png?w=1024)
+
+Elon: “And you are seeing some startups like Anduril and a few others that have a different mindset, but it’s really going to be, can you make a lot of drones? And what’s the kill ratio? That’s what it comes down to.”
+
+**Anduril Industries**, founded in 2017 in Costa Mesa, California, is a defense tech company revolutionizing military capabilities with AI-driven solutions. Named after a mythical sword, Anduril builds autonomous drones (like Ghost), surveillance systems (Sentry), and software (Lattice) to enhance national security. Unlike traditional defense giants, it operates like a nimble tech startup, prioritizing speed and innovation. With $2.3 billion in funding by 2024, Anduril serves the U.S. Department of Defense and allies, competing with legacy contractors by delivering cost-effective, scalable tech for modern warfare, including border security and counter-drone operations.
+
+This is Part 1, of Elon’s talk, and it gets better. You can follow my account, turn on your notifications, for Part 2. Or check back periodically.

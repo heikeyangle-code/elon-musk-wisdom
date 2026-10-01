@@ -1,0 +1,91 @@
+# SOURCE: https://elonmuskinterviews.wordpress.com/2022/03/23/giga-berlin-delivery-day/
+# TITLE: Gigafactory Berlin-Brandenburg Delivery Day
+# FETCHED: fetch_content_cache
+
+_On the occasion of the delivery of the first 30 vehicles from Giga Berlin on 22nd March 2022, Elon Musk gave a short speech addressed to Tesla employees and then answered their questions. The transcript and the German translation (which will follow later) are based on the video published by „[Tesla Welt Podcast](https://www.youtube.com/channel/UCK0nQCNCloToqNKhbJ1QGfA)“ on [YouTube](https://www.youtube.com/watch?v=BDy7K-vOM8g)._
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2022/03/model-y.jpg?w=850)
+
+Photo by Tobias Lindh @tobilindh
+
+**Elon:** (0:20) Schön, dass Ihr alle da seid. Heute haben wir die ersten Autos an unsere Kunden ausgeliefert. Was für ein Meilenstein. Vor circa zwei Jahren haben die Bauarbeiten angefangen. Jetzt stehen wir vor der fertigen Fabrik und wir produzieren. Danke für all Eure harte Arbeit, die das hier möglich gemacht hat.
+
+_(Translation of Elon’s welcoming words: „Nice to see you all here. Today we delivered the first cars to our customers. What a milestone. The construction work started about two years ago. Now we are in front of the finished factory and we are producing. Thank you for all your hard work that made this possible.“)_
+
+Thank you for all your hard work, which has led to this great day. It was amazing to see how excited the customers were to receive the cars. I mean, it was just super good vibes, and I think it boats very well for the future of Giga Berlin Brandenburg. It’s worth remembering that every car that we make is a step in the direction of a sustainable future. The thing about this factory and the cars that we make is that it gives people hope about the future. It’s very important to have reasons to be excited about the future. Because often people are depressed or sad about the future because they think it won’t be good. But what we’re doing here is with every car we make, with every battery we make, we’re making the future better.
+
+(2:10) So, what you’re doing really matters; it makes a difference. I’m sort of working on the master plan, part three, and it’s… yes, it’s gonna be good. But a huge part of that is scaling to high volume. In order for us to really affect the world in a positive way – because we get a lot of press, we get a lot of attention – but if you say, how many vehicles have we made as a percentage of total vehicles in the world… because there’s 2 billion vehicles in the world. Well, so far, we’ve actually well below 1%; we’re not even half a percent.
+
+It’s essential for us to really affect the future in a positive way, we have to make a lot of cars. That’s the only way. That’s why we call it a Giga factory, you know. It’s very big. We’re starting off with the Model Y, but we’re gonna do a number of exciting additional vehicles here. I think this overall is just going to be a center of excellence for sustainable energy in general, and it’s really gonna help the world. And I look forward to doing it with you. And yeah, once again, thanks for everything. (3:36) So, if you guys have some questions or something?
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2022/03/1.png?w=479)
+
+**Question from the audience:** _(inaudible)_
+
+**Elon:** (…) Yes, well, great thanks to the supercharger team for enabling long-distance travel. It’s very impressive work that the supercharger team has done. So I’d like to give them a hand as well. _(applause)_ (4:26) In addition to the work that we do here, we also inspire and encourage the rest of the industry to go towards electrification. I think it’s fair to say that without Tesla, without the work that the Tesla team has done, that the rest of the industry would not be moving so quickly towards electrification. That’s also why we open-sourced our patents. You know, we made our patents freely available to the other carmakers because it was the right thing to do. No other company has done that, as far as I know. It’s just, Tesla really tries to do the right thing. We want to be a company that you can believe in, in your heart and soul. And in order to do that, we must be the company that does the right thing.
+
+**Audience:** We love you!
+
+**Elon:** I love you guys, too. I don’t know, if anybody’s got some questions, you can say it loud or something?
+
+**Question from the audience:** _(inaudible)_
+
+**Elon:** Oh yeah, okay. When is Tesla going to South America and maybe some other markets? Well, we definitely want to go to the world. The challenge we have right now – it’s a high-class problem. But the orders we have are well in excess of our production. So sometimes people will say, “Why aren’t you in all these other markets, and why don’t you make all these other different versions of the product, like different cars? Where’s the Tesla semi-truck, and the Cybertruck, and Roadster, and other things?” But the challenge we have… it’s a good challenge that our orders far exceed our production. So it is a high-class problem.
+
+But we need to have our production get to the point where it exceeds our current orders, and then it makes sense to expand to additional markets and to have additional products. Because if we add complexity, but we don’t add volume, and we don’t add production volume, then we’ve not actually done anything more. Because the good is a function of how many vehicles we’re able to make. So as we are able to ramp up production and satisfy demand in our existing markets, then we will expand to other markets, and we will also add additional products.
+
+Last year, there were a lot of supply chain challenges with chips – everyone knows about the chip shortage – and then this year, there’s still some chip shortages, and then next year will be, I think, probably a challenge with the total battery production. And then certainly, if you start going like two, three years out, it’s all about total… how many gigawatt-hours of battery are produced. That will be the limiting factor. And then, going even further down into the supply chain, what is the rate at which battery materials are being mined and refined. And obviously, we want to do that in an ethical and environmentally sensitive way.
+
+So that in the grand scheme of things is how many terawatt hours of battery can be produced per year. Our rough calculation is that it’s about 300 terawatt-hours needed to transition the world to a sustainable energy economy. That’s a lot of batteries, basically. We want to try to do as much of that as possible. And I think we’re actually doing a pretty good job. We’re growing by, I don’t know, 70, 80% a year on average, and maybe even faster than that in the future. So, yeah, that’s the answer to why not more markets, and why not more products.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2022/03/2.png?w=297)
+
+I’m gonna get cooked by the sun, by the way, but I’m not very sunproof. _(the sun is blinding him)_
+
+**Question from the audience:** _(inaudible)_
+
+**Elon:** In terms of what am I most proud of? Well, I think I’m most proud of the amazing work done by the Tesla team to scale at the rate that we’re scaling and make compelling products that people love. I mean, you know, if you think about it, how many products can you buy that you really love? It’s so few, and it’d be great if people made more products that you love. Tesla is a rare company that actually makes products you love and makes people… that brings them joy every day. That’s great. (9:05) If you look at our rate of growth, Tesla is the fastest growing company in history that makes a large manufacturer product. The next fastest, I think, was the Ford Model T; that was 100 years ago. And we’re actually growing faster than the Ford Model T, which is crazy. _(applause)_
+
+**Question from the audience:** _(inaudible)_
+
+**Elon:** That would be great. Yeah, with respect to colors – which colors will be available from this factory – colors are always a challenge because when you think about colors, you don’t need to need to manufacture it, but you also need to service it and fix it for like 20 years. So it’s like, “Man, we’ve got to think about what are we going to put that service team through, you know, managing all these colors.” So we have to be careful with total number of colors. But we obviously are going to make some special colors here, because… and it’s more than just the color itself, but it’s the layers of paint in order to get the dimensionality. We are going to make a really special red, which probably a lot of people have seen. Yeah, kinda like that. It’s 13 layers of paint. You want to have… the layers give you dimensionality, and it makes the color look deep and complex.
+
+Then we’ll also have a silver that’s also, I think, not as many layers, maybe eight or something, but it’s still gonna be really special. It’s sort of a kind of a liquid silver, and like a deep red, I don’t know, deep, complex red. We’re going to make it starting off with, well, not soon, wait a few months, we’ll make the special sort of deep dark red and sort of quicksilver. They will be really cool; they’ll be the best color. I think they’ll be the best paint on any production car that’s not made for a show or something like that. You have to design the paint shop, especially for, you know… because you got to do 13 layers, you’ve got to have 13 steps. It’s very difficult to retrofit a paint shop; you have to design it in from the beginning. And that’s one of the things that…
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2022/03/3.png?w=377)
+
+Oh, thank you! _(applause, laughter – someone repositioned one of the large balloon figures so that Elon is no longer blinded by the sun)_
+
+**Question from the audience:** _(inaudible)_
+
+**Elon:** (12:06) Well, I don’t think we’re gonna be using graphene, but we will use graphite. There’s plenty of that, you know, graphite is just carbon basically, a special form of carbon. But yeah, I think the battery materials, for long-range, it’ll be a nickel-based cathode. The cathode is really the important part. They all have lithium, and lithium is only like 2% of the cell. So nickel will be the one for long-range, which is currently what we’re using. And then for standard range the iron phosphate, and then for… I think there’s an interesting potential for manganese.
+
+The important thing is, if you’re looking at very large scale, you have to say, okay, we need tens of millions of tonnes, it’s like well, maybe hundreds of millions of tonnes ultimately. And so the materials that are used for batteries at very large scale must be common materials. (13:07) The not common materials can’t scale.
+
+Well, graphene is… I know, everyone loves graphene, but it’s… maybe we’ll use it at some point. But the graphene is a difficult thing to make, but even graphene is made of carbon. So anyway, the fundamentals of scaling batteries are just say like, how many millions of tons can be produced and produced in an ethical and environmentally good way. I’m confident that we can scale to global volumes using iron phosphate and manganese cathode, and then a nickel cathode for long-range.
+
+**Question from Samuel @samuel\_glb:** What about FSD beta in Europe?
+
+**Elon:** FSD beta Europe? Yes, so FSD beta Europe, I think we’re getting to the point where the FSD beta is very good in the US and later this week expanding to Canada. And then I think we’ll be ready to show it to regulators in the EU, I don’t know, maybe in two or three months. But then we’ve got to do quite a lot of work for all the special case situations in Europe. The roads, as you know if you’ve driven around Europe, the roads vary quite a lot by country. I mean (…) the EU, but the road rules and the way the blinds are painted, it’s different. And then you’ve got to recognize all the different languages.
+
+It’s quite difficult to do full self-driving in Europe. It’s much more complex than, say, the US or Canada. There’s a lot of little tricky things; the rules are not the same. But I think probably we can start doing beta maybe later this year in Europe, depending on regulatory approval. Things are a little different in the US. In the US, things are legal by default, in Europe, they’re illegal by default. So we have to get approval beforehand, whereas, in the US, you can kind of do it on your own cognizance, more or less.
+
+**Question from the audience:** _(inaudible)_
+
+**Elon:** Well, I guess the next target is to really scale production this year and try to make as many cars as we can. We want to complete development of the Cybertruck and be ready for production next year. Hopefully, we have enough battery pack capability to start the Tesla Semi Truck, the heavy truck. Hopefully, we may complete engineering of the Roadster, the new Roadster, and then there’s some future projects that are also pretty important. There’s also stationary storage, new versions of the Tesla solar roof, Powerwall 3 – there’s a lot of things. We have a very exciting product pipeline.
+
+(16:51) Maybe one or two more questions?
+
+**Woman in the audience:** I love you!
+
+**Elon:** I love you, too. Well, it makes me happy to see you guys happy, I have to say. _(applause)_
+
+**Question from the audience:** _(inaudible)_
+
+**Elon:** No, but I’ll get it. I’ll track it down. Alright, last question.
+
+**Question from the audience:** Best case scenario. In ten years, how many Giga factories?
+
+**Elon:** Well, best case scenario, um? I suppose 10. I think it’s aggressive but not impossible that we could do 20 million cars in 10 years. (18:04) So that would be a good number because there’s two billion cars and trucks in the world that are in active use. So 20 million would be then 1% of the global fleet per year.
+
+Yeah. All right. Thanks again, guys. Love you!

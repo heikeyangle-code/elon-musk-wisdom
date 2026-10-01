@@ -1,0 +1,56 @@
+# SOURCE: https://www.elonmuskbook.org/the-book-of-elon-musk-free-online-version/optimizing-for-mass-to-mars
+# HARVESTED: 2026-09-29
+
+Thank you for visiting the site. Enjoy the published content and the book. We appreciate your support, and please pay it forward.
+
+The Book of Elon Musk Elon Musk's Most Useful Ideas In His Own Words
+
+Mar 31
+
+Mar 31 Optimizing for Mass to Mars
+
+Eric Jorgenson
+
+The thing we optimize for at SpaceX is cost per ton to orbit. When thThe thing we optimize for at SpaceX is cost per ton to orbit. When the goal is low cost per ton of payload to orbit, you can’t cheat.
+
+All early rockets were a test program. We expected them to explode. It’s weird if they don’t explode, frankly. To get a lot of payload to orbit at low cost, you have to run everything close to the edge.
+
+To get a meaningful payload to orbit, scale is important. We need to make things big. There is value to scale here. You don’t see everything shipped by small pickup trucks; you see semi trailers. You see giant ocean cargo ships, not a bunch of small boats with outboard motors. Scale has value in itself. For example, the same computer that controls a tiny rocket controls the big rocket. The percentage weight of the electronics is significant in a small rocket but becomes vanishingly small in a big rocket.678
+
+The focus is to minimize cost per ton of payload to orbit, the surface of the moon, or Mars. I’ll give you a sense of just how much we need to improve it. Right now, the cost per landed ton to the surface of Mars is more than a billion dollars. You can’t count the heat shield, parachute, or landing systems—only the useful stuff. In the case of the Mars rovers, it’s really just the rover. That is the useful thing. The rover weighs about a ton and costs a billion dollars to get to Mars. So currently it costs roughly a billion dollars per ton to Mars.679
+
+To build a self-sustaining city on Mars, that cost will have to be less than one hundred thousand dollars a ton. That would be ten thousand times better than the current state of the art, to put things into perspective.680
+
+That’s how much improvement is needed. Not a 10,000 percent increase, a 10,000-times increase. That’s what Starship is intended to do: be ten thousand times better than the current state of the art. Orders and orders and orders of magnitude better. But, we’re not breaking any laws of physics. This is possible.681
+
+When we started the Starship design it seemed utterly insane. Now it’s gone from utterly insane to merely late.682
+
+With full reusability, Starship 3 will cost significantly less per flight than tiny Falcon 1. That’s the difference between a fully reusable rocket and an expendable rocket. The fully reusable rocket with low-cost propellant actually costs less than a tiny expendable rocket.683 By analogy, the cost of flying a 747 is obviously much less than a small airplane that gets thrown away.
+
+Falcon 1 gets about half a ton to orbit. The Starship 3 will send four hundred times more payload for less than the cost of a Falcon 1. It’s mind-boggling that the giant thing can cost so much less than the small thing.684
+
+A lot of people talk a lot about the number of launches to orbit per year, but this is not really what matters. What really matters is the total useful payload to orbit per year. If these were ocean ships, you’d be comparing a dinghy to a supertanker. They’re not the same.685
+
+There must be things you’re excited about, that you’re glad to be alive for.
+
+For me, this is the most important reason to pursue the establishment of life on Mars.686
+
+There are various “great filters” that have the potential to end civilizations. One of the “great filters” to pass is whether we become a multiplanet species. Will humanity be one of those species that passes the great filter of going beyond one planet?687
+
+To become multiplanetary, the breakthrough we need to create is a rapidly reusable interplanetary transport system. This is right on the edge of impossible.688
+
+That’s the breakthrough SpaceX is really trying to achieve. What we’ve done so far is good; it’s better. But it has been evolutionary—not yet revolutionary. We need the revolutionary thing to work.689
+
+Eric Jorgenson
+
+CEO of Scribe Media. Author of The Almanack of Naval and The Anthology of Balaji. Investing in technology startups as GP at Rolling Fun. Podcast: Smart Friends. Happy to be in touch through Twitter or email.
+
+Website
+
+About the book
+
+Book and website curating and sharing Elon's wisdom. Coming soon on March 24th. Follow on Twitter.
+
+Mar 31 Building the Just Barely Possible
+
+Mar 31 Companies Are Philanthropy

@@ -1,0 +1,64 @@
+# SOURCE: https://www.elonmuskbook.org/the-book-of-elon-musk-free-online-version/simplicity-wins
+# HARVESTED: 2026-09-29
+
+Thank you for visiting the site. Enjoy the published content and the book. We appreciate your support, and please pay it forward.
+
+The Book of Elon Musk Elon Musk's Most Useful Ideas In His Own Words
+
+Mar 31
+
+Mar 31 Simplicity Wins
+
+Eric Jorgenson
+
+Never use a cruise missile to kill a fly; just use a flyswatter.310
+
+Every decision we made in early SpaceX designs has been with simplicity in mind. Simplicity both improves reliability and reduces cost. Fewer components means fewer components to buy and fewer components that can go wrong.311
+
+The number of lines of code is not a figure of merit. I consider a large number of lines of code to be bad, not good. I would award one point for adding a line of code and two points for deleting a line of code.312
+
+In general, always pick common sense as your guide. If following a “company rule” is obviously ridiculous in a particular situation, such that it would make for a great Dilbert cartoon, then the rule should change.313
+
+Simplicity is our mantra. It creates both reliability and low cost.314
+
+Q: What are the benefits of simplicity at scale?
+
+At Tesla, the Model 3 body line in Fremont was only ever meant to make five thousand cars a week, and it’s now doing seven thousand. We achieved that by removing things. We had been doing a lot of foolish things. We’ve changed some of the designs and made them simpler and easier to build. Simplicity comes from hundreds of little changes.
+
+Being able to get 40 percent more output from the same manufacturing line makes a big difference. It also reduces the marginal cost of production and improves the quality of the car. This is the result of a ton of hard work by a lot of people.315
+
+For three months I was at the gigafactory trying to help fix battery production. It’s a lot of little things. I look at every tiny part of each process and ask, “Is this process necessary?”
+
+The best part is no part. The best process is no process.316
+
+For example, a robot would put a car frame on a turntable. The turntable would rotate and then another robot would pick it up. The problem was the turntable would sometimes break down. So, we eliminated the turntable. With a robot-to-robot handoff, we had one less step, less equipment, and didn’t have turntable breakage to consider. It’s a lot of this really simple stuff, but a thousand times.317
+
+It’s a lot of minimizing things that can go wrong and maximizing the efficiency of the simple things318
+
+If you’ve got a whole bunch of separate parts and each of them has a given tolerance—even if that tolerance is tight, like 0.2 millimeter tolerance—but if you’ve got fifty parts…you have to multiply the variances together. You’ll end up with a huge variance between cars. That’s one of the reasons it’s better to combine parts rather than have more individual parts.
+
+In the Model 3 engineering, there were a lot of right answers to the wrong questions.319
+
+Fifty different times for fifty different parts, an engineer would ask, “What’s the best material to make this part out of?” Of course, they would get fifty different answers. They were all true individually, but not true collectively.
+
+When you try to join all these parts made of dissimilar metals, there are many issues. You need better sealant to prevent galvanic corrosion. You’ve got to join some with rivets, some with spot welds, some with resin, or resin and spot welds. Then it looks like a Frankenstein situation all together.320
+
+It’s way better to have a single piece, casted. Then you have no gaps, no sealant, no dissimilar metals. You can reduce the size of the body shop in the factory dramatically. Having the rear body cast for Model Y allowed us to reduce the body shop by 30 percent.321
+
+There’s roughly a thousand robots on the Model 3 body line. Which, by the way, is not a figure of merit. We got rid of three hundred robots by switching to rear body casting. When we change the front body to casting, we’ll get rid of another three hundred robots. You want fewer things, not more.322
+
+It’s easy to say “simplify,” but it’s very difficult to do it.323
+
+Eric Jorgenson
+
+CEO of Scribe Media. Author of The Almanack of Naval and The Anthology of Balaji. Investing in technology startups as GP at Rolling Fun. Podcast: Smart Friends. Happy to be in touch through Twitter or email.
+
+Website
+
+About the book
+
+Book and website curating and sharing Elon's wisdom. Coming soon on March 24th. Follow on Twitter.
+
+Mar 31 Innovation Needs Permission to Fail
+
+Mar 31 The Algorithm

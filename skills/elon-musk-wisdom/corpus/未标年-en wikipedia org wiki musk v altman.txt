@@ -1,0 +1,118 @@
+# SOURCE: https://en.wikipedia.org/wiki/Musk_v._Altman
+# TITLE: Musk v. Altman
+# FETCHED: fetch_content_cache
+
+From Wikipedia, the free encyclopedia
+
+Musk v. Altman
+
+[![](//thumb.wikimedia.org/wikipedia/commons/thumb/8/86/US_DC_NorCal.svg/250px-US_DC_NorCal.svg.png?utm_source=en.wikipedia.org&utm_campaign=parser&utm_content=thumbnail)](https://en.wikipedia.org/wiki/File:US_DC_NorCal.svg)
+
+Court
+
+[Northern District of California](https://en.wikipedia.org/wiki/United_States_District_Court_for_the_Northern_District_of_California "United States District Court for the Northern District of California")
+
+Started
+
+August 5, 2024; 2 years ago
+
+Docket nos.
+
+[4:24-cv-04722](https://www.courtlistener.com/docket/69013420/musk-v-altman/)[\[1\]](#cite_note-1)
+
+Case history
+
+Prior action
+
+Lawsuit in [San Francisco Superior Court](https://en.wikipedia.org/wiki/San_Francisco_Superior_Court "San Francisco Superior Court") (filed February 2024)[\[2\]](#cite_note-2)[\[3\]](#cite_note-3)
+
+Argument
+
+[cand.uscourts.gov/news/2026/05/01/musk-v-altman-trial-listen-live](https://cand.uscourts.gov/news/2026/05/01/musk-v-altman-trial-listen-live)
+
+Court membership
+
+Judge sitting
+
+[Yvonne Gonzalez Rogers](https://en.wikipedia.org/wiki/Yvonne_Gonzalez_Rogers "Yvonne Gonzalez Rogers")
+
+Keywords
+
+[AI safety](https://en.wikipedia.org/wiki/AI_safety "AI safety")
+
+Area of law
+
+[Contract](https://en.wikipedia.org/wiki/United_States_contract_law "United States contract law")[\[4\]](#cite_note-4)
+
+_**Musk v. Altman**_ was a February 2024 lawsuit in the [United States District Court for the Northern District of California](https://en.wikipedia.org/wiki/United_States_District_Court_for_the_Northern_District_of_California "United States District Court for the Northern District of California") in which [Elon Musk](https://en.wikipedia.org/wiki/Elon_Musk "Elon Musk") accused [OpenAI](https://en.wikipedia.org/wiki/OpenAI "OpenAI") and its executives, including CEO [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman "Sam Altman"), of violating the company's founding agreement by prioritizing profits over [AI safety](https://en.wikipedia.org/wiki/AI_safety "AI safety").
+
+On May 18, 2026, the jury decided in favor of OpenAI and its executives, finding that Musk's claims were barred by the [statute of limitations](https://en.wikipedia.org/wiki/Statute_of_limitations "Statute of limitations").[\[5\]](#cite_note-:1-5)
+
+Musk and Altman are two of the eleven co-founders of OpenAI, which was founded in 2015.[\[6\]](#cite_note-6)
+
+In early 2018, Musk proposed taking direct control of [OpenAI](https://en.wikipedia.org/wiki/OpenAI "OpenAI"), either through a majority stake in a for-profit subsidiary or by folding the organization into [Tesla](https://en.wikipedia.org/wiki/Tesla,_Inc. "Tesla, Inc."). The other co-founders, including [Sam Altman](https://en.wikipedia.org/wiki/Sam_Altman "Sam Altman"), [Greg Brockman](https://en.wikipedia.org/wiki/Greg_Brockman "Greg Brockman"), and [Ilya Sutskever](https://en.wikipedia.org/wiki/Ilya_Sutskever "Ilya Sutskever"), rejected the proposal.[\[7\]](#cite_note-7) Musk left the OpenAI board in February 2018, publicly citing a potential conflict of interest with Tesla's growing artificial intelligence work, although later reporting indicated the underlying dispute concerned control of the organization.[\[8\]](#cite_note-8)
+
+The lawsuit was originally filed on February 29, 2024.[\[9\]](#cite_note-9)[\[10\]](#cite_note-10)[\[11\]](#cite_note-11)[\[12\]](#cite_note-12)
+
+In November 2024, Musk filed a motion for [preliminary injunction](https://en.wikipedia.org/wiki/Preliminary_injunction "Preliminary injunction") to block OpenAI from changing from a nonprofit to a for-profit. He believes the conversion violates the terms of his contributions, which total $44 million, to OpenAI from 2016 to 2020.[\[13\]](#cite_note-13) In February 2025, United States District Judge [Yvonne Gonzalez Rogers](https://en.wikipedia.org/wiki/Yvonne_Gonzalez_Rogers "Yvonne Gonzalez Rogers") said that Musk's claim of irreparable harm was a stretch.[\[14\]](#cite_note-14)
+
+In April 2025, twelve former employees of OpenAI stated in an amicus brief that OpenAI had abandoned its nonprofit roots and that Altman "was a person of low integrity who had directly lied to employees about the extent of his knowledge and involvement in OpenAI’s practices of forcing departing employees to sign lifetime non-disparagement agreements." The motion was filed by Harvard law professor [Lawrence Lessig](https://en.wikipedia.org/wiki/Lawrence_Lessig "Lawrence Lessig").[\[15\]](#cite_note-15)
+
+In April 2025, OpenAI countersued Musk, claiming that his actions were deliberate tactics to slow OpenAI in order to benefit his own interests.[\[16\]](#cite_note-16) That month, the California attorney general declined to join Musk's lawsuit.[\[17\]](#cite_note-17)
+
+On May 1, 2025, Judge [Yvonne Gonzalez Rogers](https://en.wikipedia.org/wiki/Yvonne_Gonzalez_Rogers "Yvonne Gonzalez Rogers") trimmed the lawsuit, excluding claims of false advertising and breach of fiduciary duty, but allowed claims of fraud and unjust enrichment to proceed.[\[18\]](#cite_note-18)
+
+On May 5, 2025, OpenAI announced that it was no longer planning to restructure into a for-profit company separate from its nonprofit board. Later that day, Musk's lawyer [Marc Toberoff](https://en.wikipedia.org/wiki/Marc_Toberoff "Marc Toberoff"), announced that the lawsuit against OpenAI would continue.[\[19\]](#cite_note-19) In October 2025, OpenAI formed a for-profit company – OpenAI Group PBC – with the original non-profit receiving 26 percent ownership in the new entity and Microsoft receiving a 27 percent stake.[\[20\]](#cite_note-20)
+
+As part of the case files disclosed by Musk's lawyers in federal court in November 2025, Altman was shown to have reached out to [Shivon Zilis](https://en.wikipedia.org/wiki/Shivon_Zilis "Shivon Zilis") on February 9, 2023, asking her advice about whether to publicly praise Musk on X, which he later did.[\[21\]](#cite_note-21)
+
+In April 2026, Musk amended the lawsuit asking that any monetary damages he might be awarded be given to OpenAI's charity and that Altman be removed from OpenAI's board.[\[22\]](#cite_note-22)
+
+In addition to Altman, various other OpenAI executives, including OpenAI president [Greg Brockman](https://en.wikipedia.org/wiki/Greg_Brockman "Greg Brockman"), were sued by Musk in the lawsuit as well.[\[24\]](#cite_note-lawsuit-24)
+
+[Jury selection](https://en.wikipedia.org/wiki/Jury_selection "Jury selection") for the case began on April 27, 2026.[\[24\]](#cite_note-lawsuit-24)
+
+On April 28, 2026, Elon Musk began his testimony against Altman and OpenAI, lasting until April 30;[\[25\]](#cite_note-25)[\[26\]](#cite_note-26) he was also questioned by both OpenAI's attorney [William Savitt](https://en.wikipedia.org/wiki/William_Savitt "William Savitt")[\[27\]](#cite_note-:0-27) and by Musk's own lawyer [Steven Molo](https://en.wikipedia.org/wiki/Steven_Molo?action=edit&redlink=1 "Steven Molo (page does not exist)").[\[28\]](#cite_note-28) The next witness on Musk's side, after Musk himself finished testifying, was [Jared Birchall](https://en.wikipedia.org/wiki/Jared_Birchall "Jared Birchall").[\[27\]](#cite_note-:0-27) Molo also asked Rogers what another key witness, [Stuart J. Russell](https://en.wikipedia.org/wiki/Stuart_J._Russell "Stuart J. Russell"), can discuss on the stand; Rogers replied that [existential risk](https://en.wikipedia.org/wiki/Existential_risk "Existential risk") is outside the scope of the trial.[\[27\]](#cite_note-:0-27)
+
+[Shivon Zilis](https://en.wikipedia.org/wiki/Shivon_Zilis "Shivon Zilis") was another witness on the stand.[\[29\]](#cite_note-29) Zilis, a former member of OpenAI's board, had children with Musk. This fact was confidential before it was made public by [Business Insider](https://en.wikipedia.org/wiki/Business_Insider "Business Insider") in 2022.[\[30\]](#cite_note-:2-30)
+
+On May 11, Microsoft CEO [Satya Nadella](https://en.wikipedia.org/wiki/Satya_Nadella "Satya Nadella") testified that Musk never expressed concern to him that Microsoft's investments in OpenAI violated any terms or commitments.[\[31\]](#cite_note-31)
+
+On the last day of testimony, Molo called Savitt's focus "ironic" as they argued on the accuracy of each side's statements. Gonzalez Rogers intervened, saying that "This entire trial is a giant irony."[\[30\]](#cite_note-:2-30)
+
+On May 18, 2026, the jury decided in favor of Altman and OpenAI, finding that Musk's claims were barred by the [statute of limitations](https://en.wikipedia.org/wiki/Statute_of_limitations "Statute of limitations").[\[5\]](#cite_note-:1-5)
+
+*   _[Raine v. OpenAI](https://en.wikipedia.org/wiki/Raine_v._OpenAI "Raine v. OpenAI")_
+*   [Removal of Sam Altman from OpenAI](https://en.wikipedia.org/wiki/Removal_of_Sam_Altman_from_OpenAI "Removal of Sam Altman from OpenAI")
+*   [Legal affairs of Elon Musk](https://en.wikipedia.org/wiki/Legal_affairs_of_Elon_Musk "Legal affairs of Elon Musk")
+
+1.  [↑](#cite_ref-1) ["Elon Musk, et al. v. Samuel Altman, et al"](https://www.ftc.gov/legal-library/browse/amicus-briefs/elon-musk-et-al-v-samuel-altman-et-al). _[Federal Trade Commission](https://en.wikipedia.org/wiki/Federal_Trade_Commission "Federal Trade Commission")_.
+2.  [↑](#cite_ref-2) Cheung, Candace (February 29, 2024). ["Elon Musk sues OpenAI over AI threat"](https://www.courthousenews.com/elon-musk-sues-openai-over-ai-threat/). _[Courthouse News Service](https://en.wikipedia.org/wiki/Courthouse_News_Service "Courthouse News Service")_.
+3.  [↑](#cite_ref-3) Nidumolu, Jahnavi; Soni, Aditya; Dang, Sheila (March 1, 2024). ["Elon Musk sues OpenAI for abandoning original mission for profit"](https://www.reuters.com/legal/elon-musk-sues-openai-ceo-sam-altman-breach-contract-2024-03-01/). _[Reuters](https://en.wikipedia.org/wiki/Reuters "Reuters")_.
+4.  [↑](#cite_ref-4) Goldman, David; Fung, Brian (March 1, 2024). ["Elon Musk sues OpenAI and CEO Sam Altman for breach of contract | CNN Business"](https://lite.cnn.com/2024/03/01/tech/elon-musk-lawsuit-openai-sam-altman/index.html?Date=20240301&Profile=CNN+Breaking+News). _[CNN](https://en.wikipedia.org/wiki/CNN "CNN")_.
+5.  [1](#cite_ref-:1_5-0) [2](#cite_ref-:1_5-1) Wells, Georgia; Au-Yeung, Angel (May 18, 2026). ["Jury Rejects Musk's Claims Against OpenAI"](https://www.wsj.com/tech/ai/jury-sides-with-openai-sam-altman-in-case-brought-by-elon-musk-933240ff). _Wall Street Journal_. [ISSN](https://en.wikipedia.org/wiki/ISSN_\(identifier\) "ISSN (identifier)") [0099-9660](https://search.worldcat.org/issn/0099-9660). Retrieved August 18, 2026.
+6.  [↑](#cite_ref-6) Mann, Jyoti (October 3, 2024). ["Here's where OpenAI's 11 cofounders are now"](https://www.businessinsider.com/where-openai-cofounders-are-now-sam-altman-2024-10). _Business Insider_. [Archived](https://web.archive.org/web/20251230184300/https://www.businessinsider.com/where-openai-cofounders-are-now-sam-altman-2024-10) from the original on December 30, 2025. Retrieved June 27, 2026.
+7.  [↑](#cite_ref-7) Loizos, Connie (May 6, 2026). ["How Elon Musk left OpenAI, according to Greg Brockman"](https://techcrunch.com/2026/05/06/how-elon-musk-left-openai-according-to-greg-brockman/). _TechCrunch_. Retrieved May 13, 2026.
+8.  [↑](#cite_ref-8) Smith, Reed (March 24, 2023). ["The secret history of Elon Musk, Sam Altman, and OpenAI"](https://www.semafor.com/article/03/24/2023/the-secret-history-of-elon-musk-sam-altman-and-openai). _Semafor_. Retrieved May 13, 2026.
+9.  [↑](#cite_ref-9)
+10.  [↑](#cite_ref-10) Satariano, Adam; Metz, Cade; Mickle, Tripp (March 1, 2024). ["Elon Musk Sues OpenAI and Sam Altman for Violating the Company's Principles"](https://www.nytimes.com/2024/03/01/technology/elon-musk-openai-sam-altman-lawsuit.html). _The New York Times_.
+11.  [↑](#cite_ref-11) Knight, Will (March 1, 2024). ["The Wild Claim at the Heart of Elon Musk's OpenAI Lawsuit"](https://www.wired.com/story/wild-claim-at-the-heart-of-elon-musks-openai-lawsuit/). _Wired_.
+12.  [↑](#cite_ref-12) ["Elon Musk Is Right About OpenAI's Hypocrisy"](https://www.bloomberg.com/opinion/articles/2024-03-01/elon-musk-openai-lawsuit-mistral-microsoft-highlight-ai-startup-hypocrisy). _Bloomberg_. March 1, 2024.
+13.  [↑](#cite_ref-13) Brodkin, Jon (December 2, 2024). ["Elon Musk asks court to block OpenAI conversion from nonprofit to for-profit"](https://arstechnica.com/tech-policy/2024/12/elon-musk-asks-court-to-block-openai-conversion-from-nonprofit-to-for-profit/). _Ars Technica_.
+14.  [↑](#cite_ref-14) Yang, Angela; Cheung, Brian (February 5, 2025). ["OpenAI feud between Elon Musk, Sam Altman faces federal judge"](https://www.nbcnews.com/news/amp/rcna190721). _[NBC News](https://en.wikipedia.org/wiki/NBC_News "NBC News")_.
+15.  [↑](#cite_ref-15) Goldman, Sharon (April 11, 2025). ["12 former OpenAI employees asked to be heard in Elon Musk's lawsuit against the company; one calls Sam Altman a 'person of low integrity'"](https://fortune.com/2025/04/11/12-ex-openai-employees-elon-musk-lawsuit-amicus-filing-lessig/). _Fortune_.
+16.  [↑](#cite_ref-16) ["OpenAI sues Elon Musk claiming 'bad-faith tactics'"](https://www.bbc.com/news/articles/cg4114271x2o). _BBC_. April 11, 2025.
+17.  [↑](#cite_ref-17) Tong, Anna; Tong, Anna (April 17, 2025). ["California attorney general declines to join Musk's lawsuit against OpenAI"](https://www.reuters.com/legal/california-attorney-general-declines-join-musks-lawsuit-against-openai-2025-04-15/). _Reuters_.
+18.  [↑](#cite_ref-18) Nayak, Malathi (May 2, 2025). ["OpenAI Can't Fend Off Musk's Fraud Claims in Restructuring Suit"](https://www.bloomberg.com/news/articles/2025-05-02/openai-can-t-fend-off-musk-s-fraud-claims-in-restructuring-suit). _Bloomberg_.
+19.  [↑](#cite_ref-19) ["Elon Musk to go ahead with lawsuit against OpenAI despite nonprofit control statement, lawyer says"](https://www.reuters.com/business/elon-musk-keep-lawsuit-against-openai-despite-nonprofit-control-statement-lawyer-2025-05-06/). _Reuters_. May 6, 2025.
+20.  [↑](#cite_ref-20) Metz, Cade (October 28, 2025). ["OpenAI Restructures to Become a More Traditional For-Profit Company"](https://www.nytimes.com/2025/10/28/technology/openai-restructure-for-profit-company.html). _The New York Times_. Retrieved April 28, 2026.
+21.  [↑](#cite_ref-21) Spirlet, Thibault (November 10, 2025). ["One text shows how Sam Altman asked Shivon Zilis, the Elon Musk whisperer, for advice on how to make nice"](https://www.businessinsider.com/sam-altman-asked-elon-musk-confidante-about-praising-musk-rift-2025-11). _Business Insider_.
+22.  [↑](#cite_ref-22) Toonkel, Jessica (April 7, 2026). ["Elon Musk Asks for OpenAI's Nonprofit to Get Any Damages From His Lawsuit"](https://www.wsj.com/tech/ai/elon-musk-asks-for-openais-nonprofit-to-get-any-damages-from-his-lawsuit-76089f6f). _The Wall Street Journal_.
+23.  [1](#cite_ref-lawsuit_24-0) [2](#cite_ref-lawsuit_24-1) Ruwitch, John (April 27, 2026). ["Musk vs. Altman: Tech CEOs head to court over the fate of OpenAI"](https://www.npr.org/2026/04/27/nx-s1-5795661/trial-openai-elon-musk-sam-altman). _NPR_. Retrieved April 27, 2026.
+24.  [↑](#cite_ref-25) Ruwitch, John (April 28, 2026). ["Elon Musk testifies against OpenAI, seeking Sam Altman's ouster"](https://www.npr.org/2026/04/28/nx-s1-5801438/musk-altman-openai-trial-opening-statements). NPR. Retrieved April 30, 2026.
+25.  [↑](#cite_ref-26) Au-Yeung, Angel (April 30, 2026). ["Elon Musk Takes Stand for a Third Day Against Sam Altman"](https://www.wsj.com/tech/ai/elon-musk-takes-the-stand-for-a-third-day-in-lawsuit-against-sam-altman-b06dac58). Wall Street Journal. Retrieved April 30, 2026.
+26.  [1](#cite_ref-:0_27-0) [2](#cite_ref-:0_27-1) [3](#cite_ref-:0_27-2) Capoot, Ashley; Kolodny, Lora (April 30, 2026). ["OpenAI trial live updates: Head of Musk's family office questioned about donation restrictions"](https://www.cnbc.com/2026/04/30/openai-trial-elon-musk-sam-altman-live-updates.html). _CNBC_. Retrieved April 30, 2026.
+27.  [↑](#cite_ref-28) Kerr, Dara; Robins-Early, Nick (April 30, 2026). ["Judge cuts off Musk's AI doomsday talk as his testimony ends in Open AI case"](https://www.theguardian.com/technology/2026/apr/30/openai-founding-trial-elon-musk-sam-altman). _The Guardian_. [ISSN](https://en.wikipedia.org/wiki/ISSN_\(identifier\) "ISSN (identifier)") [0261-3077](https://search.worldcat.org/issn/0261-3077). Retrieved April 30, 2026.
+28.  [↑](#cite_ref-29) Dwoskin, Elizabeth; Vynck, Gerrit De; Siddiqui, Faiz (May 8, 2026). ["She had four kids with Elon Musk. Now she's central to his courtroom fight"](https://www.washingtonpost.com/technology/2026/05/08/shivon-zilis-elon-musk-trial/). _The Washington Post_. Retrieved May 8, 2026.
+29.  [1](#cite_ref-:2_30-0) [2](#cite_ref-:2_30-1) ["Musk v. Altman live updates: Closing arguments after testimony wraps up, deliberation ahead"](https://abc7news.com/live-updates/elon-musk-sam-altman-live-updates-microsoft-ceo-satya-nadella-testify-week-3-trial-begins/19080697/). _ABC7 San Francisco_. May 15, 2026. Retrieved August 18, 2026.
+30.  [↑](#cite_ref-31) Novet, Jordan; Capoot, Ashley (May 11, 2026). ["OpenAI trial: Nadella says Musk never raised concerns to him about Microsoft investment"](https://www.cnbc.com/2026/05/11/microsoft-ceo-satya-nadella-musk-altman-trial.html). _CNBC_. Retrieved August 18, 2026.

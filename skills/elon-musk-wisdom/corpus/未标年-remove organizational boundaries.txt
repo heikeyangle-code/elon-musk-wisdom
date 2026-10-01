@@ -1,0 +1,86 @@
+# SOURCE: https://www.elonmuskbook.org/the-book-of-elon-musk-free-online-version/remove-organizational-boundaries
+# HARVESTED: 2026-09-29
+
+Thank you for visiting the site. Enjoy the published content and the book. We appreciate your support, and please pay it forward.
+
+The Book of Elon Musk Elon Musk's Most Useful Ideas In His Own Words
+
+Mar 31
+
+Mar 31 Remove Organizational Boundaries
+
+Eric Jorgenson
+
+Designing the Organization
+
+It must be okay for people to talk directly and make the right thing happen.282
+
+In any product, you can see the errors in the organization’s structure. They will manifest themselves in the product.
+
+A major source of issues is poor communication between departments. The way to solve this is to allow free flow of information between all levels.
+
+There are two schools of thought about how information should flow within companies. The most common way is chain of command. That means you always flow communication through your manager. The problem with this approach is that, while it serves to enhance the power of the manager, it fails to serve the company.
+
+If, in order to get something done between departments, an individual contributor has to talk to their manager, who talks to a director, who talks to a VP, who talks to another VP, who talks to a director, who talks to a manager, who talks to someone doing the actual work, then superdumb things will happen. Then the info has to flow back the other way again. This is incredibly dumb.
+
+Problems get solved quickly when a person just talks to a person in another department and makes the right thing happen. Anyone can and should talk to anyone else according to what they think is the fastest way to solve a problem for the benefit of the whole company. You can talk to your manager’s manager without his permission. You can talk directly to a VP in another department. You can talk to me.
+
+Communication should travel via the shortest path necessary to get the job done, not through the “chain of command.”
+
+Any manager who attempts to enforce “chain of command” communication will soon find themselves working elsewhere.283
+
+You can talk to anyone without anyone else’s permission. Moreover, you should consider yourself obligated to do so until the right thing happens.
+
+Always view yourself as working for the good of the company and never your department.284
+
+How can it possibly help Tesla for departments to erect barriers between themselves or see their success as relative within the company instead of collective? We are all in the same boat.
+
+Managers should work hard to ensure they are not creating silos within the company that create an us-versus-them mentality or impede communication in any way. This is a natural tendency and needs to be actively fought.285
+
+The point is ensuring we execute ultrafast and well.286
+
+Q: How do boundaries between departments affect product development?
+
+You can see the organizational boundaries in the product. You’ll often get a box in a box. You realize, “Why is this thing in two boxes?” Turns out, because both teams thought they needed an enclosure, the product ends up with an enclosure in an enclosure.
+
+One case from the Tesla Model 3: The battery pack had a top enclosure and the car also has an underbody, right above it. What’s the point of that? That doesn’t make any sense, but because one team enclosed the battery pack and another team wanted to have an enclosed body, it happened.
+
+It makes sense from an individual team’s perspective, but you don’t need a cover on the battery—there’s a car on top of it. Putting the cover on the battery pack adds mass and cost, so it should be deleted.
+
+Find the design necessity of every part and every process.287
+
+Occasionally something seems necessary at the design level but turns out unnecessary in manufacturing. Connect designers and manufacturers to make sure they communicate often. The people on the assembly line should be able to immediately grab a designer or engineer and say, “WHY DID YOU MAKE IT THIS WAY!?’”
+
+If your hand is on a stove and it gets hot, you pull it right off. But if it’s someone else’s hand on the stove, it will take you longer to do something about it.288
+
+You cannot separate design, engineering, and manufacturing. They need to be together because you are going to make mistakes. You want to identify and fix those mistakes today, right now. And if you separate them, the mistakes will fester. Let the manufacturers put the designers’ hands on the stove too.289
+
+Whenever there are problems to solve, don’t just meet with your managers. Do a skip level, where you meet with the level right below your managers.
+
+Physically go to where the problem is, immediately.290
+
+One of my rules is “Go as close to the source as possible.”
+
+We were trying to determine how thick Starship’s walls should be. Rather than only talking to the company’s executives, I talked to some of the workers actually doing the welding. I asked what they thought was safe. The line workers thought the tank walls could get as thin as 4.8 millimeters.
+
+“What about four?” I asked.
+
+“That would make us pretty nervous,” the workers replied.
+
+“Okay,” I said, “Let’s try four millimeters.”
+
+It worked.291
+
+Eric Jorgenson
+
+CEO of Scribe Media. Author of The Almanack of Naval and The Anthology of Balaji. Investing in technology startups as GP at Rolling Fun. Podcast: Smart Friends. Happy to be in touch through Twitter or email.
+
+Website
+
+About the book
+
+Book and website curating and sharing Elon's wisdom. Coming soon on March 24th. Follow on Twitter.
+
+Mar 31 Feedback over Feelings
+
+Mar 31 Simple Communication

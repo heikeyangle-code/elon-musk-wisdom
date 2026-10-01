@@ -1,0 +1,35 @@
+# SOURCE: https://www.cnbc.com/2023/09/09/elon-musk-biographer-moves-to-clarify-details-on-ukraine-starlink.html
+# TITLE: Elon Musk biographer moves to 'clarify' details about Ukraine and Starlink after backlash
+# FETCHED: fetch_content_cache
+
+Elon Musk made billions of dollars by selling Tesla stock using insider information, an institutional shareholder accused in a lawsuit filed on Tuesday, asking the court to direct the Tesla CEO to return "unlawful profits."
+
+Gonzalo Fuentes | Reuters
+
+Author Walter Isaacson took to social media to try to "clarify" an excerpt from his upcoming book, "Elon Musk." The excerpt received [swift backlash](https://www.cnbc.com/2023/09/07/ukraine-rips-musk-disrupting-sneak-attack-russian-navy.html) after it described how Musk thwarted a Ukrainian attack on Russian warships.
+
+Isaacson's book claims that Musk, the CEO of [Tesla](/quotes/TSLA/) and SpaceX, ordered engineers to shut off Starlink's satellite network over Crimea last year in order to disrupt a Ukrainian military initiative. Musk's Starlink terminals arrived in the early days of [Russia's unprovoked invasion of Ukraine](https://www.cnbc.com/2023/09/08/ukraine-war-live-updates-latest-news-on-russia-and-the-war-in-ukraine.html) as Western governments worked to supply Kyiv with artillery and air defense systems.
+
+Musk eventually soured on the arrangement and said "Starlink was not meant to be involved in wars," according to the book. The tech billionaire told Isaacson he was worried the Ukrainian attack on Russian vessels would provoke the Kremlin into launching a nuclear war. 
+
+But in a post on X, formerly known as Twitter, late Friday, Isaacson shared new details.
+
+"To clarify on the Starlink issue: the Ukrainians THOUGHT coverage was enabled all the way to Crimea, but it was not," Isaacson wrote. "They asked Musk to enable it for their drone sub attack on the Russian fleet. Musk did not enable it, because he thought, probably correctly, that would cause a major war."
+
+Crimea is a peninsula on the Black Sea that Russia illegally annexed from Ukraine in 2014, and it is home to Russia's Black Sea warships. In the days following Russia's full-scale invasion in February 2022, the Black Sea fleet fired missiles on once-industrious Ukrainian coastal cities while imposing a devastating naval blockade.
+
+Isaacson went further in a [second post](https://twitter.com/WalterIsaacson/status/1700522506363248665?s=20) on Saturday, saying that he "mistakenly" thought Musk made the decision to shut off Starlink's satellite network on the night of the attack.
+
+"Based on my conversations with Musk, I mistakenly thought the policy to not allow Starlink to be used for an attack on Crimea had been first decided on the night of the Ukrainian attempted sneak attack that night," Isaacson said. "He now says that the policy had been implemented earlier, but the Ukrainians did not know it, and that night he simply reaffirmed the policy."
+
+Isaacson's X posts came after a top aide to Ukraine President Volodymyr Zelenskyy [lashed out](https://www.cnbc.com/2023/09/07/ukraine-rips-musk-disrupting-sneak-attack-russian-navy.html) at Musk over the excerpt.
+
+"By not allowing Ukrainian drones to destroy part of the Russian military fleet via Starlink interference, Elon Musk allowed this fleet to fire Kalibr missiles at Ukrainian cities," Mykhailo Podolyak wrote Thursday on social media after [CNN reported](https://www.cnn.com/2023/09/07/politics/elon-musk-biography-walter-isaacson-ukraine-starlink/index.html) on some of the details from Isaacson's book.
+
+"As a result, civilians, children are being killed. This is the price of a cocktail of ignorance and big ego," he added.
+
+Isaacson's complete book is slated for release on Tuesday.
+
+**Read the full excerpt about Starlink and Ukraine in the** [**Washington Post**](https://www.washingtonpost.com/opinions/2023/09/07/elon-musk-starlink-ukraine-russia-invasion/)**.**
+
+— _CNBC's_ [_Amanda Macias_](http://www.cnbc.com/amanda-macias) _contributed to this report._

@@ -1,0 +1,19 @@
+# SOURCE: https://spectrum.ieee.org/new-ai-safety-projects-get-funding-from-elon-musk
+# TITLE: New AI Safety Projects Get Funding from Elon Musk
+# FETCHED: fetch_content_cache
+
+When Silicon Valley entrepreneur [Elon Musk](https://spectrum.ieee.org/tag/elon-musk) is not trying to build rocket technology to colonize Mars or revolutionize energy storage on Earth, he worries about how [artificial intelligence](https://spectrum.ieee.org/topic/artificial-intelligence/) could someday slip its shackles and become a danger to humanity. Now some of Musk’s ample wealth is helping fund a newly-announced group of research projects aimed at keeping AI in check.
+
+The Boston-based [Future of Life Institute](https://futureoflife.org/) has awarded $7 million in funds from Elon Musk and the Open Philanthropy Project to 37 research teams around the world. The list of grant recipients includes teams developing AI that can explain its decisions to humans, studying how to keep the economic impact of AI beneficial, and figuring out how to keep AI-based military weapons under human control. Such research could help society continue to benefit from the development of smarter AI while keeping potential dangers to a minimum.
+
+“Building advanced AI is like launching a rocket,” said Jaan Tallinn, one of the founders of the [Future of Life Institute](https://spectrum.ieee.org/tag/future-of-life-institute), in a statement. “The first challenge is to maximize acceleration, but once it starts picking up speed, you also need to focus on steering.”
+
+About 300 research projects applied for grants from the Future of Life Institute after the latter issued an open letter in January that called for research on “keeping AI robust and beneficial.” The letter was signed by AI researchers from Facebook, IBM, and [Microsoft](https://spectrum.ieee.org/tag/microsoft) and the founders of Google’s DeepMind Technologies, among other areas of academia, nonprofits and industry. That reportedly moved Musk to donate $10 million to the Future of Life Institute.
+
+But not everyone necessarily worries about time-traveling robots destroying us all. G. Pascal Zachary, professor of practice at Arizona State University, recently wrote for _[IEEE Spectrum](/robotics/artificial-intelligence/lets-shape-ai-before-ai-shapes-us)_ about how humanity can begin shaping AI before it shapes us.
+
+Humanity’s “dark fantasies” about [killer robots](https://spectrum.ieee.org/tag/killer-robots) tend to distract from more pertinent questions such as how AI impacts employment, how robot writers and artists could change human consumption of creative content, and who is held accountable for accidents involving autonomous processes, Zachary said.
+
+A glance at the list of newly-funded research on AI suggests that researchers could begin tackling some of those questions. The Future of Life Institute took a stance similar to Zachary’s as it stressed the difference between Hollywood’s “Terminator” fantasies and reality.
+
+“The danger with the [Terminator](https://spectrum.ieee.org/tag/terminator) scenario isn’t that it will happen, but that it distracts from the real issues posed by future AI”, said [Max Tegmark](https://spectrum.ieee.org/tag/max-tegmark), president of the Future of Life Institute. “We’re staying focused, and the 37 teams supported by today’s grants should help solve such real issues.”

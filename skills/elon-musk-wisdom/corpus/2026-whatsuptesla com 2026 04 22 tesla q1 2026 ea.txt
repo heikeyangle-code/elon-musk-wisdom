@@ -1,0 +1,90 @@
+# SOURCE: https://whatsuptesla.com/2026/04/22/tesla-q1-2026-earnings-call-elon-musks-vision-for-the-ai-robotics-future-april-22-2026/
+# TITLE: Tesla Q1 2026 Earnings Call: Elon Musk’s Vision for the AI & Robotics Future (April 22, 2026)
+# FETCHED: fetch_content_cache
+
+**Date:** April 22, 2026
+
+**Format:** Audio-only webcast (Q&A via Say Technologies platform)
+
+**Focus:** Strategic outlook on AI, autonomy, Optimus, Robotaxi, and massive future investments (financial details covered separately in Tesla’s Q1 Update deck).
+
+Tesla held its Q1 2026 Financial Results and Q&A webcast on April 22, 2026. As always, the call provided invaluable direct insight into the company’s direction straight from CEO **Elon Musk**, alongside other executives. These moments are especially precious—capturing Elon’s unfiltered thinking on the ambitious projects that define Tesla’s next chapter.
+
+#### Participants
+
+*   **Travis Axelrod**, Head of Investor Relations (moderator)
+*   **Elon Musk**, Co-Founder & CEO
+*   **Vaibhav Taneja**, CFO
+*   A number of other Tesla executives (specific names beyond the above not individually detailed in the public audio/webcast notes)
+
+The session began with opening remarks from Elon, followed by brief comments from Vaibhav, then moved into Q&A drawn from retail investor submissions (via Say) and the queue.
+
+> Q1 2026 Shareholder Update[https://t.co/Rgk87nXOby](https://t.co/Rgk87nXOby)
+> 
+> We continued to make meaningful progress on the build out of the infrastructure & AI software that underpins our Robotaxi & future robotics businesses in Q1.
+> 
+> That meant commencing the ramp of new factories across AI compute,… [pic.twitter.com/DamNDUmXG3](https://t.co/DamNDUmXG3)
+> 
+> — Tesla (@Tesla) [April 22, 2026](https://twitter.com/Tesla/status/2047044464619958747?ref_src=twsrc%5Etfw)
+
+#### High-Level Summary of Elon’s Key Themes
+
+Elon described 2026 as “a very exciting year” defined by substantially higher capital expenditures to fuel growth in AI, manufacturing, vehicles, and especially robotics. He reiterated his long-held conviction that **Optimus will be Tesla’s (and the world’s) biggest product ever**.
+
+Key emphases included:
+
+*   Heavy investment in core tech (battery, powertrain, AI software/training, chip design) and supply chain strengthening.
+*   Cautious, safety-first expansion of unsupervised Full Self-Driving and Robotaxi operations (zero incidents/injuries to date).
+*   The classic “stretched-out S-curve” reality for new production ramps (Cybercab, Semi, Optimus).
+*   Major AI hardware progress (AI5 taped out, AI6 and Dojo 3 already in discussion).
+*   Optimus production starting slowly in Fremont later this year (repurposing lines after S/X), with meaningful ramp in 2027; V3 design nearly ready for demonstration.
+
+He stressed that all Tesla vehicles remain autonomy-ready and incredible value, while energy storage demand (Megapack) remains very strong.
+
+#### Verbatim: Elon Musk’s Opening Remarks
+
+“Thank you. I think we’ve got a very exciting year ahead of us with 2026. We’re going to be substantially increasing our investments in the future, so you should expect to see a very significant increase in capital expenditures. I think it’s well justified for a substantially increased future revenue stream. Obviously, Tesla is not alone in this. I think you’ve seen in most, if not all, certainly the major technology companies substantially increasing their capital investments. We’re going to be doing the same. I think it’s going to pay off in a very big way.
+
+We’re investing in and improving our core technologies, battery powertrain, AI software, AI training, chip design, laying the groundwork for significantly increased manufacturing production. We are also strengthening our supply chain across the board, batteries, energy, AI, silicon, everything.
+
+Laying the groundwork, like I said, for what we expect to be a significant increase in vehicle production in the future. Of course, a very significant increase. Well, actually releasing Optimus, but increasing our internal production for testing, and then probably being able to have Optimus be useful outside of Tesla sometime next year. As you’ve heard me say a few times, I think Optimus will be our biggest product, not just Tesla’s biggest product ever, but probably the biggest product ever. I remain convinced of that conclusion.
+
+On our vehicle side, it’s always, I think, worth noting that a Tesla car is incredible value for money, and they’re all autonomy-ready, depending on what part of the world you’re in. The supervised Full Self-Driving is getting extremely good. We have just started production of Cybercab, and we’ll begin production of our Tesla Semi soon.
+
+Now, I should say, whenever you have a new product with a completely new supply chain, new everything, it’s always a stretched-out S curve, so you should expect that initial production of Cybercab and Semi will be very slow, but then ramping up, and going exponential towards the end of the year and certainly next year. In fact, we’ll be ramping up production of all vehicles, in all factories, to the best of our ability through the balance of this year.
+
+On the energy front, the United States and the whole world will need a lot of energy storage to meet growing electricity demand. Demand for our Megapack is very strong. We’re excited to begin production of Megapack 3 later this year in our new world-class factory outside Houston.
+
+For Full Self-Driving and Robotaxi, version 14.3 was a major architectural update, and we have a whole pipeline of major improvements to Full Self-Driving that we believe will lead to unsupervised Full Self-Driving being available anywhere in the world that it is legal to do so. Then there’s a version 15, hopefully by the end of this year, but certainly by early next year. That will be a complete overhaul of the software architecture, and will run on AI5. At that point, we’re really just increasing the safety level of FSD above human safety level even more, meaning I think even within version 14, we’re significantly safer than human, but V15 will take that to another level. We’ve expanded Robotaxi to Dallas and Houston, using the same software source in the Bay Area.
+
+The limiting factor for expansion is really rigorous validation, making sure things are completely safe. We don’t want to have a single accidental injury with the expansion of Robotaxi, and we have, to the credit of the team, not had a single one to date.
+
+Optimus, we’re preparing Fremont for start of production later this year with Optimus. Again, totally new supply chain, totally new technology, so therefore, the production S curve is always very slow in the beginning. We’ll ramp up to significant numbers next year, and we’re constructing a second Optimus factory at our Giga Texas location, and that will probably start production around summer next year. The V3 Optimus design is almost ready to demonstrate. I think we want to just make sure it’s polished. Like it works functionally, but there’s some aesthetic elements that need to be finalized, and I think probably middle of this year, we should be able to show it off. We’re also a little hesitant to show V3 off because we find our competitors do a frame-by-frame analysis whenever we release something and copy everything they possibly can. I think there’s some value to not showing new technology until it’s close to production.
+
+Congratulations again to the Tesla AI chip team for taping out AI5. That’s going to be a great chip. I think probably the best AI inference chip for edge compute that exists. Certainly, I think unequivocally the best value for money. Team did a great job, and we already have a lot of momentum for designing AI6, and we’ve begun to discuss ideas for Dojo 3. This is all very exciting.
+
+We’ve also finalized plans for the research chip fab on the Giga Texas campus, and we’ll start construction of that this year.
+
+In conclusion, Tesla is working on a lot of large, ambitious projects. They’re all very challenging, but I think they’re going to be revolutionary. This is what the team does best, solve the hardest problems and build amazing products. I’d like to thank the Tesla team for all their hard work and thank you to all of our supporters.”
+
+#### Selected Verbatim Highlights from Elon’s Q&A Responses
+
+Elon fielded questions on production realities, timelines, safety, and AI architecture. Here are key excerpts (lightly contextualized for flow):
+
+**On Optimus V3 reveal, production start (Fremont S/X line transition), and ramp challenges:** “Well, as I was saying, what we’ve found is that when we’ve unveiled various Optimus versions, we’ve found out our competitors literally do a frame-by-frame analysis and copy everything we’re doing. I think we want to push the Optimus 3 unveil maybe closer to production. Start of production is, we’re assuming, somewhere around the late July, August timeframe. … Frankly, if we’re able to go from stopping production on one line, dismantling that entire line, reinstalling a whole new line, and turning that on in a matter of 4 months, that is an insanely fast speed. I don’t think any other company on Earth has ever done that before… It is impossible to predict these things. When you have a brand-new product and an entirely new production line, and you have 10,000 unique items, all of which have to go right to ramp production, it’ll move as fast as the least lucky, slowest, dumbest part in the entire 10,000… Initial skills will be, obviously, we’re going to start with simple skills in the factory and then build up from there.”
+
+**On unsupervised FSD/Robotaxi expansion and safety:** “Well, we certainly hope to have unsupervised FSD or Robotaxi operating in, I don’t know, a dozen or so states by the end of this year. Initially, we’re taking a very cautious approach… \[we haven’t had any injuries and certainly no fatalities to date with the unsupervised FSD and Robotaxi expansion, and we want to keep it that way\].”
+
+**On Optimus AI architecture (local intelligence + orchestration):** “Well, we think we can put a lot of intelligence locally in the robot and it certainly needs to be enough intelligence that if the robot gets disconnected, like if it’s a bad cellular signal or there isn’t Wi-Fi, you know, Optimus can’t just get stuck. It needs to have enough local intelligence that it can still do useful things, even if it loses the connection, kind of like the car. The car does not need any cellular or Wi-Fi connection to be able to drive safely. Now, I guess you can think of like Optimus needs kind of a manager to tell it what to do, broadly speaking… so you know i think you need kind of a an orchestration ai which uh you know grok would be good for orchestration um and and then for you know for optimist’s voice you know having um a low latency intelligent voice ai grok is actually very good for that… But I would expect the amount of interaction apart from like the voice stuff and asking complicated questions of the robot that necessarily needs a large AI model to answer the Gronk would probably have about as much interaction with Optimus as a manager would have with the people on their team.”
+
+(Additional topics included HW3 upgrade paths for unsupervised capability, broader AI chip progress, and the new research chip fab at Giga Texas.)
+
+#### Closing Thoughts
+
+The call reinforced Tesla’s pivot toward AI, autonomy, and humanoid robotics as the dominant long-term drivers, with near-term production ramps following realistic S-curve timelines and an unwavering focus on safety and execution. Elon’s direct words continue to provide the clearest window into that vision.
+
+For the **extremely detailed full transcript** (including all speakers, operator notes, and every Q&A), check these reliable sources:
+
+*   Tesla Investor Relations webcast replay & Q&A archive: [https://ir.tesla.com/](https://ir.tesla.com/) or [https://livestream.tesla.com/](https://livestream.tesla.com/)
+*   Morningstar or Yahoo Finance transcript pages (search “Tesla Q1 2026 earnings call transcript”)
+*   Say Technologies Q&A platform for submitted questions: [https://app.saytechnologies.com/tesla-2026-q1](https://app.saytechnologies.com/tesla-2026-q1)

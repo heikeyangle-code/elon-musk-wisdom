@@ -1,0 +1,58 @@
+# SOURCE: https://www.elonmuskbook.org/the-book-of-elon-musk-free-online-version/unite-and-conquer
+# HARVESTED: 2026-09-29
+
+Thank you for visiting the site. Enjoy the published content and the book. We appreciate your support, and please pay it forward.
+
+The Book of Elon Musk Elon Musk's Most Useful Ideas In His Own Words
+
+Mar 31
+
+Mar 31 Unite and Conquer
+
+Eric Jorgenson
+
+What matters to me is winning, and not in a small way.442
+
+Around the same time I was starting X, another company formed called Confinity, which was Peter Thiel, Max Levchin, Luke Nosek, David Sacks, Ken Howery, etc. At X.com, we had Jeremy Stoppelman, who created Yelp, and Roelof Botha, who went on to run Sequoia. Both companies had a crazy amount of talent.
+
+Confinity started as a PalmPilot cryptography company, back when you could communicate through the infrared port of a PalmPilot. Then they evolved in the direction of payments as well. We were both in Palo Alto, a block away from each other—at one point, even in the same building. We were competing with each other like maniacs.
+
+Finally, we had coffee on University Avenue and said, “Hey, why don’t we just combine our efforts? Otherwise we’re gonna bludgeon each other to death.” We knew we had to get that deal done fast or we were both gonna die.
+
+So we merged Confinity with X.com and raised $100 million in three weeks during March of 2000.443About a year later, we changed the company name to the product name, PayPal.444
+
+We went from starting a company to fourteen months later merging and having a valuation of $500 million in March of 2000. It felt so sudden, like, “This is completely ridiculous.”445
+
+In April 2000, the market went into freefall.446 The challenge was keeping the company alive for the next two years.447
+
+There was a lot of drama; it was a turbulent period. I didn’t expect PayPal's growth rate to be what it was, and that created major problems. After the first month of the website being active, we had one hundred thousand customers. It was nutty.448 We definitely did not anticipate that.449
+
+Q: What made PayPal’s growth rate so dramatic?
+
+PayPal was a perfect case for viral marketing. Like Hotmail, one customer would be like a salesperson for you, bringing other customers. Customers would send money to a friend and bring that friend into the network. We had this exponential growth, where the more customers we had, the faster it grew. It was like bacteria in a petri dish, following an S-curve.450
+
+We started off first by offering people twenty dollars if they opened an account and twenty dollars if they referred anyone. Then we dropped it to ten dollars. Then we dropped it to five dollars. As the network got bigger and bigger, the value of the network itself exceeded any sort of carrot that we could offer.451 We probably spent $60 or $70 million in incentives to build that network. That seems like a lot, but it built a very valuable network. The relative cost depends on your scale. That’s a peanut to Google.452
+
+Q: Leading through that kind of growth seems very challenging. How did you manage it all?
+
+I ran PayPal for about the first two years of its existence. We launched after year one, and by the end of year two we had a million customers. It gives you a sense for how fast things can grow. We didn’t have a sales force, VP of sales, or VP of marketing and we didn’t spend any money on advertising.453
+
+It wasn’t easy, because we still had some bugs in the software. Even if the bug only occurs one in one thousand times, that’s still a thousand angry customers shouting, “Where is my money!?”
+
+We had a customer service office on University Avenue in Palo Alto with five people. When something went wrong, customer service phones would explode. We had many challenges. Various financial regulatory agencies were trying to shut us down. The FTC was trying to shut us down. Visa, MasterCard, and eBay were all trying to have us shut down. There were a lot of battles.454
+
+It was a close call. We came close to dying in 2000 and 2001.455
+
+Eric Jorgenson
+
+CEO of Scribe Media. Author of The Almanack of Naval and The Anthology of Balaji. Investing in technology startups as GP at Rolling Fun. Podcast: Smart Friends. Happy to be in touch through Twitter or email.
+
+Website
+
+About the book
+
+Book and website curating and sharing Elon's wisdom. Coming soon on March 24th. Follow on Twitter.
+
+Mar 31 Listen Well, Correct Fast
+
+Mar 31 From Exile to Exit

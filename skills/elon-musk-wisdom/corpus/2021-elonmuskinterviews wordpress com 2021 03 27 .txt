@@ -1,0 +1,157 @@
+# SOURCE: https://elonmuskinterviews.wordpress.com/2021/03/27/starship-presentation-2019-english/
+# TITLE: Starship Presentation 2019
+# FETCHED: fetch_content_cache
+
+_This transcript and [German translation](https://elon-musk-interviews.com/2021/03/27/starship-prasentation-2019-deutsch/) of the Starship presentation, which took place on September 19, 2019, are based on the [YouTube video](https://www.youtube.com/watch?v=5UUtNR6BhjE&t=301s) published by The Sun on September 29, 2019. Many of the images in this post include a timestamp link to the video sequences shown during the Starship event and referred to by Elon Musk in his speech. To watch them, simply click on the images._
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/03/titel_fertig.jpg?w=1024)
+
+**Elon Musk:** (00:21) This is, I think, the most inspiring thing that I’ve ever seen. And I just like to thank the SpaceX team and the suppliers, and the people of Boca Chica and Brownsville. Thank you for your support. And, just like, wow, what an incredible job by such a great team to build this incredible vehicle. First of all I want to start with that. I mean, I’m just so proud to work with such a great team. And it’s really windy here, by the way. If you’re watching this online, it is really windy.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/03/bild-1_26.jpg?w=1024)
+
+So, the point of this presentation and this event is really… there are two elements to it. One is to inspire the public, get people excited about our future in space, and get people fired up about the future. There are so many things to worry about, so many things to be concerned about. There are many troubles in the world, of course, and these are important, and we need to solve them. But we also need things that make us excited to be alive, that make us glad to wake up in the morning and be fired up about the future and think, yeah, the future is going to be great.
+
+This space exploration is one of those things; and becoming a spacefaring civilization being out there among the stars. This is one of the things that I know it makes me glad to be alive; I think it makes many people glad to be alive. It’s one of the best things. We are faced with a choice: Which future do you want? Do you want the future where we become a spacefaring civilization and are in many worlds and are out there among the stars or one where we are forever confined to Earth? And I say it is the first and I hope you agree with me. (02:30)
+
+The critical breakthrough that’s needed for us to become a spacefaring civilization is to make space travel like air travel. So, with air travel, when you fly a plane, you fly that plane many times. I mean, the risk of stating the obvious, it really almost any motor transport, whether it’s a plane or a car, a horse, a bicycle is reusable. You use that motor transport many times. If you had to get a new plane every time you flew somewhere and even get to have two planes for the return journey, very few people could afford to fly. Or if you could use a car only once, very few people could afford to drive a car. So, the critical breakthrough that’s necessary is a rapidly reusable orbital rocket. This is basically the Holy Grail of space. The fundamental thing that’s required.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/03/folie-3_30.jpg?w=1024)
+
+And it is a very hard thing to do. It’s only barely possible with the physics of Earth. I mean, if Earth’s gravity was a little heavier, it would be impossible. And if Earth’s gravity was a little lighter, it would be quite easy. So, we’re really right on the cusp of what is physically possible. So, in order to create a rapidly reusable rocket and fully reusable orbital rocket, you have to have engines that have incredibly high, specific impulse (_Isp_), that essentially are extremely efficient.
+
+You need to have a structure that is also incredibly mass efficient. And then that all needs to come back to the launch pad and be able to be refilled with propellant and flown again very quickly, just like an aircraft. It’s just because of the physics of Earth being quite a deep gravity well and having quite a thick atmosphere; this is a very tough but not impossible thing. But it is the most fundamental thing. With SpaceX, we started out 17 years ago, and the first rocket we designed was the Falcon 1, which was that guy right there. (05:00)
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/03/bild-zeitlink-5_00.jpg?w=1024)](https://youtu.be/5UUtNR6BhjE?t=298)
+
+When we started off, we were very naive. And in fact, the reason I should say… it’s September 28th; this is the 11th anniversary of the first time SpaceX reached orbit. Eleven years ago today, SpaceX made orbit for the first time. It was actually our fourth launch. And if that launch had not succeeded, that would have been the end of SpaceX. I’d run out of money, there were no more investors, and that would have been it. So, if that fourth launch had not succeeded, that would have been curtains.
+
+But fortunately, fate smiled on us that day, and we made it to orbit. I have great respect for anyone who makes it to orbit. That is a hard thing. We were very naive, obviously very naive on many levels back then, because we did actually try to recover the first stage. The first stage had a parachute on it, and we thought, okay, we’ll just pop the parachute when it comes back into the atmosphere. Then it’ll land somewhere in the ocean, and we’ll go fish it out of the ocean with a boat. This does not work. I actually remember getting mad at the parachute supplier, like, your parachute doesn’t work. Nah, it wasn’t their fault.
+
+When the rocket comes in from space, that first stage is coming in like, you know, Mach 10 to 12, and it hits the atmosphere like it’s a concrete wall and ‘boom’. So, you actually have to orient the rocket carefully. You have to have aerodynamic surfaces, and you have to do an entry burn to slow it down. Then you’ve got to guide it through the atmosphere and then do a propulsive landing. This took us many, many attempts.
+
+We actually did a video, a blooper reel of all the times we failed, which was a lot. (07:30) I think it might have taken us like 14 attempts or something before we finally successfully landed the rocket. If we’ve gone to the next slide, you can take a look at… – This is Grasshopper, that’s actually Falcon 9. It’s hard to tell the scale, but that’s a Falcon 9 size booster with one engine and big legs with giant shock absorbers; we didn’t know what the heck we were doing.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/03/zeitlink-7_55.jpg?w=1024)](https://youtu.be/5UUtNR6BhjE?t=468)
+
+**Elon Musk _(voice-over)_**: Now amazingly, Grasshopper had zero blessures; Grasshopper is still alive.
+
+The cows are confused.
+
+**Elon Musk:** They have Falcon1; what you saw there was a Falcon 9 size vehicle. What’s really kind of hard to grasp at a visceral level is that this giant ship will do the same thing that Grasshopper did. This thing is going to take off, fly to 65,000 feet, about 20 kilometers, and come back and land in about one or two months. So that giant thing – it’s really going to be pretty epic to see that thing take off and come back. And then hopefully, yeah, …_(applause)_ – Yeah, it’s wild.
+
+This is a quite radical… I’ll talk about it later in the presentation; it’s, this is quite a new approach to controlling a rocket – much more akin to a skydiver than a plane. But I’ll talk about that later. (10:00) So, going from Falcon 1 to Falcon 9 to Falcon Heavy, which we launched… actually, the first launch of Falcon Heavy was only February of last year. So, it’s only been about a year and a half since the first Falcon Heavy launch when we did two side-by-side booster landings. And I always liked this video. It was done by my friend [Jonah](https://en.wikipedia.org/wiki/Jonathan_Nolan).
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/03/zeitlink-10_26.jpg?w=1024)](https://youtu.be/5UUtNR6BhjE?t=625)
+
+Yeah. I never thought that would happen, actually. (12:30) I’m glad that it did. Some people were like, wait, why do we have the Roadster with the astronaut, you know, Starman. Actually, this came from a discussion with my friend Jonah. I was at his kitchen, and I was like, you know, normally when they do a rocket launch, there’s a launch of a rock of concrete, but that doesn’t sound very inspiring. So, what do you think the most sort of fun thing is that we could launch? And he was like, well, why don’t you launch your Tesla? And I was like, that’s a great idea.
+
+And another friend of mine, she said: “Why don’t you put a tiny Tesla on the dashboard?” So we put a tiny Tesla on the dashboard with a tiny Starman in the tiny Tesla. This is just to confuse the aliens in the future. They’ll be like, what the heck is this? You know, just want something that captures the imagination, gets people excited about space.
+
+So, let’s see Starship. You can really see it right there, obviously. There’s a picture, more a rendering. It’s about 50 meters, sort of 165 feet or so.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/03/bild-13_47.jpg?w=1024)
+
+Actually, I notice we have an error in our ship dry mass here; my apologies. I wish it was 85 tons. This ship dry mass has to be approximately 120 tons. The initial Mach 1 prototype is closer to 200 tons, and in series production, I think it’ll probably be about 120 tons. If we get really lucky, it might get down to 110; 99 would be super epic. So, in terms of its usefulness, it’ll be able to do about 150 tons with full reusability to orbit and back.
+
+This is a very big number for full reusability. The very initial versions, we’re confident will do over a 100 tons, but I think there’s a clear path to 150 tons. The cost of a fully reusable system is basically (15:00) the cost of the propellant, which is mostly oxygen. This is three and a half tons of oxygen for every one ton of fuel. So, one of the advantages of this architecture over the Falcon architecture is that we actually use more oxygen per unit of fuel rather than less. Merlin or the Falcon architecture is about two and a half tons of oxygen for every one ton of fuel. This is three and a half tons of oxygen for every one ton of fuel. So when it ascends, it’s really mostly liquid oxygen because when you get to vacuum, there’s no air, basically.
+
+So, the next slide. Earlier I was talking about how Starship enters and how it’s controlled.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/03/zeitlink-15_56.jpg?w=1024)](https://youtu.be/5UUtNR6BhjE?t=955)
+
+It’s quite different from anything else. It’s really falling, and so we’re doing a controlled fall. With a rocket you’re actually trying to break as opposed to… you’re trying to create drag instead of lift, it’s really the opposite of an aircraft. You want the most amount of drag that you can produce. And you want some lift, especially when you’re in the upper atmosphere, mostly so that you don’t…  you can control the maximum heating rate. You want enough lift to keep yourself high in the low-density portion of the atmosphere, so you can burn off velocity. Basically, it goes like, if this is the Earth, it goes at about a 60 degree.
+
+My hand is the rocket – it’s going at about 60 degrees. So when in orbit, you’re actually going at around 25 times the speed of sound horizontal to the ground. This is a very important concept that is counterintuitive to our normal daily life. Being in orbit, being in zero G is not about altitude. It’s about velocity. How fast are you going – horizontally? When something’s in orbit, it’s zooming around the Earth so fast that the outward acceleration, outward radial acceleration, is equal to the inward acceleration of gravity. And then you have zero gravity. This is why you actually have zero gravity.
+
+People often think the Space Station is stationary, (17:30) but it’s actually going around the world at 25 times the speed of sound or about 17,000 miles an hour. It always looks stationary in the pictures. And since there’s no air, you don’t have to have an aerodynamic structure. So it can be a totally crazy structure that doesn’t look like it should be able to go 25 times the speed of sound, but it does. And you can only feel the acceleration. You can’t feel velocity. People sometimes wonder, what does it feel like to go 25 times the speed of sound? Actually, it feels like nothing. Only accelerating to there feels like something.
+
+So, the Starship is coming in – this platform is the Earth – it’s coming in at hypersonic velocity like this, sort of around a 60-degree angle. So, it comes like this and then starts falling and then just falls like a skydiver, and it’s just controlling itself – and then it turns and lands like that. That’s an incredibly elaborate explanation. There you can get a sense for it. This is much better.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/03/zeitlink-18_34.jpg?w=1024)](https://youtu.be/5UUtNR6BhjE?t=1112)
+
+There you go. See, same thing. It’ll look totally nuts to see that thing land. Yeah, that’ll be crazy.
+
+So let’s talk about the Raptor engine. The ship will have a total of six engines.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/03/bild-19_04.jpg?w=1024)
+
+Three of the sea-level variety of Raptor, and those are actually on the rocket right now. So, we have the three sea-level… in fact, that’s a picture of just inside – that’s what it looks like. So, we’ve got the three sea-level Raptor engines, and they gimbal, which means that the whole engine moves. So, the way the rocket steers is by moving the entire engine. Whereas an aircraft engine is static, and you move by moving the control surfaces, like the ailerons and rudder and elevator and flaps… – The rocket – when the engines are powered, you moved the entire engine to steer it. The Starship will have three sea-level engines that move up to about 15 degrees angle and three vacuum engines that are optimized for efficiency in orbit that will not move. They will be just fixed it in place.
+
+And that allows us to have the biggest bell nozzle (20:00) for the vacuum Raptor engines. Aspirationally, the target is a 380 second Isp for the vacuum engine. This is a very… – In sort of space geek terms, this is like really a great number. And even for the steel alloy engines to get over a 350 second Isp is also really great. So actually… – sorry, I’m looking at the slide here, and you’re not. So, that’s what I meant by ‘it looks like that on the inside’… – go back one slide. That’s the inside of the Starship right now.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/03/bild-20_40.jpg?w=1024)
+
+That’s what it looks like in the base. All right. Then heat shield.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/03/bild-21_00.jpg?w=1024)
+
+I’ve gone through various iterations of heat shield. There’s a lot of ways to skin the cat here.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/03/bild-21_00a.jpg?w=1024)
+
+Ultimately, we decided to have heat shield hexagonal tiles, ceramic tiles, basically like a tiny glass vermicelli at a microstructure level. Very light, but very crack resistant – essentially glass tiles. And there, because Starship is a steel construction… – At first, it feels like, “Oh, it’s steel. Does that mean it’s heavy?” No, actually, it’s the lightest construction. I think the best design decision on this whole thing is 301 stainless steel. Because at cryogenic temperatures, a 301 stainless actually has about the same effective strength as an advanced composite or aluminum-lithium. Unlike most steals, which get brittle at low temperatures, 301 stainless gets much stronger.
+
+And if it’s in the extra hard condition, meaning it’s cold-rolled to extra hard condition, it also gets way stronger. Actually, its strength-to-weight ratio at cryogenic temperatures is equivalent, or even perhaps slightly better than advanced composites or aluminum-lithium. This is not well appreciated. (22:30) Because if you just look at the materials manual and say like, what is the strength of stainless steel? It looks much weaker than it is. If you say, what is the strength at cryogenic temperature? Oh, much stronger; at very low temperature, almost twice as strong. That’s when it becomes better than carbon fiber or aluminum-lithium.
+
+And this is another benefit: It also has a high melting temperature. So, for a reusable ship, you’re coming in like a meteor. You want something that does not melt at a low temperature. You want something that melts at a high temperature. And this is where steel is extremely good as well. Steel has a melting temperature around sort of 1500 degrees centigrade whereas aluminum, you know, maybe 300 or 400 degrees, and same thing for carbon fiber. And that’s really pushing it.
+
+Having that much higher melting temperature means that you don’t need any shielding on the leeward side of the ship when it comes in for entry. And the shielding you need on the windward side – the hot side – is massively reduced because the thickness of the tile is actually for a reusable system – It’s dependent on what back shell temperature, like how hot does the back of the tile that interfaces with the airframe get. And because the steel can take a much higher temperature, your heat shield, even on the windward side, is much lighter. But the net effect is that a 301 stainless steel rocket is actually the lightest possible reusable architecture.
+
+Then, to come to cost. The carbon fiber we were using was $130 a ton. The steel is $2,500 a ton. Oh, sorry, $130,000 a ton versus $2,500 a ton. That makes much more sense. It’s $130,000 a ton for the carbon fiber and $2,500 a ton for the steel. So, the steel is about 2% of the cost of the carbon fiber. So, this is a good thing we changed from carbon fiber to steel, by far. (25:00) And it’s very easy to weld stainless steel, the evidence being that we welded it outdoors without a factory. Great skills by the team, but with carbon fiber, this is impossible; with aluminum-lithium, also impossible. But steel is easy to weld,  and it is resilient to the elements.
+
+And also, actually, (… 25:36), like on Mars, you can cut that up, you can weld it, you can modify it. No problem. Yeah. That’s a good point. You’re out there on the Moon or Mars; you want something that you can modify, that you can cut up and use for other things. That’s like for sure a great thing. So anyway, steel – obviously I’m in love with steel; I had to say it, you know. So, let’s see, going on to the booster.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/03/zeitlink-26_12.jpg?w=1024)](https://youtu.be/5UUtNR6BhjE?t=1569)
+
+So, the booster is designed to take up to 37 Raptor engines. I’m not sure if we’ll go that high, but you can really have 31. I think the minimum number you’d want is maybe around 24. But the booster is designed to be able to take multiple engines out, so you can actually add or subtract engines as you’d like. You basically just need a lot of force pushing up. Over time, I think you probably want around a 7,500 ton force rocket which is about twice the thrust of a Saturn V, a little more than twice the thrust, and on a roughly 5,000 ton gross liftoff mass for roughly one and a half thrust-to-weight.
+
+For a reusable rocket, you actually want a high thrust-to-weight rather than with an expendable rocket, where you want a low thrust-to-weight, because any thrust-to-weight below one is not useful; like, if you have a less thrust than your weight, you don’t move. So, you actually want a high thrust-to-weight for a reusable rocket. This is a very important (27:30) design optimization change. So that’s why I think more engines are probably good and getting up to around 7,500 tons over time and a one and a half thrust-to-weight ratio, or more.
+
+We think we’re probably going to adjust the grid fins designed to be kind of like a diamond shape. It looks cooler. It works better too. And then the rear fins are actually just legs. They’re not needed for stabilization or guidance. They’re essentially there for legs.
+
+All right. So let’s go into some of the development testing. This is a Raptor firing.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/03/zeitlink-28_17.jpg?w=1024)](https://youtu.be/5UUtNR6BhjE?t=1697)
+
+All right. And then, obviously, we had a Raptor fire on the Starhopper. Yeah.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/03/zeitlink-29_27.jpg?w=1024)](https://youtu.be/5UUtNR6BhjE?t=1766)
+
+It’s kind of hard to see it to appreciate scale, but it’s the same diameter as the Starship. And obviously, it’s just right over there. So, it’s kind of hard to tell if it’s the size of a trashcan or, you know, how big it is, but it’s about… the body diameter is about 9 meters or 30 feet and not including the legs span. (30:00) Yeah. So, this gives you a sense of size.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/03/bild-30_40.jpg?w=1024)
+
+So the little pixel there… little pixels are a human. And then there’s the Hopper next to it, the Millennium Falcon for comparison, then Starship, which is what you see before you. And then what it will look like with the full stack, which is almost two and a half times as tall as this vehicle. This simulation will give you a sense of the scale of things.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/03/zeitlink-31_11.jpg?w=1024)](https://youtu.be/5UUtNR6BhjE?t=1871)
+
+**Elon Musk _(voice-over):_** It slightly reminds me of a scene from Spaceballs.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/03/zeitlink-32_09.jpg?w=1024)](https://youtu.be/5UUtNR6BhjE?t=1926)
+
+**Elon Musk _(voice-over):_** This is the orbital refilling. Orbital refilling is extremely important for getting to Mars and getting to the Moon to establish a city on Moon or Mars. This is a vital step.
+
+All right.
+
+**Audience:** To Moon.
+
+**Elon Musk:** To Mars. Exactly.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/03/bild-34_13.jpg?w=1024)
+
+A rapidly reusable orbital launcher rocket is… a rapidly reusable rocket is required for – alliteration – for getting a breakthrough in cost of access to space; that you don’t throw the rockets away every flight. But another key step is refilling on orbit so that Starship can get to orbit with, let’s say, 150 tons of payload for the Moon or Mars or beyond. And then it can get tanked up to fill up its propellant tanks and so that it can depart from low Earth orbit (35:00) with 1,200 tons of propellant. This is a very big thing so that your delta velocity is enough to transport about 150 tons to the surface of the Moon or Mars with full reusability and orbital refilling.
+
+The orbital refilling is actually a simplified version of what SpaceX does in docking with the Space Station. So it’s actually harder to dock with the Space Station than it is to do orbital refilling, but in practicing docking with the Space Station, SpaceX has also learned how to rendezvous and dock in orbit in a complex environment. So this is one of the other critical pieces of the puzzle needed to establish a base on the Moon and Mars, a city, ultimately. And yeah, so those are the critical ingredients. So, we think it will be very exciting to have a base on the Moon.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/03/bild-36_15.jpg?w=1024)
+
+Even if it’s just a science base that… – for example, we have a base at Antarctica. Many countries have bases in Antarctica for science research, and this would be an incredible area for research. So whether or not people want to live on the Moon, there’s definitely a lot of science to be done. And I think it’s close as well. So, that would be quite exciting to do. And then, of course, we can go to other places in the solar system like Saturn. But the critical thing that we need to focus on, I think, is the fastest path to a self-sustaining city on Mars. This is the fundamental thing.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/03/bild-36_56.jpg?w=1024)
+
+As far as we know, we are the only consciousness or the only life that’s out there. There might be other life, but we’ve seen no signs of it. And people often ask me, what do you know about the aliens and that, and I’m like, man, I tell you, I’m pretty sure I’d know if there were aliens. I have not seen any sign of aliens. And what if the military is hiding aliens in area 51 or something, you know; that’s a popular meme. (37:30) Well, let me tell you: the biggest, the fastest way to increase defense funding would be to bring up like, “Hey, we found an alien.” (…37:40) like, “Ah, there’s more money for defense, definitely”. Guaranteed, there (…37:46) would be like on display in two seconds. The reality is, as far as we know, this is the only place, at least in this part of the galaxy or in the Milky Way, where there is consciousness. And it’s taken a long time for us to get to this point.
+
+You know, according to the geological records, Earth has been around for about four and a half billion years, although it was mostly molten magma for about half a billion years. So, but still, several billion years with at least bacterial life and multicellular life for several hundred million years. But here’s the interesting part. The sun is gradually getting hotter and bigger, and over time even in the absence of global warming – man-made stuff – the sun will expand, and it will overheat the Earth. My guess is probably… – On human timescales, this is a long time, but there are only several hundred million years left. That’s all, that’s all we got. Okay. Several hundred million years. But sort of from an evolutionary standpoint, basically, if it took an extra 10% longer for conscious life to evolve on Earth, it wouldn’t evolve at all because it would have been incinerated by the sun.
+
+What I’m saying is that it appears that consciousness is a very rare and precious thing, and we should take whatever steps we can to preserve the light of consciousness. The window has been opened only now – after four and a half billion years, is that window open. That’s a long time to wait, and it might not stay open for long. I’m pretty optimistic by nature, but there’s some chance, there’s some chance that window will not be open for long. I think we should become a multi-planet civilization while that window is open. And if we do, I think the probable outcome for Earth is even better because then Mars could help Earth one day. And so I think we should really do our very best to become a multi-planet species and to extend consciousness beyond Earth. And we should do it now. Thank you. (40:13)

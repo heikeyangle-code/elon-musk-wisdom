@@ -1,0 +1,53 @@
+# SOURCE: https://www.rev.com/transcripts/elon-musk-launches-new-a-i-chatbot-grok-transcript
+# TITLE: Elon Musk Transcript Announcing Grok | Rev
+# FETCHED: fetch_content_cache
+
+Elon Musk ([00:00](https://www.rev.com/transcript-editor/shared/r5NMPxsV3UsuFRxjJziBR8Yj_9G1cfNH_HBVw3MD0Cn5y-skn92M2qjnhFUS_2t0Cm779QkJlVGDwbouvkD93MurTc8?loadFrom=PastedDeeplink&ts=0.63)):
+
+…I’m going to start something which, I don’t know, you can call TruthGPT or a maximum truth seeking AI that tries to understand the nature of the universe and I think this might be the best path to safety.
+
+Speaker 1 ([00:14](https://www.rev.com/transcript-editor/shared/r5NMPxsV3UsuFRxjJziBR8Yj_9G1cfNH_HBVw3MD0Cn5y-skn92M2qjnhFUS_2t0Cm779QkJlVGDwbouvkD93MurTc8?loadFrom=PastedDeeplink&ts=14.01)):
+
+Okay. Back in April, Elon Musk said he was going to launch his own artificial intelligence and this weekend he did. Yesterday, Elon Musk debuted Grok the newest AI chatbot to hit the market. His AI company xAI launched the tech to a select group of X users to test it out. The company describes Grok as a rebellious streak and that it should answer the spicy questions that other AI would stay away from, like explaining how to make cocaine.
+
+([00:41](https://www.rev.com/transcript-editor/shared/r5NMPxsV3UsuFRxjJziBR8Yj_9G1cfNH_HBVw3MD0Cn5y-skn92M2qjnhFUS_2t0Cm779QkJlVGDwbouvkD93MurTc8?loadFrom=PastedDeeplink&ts=41.64))  
+The prototype is still in its beta phase, but users can sign up for a wait list for a chance to use it. Joining us now is Tim Higgins, Wall Street reporter and author of Power Play: Tesla, Elon Musk, and the Bet of the Century. Tim, Elon Musk wants xAI to challenge companies like OpenAI, so what sets Grok apart from those other chatbots?
+
+Tim Higgins ([01:03](https://www.rev.com/transcript-editor/shared/r5NMPxsV3UsuFRxjJziBR8Yj_9G1cfNH_HBVw3MD0Cn5y-skn92M2qjnhFUS_2t0Cm779QkJlVGDwbouvkD93MurTc8?loadFrom=PastedDeeplink&ts=63.78)):
+
+Maybe it his kind of a sarcastic sense of humor, that joke about cocaine and some of the other examples that we’ve seen already. One of the other big differences is that Elon is pulling the data from Twitter, now known as X, and he’s promising that it’s going to be more real-time data that’s feeding that system. Whereas, one of the criticisms against OpenAI’s system is that it’s dated, that they essentially had a cutoff time in 2021, and so the data isn’t exactly newsworthy when you’re asking it questions.
+
+Speaker 1 ([01:39](https://www.rev.com/transcript-editor/shared/r5NMPxsV3UsuFRxjJziBR8Yj_9G1cfNH_HBVw3MD0Cn5y-skn92M2qjnhFUS_2t0Cm779QkJlVGDwbouvkD93MurTc8?loadFrom=PastedDeeplink&ts=99)):
+
+Back in March, Elon Musk signed a letter calling for a pause on AI. Just a few days ago, though, during the UK AI summit, he signed a declaration aiming to combat AI risks. He even said this during the summit. Let’s take a listen.
+
+Elon Musk ([01:52](https://www.rev.com/transcript-editor/shared/r5NMPxsV3UsuFRxjJziBR8Yj_9G1cfNH_HBVw3MD0Cn5y-skn92M2qjnhFUS_2t0Cm779QkJlVGDwbouvkD93MurTc8?loadFrom=PastedDeeplink&ts=112.68)):
+
+I think AI is one of the biggest threats. For the first time, we have a situation where there’s something that is going to be far smarter than the smartest human.
+
+Speaker 1 ([02:08](https://www.rev.com/transcript-editor/shared/r5NMPxsV3UsuFRxjJziBR8Yj_9G1cfNH_HBVw3MD0Cn5y-skn92M2qjnhFUS_2t0Cm779QkJlVGDwbouvkD93MurTc8?loadFrom=PastedDeeplink&ts=128.25)):
+
+Tim, what do you make of that? Are these actions just for show?
+
+Tim Higgins ([02:13](https://www.rev.com/transcript-editor/shared/r5NMPxsV3UsuFRxjJziBR8Yj_9G1cfNH_HBVw3MD0Cn5y-skn92M2qjnhFUS_2t0Cm779QkJlVGDwbouvkD93MurTc8?loadFrom=PastedDeeplink&ts=133.26)):
+
+Yeah, the paradoxes of Elon Musk. On one hand, this is the end of humanity. On the other hand, he’s racing towards it and, in part, it seems as if he’s kind of saying to the world that he’s really worried about this technology and he needs to be involved with it to ensure that it’s done correctly. That’s essentially what he’s been arguing and we’ll see here. He talks about how, in order to avoid a Terminator-like future, you’ve got to kind of see how you would do that, essentially, and that’s kind of the road he’s going down.
+
+Speaker 1 ([02:43](https://www.rev.com/transcript-editor/shared/r5NMPxsV3UsuFRxjJziBR8Yj_9G1cfNH_HBVw3MD0Cn5y-skn92M2qjnhFUS_2t0Cm779QkJlVGDwbouvkD93MurTc8?loadFrom=PastedDeeplink&ts=163.65)):
+
+You touched on this earlier. Grok has access to data from X, formerly Twitter, which xAI says will give it a leg up. Tell us more about that. How is that going to work?
+
+Tim Higgins ([02:54](https://www.rev.com/transcript-editor/shared/r5NMPxsV3UsuFRxjJziBR8Yj_9G1cfNH_HBVw3MD0Cn5y-skn92M2qjnhFUS_2t0Cm779QkJlVGDwbouvkD93MurTc8?loadFrom=PastedDeeplink&ts=174.81)):
+
+One of the examples that Elon provided from the system was he had just been on the very popular podcast, Joe Rogan, and he asks, what was Joe wearing during that podcast? And so, his system could describe it, whereas, OpenAI’s system, it really didn’t have the ability to do that. And that’s what I was mentioning earlier, is that OpenAI was taking data in the past and building a system and that’s what it’s using right now.
+
+([03:21](https://www.rev.com/transcript-editor/shared/r5NMPxsV3UsuFRxjJziBR8Yj_9G1cfNH_HBVw3MD0Cn5y-skn92M2qjnhFUS_2t0Cm779QkJlVGDwbouvkD93MurTc8?loadFrom=PastedDeeplink&ts=201.15))  
+Now, just today, the company, OpenAI, was announcing that they’re going to be bringing that data forward into this year and they’re really trying to make sure the data is fresh because this has been a criticism of it and that it kind of how’s kind of Elon’s thinking about one of the advantages they have going forward, is this access to X data that he has tried to cut off or make more valuable to other companies that had been scraping it, he wants to charge them for that, and you can kind of see him seeing that as an advantage.
+
+Speaker 1 ([03:50](https://www.rev.com/transcript-editor/shared/r5NMPxsV3UsuFRxjJziBR8Yj_9G1cfNH_HBVw3MD0Cn5y-skn92M2qjnhFUS_2t0Cm779QkJlVGDwbouvkD93MurTc8?loadFrom=PastedDeeplink&ts=230.67)):
+
+All right. Tim Higgins, thank you so much. We appreciate your time.
+
+Speaker 4 ([03:53](https://www.rev.com/transcript-editor/shared/r5NMPxsV3UsuFRxjJziBR8Yj_9G1cfNH_HBVw3MD0Cn5y-skn92M2qjnhFUS_2t0Cm779QkJlVGDwbouvkD93MurTc8?loadFrom=PastedDeeplink&ts=233.58)):
+
+Thanks for watching. Stay updated about breaking news and top stories on the NBC News app or follow us on social media.

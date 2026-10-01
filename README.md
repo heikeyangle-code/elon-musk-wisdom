@@ -9,7 +9,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-Standard-green)](https://agentskills.io)
 [![Verified](https://img.shields.io/badge/引文逐字回查-1319%2F1319-brightgreen)](docs/BUILD-NOTES.md)
-[![No Corpus](https://img.shields.io/badge/语料-不分发%2C附抓取脚本-blue)](THIRD-PARTY.md)
+[![Corpus](https://img.shields.io/badge/语料-258%20份%20%2F%209.2M%20字符-9cf)](skills/elon-musk-wisdom/corpus)
 
 </div>
 
@@ -141,19 +141,33 @@ git clone https://github.com/<你的用户名>/elon-musk-wisdom ~/.pi/agent/skil
 └── corpus/           ← 需要你自己抓（见下）
 ```
 
-### 语料要自己抓
+### 语料**已随仓库分发**
 
-**本仓库不分发第三方语料**（传记、访谈转录、文章 —— 版权不归我们）。见 [THIRD-PARTY.md](THIRD-PARTY.md)。
+**258 份原始语料 / 9.2M 字符 / 1971–2026**，clone 完直接可用。
 
-```bash
-python3 tools/fetch_corpus.py --out <skills目录>/elon-musk-wisdom/corpus
+```
+corpus/   258 份 .txt
 ```
 
-脚本读 `tools/corpus-sources.json`（**254/258 份带原始 URL**），逐条抓取重建成技能期望的文件名。
+技能里 2079 处 `corpus/xxx.txt` 引用**全部可解析** —— 想回去看任何一句引文的完整上下文，直接打开对应文件。
 
-抓不到的那几份是出版物（传记、书籍），请自行合法获取。
+**完整性自检**：
 
-**不抓语料也能用** —— 技能主体（原则 / 手册 / 规程 / 案例 / 证据卡）全在 `references/` 里。只有「要回去看某场的完整原文」这一个功能需要 corpus。
+```bash
+python3 tools/verify_corpus.py --dir skills/elon-musk-wisdom/corpus
+```
+
+对照 `tools/corpus-checksums.json`（每份文件的名字、字节数、md5）核对你手上的副本。
+
+**如果语料缺失或你想重新获取**（比如某份文件在仓库外被更新了）：
+
+```bash
+python3 tools/fetch_corpus.py --out skills/elon-musk-wisdom/corpus
+```
+
+脚本读 `tools/corpus-sources.json`（**254/258 份带原始 URL**），从原始出处重抓。
+
+**版权请见 [THIRD-PARTY.md](THIRD-PARTY.md)** —— 语料著作权属于各原始权利人，本仓库只做研究与引用性质的汇集。
 
 ---
 
@@ -174,6 +188,8 @@ python3 tools/fetch_corpus.py --out <skills目录>/elon-musk-wisdom/corpus
 ---
 
 ## 没做到的地方（诚实）
+
+**零 · 语料的版权不属于本仓库。** 258 份材料来自传记、播客转录、媒体报道、官方文件 —— 著作权归各原始权利人。本仓库以研究与引用目的汇集，**不代表有权再授权**。若要商业使用或再分发，请自行核实每一份的来源条款。
 
 **一 · 人格层有洞。** 幽默、愤怒、兴奋、讽刺、称呼亲近度、公开认错、怎么顶回去 —— 这七个维度没有**专采样本**。`voice.md` 的 70 条语感样本里，笑声标记是 0。表达风格 DNA 里写了「幽默：冷、干、常自嘲」，但没有样本支撑。
 

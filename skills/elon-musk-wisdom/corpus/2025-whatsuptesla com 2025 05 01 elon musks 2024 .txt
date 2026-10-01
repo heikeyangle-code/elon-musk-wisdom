@@ -1,0 +1,81 @@
+# SOURCE: https://whatsuptesla.com/2025/05/01/elon-musks-2024-west-point-talk-part-2-drones-ai-and-the-future/
+# TITLE: Elon Musk’s 2024 West Point Talk Part 2: Drones, AI, and the Future
+# FETCHED: fetch_content_cache
+
+This is the second part of my series on Elon Musk’s August 16, 2024, West Point talk, released February 6, 2025.
+
+Geared towards students, the discussion with Brigadier General Shane Reeves explored national defense and technology.
+
+In Part 1, Elon emphasized drone warfare, noting U.S. technological strength but low production rates, stating,
+
+> “Well I think we probably need to invest in drones, the United States is strong in terms of technology of the items, but, the production rate is low, so, it is a small number of units, relatively speaking, but I think that basically there is a production rate issue with the rate, like if you say how fast can you make drones, imagine there is a Drone conflict. The outcome of that Drone conflict will be based on: How many drones does each side have in that particular skirmish times the kill ratio… so let’s say that the United States would have a set of drones that have a high kill ratio, but then, the other side has far more drones. If you have got a 2 to 1 kill ratio, and the other side has four times as many drones, you are still going to lose.”
+
+## Ukrainian Drone Production and Aging
+
+Reeves explained that a recent report quoted Zelensky saying Ukraine will produce 1 million drones by 2025. He then pivoted to ask Elon if he had solved aging.
+
+Elon stated that he had not solved aging, and then added, “I wonder if we should solve aging?” He added, “How long do you want Putin and Kim Jong-un to live?”
+
+## Starlink’s Role in Warfare
+
+Reeves shifted to the importance of communications in warfare, prompting Elon to discuss Starlink: “Communications is essential, it is actually very important to have space-based communications that are or that cannot be intercepted, which is Starlink. It is what Starlink offers. Starlink is the backbone of the Ukrainian military communication system because it can’t be blocked by the Russians. It is the only thing that cannot be blocked. So, on the front lines, all of the fiber connections are cut, all the cell towers are blown up, all of the geostationary satellite links are jammed. The only thing that isn’t jammed is Starlink, so it is the only thing. And then, GPS is also jammed. GPS signal is very faint and Starlink can offer location capability as well so it is a strategic advantage that is very significant. And, when you try to communicate with drones, the drones need to like basically, they need to know where they are, and they need to receive instructions. So if you don’t have communications and positioning, then the drones don’t work. So that’s quite important. That is essential.”
+
+Reeves asked if there will still need to be communication between people and drones. Elon said, “There’s a difference between right now, versus where things will be in 10 years.” Sighing, Elon says he’s looking at the future with some trepidation. He says he has to have some deliberate suspension of disbelief to sleep sometimes. He thinks we’re headed into a pretty wild future. Elon is a naturally optimistic person, but “AI is going to be so good, including **_localized_** AI, but at the current rates, you’ll have something that is sort of Grok-level AI and it can probably be run on a drone and so, you could literally say, this is the equipment that the drone needs to destroy, and then it will go into that thing, and it will recognize what equipment needs to be destroyed, and will take it out.”
+
+![Elon says, “Communications is essential, it is actually very important to have space-based communications that are or that cannot be intercepted, which is Starlink. It is what Starlink offers"](https://whatsuptesla.com/wp-content/uploads/2025/05/screenshot-2025-04-27-at-8.37.21e280afam.png?w=809)
+
+Elon says, “Communications is essential, it is actually very important to have space-based communications that are or that cannot be intercepted, which is Starlink. It is what Starlink offers”
+
+## AI Surpassing Human Control
+
+Reeves asks Elon if he thinks that AI will quickly surpass the human’s ability to control. Elon answers,
+
+“Yes, I mean, <very long pause> I’d like to say no, but the answer is yes.”
+
+Reeves asks how long before the AI surpasses the ability for the human to influence how it’s working?
+
+Elon explained that he does think humans will be able to influence how it’s working for a long time, “This is an esoteric subject, that really goes into pretty wild speculation, to some degree. I think that the AI will want humans as a source of Will. So, if you think of how the human mind works, there is the limbic system, and the cortex, you have sort of the base instincts, and sort of the thinking, and the planning part of your brain, but you also have a tertiary layer, which is all of the electronics that you use, your phones, your computers, applications, so you already have three layers of intelligence, but all of those, including the cortex and the machine intelligence, which is your sort of cybernetic third layer, is working to try to make the limbic system happy. Because the limbic system is a source of Will so, it might be that the AI just wants to make the humans happy.”
+
+![Elon explains, "AI may view humans as a source of will, like the limbic system driving instincts. With the cortex and electronics as intelligence layers, AI might aim to make humans happy."](https://whatsuptesla.com/wp-content/uploads/2025/05/screenshot-2025-04-27-at-11.55.18e280afam.png?w=1024)
+
+## Neuralink and AI Mitigation
+
+Continuing on AI, Elon introduced Neuralink: “And part of what Neuralink is trying to do, is to improve the communication bandwidth between the cortex and the digital tertiary layer because the output bandwidth of a human is less than one bit per second per day and there are 86,400 seconds in one day and you don’t output 86,400 tokens you know it’s like, the number of words that I can say in those forums, if you’re just looking at it from an information theory standpoint, how much information am I able to convey? Not that much. Because I can only say a few number of words, and in order to convey an idea, I have to take a concept in my head, and then I have to compress it down, into a small number of words, try to aspirational model, how you would decompress those words into concepts that are in your own mind, that’s communication. So your brain is doing a lot of compression and decompression, and then has a very small output bandwidth. Neuralink can increase that bandwidth by several orders of magnitude, and also, you don’t have to spend as much time compressing thoughts into a small number of words, you can do conceptual telepathy. That is the idea behind Neuralink. It is intended to be a mitigation against AI existential risk.”
+
+## AI Alignment and Humanity
+
+Reeves asked about the concept of AI alignment, prompting Elon to explain: “It’s asking the question, is the AI going to do things that make civilization better? Make people happy? Or will it be contrary to humanity? Will it foster humanity? Or not? Will it be against humanity? So obviously, we want an AI that will foster humanity and I think in developing an AI to foster humanity—because I’ve thought about AI safety for a long time—I think I’ve had probably about 1000 hours of discussion about this and my ultimate conclusion is that the best course for AI safety is to have an AI that is maximally truth-seeking and also curious. And if you have both of those things, I think it will naturally foster humanity because it will want to see how humanity develops. Want to see it because humanity is more interesting than not humanity. You know, I like Mars. I’m a big fan of Mars. And I think we should become a multi-planetary civilization. That’s very important. The purpose of SpaceX is to make life multi-planetary. That’s the reason I created the company, and that’s the reason we have the Starship development in South Texas. The rocket is far too big for just satellites. It’s intended to establish life on Mars not just to send astronauts there briefly, but to build a city on Mars. A city that is ultimately self-sustaining so, but getting back to AI, if you have a truth-seeking AI, that is maximally curious, my neural net, my biological neural net says that that is going to be the safest outcome. People say, why do you like Mars, Mars is not as interesting as Earth, because there’s no human civilization there. Or, thought of another way, if you want to render Mars, rendering Mars is pretty easy as it’s basically red rocks, kind of like some parts of Arizona you know there’s not a lot of people. It’s just very easy to render. But, rendering human civilization is much harder, much more complex, much more interesting so I think a curious and truth-seeking AI would want to foster humanity and want to see where it goes.”
+
+![](https://whatsuptesla.com/wp-content/uploads/2025/05/starshiptomars.png?w=1024)
+
+## Trusting AI and the End of Fighter Pilots
+
+Reeves asked an interesting question, drawing on a comparison to a movie that he and Elon were both familiar with, _Top Gun_ with Tom Cruise. His question to Elon was, “How do we build trust between the human and the machine, as there are many humans who don’t want to use the technology because they don’t trust it?”
+
+Elon: “Well, I think we shouldn’t just automatically trust these things. I think you want to test it out, and do a lot of testing and see how it actually works and a conflict at a small scale, and then scale it up if it’s effective, but, I have to say, like I’m not sure for example, like I have to say,… Well, fortunately, this is not an Air Force gathering, but I’m not sure there’s a lot of room and opportunity for fighter pilots because I think if you’ve got a drone swarm coming at you, then the pilot is a liability in the fighter plane, to be honest. If you compare a drone versus a fighter plane, how easy is it to make a drone? It’s at least 10, maybe 100 times easier to make the drone, and you can afford to sacrifice the drones whereas, with the pilots, you don’t want to sacrifice the pilots, so my guess is actually that the age of human-piloted fighter aircraft is coming to an end.”
+
+![A primarily young audience of students gather to intently listen to Elon Musk at West Point. Elon spoke at on August 16, 2024, during a fireside chat with Brigadier General Shane Reeves, as part of the U.S. Military Academy’s convocation.](https://whatsuptesla.com/wp-content/uploads/2025/05/screenshot-2025-05-01-at-5.09.46e280afpm.png?w=809)
+
+A primarily young audience of students gather to intently listen to Elon Musk at West Point. Elon spoke at on August 16, 2024, during a fireside chat with Brigadier General Shane Reeves, as part of the U.S. Military Academy’s convocation.
+
+I am excited to share Part 3 of this talk with you soon!
+
+## My thoughts
+
+Elon does not get credit for how much help he’s giving Ukraine. Without Starlink, Ukraine would have no communications for defense. Sadly, we’ve not heard Zelensky thank him for this in the last few years. Instead, Elon is villainized constantly.
+
+Speaking to the young and excited audience at West Point, Elon showed his deep love for humanity when he urged caution: don’t blindly trust AI, test it carefully first. Drones, far easier to build than fighter planes, can be sacrificed—unlike precious pilots. He believes human-piloted fighters are fading, to protect lives.
+
+## Interested in other talks by Elon? I publish many of them.
+
+[Elon Musk’s 2024 West Point Talk Part 1\`](https://x.com/gailalfaratx/status/1916669037221753194)
+
+[Elon Musk Talk Part 1 at Lancaster Town Hall](https://x.com/gailalfaratx/status/1865330451415466022)
+
+[Elon Musk Part 2 at Lancaster Town Hall](https://x.com/gailalfaratx/status/1865979095193993333)
+
+[Highlights from Elon Musk’s Telephone Town Hall](https://x.com/gailalfaratx/status/1850041268878909936)
+
+![Gail Alfar, Image Credit Apple Lamps on X](https://whatsuptesla.com/wp-content/uploads/2025/02/gailalfar.jpeg?w=809)
+
+Gail Alfar, dedicated Tesla advocate and writer since 2020, continues to champion the resilience and innovation of Tesla owners.

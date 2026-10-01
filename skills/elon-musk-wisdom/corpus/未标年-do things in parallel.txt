@@ -1,0 +1,38 @@
+# SOURCE: https://www.elonmuskbook.org/the-book-of-elon-musk-free-online-version/do-things-in-parallel
+# HARVESTED: 2026-09-29
+
+Thank you for visiting the site. Enjoy the published content and the book. We appreciate your support, and please pay it forward.
+
+The Book of Elon Musk Elon Musk's Most Useful Ideas In His Own Words
+
+Mar 31
+
+Mar 31 Do Things in Parallel
+
+Eric Jorgenson
+
+Everything is measured in terms of time. What is the time risk associated with something?
+
+The one thing you cannot replace is time.340
+
+For PayPal, we needed to establish a lot of back-office relationships to attach various data sources. The credit card system for processing credit cards, the Federal Reserve System for doing electronic funds transfers, the various fraud databases to run fraud checks. There was a lot we had to interface with, and it took a while to set all that up.
+
+But by doing them all in parallel, it all came together simultaneously. Developing the software and having it ready for the general public coincided with us concluding deals with the outside vendors. All that took about a year.341
+
+Avoid serialized dependencies. A lot of things have a “gestation period” and there is nothing you can do to accelerate it. If you can have all those things gestating in parallel, that will substantially accelerate your overall timeline. People tend to serialize too much. Put as many gestating elements in parallel as possible.342
+
+If a timeline is long, it’s wrong.343
+
+Eric Jorgenson
+
+CEO of Scribe Media. Author of The Almanack of Naval and The Anthology of Balaji. Investing in technology startups as GP at Rolling Fun. Podcast: Smart Friends. Happy to be in touch through Twitter or email.
+
+Website
+
+About the book
+
+Book and website curating and sharing Elon's wisdom. Coming soon on March 24th. Follow on Twitter.
+
+Mar 31 Speed Is Both Offense and Defense
+
+Mar 31 Break Down the "Impossible"

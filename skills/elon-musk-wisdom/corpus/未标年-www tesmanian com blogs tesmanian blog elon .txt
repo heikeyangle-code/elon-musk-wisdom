@@ -1,0 +1,71 @@
+# SOURCE: https://www.tesmanian.com/blogs/tesmanian-blog/elon-musk-master-plan-tesla-tsla
+# TITLE: 14 Years On, Elon Musk’s Tesla Master Plan is Still Going According to Plan
+# FETCHED: fetch_content_cache
+
+I read through Elon Musk’s Master Plan once again recently, and it still fascinates me that he was able to stick to his plan all this time. Yes, there were some setbacks. There were also times when Tesla had to push to survive, but it did pull through. Now, the revolutionary EV tech company isn’t just surviving; it’s thriving, as evidenced by TSLA’s soaring stock ([TSLA: NASDAQ](https://www.nasdaq.com/market-activity/stocks/tsla)). With the release of Tesla's Q4 2019 earnings call coming, it's worth looking back to see just how much everything at Tesla is all going according to Elon Musk's Master Plan.
+
+_Credit: [Commons Wikimedia](https://creativecommons.org/licenses/by-sa/2.0\))_
+
+## Master Plan, Part Un
+
+When Elon Musk published part one of his Master Plan, he wasn’t the CEO of Tesla. However, he supported the company’s main mission so much Musk was Tesla Motor’s “primary funding source.” Besides being Tesla’s Chairman, he was also the one with THE plan.
+
+In his 2006 post, Musk outright explains Tesla Motor’s mission in life and his Master Plan to achieve the EV company’s ultimate goal.
+
+"The overarching purpose of Tesla Motors and the reason I am funding the company is to help expedite the move from a mine-and-burn hydrocarbon economy towards a solar electric economy, which I believe to be the primary, but not exclusive, sustainable solution.”
+
+In 2006, the Master Plan was as follows:
+
+*   Build a sports car (Tesla Roadster)
+*   Use the money \[from the sports car\] to build an affordable car (Models S and X)
+*   Use the money \[from the affordable car\] to build an even more affordable car (Model 3 and Y)
+*   While doing the above, also provide zero-emission electric power generation options (Note: SolarCity, a residential solar company that eventually merged with Tesla, was also founded in 2006, the same year Musk wrote the first Master Plan.)
+
+_Credit: [Megan Gale Adams](https://twitter.com/megangale)/Twitter_
+
+## Master Plan, Part Deux
+
+Part two of the Master Plan is more like the refined version of part one. Musk took the goals that weren’t complete yet from part one and added some to make part two. He started his 2016 article showing readers that he was aware of the risks of supporting a car company like Tesla. “Starting a car company is idiotic, and an electric car company is idiocy squared,” Musk wrote.
+
+He illustrated the dangers of starting a car company, stating, “As of 2016, the number of American car companies that haven't gone bankrupt is a grand total of two: Ford and Tesla.” He didn’t know then that years later, Tesla would be the second-most valuable automaker by market cap in 2020—and that wasn’t even part of his Master Plan.
+
+In 2016, Master Plan, Part Deux was as follows:
+
+*   Create stunning solar roofs with seamlessly integrated battery storage (Tesla Energy’s Solarglass Roof Tiles and Powerwalls)
+*   Expand the electric vehicle product line to address all major segments (Model 3, Model Y, Cybertruck, Tesla Semi, and the Transport Pods for The Boring Company's Loop System)
+*   Develop a self-driving capability that is 10x safer than manual via massive fleet learning (Autopilot and Full Self-Driving Suite)
+*   Enable your car to make money for you when you aren’t using it (the Tesla Network's Robotaxi service)
+
+_Credit: [u/jake\_jakejake](https://www.reddit.com/user/jake_jakejake/)/Reddit_
+
+## Sticking to the Master Plan
+
+### All-Electric Vehicles
+
+Tesla has finally hit its stride in the all-electric automobile production department. The Model 3 has been out for quite some time now. As promised, the Model 3 is even more affordable than the Models S and X. News about the [Model Y’s imminent release](https://www.tesmanian.com/blogs/tesmanian-blog/tesla-model-y-vins-registered-with-nhtsa?_pos=18&_sid=5fc356952&_ss=r) have been escalating recently, hinting that Tesla’s affordable SUV could be delivered soon.
+
+Elon Musk also already introduced Tesla’s all-electric pickup truck, the Cybertruck, to the world. Its estimated delivery date is late 2021. The CYBRTRK is the last consumer vehicle on Elon Musk’s list of EVs Tesla should release to expand to other segments in the car industry.
+
+Elon Musk also talked about other necessary EVs in Part Deux, which essentially came to fruition as the [Tesla Semi](https://www.tesmanian.com/blogs/tesmanian-blog/tesla-semi-sighted-mysteriously-wrapped-in-transport-carrier?_pos=5&_sid=5fc356952&_ss=r). The Semi will be released in the second half of 2020.
+
+As for the “high passenger-density urban transport” Musk mentioned in Part Deux, it could manifest to be the transport pods for the The Boring Company. Musk has said in the past that Tesla will be helping The Boring Company with its transport pods for its Urban Loop Systems.
+
+### Autonomy
+
+Tesla may have already collected [2 billion miles of real-world data](https://www.tesmanian.com/blogs/tesmanian-blog/tesla-autopilot-2-billion-real-world-miles) for Autopilot and Full Self-driving Suite. In its [Q4 2019 safety report](https://www.tesla.com/VehicleSafetyReport?redirect=no), Tesla stated that the company registered one accident for every 3.07 million miles driven with Autopilot engaged. For comparison, the NHTSA’s data reported one crash every 479,000 miles.
+
+Based on Tesla and the NHTSA’s data, the EV tech company has made driving at least 4 times safer when Autopilot is engaged. In Part Deux, Elon Musk stated that the beta label of Autopilot would be removed when the driver-assist system makes driving in the US at least [10 times safer](https://www.tesmanian.com/blogs/tesmanian-blog/tesla-safest-vehicles-autopilot-active-safety?_pos=13&_sid=5fc356952&_ss=r). The removal of “beta” in its name would mean Autopilot passed its initial stages, but it will not mean that the system is perfect. Autopilot will keep developing as more people drive their Teslas and buy them.
+
+When Autopilot’s “beta” tag is removed, Tesla will be closer to its goal for a Robotaxi fleet and autonomous vehicles that make money for their owners.
+
+### Solar Roofs and Battery Storage
+
+Tesla Energy has not received much attention from the company’s EV sector. However, it is still making waves of its own in the world. In Australia, in particular, Tesla’s battery storage technology has proven itself time and time again. This part of Tesla still has a lot of growing to do, and it will be interesting how it will further the company’s mission in the future.
+
+Tesla is making headways in its goal, as can be seen in the discussion above. The upcoming Q4 2019 earnings call will set the mood for 2020 and establish the direction and decisions the EV automaker will have to take to get closer to its goal.
+
+Relevant Sources: 
+
+[Master Plan](https://www.tesla.com/blog/secret-tesla-motors-master-plan-just-between-you-and-me?redirect=no)
+
+[Master Plan, Part Deux](https://www.tesla.com/blog/master-plan-part-deux?redirect=no)

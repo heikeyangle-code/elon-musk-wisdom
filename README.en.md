@@ -9,7 +9,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-Standard-green)](https://agentskills.io)
 [![Verified](https://img.shields.io/badge/verbatim%20check-1319%2F1319-brightgreen)](docs/BUILD-NOTES.md)
-[![No Corpus](https://img.shields.io/badge/corpus-not%20shipped%2C%20fetch%20script%20included-blue)](THIRD-PARTY.md)
+[![Corpus](https://img.shields.io/badge/corpus-258%20files%20%2F%209.2M%20chars-9cf)](skills/elon-musk-wisdom/corpus)
 
 </div>
 
@@ -136,19 +136,33 @@ Copy `skills/elon-musk-wisdom/` into that runtime's skills directory.
 └── corpus/           ← fetch it yourself (see below)
 ```
 
-### You fetch the corpus yourself
+### The corpus **ships with the repo**
 
-**This repo does not ship third-party source material** (biographies, interview transcripts, articles — we don't hold those rights). See [THIRD-PARTY.md](THIRD-PARTY.md).
+**258 source files / 9.2M characters / 1971–2026** — working immediately after clone.
 
-```bash
-python3 tools/fetch_corpus.py --out <skills-dir>/elon-musk-wisdom/corpus
+```
+corpus/   258 .txt files
 ```
 
-The script reads `tools/corpus-sources.json` (**254 of 258 entries carry their original URL**) and rebuilds the flattened filenames the skill expects.
+All **2,079** `corpus/xxx.txt` references inside the skill resolve. Want the full context around any quote? Open the file directly.
 
-The handful it can't fetch are published works (biographies, books) — obtain those legally yourself.
+**Integrity check:**
 
-**It works without the corpus.** Everything substantive (principles, playbook, procedures, cases, evidence cards) lives in `references/`. Only one feature needs `corpus/` — going back to read a source's full original text.
+```bash
+python3 tools/verify_corpus.py --dir skills/elon-musk-wisdom/corpus
+```
+
+Compares your copy against `tools/corpus-checksums.json` (filename, byte count, md5 per file).
+
+**If files are missing or you want to re-fetch** (e.g. a source was updated upstream):
+
+```bash
+python3 tools/fetch_corpus.py --out skills/elon-musk-wisdom/corpus
+```
+
+Reads `tools/corpus-sources.json` (**254 of 258 entries carry their original URL**).
+
+**On copyright, see [THIRD-PARTY.md](THIRD-PARTY.md)** — the material belongs to its original rights holders. This repo gathers it for research and citation purposes only.
 
 ---
 
@@ -169,6 +183,8 @@ The build process and every trap hit along the way are recorded in [`docs/BUILD-
 ---
 
 ## What this does NOT do (honestly)
+
+**0 · The corpus is not ours to license.** The 258 files come from biographies, podcast transcripts, media reports, and official documents — copyright belongs to their original holders. This repo gathers them for research and citation. **It does not grant you the right to redistribute them.** For commercial use, verify each source's terms yourself.
 
 **1 · The persona layer has holes.** Humor, anger, excitement, sarcasm, forms of address, public admissions of error, how he pushes back — these seven dimensions have **no dedicated samples**. Of the 70 voice samples, the count of laughter markers is zero. The expression-DNA section claims "humor: dry, deadpan, self-deprecating," but nothing backs it.
 

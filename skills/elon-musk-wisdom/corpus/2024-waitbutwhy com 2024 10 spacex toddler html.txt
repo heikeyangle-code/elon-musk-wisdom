@@ -1,0 +1,103 @@
+# SOURCE: https://waitbutwhy.com/2024/10/spacex-toddler.html
+# TITLE: Why I Lugged My 27-Pound Toddler to a Rocket Launch
+# FETCHED: fetch_content_cache
+
+_This post was originally published in [The Free Press](https://www.thefp.com/p/tim-urban-daughter-spacex-elon-musk-nasa) on October 14, 2024._
+
+Last night, I received two texts from Bari Weiss: 
+
+_Any interest in writing a short piece about that jaw-dropping launch?_
+
+_And why you brought your daughter to see it?_
+
+The first question is an easy one. I’ve been fascinated by space ever since I gained sentience sometime in the mid-1980s. I had the order of the planets down by age four, and a few years later I could (and did) tell people that you could fit a thousand Earths inside Jupiter and a thousand Jupiters inside the sun.
+
+I remember being amazed watching videos of the moon landing—but also confused. The cars, telephones, TVs, and computers of my childhood were worlds more advanced than anything my parents had as kids. But with space, the normal order of things was reversed: My parents grew up exhilarated by Apollo missions to places no man had gone before, while I was watching the space shuttle take astronauts a little hop above Earth’s surface to do some technical work on the International Space Station. I remember feeling a deep envy of people who were around in the 1960s. It didn’t make sense.
+
+The problem turned out to be this:[1](#footnote2-1-10603)
+
+[![](https://waitbutwhy.com/wp-content/uploads/2024/10/nasa-budget_lg.png)](https://waitbutwhy.com/wp-content/uploads/2024/10/nasa-budget_lg.png)
+
+People living in the 1960s thought the moon landing was just the beginning. By 2024, they’d have imagined, there would be a permanent moon base, lots of space tourism, and even people walking around on other planets.
+
+As it turns out, the 1960s were a fluke. It was the height of the Cold War and “desperate times call for desperate measures” justified all kinds of unusual behaviors—including spending five percent of the federal budget to one-up the Soviet Union in the space race. That brief spike in space expenditure put a man on the moon, captivated all of humanity and reminded us of what’s possible when we put our minds together.
+
+Then the Cold War moved on, shifting its tensions to other arenas. Space became less of a critical mission and more of a fun hobby. What had been five percent of the federal budget in the mid-1960s dropped to one percent by the mid-1970s and [0.5 percent](https://en.wikipedia.org/wiki/Budget_of_NASA) in recent decades.
+
+Any hopes I had that the U.S. would decide to become rad about space again were dashed in 2011, when the space shuttle program was [shut down for good](https://www.space.com/12804-nasa-space-shuttle-program-officially-ends.html). Now we couldn’t even launch astronauts into low Earth orbit. When we wanted to send Americans into space, we had to [politely ask Russia to do it for us](https://www.bbc.com/news/science-environment-17074388#).
+
+I get it. We have many more pressing needs than space. A politician campaigning today on dedicating five percent of the budget to space would be laughed out of the room.
+
+It’s just that it’s such a _shame_. The moon landing was a tantalizing glimpse into the incredible potential of our species—and a frustrating reminder that without desperate times, that potential remains largely untapped.
+
+Then came SpaceX. I first heard about it in 2012 when _[60 Minutes](https://youtu.be/23GzpbNUyI4?si=acfcCZQ6uIW9tR1Y)_ did a segment on the company. Over the next few years, I watched as SpaceX kept defying expectations, successfully launching progressively bigger and more legit rockets into orbit.
+
+In what is still the most surprising day of my life, one day in 2015 Elon Musk reached out to me, said he had read [my recent blog post on AI](https://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html), and asked if I’d be interested in writing about SpaceX. Over the next few months I visited the SpaceX facilities, looked at their rockets up close, interviewed dozens of their engineers, and talked with Musk about the big vision for the company. I wrote about it all in a [big blog post](https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html).
+
+At the time, SpaceX was singularly focused on one of the space industry’s holy grails: rocket reusability.
+
+Imagine if every commercial airplane flight ended with the passengers parachuting to the ground and the plane crashing into the ocean. With every plane flying exactly once, a brand-new plane would be needed for every flight. Tickets would cost millions of dollars, limiting air travel to billionaires and governments. 
+
+Until recently, that was how space travel worked. Every rocket flew once, making space available only to billionaires and governments. What if, somehow, rockets could be like planes, ending each mission by landing instead of crashing the rocket? Each rocket could be used hundreds of times instead of once, dramatically cutting down the price of space travel and revolutionizing the industry.
+
+In late 2015 a SpaceX rocket launched, sent its payload into orbit, and for the first time in human history, [came back down and landed](https://www.youtube.com/live/O5bTbVbe4e4?t=1949s). I watched from SpaceX headquarters. The cheer was so deafening you could feel the vibration move through your body. In the face of a million doubts, SpaceX showed that a private company could not only launch rockets but do it better than any government ever had. Soon, the U.S. government was using SpaceX, not Russia, to launch its astronauts.
+
+But reusability was just a stepping stone on the way to SpaceX’s real mission: colonizing Mars. If you have critical information stored on a hard drive, it’s common sense to back up the info on a second hard drive. That’s how Elon Musk views humanity. We currently have all our eggs in one planet. To give our species the best chance of survival in the long run, he believes, we should live on multiple planets. We’re fortunate to have another potentially livable rocky planet nearby. Why not try to use it?
+
+Bringing people to Mars requires a rocket far larger and smarter than any we had ever built. So SpaceX built [Starship](https://www.spacex.com/vehicles/starship/), a beast the height of a 40-story skyscraper.[2](#footnote2-2-10603)
+
+[![](https://waitbutwhy.com/wp-content/uploads/2024/10/boca-rocket.jpeg)](https://waitbutwhy.com/wp-content/uploads/2024/10/boca-rocket.jpeg)
+
+To make trips to Mars affordable, the rocket has to be reusable, which means this thing has to land. So SpaceX got busy innovating, designing a system to catch the landing rocket between two giant arms. Last week, [SpaceX announced](https://www.space.com/spacex-starship-flight-5-target-oct-13-pending-faa#) that on Sunday, October 13, they would perform Starship’s fifth test launch and, for the first time, attempt to catch the gargantuan rocket on the way down.
+
+I knew one thing: I sure as shit wasn’t going to miss this. I made arrangements to travel to Boca Chica, Texas, to watch.
+
+So the answer to Bari’s first text was easy. I love writing about anything related to space. Yes. 
+
+But how about the second text?
+
+_And why you brought your daughter to see it?_
+
+Let me first say that “daughter” is generous. What I have is a little two-foot-tall, 19-month-old gnome. Many times over the course of the weekend journey, I asked myself the same question. Why _did_ I decide to bring a toddler with me?
+
+I asked myself that question at 6:30 a.m. Sunday morning while making the 30-minute walk down the beach from the hotel to the viewing spot, which would have been much easier without lugging a fussy, under-slept, 27-pound medicine ball with me—all for something she won’t begin to understand or appreciate or remember.
+
+We arrived at our spot and waited. Then, suddenly, the bottom of the rocket exploded into color. The launch began in silence for a few seconds while the roaring sound zipped along the water toward us. Then it got _loud_. My daughter hated it, saying “No?” repeatedly, which is her way of pleading with me to make it stop. 
+
+But soon, like everyone else, she was staring wide-eyed at the flying skyscraper as it bored its way upward through the thick atmosphere, painting a beautiful strip of vivid white and orange cloud across the clear sky. Way above us, we watched it separate into two little dots: The spaceship heading around the world with plans to crash into the Indian Ocean, and the rocket that was—somehow—turning around and coming back toward us.
+
+I can say with confidence: Watching [a skyscraper falling from the sky](https://x.com/cb_doge/status/1845459929752023050) is one of the most surreal things I have ever seen. Noticing my daughter still fixated on the cloud, I redirected her attention to the falling rocket. Near the ground, with a new streak of fire shooting out of its engines, it slowly hovered its way over to the tower and into the gentle embrace of the robot arms. The crowd roared. My wife, who gives one percent as much of a shit as I do about space, was in tears.
+
+It’s hard to wrap your head around SpaceX’s mission. If they actually succeed in putting a single human on Mars, let alone their goal of a million people, it will be one of the major milestones in not just human history but _life_ history—on par with the moment animals first began to walk on land. Whether or not they end up pulling it off, space is officially exciting again.
+
+But the reason rocket launches make people emotional isn’t about that. It’s the feeling of swelling pride that comes from being in awe of your own species. It’s the feeling of hope that comes from being reminded of our insane potential when thousands of people work together toward a goal. It’s the happy version of the post-9/11 feeling of wanting to hug every stranger you see.
+
+These emotions are especially refreshing at a time when we’re surrounded by their polar opposite: the pessimism and petty cynicism that pervade our age of suffocating tribalism.
+
+As the father to a smiley little gnome, I desperately want to shield her from the negativity that will swirl around her as she grows up. I won’t be able to do that. But what I _can_ do is continually redirect her attention to the rocket, showing her all the ways our species is incredible. I can use “rocket launch emotion” as a parenting compass and try, as many times as I can, to give her experiences that fill her with that particular magical, high-minded feeling.
+
+If along the way I also train her to be my little space nerd friend, all the better.
+
+[![](https://waitbutwhy.com/wp-content/uploads/2024/10/IMG_8722-scaled.jpeg)](https://waitbutwhy.com/wp-content/uploads/2024/10/IMG_8722-scaled.jpeg)
+
+\_\_\_\_\_\_\_
+
+If you like Wait But Why, sign up for our **[email list](https://newsletter.waitbutwhy.com/join)** and we’ll send you new posts when they come out.
+
+To support Wait But Why, visit our **[Patreon page](https://patreon.com/waitbutwhy)**.
+
+\_\_\_\_\_\_\_
+
+**More Wait But Why space nerdery:**
+
+[How (and Why) SpaceX Will Colonize Mars](https://waitbutwhy.com/2015/08/how-and-why-spacex-will-colonize-mars.html)
+
+[The Fermi Paradox](https://waitbutwhy.com/2014/05/fermi-paradox.html)
+
+[4 Mind-Blowing Things About Stars](https://waitbutwhy.com/2013/11/4-mind-blowing-things-about-stars.html)
+
+* * *
+
+1.  Wikipedia[↩](#note2-1-10603)
+    
+2.  Image: Britannica[↩](#note2-2-10603)

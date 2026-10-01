@@ -1,0 +1,609 @@
+# SOURCE: https://elonmuskinterviews.wordpress.com/2021/10/07/codecon-2021-english/
+# TITLE: CodeCon 2021
+# FETCHED: fetch_content_cache
+
+_On September 28, Elon Musk gave an in-depth interview during CodeCon 2021. During the conversation with Kara Swisher, he talked about cryptocurrencies, his view on China, the holy grail of space travel that is reusable rockets, how Starlink is helping to pave the way to Mars_, what he thinks about various accusations and allegations, how and why he tweets, whether he remains critical of AI development, how trust in FSD will evolve, whether he sees problems with power distribution if the EV fleet continues to grow rapidly, and much more._ This is the transcript of the interview, which was posted on [YouTube](https://www.youtube.com/watch?v=TcI6FaaDp8g)._ _To access the German translation please click [here](https://elon-musk-interviews.com/?p=2062)._
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/10/titel-codecon-2021-1.jpg?w=1024)
+
+**Kara Swisher:** (0:04) Everyone. We were… Bond is opening today. It’s my favorite movie, so I felt like I had to do something like that. Anyway, how you’re doing?
+
+**Elon Musk:** Good. How are you?
+
+**Kara Swisher:** Good. What’s the mood of Elon today?
+
+**Elon Musk:** The mood?
+
+**Kara Swisher:** It could be anything.
+
+**Elon Musk:** I feel good.
+
+**Kara Swisher:** Do you?
+
+**Elon Musk:** Yeah.
+
+**Kara Swisher:** Alright, we have a lot to talk about. Where do you want to start?
+
+**Elon Musk:** Anywhere you’d like to start.
+
+**Kara Swisher:** Alright, China, cryptocurrency, what they’re doing?
+
+**Elon Musk:** That’s my safe word, by the way.
+
+**Kara Swisher:** Okay. What for doing? Cryptocurrency?
+
+**Elon Musk:** Yeah, it’ll kill any violators.
+
+**Kara Swisher:** Cryptocurrency is later for us. Go ahead.
+
+**Elon Musk:** Cryptocurrency in China?
+
+**Kara Swisher:** Yes, what they’re doing around bitcoin etc.? And I would like to pivot to what the US is going to do around regulation.
+
+**Elon Musk:** (0:56) Well, it would appear that they don’t love cryptocurrency. _(audience laughs)_
+
+**Kara Swisher:** It appears.
+
+**Elon Musk:** Yeah, it’s subtle, but hinting in that direction. Yeah, so I can’t speak to exactly why they don’t like it that much. But people can speculate for various reasons. China is having some significant electricity generation issues. So actually, I think part of it may actually be due to electricity shortages in many parts of China. So a lot of south China right now is having random power outages because the power demand is higher than expected. So, crypto mining might be playing a role in that. I’m not sure.
+
+**Kara Swisher:** This is further than that?
+
+**Elon Musk:** Yeah, it’s further than that. Well, I suppose cryptocurrency is fundamentally aimed at reducing the power of a centralized government. They don’t like that. That’s my guess.
+
+**Kara Swisher:** (2:06) Okay. So what do you think is going to happen, because (…)?
+
+**Elon Musk:** I mean, maybe the audience has otherwise …
+
+**Kara Swisher:** The shares went up, it didn’t matter after they announced this. They went down, and they went up. You can change the shares of cryptocurrency more than China can.
+
+**Elon Musk:** Yeah.
+
+**Kara Swisher:** Is that a good thing?
+
+**Elon Musk:** Um, if it goes up, I suppose it is. But, I mean, I think there’s an always long-term role for crypto. You know, really, people should think of any kind of money system, whether it’s historic value or currency, as really a form of information. If you apply information theory to money, whether it’s cryptocurrency or some other form, and view it in terms of, you know, how good is it at sort of bandwidth, latency, jitter, dropping packets, which is like… fraud is like losing packets or something on the network – and, you know, it’s overall security – then I think a lot of these things just make a lot of sense in that regard. Like any form of money has no power in and of itself, except as an exchange of value between people for goods or services or to translate things in time, like a loan.
+
+**Kara Swisher:** (3:36) So is this the right thing for governments to do to take control of it? Is it possible?
+
+**Elon Musk:** It is not possible to, I think, destroy crypto, but it is possible for governments to slow down its advancement.
+
+**Kara Swisher:** So what should the US government do? We had Gary Gensler on earlier, the SEC chairman. He was calling it the ‘Wild West of finance’. What should they do, if anything?
+
+**Elon Musk:** I would say “do nothing.”
+
+**Kara Swisher:** Okay, they’re not saying that.
+
+**Elon Musk:** Yeah, I mean, I would seriously just let it apply.
+
+**Kara Swisher:** Because?
+
+**Elon Musk:** What do you think government can do?
+
+**Kara Swisher:** I think they can like ruin it. I don’t think they can just slow it down. I think they can stop it. I don’t think they can control it. And therefore, they may want to stop it.
+
+**Elon Musk:** (4:31) Yeah, I mean, I wouldn’t say I was some, you know, massive cryptocurrency expert. You know, I think there’s some value to cryptocurrency. I don’t think it’s like the second coming of the Messiah, which some people seem to think. It will hopefully reduce the error and latency in the money system, the legacy money system, and reduce the … You know, governments have a habit of editing the money database, which is like probably some ancient mainframe somewhere in Virginia running COBOL. It’s kind of bleak to think about that. But when governments can’t keep the hand out of the cookie jar and edit the money database, there’s probably some value to that.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/10/codecon-elon-2-1.jpg?w=1024)
+
+**Kara Swisher:** (5:26) Okay, so you’re saying, You’re not an expert, but you spent a lot of time tweeting about it. Now, you tweet about a lot of things. We’ll get to that in a minute. But why is that of interest to you, crypto, because you become, I wouldn’t say the crypto Messiah but …
+
+**Elon Musk:** _(laughs)_ Crypto Messiah. Oh, no. But I mean, I mostly don’t tweet about crypto; this is a minority, a small number of tweets. I do know a lot about the money system and payments and how it actually works, as opposed to say how economists think it works. On a practical basis, just how money is… – Money, just basically… the monetary system is a series of heterogeneous databases that are not real-time with the exception of PayPal and a few others, and into reconcile on a batch basis, that may take anywhere from 24 hours to several days. And so just it’s slow. That’s just a lot of latency and jitter. And the ACH _(Automated Clearing House)_ system has basically no security. So this has just been that way when PayPal started in 99. And it’s still that way, 22 years later.
+
+**Kara Swisher:** So it needs a reform?
+
+**Elon Musk:** Yeah.
+
+**Kara Swisher:** So I want to move on to … I want to stick with China for a second. You’re operating there, selling there. What do you make of what they’re doing to the tech entrepreneurs there, the tech moguls?
+
+**Elon Musk:** (7:11) Well, where’s Jack Ma?
+
+**Kara Swisher:** Do you know?
+
+**Elon Musk:** I don’t know
+
+**Kara Swisher:** You have the means to find out, I guess.
+
+**Elon Musk:** Maybe. I don’t know. I think there are some changes afoot in China. I think part of this may be actually COVID-related in the sense that it’s been quite difficult to have in-person meetings in China and China really runs… The whole system is set up to run on the basis of in-person meetings. And the absence of these meetings for the past 18 months, I think, has probably lead to things being worse than they would be if there were more in-person meetings. So I think as COVID lifts and the in-person meetings return, probably there will be an increase in the sort of trust level, and things will probably start heading in a more positive direction.
+
+**Kara Swisher:** Trust level between tech and the government?
+
+**Elon Musk:** Yeah, both internally within China and with respect to people from the US and other countries going and visiting and meeting with officials in the Chinese government, China is very much set up to work with the in-person meetings. And so, COVID, I think, it’s impeded that. So things will improve most likely, as the in-person meetings should resume.
+
+**Kara Swisher:** So they did these antitrust actions because they couldn’t say hello.
+
+**Elon Musk:** Not all of it can be ascribed to that, but some of it can be. Yeah, we’ll see. I suspect things will improve next year because of just better, more interaction.
+
+**Kara Swisher:** Are you nervous about what you’re doing there. It’s a big market for you. You operate there.
+
+**Elon Musk:** (9:24) Yeah, we’ve got a big factory in Shanghai, which is doing very well. The Tesla China team is doing great work. And we do well what is selling in the Chinese market as well as producing cars for China and for export to Europe. So overall, things are going pretty well, frankly.
+
+**Kara Swisher:** You’re not worried about U.S.-China relations?
+
+**Elon Musk:** No, not especially right now.
+
+**Kara Swisher:** Especially, all right. Let’s talk about Space. You had a recent Space… you’ve sent up a bunch of civilians into Space. You not send yourself up.
+
+**Elon Musk:** No, I not send myself up. I suppose I will at some point. But my goal is not to send myself up. My goal is to open up Space for humanity and ultimately set us on a path to becoming a spacefaring civilization and a multi-planet species.
+
+**Kara Swisher:** Yes. So you don’t want to go up yourself?
+
+**Elon Musk:** It’s neither here nor there. I will go at some point.
+
+**Kara Swisher:** What do you think of the other efforts to go suborbital?
+
+**Elon Musk:** (10:33) Suborbital is a step in the direction of orbits. But just to put things in perspective, you need about 100 times more energy to get to orbit versus sub orbit. And then to get back from orbit, you need to burn off that energy, so you need like heavy-duty heat shield because you’re coming in like a meteor. So like orbit is roughly two orders of magnitude more difficult than sub orbit. But it’s still good to do something in Space.
+
+**Kara Swisher:** What do you think watching those both Richard Branson and Jeff Bezos doing that?
+
+**Elon Musk:** I thought it was cool that they’re spending money on the advancement of Space. I think we ultimately want to be… humanity wants to be… should want to be a spacefaring civilization and out there among the stars. And we want… I think we really want, you know… all these things that we see in science fiction movies and books, like, you know – we want those to be like real one day and not always fiction. So I think it’s good that people are spending their money advancing space technology.
+
+**Kara Swisher:** (11:52) So last time we talked, we didn’t talk a lot about Space. We talked about meat flaps, which was Elon’s word for speaking. We’re flapping our meat.
+
+**Elon Musk:** Yeah. Slow tonal wheezing.
+
+**Kara Swisher:** Yes, that’s right when I sound like it right now.
+
+**Elon Musk:** That’s what we sound like to a computer – like whale sound slowed down.
+
+**Kara Swisher:** So, we didn’t talk about Space. So let’s talk a little bit about where do you think you’ve enhanced with what you’re doing? Because I think you’re probably the most fast forward of all these efforts.
+
+**Elon Musk:** So, with respect to SpaceX… let’s see. I mean, there is two… besides overall human spaceflight and providing transport for NASA of astronauts and cargo to and from the Space Station, which we’ve been doing for a while now, over a decade, we have Starlink, which is a global Internet system. And this is, I think, going to have some profound positive effects on the world because Starlink is really designed to serve the least served.
+
+**Kara Swisher:** You have 1,300 satellites up right now. Is that correct?
+
+**Elon Musk:** 1,500.
+
+**Kara Swisher:** And you want to put 30,000?
+
+**Elon Musk:** Yeah.
+
+**Kara Swisher:** We’ll get to space pollution in a minute. But explain the reasons for it.
+
+**Elon Musk:** In order to provide high bandwidth, low latency connectivity to a large number of people, you need a lot of satellites. And they need to be at low Earth orbit so that latency is low. The problem with satellites that are at geostationary orbit is that they are in around 36,000 kilometers, whereas we are at 550 kilometers. So gigantic difference in latency. For the Starlink system, you could play like a competitive video game that’s latency-dependent and still be able to play it with Starlink. It’s like browsing a terrestrial system, essentially.
+
+And Starlink is really, just to be clear, not a threat to 5G or terrestrial fiber or anything like that. But it’s very well suited to low to medium density regions of the Earth, places where it is too expensive to trench fiber or put cells, you know, 5G cellular base stations. And so it kind of takes care of the people that just didn’t get internet or… either the internet is too slow or too expensive, or they just don’t have it at all. It’s very well suited as a space-based system for serving like the least served, maybe 5% or something like that.
+
+**Kara Swisher:** (14:45) How big a part of your space business is it from your perspective?
+
+**Elon Musk:** I mean, I think it’s quite significant in the launch side of things; just launching other people’s satellites and serving the space station probably tops at around, you know, 3 or $4 billion a year of revenue. Whereas if we can get to say 3% of global Internet traffic, and that’s roughly a trillion dollar a year business, then we can increase our revenue by an order of magnitudes to more like 30 billion or something like that. And then we can use the proceeds from that to develop the rocket technology necessary to get humanity to Mars and to the Moon and elsewhere in the solar system.
+
+So, I think Starlink is good in and of itself, for providing, like said, providing internet access to the least served in the world. It’s a fundamentally good thing in that respect. And also offering a little bit of competition in the cities, although you know Starlink can really maybe serve less than 5% of people in a city. This is because the way the…. the spot beams from Space are very big. So anyway, it’s a very nice compliment and a necessary compliment to 5G and fiber.
+
+And like I said, it’ll provide a revenue stream for us to develop our next-generation rocket, which is Starship. With Starship, we’re trying to achieve the fundamental breakthrough that is the holy grail of rocketry. That is to have a fully reusable orbital rocket. This is extremely fundamental. With Falcon 9, we have a mostly reusable rocket.
+
+**Kara Swisher:** (16:44) You recently proved it landed, correct?
+
+**Elon Musk:** We’ve been landing for quite a while now. In fact, a number of our boosters are on their 10th reflight. So we’ve shown that reusing the boost stage can be done and that it is economically sensible to do so.
+
+**Kara Swisher:** What’s the difference in price?
+
+**Elon Musk:** Between our Falcon 9 and competitors?
+
+**Kara Swisher:** Using a reusable rocket.
+
+**Elon Musk:** Yeah, sure. It’s really gigantic. With Falcon 9, we still have to lose the upper stage. And you can think of each stage being like the equivalent of a jet airplane. So the boost stage is like the big jet airplane, the upper stage is the small jet airplane. We still throw away the small jet airplane every time. So Falcon 9 is able to be the most competitive rocket in the world because we recover the boost stage and the fairing. But still, our best-case marginal cost of launch, not taking into account overhead allocation, is about $15 million.
+
+**Kara Swisher:** Per launch?
+
+**Elon Musk:** Yeah, for 15 tons to orbit. Which is quite big. SpaceX – over the last year or so – has delivered about, I think, roughly two-thirds of all payloads to orbit of Earth. And most of the remaining third is China, and then everyone else is kind of miscellaneous. But it’s still $15 million, most because…
+
+**Kara Swisher:** (18:24) What’s the cost differential between that and what you’re aiming for?
+
+**Elon Musk:** Basically, Falcon 9 is effectively about half to a third of the cost of alternatives because of the reuse of the boost stage. With Starship, we should be able to get to the point where it’s maybe 1% the cost of an expandable system.
+
+**Kara Swisher:** So that would just be a million bucks, right?
+
+**Elon Musk:** Yeah, the marginal cost of launch we think can be done…. could be potentially under a million dollars for over 100 tons to orbit.
+
+**Kara Swisher:** 100 more though than 15 – you said 15.
+
+**Elon Musk:** Yes. 100 tons likely, and with refinements of the design, probably 150 tons. So essentially, it will be 10 times the payload of Falcon 9 for 15 times lower cost.
+
+**Kara Swisher:** When is this happening?
+
+**Elon Musk:** 100-fold better, you know, it’s really profound. Essentially with Starship, it is possible to make the economics close for creating a self-sustaining city on Mars and a base on the Moon for those who want to go there. And so it is really very, very profound development. And that’s what I’m spending most of my time on is driving the development of Starship.
+
+**Kara Swisher:** Starship, so you can go to Mars. Or do you want civilization on Mars?
+
+**Elon Musk:** Civilization on Mars.
+
+**Kara Swisher:** So what’s first? That Moonbase or…? Moonbase first, correct?
+
+**Elon Musk:** I mean, the Moon is close, so we might as well.
+
+**Kara Swisher:** Okay. Might as well.
+
+**Elon Musk:** It’s practically right there, you know.
+
+**Kara Swisher:** You got a contract with the Defense Department to do a lunar lander from NASA, which has been disputed by Jeff Bezos?
+
+**Elon Musk:** Yes.
+
+**Kara Swisher:** How do you feel about that?
+
+**Elon Musk:** (20:35) Well, I think I’ve expressed my thoughts on that front. I think he should put more energy into getting to orbit than lawsuits. You cannot sue your way to the Moon, no matter how good your lawyers are.
+
+**Kara Swisher:** Yeah. So why is he doing that?
+
+**Elon Musk:** I don’t know.
+
+**Kara Swisher:** You also like to make fun of his rocket. You all make fun of each other’s rockets.
+
+**Elon Musk:** I mean, I think it does have… I mean, it could be a different shape, potentially, you know.
+
+**Kara Swisher:** Could you explain from a technological point of view why it’s a bad shape?
+
+**Elon Musk:** (21:28) Well, if you are only going to be doing suborbital, then your rocket can be sort of shorter.
+
+**Kara Swisher:** So have you called him and said “Cut this shit. Get bigger – why?”
+
+**Elon Musk:** I have encouraged him to emphasize getting to orbit. Yeah.
+
+**Kara Swisher:** Did you talk to him?
+
+**Elon Musk:** Um, not verbally.
+
+**Kara Swisher:** What is it, (…)?
+
+**Elon Musk:** No, just a…you know…
+
+**Kara Swisher:** …tweet at him.
+
+**Elon Musk:** Sub tweeted.
+
+**Kara Swisher:** So what are you going to do with the lunar lander? And how do you get the Moonbase there?
+
+**Elon Musk:** Starship is designed essentially as general-purpose transport system to anywhere in the solar system because it is a propulsive lander. And with a propulsive lander, you can land anywhere that’s got a solid surface. And it’s also designed for orbital refilling. So, you can get the Starship to orbit and then send tanker flights to refill it so that it has tremendous delta velocity, basically. It can go very far from Earth’s orbit because you can refill propellant.
+
+**Kara Swisher:** The Moonbase is important because…?
+
+**Elon Musk:** Well, I think that the Moonbase… I mean, certainly there is like a lot we could learn scientifically, if we had a proper laboratory on the Moon – about the nature of the universe, you know, where we all came from, and the early history of Earth, and that kind of thing. I mean, we have a science station in Antarctica. And we’re still learning a lot from our activities in Antarctica, and I think we could learn even more on the Moon.
+
+So, there’s a lot of value, I think, to having a… I think it would be just fricking cool. I mean, come on, it’s like, you know, humanity, let’s go to represent here for humanity, let’s have a base on the Moon. I think it would be like, “We got a base on the Moon. That’s cool.” I think like, a lot can be learned if you’ve got us sort of a science station on the Moon like we’ve got a science station in Antarctica and many other places.
+
+And I think there is value; that it shouldn’t be denigrated for people who want to experience going to orbit or going to the Moon, and when they do so, I think, to some degree, vicariously, we all go with them. You know, in Apollo program, when they landed on the Moon, yeah, it was just a handful of individuals on the Moon, but we all went with them vicariously. Humanity went with them. Like if you asked Peter to Paul of people on Earth and said, “Tell me, what do you think is humanity’s greatest achievement of maybe ever?” was like, “Landing on the Moon”, you know. And that’s inspiring, I think, to kids everywhere.
+
+**Kara Swisher:** (24:50) So you just brought that up for civilians. Is that Space tourism you’re doing? And by the way, you have to be kind of rich to do it. Like, from what I understand, I cannot afford to go to the Moon.
+
+**Elon Musk:** I think it’s got a bit more gravitas then – you know, metaphorically, figuratively, and literally – more gravitas than simply tourism. It’s not like going to Disneyland. It’s more profound than that. Sometimes people use ‘tourism’ in a sort of a negative way. But I think, you know, especially with the ‘Inspiration’ flight, they really…. I mean, they, you know, they filmed the whole thing in real-time, they shared their experiences with the world, they’re a really cool group of people.
+
+I recommend watching the Netflix show ‘Countdown’. It’s awesome. I don’t have anything to do with it. And the production value on the Netflix Countdown documentary is amazing. And you learn about the backstory of the people. It’s actually super…
+
+**Kara Swisher:** (…26:03) tourism, you know, like, is this for science and for saving humanity, presumably?
+
+**Elon Musk:** I think that there’s an element of tourism to it, but I think there’s also, you know…. the technology is expensive at first. You can’t just… when you try to develop brand new technology, it doesn’t instantly become cheap and affordable. Think of like cell phones. The early cell phones were really expensive at sucked, frankly. Like in Wall Street 1 where, you know, he’s walking down the beach with a shoe box size cell phone … and so just like really expensive, and the tech was not great. But if some number of people didn’t pay for the expensive cell phones, there would not be the inexpensive cell phones that everyone can afford.
+
+**Kara Swisher:** So thank billionaires for going into Space?
+
+**Elon Musk:** (26:59) I mean, you know, it doesn’t have to be the top of your thank-you list. But I mean, it’s not… I’m just saying that when there’s new technology, it is necessarily expensive until you can refine the design, and you can scale things up, and then you can make it more affordable. It is a common misconception that there’s some new technology, especially if it’s a physical object, that you can just suddenly make it cheap and available. You have to have many design iterations, and you got to scale up the production and get economies of scale.
+
+Like we had this argument against Tesla for a long time because people would say, like, “Well, why are you building this Tesla Roadster?” back in the day. “It’s basically…, you know, it’s an expensive toy sports car for rich people.” We’re like, “Yes, it is.” But there’s no way we could build an affordable electric car as our first car. And, you know, we just didn’t have the capital, we didn’t have the experience, and we needed to go through several technology iterations in order to get to something like the Model 3.
+
+And I actually wrote a blog about this because I knew people would be like, why are you making sports cars for rich people? As though we thought there was somehow a shortage of sports cars for rich people. I mean, obviously not, but you just got to figure out the technology, you got to go through multiple design, like, how do you make something mass market and affordable? Many, many design iterations, many different versions of the technology, a lot of hard work, and then you’ve got to scale up the production rate, so you get economies of scale. And those two things are what make any given technology available to the public. And basically, every technology that we take for granted today has gone through that evolution.
+
+**Kara Swisher:** (28:49) So, getting to Mars will be affordable someday?
+
+**Elon Musk:** Yes, absolutely. It has to be. In order for Mars to be a self-sustaining civilization, it has to be affordable. Enough people need to go, you know.
+
+**Kara Swisher:** Why do you want people to go? When you just keep saying that – because you’re worried about this planet? Or are you just betting the odds are, we’ll either blow it up or (…20:08). It’ll be the ‘Day after Tomorrow’ movie.
+
+**Elon Musk:** It’s really, you know, if we just step away from our sort of internecine squabbles and say, let’s look at the big picture here. What sort of actions can we take that maximize the probability that the future is going to be good for civilization and consciousness? And I think we should regard consciousness on Earth as delicate, you know, just fragile. And, you know, what sort of actions can we do to ensure that it continues and that the scope and scale of consciousness expands.
+
+I’m in favor of expansion because, like, you know, if we want to understand what the universe is about and what’s the meaning of life, we need to get out there and find out. And the more we expand the scope and scale of consciousness, the better we will be able to understand what questions to ask about the answer that is the universe.
+
+**Kara Swisher:** (30:21) So when you get a lot of criticism, say about Starlink’s Space pollution – you see a lot of stories about Space pollution – why is Elon putting some of these astronomers get mad at you? Or with the rockets. So, you have these big defense contracts that you’re doing, correct? The first time someone’s broken into the area. How do you meet those criticisms? Is this just small potatoes?
+
+**Elon Musk:** Well, first of all, with respect to the astronomers, we are in constant dialogue with the leading astronomers of the world and taking great pains to ensure that our satellites do not interfere with their telescopes. I believe at this point, they are satisfied that they will not. We take great pains to ensure that the satellites do not reflect or otherwise interfere with the telescopes, including the most sensitive telescopes. There may be a few sort of amateur astronomers who aren’t happy. But the professional ones are satisfied that we’re taking reasonable steps to ensure that we are not standing in the way of science, nor would we ever want to.
+
+And we’re also looking at launching some new telescopes using Starship. Because Starship’s much bigger vehicle, we can launch satellites that have 10 times the resolution of the Hubble, which would be great for science. And, in fact, there’s an exciting program, working with Saul Perlmutter at Berkeley, on a big new Space telescope. And I think we’ll do more of those. I think at the end of the day, Starship and SpaceX are gonna do a lot to advance our understanding of astrophysics and astronomy.
+
+**Kara Swisher:** (32:17) You said to me last couple times ago when we talked, you want to die on Mars. You still want to die on Mars? Just not on landing, right?
+
+**Elon Musk:** Yes, just not on impact.
+
+**Kara Swisher:** Well, that would be spectacular.
+
+**Elon Musk:** Yes, but you wouldn’t get to enjoy it much, you know,  just a second or so.
+
+**Kara Swisher:** Talking about a narrative for the rest.
+
+**Elon Musk:** I was just asked, “Do you want to die on Mars?” And I was like, “Well, I suppose if you’re going to pick Earth or Mars, I’m like, it’d be cool to like be born on Earth and die on Mars.” I’m not like trying to make a beeline to Mars and just, you know, die or something. It’s just that if I got to pick one, you’re gonna die somewhere. Sure. On Mars.
+
+**Kara Swisher:** I’ve interviewed a lot of …. uh, I guess they’re biologists, they’re worried about essentially… they said you have to be under the earth, a couple 100 feet?
+
+**Elon Musk:** No, no, no. Definitely not a couple hundred. You know, first of all, half the time, you’re shielded by Mars itself. Half the radiation is just the planet shielding you. And then you want maybe have like, I don’t know, three feet of dirt ish on the roof or just a kind of a thick roof. They’ll be fine.
+
+**Kara Swisher:** (33:40) So you’re not worried about becoming shorter and stupider by moving to Mars?
+
+**Elon Musk:** No, I think we might become taller, actually, on Mars. A little bit taller because the gravity is roughly 40% of ours.
+
+**Kara Swisher:** Okay, that would be good for me. When you think about…
+
+**Elon Musk:** I do think that’s like an important thing for… If you think of the various great filters – few people are familiar with the sort of great filter I thought – one of the filters is ‘Do we become a multi-planet species or not?’ So that is at least one of the great filters, and it would be great to pass that and be a multi-planet species where the critical threshold is on for a Mars city. If the resupply ships from Earth stop coming for any reason, whether that is civilization on Earth, it could be a mundane reason or could be World War III – but does Mars prosper or die out?
+
+And if Mars is missing anything at all, like the civilizational equivalent of vitamin C, then it will eventually die out. So you need to get to the point where a Mars city is self-sustaining, even if the ships from Earth stop coming. Then you have passed the great filter or at least passed particularly that great filter. I think we should endeavor to pass that great filter as soon as possible.
+
+**Kara Swisher:** When? You said ‘pretty soon’ last time we talked.
+
+**Elon Musk:** Yeah, I mean, I think we should really try hard to make it happen in this century; before the end of the century.
+
+**Kara Swisher:** (35:19) You’ll be pretty old.
+
+**Elon Musk:** Um, probably dead.
+
+**Kara Swisher:** Yeah, but not on Mars.
+
+**Elon Musk:** Well, I mean, I’ll pop over there when I’m older or something.
+
+**Kara Swisher:** Okay. So, um, one of the things you’re doing is a lot of government deals. You’re doing this lunar lander, you did the rocket one. You’re getting billions from… $2.9 billion, is that right?
+
+**Elon Musk:** Well, right now, we’re not getting anything because we’re being sued.
+
+**Kara Swisher:** Right, that’s right. Sorry. Okay. Yeah. But getting a lot of money.
+
+**Elon Musk:** Hopefully, we’ll get it.
+
+**Kara Swisher:** Right, right, when it’s over.
+
+**Elon Musk:** Yeah. I mean, most of our launches are commercial, to be clear.
+
+**Kara Swisher:** Yes, I understand that. You’re doing a lot of government work. What is that like working with the government. Is this important to your business?
+
+**Elon Musk:** Yeah. I mean, it’s an important part of business. Bear in mind, if you’re in any industry, like, let’s say you’re a pencil manufacturer, okay. About 40% of your pencils are going to go to the government. The government’s about 40% of the economy. You know, if you’re a shoe manufacturer, you bet 40% of your business is going to be with the government. So, you know, it’s to be expected that most companies are gonna have a percentage of business with the government, state, federal and local, that is proportionate to the GDP of the government.
+
+**Kara Swisher:** (36:38) So one of the criticisms of you is you don’t pay enough taxes if any. Can you address that? Because here you are getting money from the government, you obviously want a functioning government to be able to build all kinds of things and services. How do you look at that trade-off?
+
+**Elon Musk:** Well, I mean, there was a bunch of very misleading stuff that was published by ProPublica. And really, that was some sort of trickery, and really they did themselves no good service by doing that. So first of all, with respect to the government contracts that SpaceX wins – our aspiration is to do the most for the least. And if you look at all the contracts we’ve won, we’ve won them because we have the best price… we have a better service at a lower price. They weren’t just handed to us.
+
+**Kara Swisher:** I don’t think they were. That’s not what I’m saying. In fact, you called me and said, “We finally got in after years of sort of this back slappy.” I was, “It’s a great thing. That is great.”
+
+**Elon Musk:** Absolutely. I mean, for the Moon lander – just taking that as one example – our bid was half the price of the Blue Origin Lockheed bid. For a vehicle that does basically 10 times more or eight times more perhaps, our price was half. And NASA has a mandate to get back to the Moon, so we save taxpayers like $3 billion relative to that contract. I think that’s a good thing. With respect to my personal taxes: I don’t actually draw a salary or anything. My cash compensation is basically zero.
+
+**Kara Swisher:** (38:24) Which is a good thing because income is a problem for most people because they pay taxes on income. That was the whole point of the story, I think.
+
+**Elon Musk:** Yeah, so I do have stock options that vest (…) basically with Tesla and SpaceX. I just have not really bothered to sort of take money off the table, which is not common. Most people do. They sell some of their stock, and they take money off the table. And for me, I just like said, you know, my money was the first in and it’ll be the last out. The success of SpaceX and Tesla is far from assured, and there were many times when it looked like the companies would… and they did. They skirted bankruptcy many times, but I never tried to take money off the table. And now this has been trying to be turned around and made into a bad thing. This is messed up.
+
+But just before my stock options expire, then I am forced to exercise, and my top marginal tax rate is 53%. So I don’t think that’s particularly low, and it’s gonna go up next year. It’s like 57% or something.
+
+**Kara Swisher:** When you sell.
+
+**Elon Musk:** Yes, and I have a bunch of options that are expiring early next year. A huge block of options will sell in Q4 because I have to; they’ll expire. And my top marginal tax rate is 53%.
+
+**Kara Swisher:** So you will eventually pay a lot of taxes.
+
+**Elon Musk:** Massive, yeah, I mean, basically majority of what I sell will be tax.
+
+**Kara Swisher:** (40:06) I don’t think it was alleging illegality, it’s that wealthy people got to borrow against their stock.
+
+**Elon Musk:** Yes, they were; they were saying that like somehow borrowing is a trick to get away from paying taxes. But it’s important to bear in mind that we’ve had a very long expansion in the economy, maybe the longest ever, and borrowing against stock is all sorts of funny games until you have a recession, and you get the margin calls, and then you go to zero, which happens basically every time there’s a recession. Stocks don’t always go up; they go down.
+
+**Kara Swisher:** Yours seems to.
+
+**Elon Musk:** Most stocks have gone up, including some questionable stocks, frankly.
+
+**Kara Swisher:** Are you talking about yourself? I’m sorry. Are you surprised by how much it’s gone up?
+
+**Elon Musk:** I mean, I have literally gone on record and said, I think our stock price is too high, in my opinion – and this did nothing to stop the rise in the stock price. So what am I supposed to do, you know, I’m not the one making it to go up. But I think it’s important to (…) my actual tax rate is 53%. They’re trying to make it sound like, basically, there was a big increase in the value of the Tesla stock, and then they added up… – They’re just very selectively poked at the numbers to make it sound like I was paying very low taxes. But in fact, my taxes are very high. They’re like, over half.
+
+**Kara Swisher:** And you pay them.
+
+**Elon Musk:** Yes, and a huge amount will be paid in the next three months because of expiring options. And there was like one year where I think my taxes were basically zero. And the reason for that was because I overpaid taxes the year before. They forgot to mention that.
+
+**Kara Swisher:** (41:56) Call them back.
+
+**Elon Musk:** Why calling back? They have no interest in the truth.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/11/codecon-ii-1.jpg?w=1024)
+
+**Kara Swisher:** Oh, okay. All right. Let me ask you a question. Twitter, let’s finish Twitter, and then let’s get to questions from the audience. What’s going on with you on Twitter? I am a Twitter addict. I say the wrong things all the time. Someone explained it to me who’s very close to you, saying it’s your release valve. Is this where you feel better?
+
+**Elon Musk:** Yeah, I think I said some people use their hair to express themselves. I use Twitter.
+
+**Kara Swisher:** Do you regret any of it or not? You are kind of prominent.
+
+**Elon Musk:** I mean, sure.
+
+**Kara Swisher:** Walk us through when you decide to do a tweet. Do you go ‘no, no, no – yes’?
+
+**Elon Musk:** I think about it for hours. And I consult with my strategy team.
+
+**Kara Swisher:** You just literally go, “Yeah.”
+
+**Elon Musk:** Yeah. Or maybe I’m wasted, and I’m _(‘swoosh’…)_ gone. Let me shoot myself in the foot. Bam. Now let me shoot myself a little. Bam. That describes some of my tweets.
+
+**Kara Swisher:** Yeah. Aren’t you worried about any SEC involvement in your tweets going forward?
+
+**Elon Musk:** What does that stand for again? I mean, I know the middle word is ‘Elon’s’. But can’t remember the other two words.
+
+**Kara Swisher:** You need to answer me. Are you worried they’re gonna say, “Elon, stop fucking tweeting”?
+
+**Elon Musk:** You talk about the Shortseller Enrichment Commission? Yeah. That’s their new name.
+
+**Kara Swisher:** (43:37) (…) a recent tweet you did. You did one great tweet about time, saying ‘time is the currency’, which I thought was beautiful.
+
+**Elon Musk:** Time is the ultimate currency, yes. No matter what resources you have, you can’t wind back the clock.
+
+**Kara Swisher:** It’s true, no matter how rich you are. But then you did the Biden tweet. Can you explain that one?
+
+**Elon Musk:** Well, you know, like Biden held this EV summit, didn’t invite Tesla, invited GM, Ford, Chrysler, and UAW, an EV summit in the White House, didn’t mention Tesla once and praised GM and Ford for leading the EV revolution.
+
+**Kara Swisher:** So you were pissed.
+
+**Elon Musk:** Does this sound maybe a little biased or something? You know, just, it’s not the friendliest administration. Seems to be controlled by the unions as well (…).
+
+**Kara Swisher:** So you (…) Trump back?
+
+**Elon Musk:** Uh, no.
+
+**Kara Swisher:** Who would you like to be President besides yourself?
+
+**Elon Musk:** I would not want to be President at all. Sounds like no fun being President.
+
+**Kara Swisher:** What do you think is gonna bring our country together, if at all? Moving to Mars?
+
+**Elon Musk:** Well, I think if there was some moderate, you know, sort of centrist President, then I think that would help. I think most people want a president who is just a very competent, you know, executive, not too far left, not too far right. I think most people would prefer that. You know, when it comes down to the election, you’ve got two choices, and you’re like, maybe you don’t love either choice, but you got to pick one.
+
+**Kara Swisher:** Will that happen?
+
+**Elon Musk:** Do I think that will be what?
+
+**Kara Swisher:** Centrist.
+
+**Elon Musk:** I hope so.
+
+**Kara Swisher:** Are you worried about democracy?
+
+**Elon Musk:** I’m not super worried about democracy. Are you worried about democracy? What concerns you?
+
+**Kara Swisher:** (46:26) A lot of the dialogue is getting a little… I studied propaganda. It’s worrisome – the fact that it can happen here, it certainly can. I’m a Philip Roth kind of person. So yeah. But we’re both having a lot of children, so we must believe in the future. Yes, we have 10 children between us, correct?
+
+**Elon Musk:** I believe yes.
+
+**Kara Swisher:** You’re slightly ahead, but you’ve got a rocket. Anyway…
+
+**Elon Musk:** I think a lot of people think that there’s too many people on the planet, but I think there’s, in fact, too few. And that possibly the single greatest risk to human civilization is the rapidly diminishing birth rate. And the facts are out there for anyone to look at. But a lot of people are still stuck with, you know, Paul Ehrlich’s book ‘Population Bomb’, and it’s like, that was a long time ago. That is not the case today. And there was a massive notch in demographics last year because the birth rate plummeted, and also this year.
+
+**Kara Swisher:** So more children?
+
+**Elon Musk:** So I mean, you know, no babies, no humanity. They got to come from somewhere.
+
+**Kara Swisher:** (47:44) Okay. We’re going to have questions from the audience because there’s a lot of great questions.
+
+**Ronan Levy:** Hey Elon. I’m Ronan Levy from ‘field trip’. We spent a lot of time talking about outer Space, and I want to ask you about inner Space. And the question specifically is, do you spend time thinking about humanity’s somewhat destructive tendencies before sending people to Mars? And, specifically, you’ve talked about the subject of DMT, and curious to know what role you think psychedelics may have in addressing some of the more destructive tendencies of humanity.
+
+**Kara Swisher:** We’re going to talk about this tomorrow.
+
+**Elon:** Okay. Um, I think generally, people should be open to psychedelics. Yeah. A lot of people making laws are kind of from a different era. So I think as the new generation gets into political power, we will see greater receptivity to the benefits of psychedelics.
+
+**Ronan Levy:** Are humanity’s tendencies right now concerning, like, above, before we go to Mars?
+
+**Elon Musk:** I mean, humanity’s tendencies… I mean, we are at a very peaceful moment in history. So you gotta separate the sort of news headlines from the reality. I think like Steven Pinker at Harvard has really pointed this out, like, we’re actually at the lowest violence per capita in human history. It may not seem like that, but objectively those are the statistics.
+
+It’s not to say there’s no violence or there aren’t things to be improved, but it’s actually quite good. Big picture-wise, I think we want to take the set of actions that maximize the probability that the future is good and that civilization continues, and that the sort of small candle of consciousness in the void that is humanity continues and that the candle does not go out.
+
+**Kara Swisher:** (50:06) Okay, next, over here.
+
+**Lena:** Hello, my name is Lena, I’m a student at the University of Chicago, and I also have a podcast called “Kinda Sorta Brown”. So my question centers a little bit what you talked about, concerning that, you know, you’re building this world for not enough people yet, but the people that now are here. But concerning young people, how do you actually build infrastructure to make sure that you’re not just building resources for people to be on Mars but actually putting them in positions of power politically?
+
+Or educating people who don’t have access to learn about Space technology, etc.? How do you actually teach young people and bring them in, and do you feel like that’s your role? Or it’s your role to just build the spaceship to Mars?
+
+**Elon Musk:** Well, our primary goal is to create the technology necessary to get people to Mars, in the absence of which,… you know, it’s somewhat academic. So we wouldn’t want to get too distracted from our primary mission of we got to make it at least possible to go to Mars. And we want to do so as soon as possible and make access to Mars as widely available as possible, as affordable as possible so that if somebody wants to go, they can. So, that’s our primary mission.
+
+I mean, there are many good causes in the world, but we got to be careful that we do not try to take on too many. I mean, there are many noble missions, but we have to pick our battles and say, “Okay, let’s just make sure we get this done,” because nobody else is doing it. I mean, if SpaceX doesn’t do it, I’m not sure how it will happen. I think, at the least right now, SpaceX is the only hope. So we are going to get this done. And it’s far from done. I mean, we’ve got a long way to go.
+
+Starlink, in terms of providing internet connectivity to people that really don’t have it or it’s very expensive, I think will be helpful in empowering a lot of people who are disempowered today. I think that’s a good thing, too.
+
+**Kara Swisher:** Alright, next.
+
+**NN:** Hi Technoking. How do you respond to allegations…?
+
+**Kara Swisher:** You call him ‘technoking’?
+
+**Elon Musk:** That is my formal title.
+
+**NN:** I’ve got to be respectful, Kara. How do you respond to allegations that you’re a living cybernetic organism stem from the future to save us? And secondly, …
+
+**Elon Musk:** I can neither confirm nor deny that.
+
+**NN:** He’s good. He’s good. And secondly, what do you think the probability is the general-purpose blockchains that have great utility will eclipse the value of like a finished product in Bitcoin?
+
+**Elon Musk:** (53:13) Actually, I’m not sure how to answer the last one. I think just generally, public ledger stuff is good because I’m a fan of open source and just, you know, sunlight being a great disinfectant, and the less things occur in the dark, the better. And, you know, basically, blockchains are just,… it’s a cryptographic ledger, an open code. There’s probably a lot of good things that could be done with that.
+
+**Kara Swisher:** The first question?
+
+**Elon Musk:** I said I can neither confirm nor deny.
+
+**Kara Swisher:** Ah, okay. Right here.
+
+**Alex Heath:** Hi Elon, Alex Heath with ‘The Verge’. The question’s on the self-driving data. You guys are rolling out. Curious why you’re encouraging people to not share videos, making them sign NDAs, just because…
+
+**Elon Musk:** There’s a lot of videos being shared.
+
+**Alex Heath:** But the NDAs for the full self-driving data.
+
+**Elon Musk:** I don’t know. People don’t seem to listen to me. Not sure there’s… I don’t know why there’s an NDA, we probably don’t need it. People just are ignoring it anyway so I’m not sure it matters.
+
+**Kara Swisher:** Alright, so I’m gonna ignore this. I’m gonna keep getting questions. Let’s do two.
+
+**Zia Yusuf:** (54:40) Hi Elon, Zia Yusuf from BCG. Could you talk a little bit about AI and robotics? You’ve expressed concerns in the past but now building some as well. What do you see as the issues that we do have to solve on that front?
+
+**Elon Musk:** Well, I’ve said for a long time, I think AI safety is a really big deal. And we should have some regulatory agency that is overseeing AI safety. But there is not yet currently any such thing, and just generally, any kind of regulatory agency run by the government usually takes years to put in place. So, you know, after the population collapse issue, I think AI safety is probably the second biggest threat to the future of civilization. And yeah, like I said, I’m not quite sure what to do with it.
+
+Tesla is arguably the world’s biggest robot maker because like we have basically semi-autonomous cars that will ultimately be fully autonomous. And we are building a humanoid robot that will be basically like the car but with legs. I kind of held off on doing that for a while because, you know, I certainly don’t want to hasten the AI apocalypse. But clearly, if you look at Boston Dynamics, these humanoid robots are gonna happen. So they’re gonna happen with or without Tesla. So it’s like, Tesla’s got a little bit more, I mean, a lot more ability to ensure robotics safety and AI. And I will try my best to do that.
+
+**Zia Yusuf:** What would you do…
+
+**Kara Swisher:** No, you can’t do more, sorry. We get another quick.
+
+**NN:** (56:40) First of all, thanks for making the first car I ever loved. My wife insisted I asked this question I got here. We also have way too many children.
+
+**Elon Musk:** Well, that’s probably great.
+
+**NN:** If there’s any chance that you could put a roof rack on the X, that’s what she’s looking for. We need a roof rack on the X. If you can figure that out. That’s almost more important than going to Mars. We have not figured that out.
+
+**Elon Musk:** I mean, it’s tricky because we have the fancy doors.
+
+**NN:** They’re awesome.
+
+**Elon Musk:** Yeah, the doors are awesome. But you know if you have a roof rack and like how do you stop the doors from smashing?
+
+**Kara Swisher:** You’re smart.
+
+**Elon Musk:** The model Y has a roof rack, though.
+
+**NN:** It’s not big enough for all the kids.
+
+**Elon Musk:** Really? It seats seven.
+
+**N.N.:** Not normal kids.
+
+**Elon Musk:** Okay.
+
+**Kara Swisher:** (57:26) Do you have separate cars for your children?
+
+**Elon Musk:** It does have a tow hitch. You can tow your stuff.
+
+**Kara Swisher:** The last two questions.
+
+**NN:** Elon, thanks for the Plaid. It’s a great car. As we’re all, you know, waiting for full self…
+
+**Elon Musk:** That’s awesome, really, it’s awesome.  
+
+**NN:** We might have to argue about the yoke, but we’re getting accustomed to it. It’s a great car.
+
+**Elon Musk:** It’s like something different, and it’s different. And people sometimes don’t like the different thing. But it’s pretty damn cool. I think it’s great. …blame me for being odd. It’s my fault.
+
+**NN:** How much did your kids push you on the yoke? Was it your kids? Because my kids just love the yoke. So, that’s works for them. Anyway, really, really quick: Look, we’re living in this in-between time between we drive our cars, ourselves, and the cars drive themselves. They’re semi-autonomous. For those of us in the industry, those of us who understand something about technology, about machine learning, I actually like it; it’s pretty easy. It fixes my mistakes. I fix its mistakes.
+
+A lot in the press, though, about it, and Google’s position certainly is, this is like the worst place to be. Right? Because people are going to get checked out in the cars, are going to drive themselves into… What do you think about the ML _(machine learning)_ human hybrids that we’re kind of, you know, embracing right now? How long are we going to have these crossover periods? I know you believe FSD is around the corner. Do you think this is really a problem, or we’re going to teach people to deal with ML?
+
+**Elon Musk:** (58:44) Well, I mean, the transition period to new technology is always a little bumpy. But I think we published the safety stats, like basically miles driven on autopilot and miles driven manually. And this, I mean, it’s an order of magnitude different. So like, people would say, “Oh well, you’re playing with the statistics,” I’m like, “Listen, we’re just saying, miles driven autopilot, miles not driven autopilot,” and there’s a factor 10 difference. So I mean, even if we were like… we’re not fiddling with the statistics. This is not subtle. That is what I’m saying. It’s not subtle.
+
+The truth is that people are actually not great at driving these two-ton death machines, you know. And people get tired, and they get drunk, and they get distracted, and they text, and they do all sorts of things they shouldn’t do. And then the cars crash, basically. When we’re embarking on the autonomy front, someone told me, I think that’s quite true, which is, even if you, for argument’s sake, reduce fatalities by 90% with autonomy, the 10% that do die with autonomy are still going to sue you. The 90% that are living don’t even know that that’s the reason they’re alive.
+
+Nonetheless, I’ve had many conversations with the Tesla autopilot full self-driving team, who are just an outstanding group of people. And saying, like, listen, guys, it is better to pursue… – Like, the reality of doing the right thing matters more than the perception of doing the right thing. As long as we are confident that we’re doing the right thing, even if we are criticized and sued and all that, we should nonetheless do the right thing and not care about simply the perception of the right thing.
+
+**Kara Swisher:** (1:00:56) Okay, last question.
+
+**Rick Cutter:** Rick Cutter, the ‘Cloud for Utilities’. Thank you so much for the hard work you’ve done with Tesla driving the EV market. As we move towards more green energy utilities, are getting rid of their fossil plants, coal plants, investing in renewables, there’s a difference in economic output they can deliver. Are you concerned at all as the growth of EVs continues? Do you think we could have a supply chain problem with energy down the road?
+
+**Elon Musk:** Yeah, I think that’s a very good question. The full answer is lengthy. I’ll try to give you the short version. The electricity demand, roughly… if we shift our transport to electric, then electricity demand approximately doubles, maybe a little more than doubles. And this is going to create a lot of challenges with the grid, especially for distribution to neighborhoods.
+
+And this is why Tesla has the product, the solar roof and solar retrofit – is because even if you increase sustainable power generation at the utility level, you’re still gonna have a distribution problem where you need new high-power lines, new medium-power lines, you need to dramatically increase the size of the substations, which means you’re gonna have to start locking down houses to increase the substation size. This is really unworkable unless you have significant local power generation at houses. And this is why I think it’s actually very important that a necessary part of the solution is local power generation, on roofs, on the houses of homes – very important.
+
+And then, of course, we need large, sustainable power generation developments, primarily wind and solar. But it needs to be paired with battery packs for steady-state so it can provide continuous power. And a lot of good things are happening in this regard. The growth of solar in the last several years has been incredible. I think it’s like a 40% compound annual growth rate in solar, and also a big growth in wind.
+
+I’m also kind of pro-nuclear, and I’m sort of surprised by a lot of the public sentiment against nuclear. I’m not saying we should go build a whole bunch of new nuclear plants, but I don’t think we should shut down ones that are operating safely. They did this in Germany, for example, and then had to create a whole bunch of coal power plants. And I don’t think that was the right decision, frankly. Yeah, anyway, so one or another, though, we’re going to have to have a lot more electricity generation. And this is primarily going to come down to solar and wind paired with batteries.
+
+**Kara Swisher:** Which will be our next conversation.
+
+**Elon Musk:** Okay.
+
+**Kara Swisher:** Tesla, Boring, solar.
+
+**Elon Musk:** Sounds good.
+
+**Kara Swisher:** Okay. Can I ask one more question? One time we talked a couple years ago at Code. You said we’re in a simulation. This past couple of years has seemed truly fucked up. Feels like a bunch of teenagers from the future are just really smoking a lot of dope and fucking with us. Are we in a simulation?
+
+**Elon Musk:** I mean, my heart says no, and my brain says yes.
+
+**Kara Swisher:** Elon Musk. (1:04:39)

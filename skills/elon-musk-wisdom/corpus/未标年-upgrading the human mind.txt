@@ -1,0 +1,74 @@
+# SOURCE: https://www.elonmuskbook.org/the-book-of-elon-musk-free-online-version/upgrading-the-human-mind
+# HARVESTED: 2026-09-29
+
+Thank you for visiting the site. Enjoy the published content and the book. We appreciate your support, and please pay it forward.
+
+The Book of Elon Musk Elon Musk's Most Useful Ideas In His Own Words
+
+Mar 31
+
+Mar 31 Upgrading the Human Mind
+
+Eric Jorgenson
+
+The internet is a great leveler for information and education. You can learn anything online for free.749
+
+A thousand years ago there were very few books.750 Even if you had a thirst for knowledge you couldn’t do much about it, because books were incredibly expensive and rare, and only a few people knew how to read. Books were difficult to get until the Gutenberg Press. Technology is what causes these big step-changes in civilization.751
+
+Even if you could read and were in the Library of Congress, you still didn’t have access to all the world's information, and you certainly couldn’t search it. And, of course, very few people could be in the Library of Congress at once.752
+
+The internet is something beyond the Gutenberg press. When the general public started using the internet, it felt like humanity was developing a nervous system. Any part of humanity got access to almost all human knowledge. You could be deep in the Amazon jungle with a Starlink terminal and have access to more information than the US president did in 1980.753
+
+To transfer data before the digital age, you had to write a letter. Someone would have to carry the letter to another person with a bunch of physical work in between. That’s insanely slow when you think about it. Now, you can access any book instantly; you can learn anything. It’s incredible.754
+
+Any student of history would agree: The internet has been the biggest equalizer in history for access to information and knowledge.755
+
+We already have a digital layer to our minds, in a sense, with our computer or our phone. You can access any book or song. You can ask a question on Google and get an answer instantly. With your laptop, you can outcompute an Empire State Building filled with people and calculators. These are incredible superpowers, which even the president of the United States didn’t have back in the year 2000.756
+
+People don’t appreciate this yet—they are already a cyborg. You’re a different creature than you would have been twenty years ago, or even ten years ago.
+
+They do surveys asking, “How long can you be away from your phone?” Particularly for younger people, even a day is painful. If you leave your phone behind, it’s like missing a limb. People have already merged with their phones.757
+
+You’re already digitally superhuman.758
+
+Q: Will the brain–computer interface change humans and how we use computers?
+
+Yes, an intertwined idea is having a higher-bandwidth interface between computers and the brain. We’re currently bandwidth limited. The connection is bottlenecked in this tiny straw of an interface, poking glass with your meat sticks.759
+
+Ten-finger typing on a keyboard used to be the most common input to a computer. Now, it’s usually two-thumb typing. Our output quality has gone backward.
+
+The sustained output of a human over the course of a day is less than one bit per second. There are 86,400 seconds in a day. It is extremely rare for a human to output more than that number of symbols per day, certainly for several days in a row. We should be able to improve that by many orders of magnitude with a direct neural interface—a high-bandwidth interface to your digital enhancements.760
+
+Noland Arbaugh was the very first Neuralink patient. After he got the Neuralink implant, he spent all night playing Civilization, which is awesome. That’s exactly what I’d do too. Even with only roughly 10 to 15 percent of the electrodes working, we were able to achieve a bit per second. That was twice the previous world record. Maybe five years from now, we might be at a megabit—faster than any human could possibly communicate by typing or speaking.761
+
+The Neuralink interface can massively increase your output bandwidth and your input bandwidth. Input being written operations to the brain, where the brain is reading signals.762 If we achieve tight symbiosis, AI wouldn’t be “other”—it would be integrated with you. Imagine it has a relationship to your conscious mind similar to your unconscious mind.763
+
+Your brain has to work to compress a bunch of concepts in your head into this incredibly low data rate format called speech or typing. That’s what language is—a compression algorithm on thought, to transfer a concept. Then it’s got to listen and decompress what’s coming in. Both of these steps are very lossy.
+
+If you have two direct-brain interfaces, you could do an uncompressed direct conceptual communication with another person. Like consensual telepathy. The conversation would be a conceptual interaction on a level that’s difficult to conceive of right now.764
+
+Conceivably, there’s a way to have a digital layer of your brain feel like part of you. It’s not something you offload to consciously; it’s just “you.”765
+
+To start out, we are really just solving basic neurological damage, like for people who have essentially complete or near complete loss from the brain to the body. For someone like Stephen Hawking, the Neuralink would be incredibly profound. Imagine if Stephen Hawking could communicate as fast as we’re communicating, perhaps faster. And that’s certainly possible. Probable, in fact.
+
+There’s obviously some risk with a new device. You can’t get the risk down to zero; it’s not possible. So, you want to have the highest possible reward, given there’s a certain irreducible risk. And if somebody’s able to have a profound improvement in their communication, that’s worth the risk.766
+
+We can deliver new information to the brain too. If somebody is completely blind, we can write directly to the visual cortex to give them sight. At first it will be relatively fairly low resolution, but long term you would have very high resolution.767
+
+This is actually our second product, called Blindsight. It enables people who are completely blind, lost both eyes or optic nerve, or just can’t see at all, to be able to see by directly triggering the neurons in the visual cortex.768
+
+At some point, the cybernetic implants wouldn’t simply be correcting things that went wrong but augmenting human capabilities. You could even see multispectral wavelengths like infrared, ultraviolet, and radar. That’s a superpower situation. Augmenting intelligence, senses, and bandwidth dramatically—that’s going to happen at some point.769
+
+Eric Jorgenson
+
+CEO of Scribe Media. Author of The Almanack of Naval and The Anthology of Balaji. Investing in technology startups as GP at Rolling Fun. Podcast: Smart Friends. Happy to be in touch through Twitter or email.
+
+Website
+
+About the book
+
+Book and website curating and sharing Elon's wisdom. Coming soon on March 24th. Follow on Twitter.
+
+Mar 31 Exponential Intelligence
+
+Mar 31 The Last Human Drivers

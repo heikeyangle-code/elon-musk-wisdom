@@ -1,0 +1,66 @@
+# SOURCE: https://www.elonmuskbook.org/the-book-of-elon-musk-free-online-version/thinking-in-limits
+# HARVESTED: 2026-09-29
+
+Thank you for visiting the site. Enjoy the published content and the book. We appreciate your support, and please pay it forward.
+
+The Book of Elon Musk Elon Musk's Most Useful Ideas In His Own Words
+
+Mar 31
+
+Mar 31 Thinking in Limits
+
+Eric Jorgenson
+
+Another good physics tool is thinking about things “in the limit.” Take a particular idea and imagine scaling it to a very large or very small number. How do things change?118
+
+The Boring Company is a great example. A common criticism of the idea of tunnels is: The tunnel will get used up and there will still be traffic congestion. They don’t realize there’s no real limit to how many levels of tunnel you can have. You can go much farther deep underground than you can build up. The deepest mines are much deeper than the tallest buildings are tall.
+
+Ever notice that cities are built in 3D, but roads are only built in 2D? You could build roads in 3D by building tunnels under cities.119 You can alleviate any amount of urban congestion with a 3D tunnel network.120
+
+But, it’s difficult and expensive to dig tunnels the way they’re currently done. The LA subway extension cost roughly a billion dollars per mile to build.121
+
+If you do just two things, you can get approximately an order of magnitude improvement in tunneling.
+
+But I think you can even go beyond that.122
+
+We need at least a tenfold improvement in the cost per mile of tunneling. The first thing to do is to cut the tunnel diameter. According to current regulations, a single road-lane tunnel has to be twenty-six to twenty-eight feet in diameter. But if you shrink that diameter to twelve feet, the area goes down by a factor of four. This is a huge improvement, because the cost of tunneling scales with the area. That’s almost a half-order of magnitude (4–5x) improvement in cost per mile right there.123
+
+Currently, tunneling machines work for half the time, then stop. The other half of the time is putting in reinforcements for the tunnel wall. If you design the machine instead to do continuous tunneling and reinforcing, that will give you a factor of two improvement. Combine those and that’s a factor of eight.124
+
+These machines are also far from being at their power or thermal limits, so we should jack up the power to the machine. We can get at least another factor of two there, maybe even four or five. Currently, we’re not even close to the limits of tunneling technology.125
+
+Q: How does thinking in limits apply to manufacturing?
+
+Let’s say we’re trying to figure out why a part or product is expensive. Is it because of something foolish, or just because production volume is too low?126
+
+Ask, “If our volume was a million units per year, would it still be expensive?” If it’s still expensive at a million units a year, then volume is not the reason why your part is expensive. Maybe something’s wrong with the design. Maybe you can change the part to something not fundamentally expensive. That’s thinking about things to the limit.127
+
+If you are really good at manufacturing and producing at a high volume, you can make anything for a cost that asymptotically approaches the raw material value of the components, plus any intellectual property you need to license. It’s a hard thing to do, but it is possible.128
+
+Q: How does thinking in the limit apply to design?
+
+When designing a product, people often start designing with the tools, parts, and methods they are familiar with. That’s their default. That will lead to a product that can be made with those tools and methods, but it is unlikely to be the perfect product.129
+
+The other way to think is to imagine the platonic ideal of the perfect product or technology. What is the perfect arrangement of atoms that would be the best possible product? Now try to figure out how to get the atoms in that shape.130
+
+Think through things in both directions. What can we build with the tools that we have? But also, what does the “theoretically perfect” product look like?131
+
+The idea of the “theoretically perfect” product is going to be a moving target because as you learn more, the definition for that perfect product will change. You don’t actually know what the perfect product is, but you can approximate a more perfect product. Then ask, “What tools, methods, or materials do we need to create to get the atoms in that shape?” People rarely think this way. But thinking in limits is a powerful tool.132
+
+Impossible is a strong word. It’s just a strong word. I approach things from a physics standpoint, and the word impossible is more or less banned in physics.133
+
+At SpaceX especially, we often consider what’s possible within the absurd. If my team says something is impossible, I try to open their minds to new potential solutions by asking, “What would it take?”134
+
+Eric Jorgenson
+
+CEO of Scribe Media. Author of The Almanack of Naval and The Anthology of Balaji. Investing in technology startups as GP at Rolling Fun. Podcast: Smart Friends. Happy to be in touch through Twitter or email.
+
+Website
+
+About the book
+
+Book and website curating and sharing Elon's wisdom. Coming soon on March 24th. Follow on Twitter.
+
+Mar 31 First-Principles Thinking
+
+Mar 31 Aspire to Be Less Wrong

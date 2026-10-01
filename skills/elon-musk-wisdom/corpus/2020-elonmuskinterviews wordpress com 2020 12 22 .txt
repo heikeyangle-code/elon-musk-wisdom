@@ -1,0 +1,225 @@
+# SOURCE: https://elonmuskinterviews.wordpress.com/2020/12/22/lex-fridmans-artificial-intelligence-podcast-i/
+# TITLE: Lex Fridmans ‚Artificial Intelligence‘ Podcast (I)
+# FETCHED: fetch_content_cache
+
+_Dieses ist das erste von zwei Interviews, die Lex Fridman mit Elon Musk in seiner Podcast-Reihe „Artificial Intelligence“ geführt hat. Das Hauptthema dieses am 12.04.2019 auf [YouTube veröffentlichten Videos](https://www.youtube.com/watch?v=dEv99vxKjVI&list=PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4) ist Teslas Autopilot und die damit verbunden Möglichkeiten und Gefahren des autonomen Fahrens. Mehr über und von Lex Fridman ist  unter [www.lexfridman.com](http://www.lexfridman.com) zu finden; das englische Wortprotokoll zu diesem Interview gibt es [hier](https://elon-musk-interviews.com/2020/12/22/lex-fridmans-artificial-intelligence-podcast-i-2/)._
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2020/12/ai_podcast_elon_musk.png?w=775)
+
+**Lex Fridman:** (00:00) Das Folgende ist ein Gespräch mit Elon Musk. Er ist CEO von Tesla, SpaceX, Neuralink und Mitbegründer mehrerer anderer Unternehmen. Dieses Gespräch ist Teil des Podcasts ‚Artificial Intelligence‘. In dieser Reihe sind führende Forscher aus Wissenschaft und Industrie vertreten, darunter CEOs und CTOs von Automobil-, Robotik-, KI- und Technologieunternehmen.
+
+Dieses Gespräch fand nach der Veröffentlichung unserer Gruppe am MIT über die funktionelle Wachsamkeit des Fahrers bei der Verwendung von Teslas Autopilot statt. Das Tesla-Team wandte sich an mich und bot mir ein Podcastgespräch mit Herrn Musk an. Ich akzeptierte mit der vollen Kontrolle der Fragen, die ich stellen konnte, und der Wahl dessen, was veröffentlicht wird. Am Ende habe ich nichts Wesentliches herausgeschnitten.
+
+Ich habe vor diesem Gespräch noch nie mit Elon gesprochen, weder öffentlich noch privat. Weder er noch seine Unternehmen haben irgendeinen Einfluss auf meine Meinung oder auf die Strenge und Integrität der wissenschaftlichen Methode, die ich in meiner Position am MIT praktiziere. Tesla hat meine Forschung nie finanziell unterstützt, und ich habe nie ein Tesla-Fahrzeug besessen, und ich habe nie Tesla-Aktien besessen.
+
+Dieser Podcast ist keine wissenschaftliche Arbeit. Es ist ein Gespräch. Ich respektiere Elon wie alle anderen Führungskräfte und Ingenieure, mit denen ich gesprochen habe. In einigen Dingen sind wir uns einig, in anderen sind wir uns uneinig. Mein Ziel ist es, wie immer bei diesen Gesprächen, zu verstehen, wie der Gast die Welt sieht.
+
+Ein besonderer Streitpunkt in diesem Gespräch war die Frage, inwieweit die kamerabasierte Fahrerüberwachung die Ergebnisse verbessern wird und wie lange sie für das Fahren mit künstlicher Intelligenz relevant bleiben wird. Als jemand, der sich mit menschzentrierter künstlicher Intelligenz beschäftigt und von dieser fasziniert ist, glaube ich, dass kamerabasierte Fahrerüberwachung sowohl kurzfristig als auch langfristig von Nutzen sein dürfte, wenn sie effektiv implementiert und integriert wird. Im Gegensatz dazu liegt der Schwerpunkt von Elon und Tesla auf der Verbesserung des Autopiloten, so dass seine statistischen Sicherheitsvorteile jede Sorge um menschliches Verhalten und Psychologie überwiegen.
+
+Elon und ich sind vielleicht nicht in allen Punkten einer Meinung, aber ich habe großen Respekt vor der Technik und der Innovation, die hinter den von ihm geleiteten Bemühungen stehen. Mein Ziel ist es hier, eine rigorose, nuancierte und objektive Diskussion in Industrie und Wissenschaft über KI-unterstütztes Fahren anzustoßen; eine Diskussion, die letztlich zu einer sichereren und besseren Welt führt. (02:30) Und hier ist mein Gespräch mit Elon Musk.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2020/12/fridman-musk-i.jpg?w=775)
+
+**Lex Fridman:** Was war am Anfang die Vision, der Traum vom Autopiloten? Das große Bild, als er zuerst konzipiert und ab 2014 die Hardware in den Autos installiert wurde? Was war die Vision, der Traum?
+
+**Elon Musk:** Ich würde es nicht als eine Vision oder einen Traum bezeichnen. Es ist einfach so, dass es in der Automobilindustrie zwei massive Revolutionen gibt. Die eine ist der Übergang zur Elektrifizierung, und die andere ist das autonome Fahren. Und es wurde mir klar, dass in Zukunft jedes Auto, das kein autonomes Fahren bietet, ungefähr so nützlich sein wird wie ein Pferd. Was nicht heißt, dass es keinen Nutzen hat; es ist nur selten und etwas eigenartig, wenn jemand zu diesem Zeitpunkt ein Pferd hat. Es ist offensichtlich, dass Autos vollständig autonom fahren werden; es ist nur eine Frage der Zeit. Und wenn wir nicht an der Autonomierevolution teilnehmen würden, dann wären unsere Autos den Menschen nicht nützlich, im Vergleich zu autonom fahrenden Autos. Ich meine, ein autonom fahrendes Auto ist wohl fünf- bis zehnmal mehr wert als ein Auto, das nicht autonomiefähig ist.
+
+**Lex Fridman:** Auf lange Sicht.
+
+**Elon Musk:** Kommt darauf an, was Sie unter langfristig verstehen, aber, sagen wir, zumindest für die nächsten fünf Jahre, vielleicht für zehn Jahre.
+
+**Lex Fridman:** Es gab schon früh eine Menge sehr interessanter Entscheidungen bei der Konstruktion im Zusammenhang mit dem Autopiloten. Zuerst einmal wurde auf der Instrumententafel oder beim Model 3 auf dem Display gezeigt, was die kombinierte Sensoreinheit sieht. Was war der Gedanke hinter dieser Wahl? Gab es eine Diskussion? Wie war das Vorgehen?
+
+**Elon Musk:** Der ganze Sinn des Displays besteht darin, einen „Gesundheitscheck“ über die Realitätswahrnehmung des Fahrzeugs machen zu können. Das Fahrzeug nimmt Informationen von einer Reihe von Sensoren auf, in erster Linie von Kameras, aber auch von Radar und Ultraschall, GPS und so weiter. Und dann werden diese Informationen in einen Vektorraum mit einem Bündel von Objekten mit Eigenschaften wie Fahrbahnlinien und Ampeln und anderen Autos übertragen. Und dann, im Vektorraum, wird das auf einem Display wiedergegeben, so dass Sie durch einen Blick aus dem Fenster bestätigen können, ob das Auto weiß, was vor sich geht, oder nicht (05:00).
+
+**Lex Fridman:** Richtig, ich denke, das ist ein extrem wirksames Mittel für die Menschen, um ein Verständnis für das System zu bekommen und zu erfassen, wozu das System fähig ist. Haben Sie erwogen, mehr zu zeigen? Wenn wir uns also die dem System zugrundeliegende Computerbilderkennung wie Straßensegmentierung, Fahrspurerkennung, Fahrzeugerkennung, Objekterkennung ansehen, dann gibt es an den Rändern eine gewisse Unsicherheit. Haben Sie in Betracht gezogen, die Teile aufzudecken, die die Unsicherheit im System, die Art …
+
+**Elon Musk:** Wahrscheinlichkeiten im Zusammenhang mit, sagen wir, Bilderkennung oder so etwas in der Art?
+
+**Lex Fridman:** Ja, also im Moment zeigt es die Fahrzeuge in der Nähe als ein sehr sauberes, scharfes Bild, und die Leute bestätigen, dass ein Auto vor ihnen steht, und das System sieht, dass ein Auto vor ihm ist. Aber man könnte den Leuten zu helfen, eine Vorstellung von der Computerwahrnehmung zu entwickeln, indem man etwas von den Unsicherheiten zeigt.
+
+**Elon Musk:** Nun, in meinem Auto sehe ich mir das immer mit der Debug-Ansicht an. Es gibt zwei Debug-Ansichten. Die eine ist die erweiterte Ansicht, die Sie sicher schon gesehen haben, bei der wir im Grunde genommen Kisten und Etiketten um die erkannten Objekte zeichnen. Und dann gibt es das, was wir den Visualizer nennen, der im Grunde eine vektorielle Raumdarstellung ist, die den Input von allen Sensoren zusammenfasst. Dieser zeigt zwar keine Bilder, aber er zeigt die Sicht des Autos auf die Welt im Vektorraum. Allerdings glaube ich, dass dies für normale Menschen sehr schwer zu verstehen ist; sie wüssten nicht, welches Ding sie gerade anschauen.
+
+**Lex Fridman:** Es ist also fast schon eine HMI-Herausforderung, da die angezeigten Objekte für das allgemeine öffentliche Verständnis dessen, wozu das System in der Lage ist, optimiert sind.
+
+**Elon Musk:** Wenn Sie keine Ahnung haben, wie Computerbilderkennung funktioniert, können Sie immer noch auf den Bildschirm schauen und sehen, ob das Auto weiß, was los ist. Und wenn man Entwicklungsingenieur ist oder wie ich die Entwicklung aufgebaut hat, kann man alle Debug-Informationen sehen. Aber das wäre für die meisten Leute total unverständlich.
+
+**Lex Fridman:** Wie werden die Ressourcen Ihrer Ansicht nach am besten verteilt? Ich denke, es gibt drei technische Aspekte des Autopiloten, die wirklich wichtig sind: Die zugrundeliegenden Algorithmen, wie die Architektur des neuronalen Netzes, die Daten, auf die es trainiert wird, und dann noch die Hardware-Entwicklung; vielleicht noch andere. (07:30) Also, Algorithmus, Daten, Hardware. Geld und Zeit sind begrenzt. Was ist Ihrer Meinung nach das Wichtigste, wofür Sie die Ressourcen bereitstellen müssen? Oder werden sie ziemlich gleichmäßig zwischen diesen drei Bereichen verteilt?
+
+**Elon Musk:** Wir erhalten automatisch riesige Datenmengen, weil alle unsere Autos mit acht nach außen gerichteten Kameras, Radar und normalerweise 12 Ultraschallsensoren, und natürlich GPS und IMU, ausgestattet sind. Und wir haben etwa 400.000 Autos auf der Straße, die über diese Datenmenge verfügen. Ich glaube, Sie verfolgen das ziemlich genau.
+
+**Lex Fridman:** Ja.
+
+**Elon Musk:** Wir nähern uns also einer halben Million Autos mit kompletter Sensorausstattung auf der Straße. Ich bin mir nicht sicher, wie viele andere Autos auf der Straße diese Ausstattung haben, aber ich wäre überrascht, wenn es mehr als 5.000 sind, was bedeutet, dass wir über 99% aller Daten verfügen.
+
+**Lex Fridman:** Es gibt also diesen enormen Zustrom von Daten.
+
+**Elon Musk:** Absolut, ein massiver Zustrom von Daten. Aber dann haben wir drei weitere Jahre gebraucht; jetzt haben wir endlich unseren Computer entwickelt, der vollständig autonomes Fahren (_FSD – **F**ull **S**elf **D**riving_) ermöglicht. Dieser kann in einer Größenordnung Daten verarbeiten wie das NVIDIA-System, das wir derzeit in den Autos haben. Um unser System zu nutzen, muss man nur den NVIDIA-Computer abstöpseln und den Tesla-Computer anschließen, und das war’s. Tatsächlich erforschen wir noch immer die Grenzen seiner Möglichkeiten. Wir sind in der Lage, die Kameras bei voller Bildfrequenz und voller Auflösung zu betreiben. Wir müssen die Bilder nicht einmal zuschneiden. Selbst mit nur einem der Systeme hat er noch Spielraum. Der FSD-Computer besteht eigentlich aus zwei Computern, zwei Systemen auf einem Chip, die vollständig redundant sind. Man könnte also praktisch jeden Teil dieses Systems abschalten, und es funktioniert immer noch.
+
+**Lex Fridman:** Sind diese redundanten Systeme perfekte Kopien voneinander oder …
+
+**Elon Musk:** Ja.
+
+**Lex Fridman:** Oh, es geht also nur um Redundanz, im Gegensatz zu einer argumentierenden maschinellen Architektur, in der beide Entscheidungen treffen; es geht also nur um Redundanz.
+
+**Elon Musk:** Stellen Sie es sich eher wie ein zweistrahliges Verkehrsflugzeug vor. Das System funktioniert am besten, wenn beide Systeme in Betrieb sind, aber es ist in der Lage, sicher auf einem zu arbeiten. (10:00) Wir haben noch nicht einmal die Grenze der Leistungsfähigkeit erreicht, so dass es nicht notwendig ist, die Funktionalität tatsächlich auf beide SOCs zu verteilen. Wir können einfach ein vollständiges Duplikat für jedes einzelne ausführen.
+
+**Lex Fridman:** Sie haben also die Grenzen des Systems noch nicht wirklich ausgelotet oder erreicht.
+
+**Elon Musk:** Nein, noch nicht.
+
+**Lex Fridman:** Die Magie des Deep Learning besteht also darin, dass sich das System mit der Menge an Daten verbessert. Sie sagten, es gibt einen riesigen Zustrom von Daten; aber beim Autofahren gilt, dass die wirklich wertvollen Daten, aus denen man lernen kann, die Grenzfälle sind. Ich habe Sie irgendwo davon sprechen hören, dass das Ausschalten des Autopiloten ein wichtiger Moment ist, den es zu nutzen gilt. Gibt es noch andere Grenzsituationen? Oder können Sie vielleicht etwas dazu sagen, welche Aspekte davon wertvoll sein könnten? Oder haben Sie vielleicht andere Ideen, wie man immer mehr nutzbare Informationen beim Fahren entdecken kann?
+
+**Elon Musk:** Nun, da gibt es viel zu lernen. Es gibt Grenzfälle, in denen jemand mit Autopiloten fährt und dann selbst das Fahren übernimmt. Diese Situation ist ein Auslöser, der unserem System übermittelt wird. Es muss herausfinden, ob der Fahrer einfach so übernommen hat, oder ob er es tat, weil der Autopilot nicht richtig funktionierte? Nehmen wir an, wir versuchen herauszufinden, was die optimale Spur für die Überquerung einer Kreuzung ist. Dann sind diejenigen Situationen, bei denen es keine Eingriffe gibt, die richtigen. Dann kannst Du sagen, okay, wenn es so aussieht, mach Folgendes. So erhält man die optimale Spur für die Navigation durch eine komplexe Kreuzung.
+
+**Lex Fridman:** Es gibtalso so etwas wie den Normalfall. Sie versuchen also, eine riesige Menge von Daten zu einer bestimmten Kreuzung zu erfassen, wenn die Dinge gut liefen. Und es gibt den Grenzfall, bei dem nicht einfach nur so eingegriffen wird, sondern weil etwas nicht richtig lief.
+
+**Elon Musk:** Wenn also jemand den Autopiloten ausschaltet und selbst übernimmt. Man sollte alle Eingaben als Fehler zu betrachten. Wenn der Benutzer aktiv werden musste, stimmt etwas nicht; jede Eingabe ist ein Fehler.
+
+**Lex Fridman:** Sicherlich, es kann sehr wohl ein Fehler sein; aber wenn man die Autobahn verlassen will, oder wenn es eine Navigationsentscheidung trifft, für die der Autopilot derzeit nicht ausgelegt ist, dann übernimmt der Fahrer. Woher kennen Sie den Unterschied?
+
+**Elon Musk:** Stimmt, das wird sich ändern (12:30 Uhr) mit ‚Navigate on Autopilot‘, das wir gerade veröffentlicht haben, und zwar ohne manuelle Bestätigung fürs Überholen (_stalk-confirm_). Wenn man bisher die Kontrolle übernommen hat, um einen Spurwechsel vorzunehmen oder eine Autobahnausfahrt oder ein Autobahnkreuz zu passieren, wird dieses zum größten Teil mit der gerade veröffentlichten Software verschwinden.
+
+**Lex Fridman:** Ich glaube, die Leute verstehen nicht ganz, wie groß dieser Schritt ist.
+
+**Elon Musk:** Ja, das tun sie nicht. Erst wenn sie das Auto fahren, dann tun sie das.
+
+**Lex Fridman:** Man muss also immer noch die Hände am Lenkrad lassen, wenn es den automatischen Fahrspurwechsel durchführt. Es gibt diese großen Sprünge in der Entwicklung des Autopiloten. Was sind Ihrer Meinung nach die großen Sprünge? Ich würde sagen, der automatische Fahrspurwechsel ohne Rückbestätigung durch den Fahrer, der durch ‚Navigate on Autopilot‘ möglich wurde, ist ein sehr großer Sprung.
+
+**Elon Musk:** Es ist ein großer Sprung. Er überholt auch automatisch langsame Autos. Es geht also sowohl um Navigation als auch um die Suche nach der schnellsten Spur. Er überholt langsame Autos, verlässt die Autobahn und nimmt Autobahnkreuze; und dann haben wir die Ampelerkennung, die ursprünglich als Warnung eingeführt wurde. Bei der Testversion, die ich fahre, hält das Auto an der Ampel vollständig an und fährt weiter.
+
+**Lex Fridman:** Das sind also die Schritte, richtig? Sie haben gerade einige Dinge erwähnt, die eine Ahnung von einem Schritt in Richtung vollständige Autonomie zulassen. Welches sind Ihrer Meinung nach die größten technologischen Hindernisse auf dem Weg zu FSD?
+
+**Elon Musk:** Das System, das wir bei Tesla einfach FSD-Computer nennen, wird bereits produziert. Wenn Sie also ein Model S oder X oder ein Model 3 bestellen, das das vollständige Selbstfahrerpaket hat, erhalten Sie den FSD-Computer. Das ist wichtig, um genügend Basisberechnungen zu haben. Dann verfeinert man das neuronale Netz und die Steuerungssoftware. All das kann einfach als Over-the-Air-Update zur Verfügung gestellt werden. Was wirklich profund ist und was ich auf dem Investorentag, bei dem wir uns auf die Autonomie konzentrieren, hervorheben werde, ist, dass das Auto, das derzeit produziert wird, mit der Hardware, die derzeit produziert wird, fähig ist, komplett selbstständig zu fahren. (15:00)
+
+**Lex Fridman:** Aber fähig ist ein interessantes Wort, denn …
+
+**Elon Musk:** Die Hardware ist dazu fähig. Und da wir die Software verfeinern, werden die Fähigkeiten dramatisch zunehmen, und damit wird die Zuverlässigkeit dramatisch zunehmen, was zur behördlichen Zulassung für FSD führt. Im Wesentlichen ist also der Kauf eines Autos heute eine Investition in die Zukunft. Am wichtigsten zu wissen ist, wenn Sie heute einen Tesla kaufen, dann kaufen Sie meiner Meinung nach einen Wertzuwachs und keinen Wertverlust.
+
+**Lex Fridman:** Das ist eine wichtige Aussage, denn es ist normalerweise sehr schwierig, die Hardware aufzurüsten oder zu ersetzen.
+
+**Elon Musk:** Ja, genau.
+
+**Lex Fridman:** Dann ist der Rest ein Software-Problem.
+
+**Elon Musk:** Ja, und diese ist nicht mit erwähnenswerten Kosten verbunden.
+
+**Lex Fridman:** Aber was ist Ihre Intuition bzgl. der Software? Wie schwer wird es sein, um sie soweit zu entwickeln, dass nicht nur die Sicherheitsaspekte, sondern auch der Fahrspaß die Leute überzeugen wird?
+
+**Elon Musk:** Ich glaube, auf Autobahnen macht es den Menschen sehr viel Spaß. Die Verwendung des Tesla-Autopiloten auf den Autobahnen ist ein totaler Gewinn für die Lebensqualität. Es geht also nur darum, diese Funktionalität auf Stadtstraßen auszudehnen, die Ampelerkennung hinzuzufügen, komplexe Kreuzungen zu navigieren und dann in der Lage zu sein, auf komplizierten Parkplätzen zu navigieren, so dass das Auto aus einem Parkplatz herausfahren und zu Ihnen kommen und Sie finden kann, selbst wenn es sich in einem kompletten Parkplatzlabyrinth befindet. Und es kann Sie einfach absetzen und selbst einen Parkplatz suchen.
+
+**Lex Fridman:** Ja, die Menschen würden es sicherlich sehr angenehm und nützlich finden, die Parkplatzsuche, die oft zu Unmut führt, der Automation zu überlassen. Das wäre ein großer Vorteil. Lassen Sie mich damit beginnen, den Menschen ein wenig in diese Diskussion einzubeziehen. Lassen Sie uns also über die vollständige Autonomie des Fahrzeugs sprechen; wenn Sie sich das derzeitige Niveau für Fahrzeuge ansehen, die auf der Straße getestet werden, wie Waymo und so weiter, dann sind sie nur rein theoretisch autonom; dies sind Systeme der Stufe 2 mit nur einer anderen Designphilosophie, weil es in fast allen Fällen einen ‚Sicherheitsfahrer‘ (17:30) gibt, der das System überwachen muss.
+
+**Elon Musk:** Richtig.
+
+**Lex Fridman:** Wird FSD auch noch eine Zeit lang eine solche Überwachung benötigen? FSD ist gut genug, um zu fahren, aber muss immer noch ein Mensch am Steuer aufpassen, so wie ein Sicherheitsfahrer in anderen vollständig autonomen Fahrzeugen?
+
+**Elon Musk:** Ich denke, es wird noch mindestens sechs Monate lang erforderlich sein, die Hände am Steuer zu halten. Aus regulatorischer Sicht ist die Frage, wie viel sicherer als eine Person der Autopilot sein muss, damit es in Ordnung ist, das Auto nicht zu überwachen. Das ist eine Debatte, die man führen kann; und dann braucht man eine große Menge an Daten, damit man mit hoher Sicherheit statistisch gesehen beweisen kann, dass das Auto um ein vieles sicherer ist als eine Person; und dass eine zusätzliche Überwachung keinen wesentlichen Einfluss auf die Sicherheit hat. Die Automation muss also unter Umständen 200 oder 300% sicherer sein als eine Person.
+
+**Lex Fridman:** Und wie beweisen Sie das?
+
+**Elon Musk:** Vorfälle pro Meile.
+
+**Lex Fridman:** Vorfälle pro Meile.
+
+**Elon Musk:** Ja.
+
+**Lex Fridman:** also Verkehrsunfälle und Todesopfer …
+
+**Elon Musk:** Ja, Todesopfer wären der Faktor, aber es gibt nicht so viele Todesopfer, um in der Größenordnung statistisch relevant zu sein. Aber es gibt genug Verkehrsunfälle; es gibt weit mehr Unfälle als Todesopfer. Sie können also abschätzen, wie hoch die Wahrscheinlichkeit eines Verkehrsunfalls ist. Dann gibt es noch einen weiteren Schritt, nämlich die Wahrscheinlichkeit von Verletzungen. Und die Wahrscheinlichkeit von bleibenden Verletzungen und die Wahrscheinlichkeit von Todesfällen. Und all diese Zahlen müssen viel besser ausfallen als beim nicht autonomen Fahren, um mindestens ca. 200%.
+
+**Lex Fridman:** Und Sie glauben, dass es die Möglichkeit gibt, einen gesunden Diskurs mit den Regulierungsbehörden über dieses Thema zu führen?
+
+**Elon Musk:** Es steht außer Frage, dass die Behörden dem, was Presse erzeugt, unverhältnismäßig viel Aufmerksamkeit geschenkt haben; das ist eine Tatsache. Und Tesla erzeugt eine Menge Presse. Also, in den Vereinigten Staaten gibt es, glaube ich, fast 40.000 Verkehrstote pro Jahr. (20:00) Aber wenn es vier im Zusammenhang mit Tesla gibt, werden diese wahrscheinlich tausendmal mehr Presse erhalten als jeder andere.
+
+**Lex Fridman:** Die Psychologie dahinter ist eigentlich faszinierend. Aber ich glaube nicht, dass wir genug Zeit haben werden, darüber zu sprechen. Allerdings möchte ich mit Ihnen über die menschliche Seite der Dinge sprechen. Also, ich und unser Team am MIT haben vor kurzem ein Papier über die funktionale Wachsamkeit von Fahrern bei der Verwendung des Autopiloten veröffentlicht. Wir haben, seitdem der Autopilot vor über drei Jahren eingeführt wurde, Videos von Gesicht und Körper der Fahrer gesammelt. Ich habe gesehen, dass Sie ein Zitat aus der Zusammenfassung getwittert haben, so dass ich denke, dass Sie einen Blick darauf geworfen haben.
+
+**Elon Musk:** Ja, ich habe es gelesen.
+
+**Lex Fridman:** Kann ich mit Ihnen über das, was wir gefunden haben, sprechen?
+
+**Elon Musk:** Sicher.
+
+**Lex Fridman:** Okay, es scheint, dass die Fahrer in den Daten, die wir gesammelt haben, die funktionale Wachsamkeit aufrechterhalten haben. Wir haben 18.900 Auskupplungen vom Autopiloten betrachten, und überprüft, ob sie in der Lage waren, die Kontrolle rechtzeitig zu übernehmen. Die Fahrer waren aufmerksam und schauten auf die Straße, um die Kontrolle zu übernehmen. Dies steht im Widerspruch zu dem, was viele aus der Literatur über Wachsamkeit mit Automatisierung voraussagen würden. Nun stellt sich die Frage, ob diese Ergebnisse Ihrer Meinung nach in der gesamten Bevölkerung Gültigkeit haben. Unseres ist also nur eine kleine Teilmenge. Einer der Kritikpunkte ist, dass es eine kleine Minderheit von Autofahrern gibt, die hochgradig verantwortungsbewusst sein könnten und deren Wachsamkeit mit dem Einsatz des Autopiloten abnehmen würde.
+
+**Elon Musk:** Ich glaube, dass das alles übergangen werden kann; das System verbessert sich so sehr, so schnell, dass dies schon sehr bald irrelevant sein wird. Wenn etwas um ein Vielfaches sicherer ist als eine Person, dann nutzt das Hinzufügen einer Person nichts – die Sicherheit wird dadurch vielleicht minimal erhöht. Tatsächlich könnte es sogar eine negative Auswirkung haben.
+
+**Lex Fridman:** Das ist wirklich interessant. Wenn also ein gewisser Prozentsatz der Bevölkerung ein Abnehmen der Aufmerksamkeit aufweist, hat dies keinen Einfluss auf die Gesamtstatistik, die Zahlen zur Sicherheit?
+
+**Elon Musk:** Nein, ich glaube, (22:30 Uhr), dass spätestens nächstes Jahr ein menschliches Eingreifen die Sicherheit verringern würde. Stellen Sie sich mal vor, Sie befinden sich in einem Aufzug. Früher war es üblich, dass es Fahrstuhlführer gab. Man konnte nicht allein in einen Aufzug steigen und den Hebel betätigen, um sich zwischen den Stockwerken zu bewegen. Und jetzt will niemand mehr einen Fahrstuhlführer, weil der automatische Aufzug, der in den Stockwerken hält, viel sicherer ist als ein Fahrstuhlführer. Und in der Tat wäre es ziemlich gefährlich, jemanden mit einem Hebel zu haben, der den Aufzug zwischen den Stockwerken bewegen kann.
+
+**Lex Fridman:** Das ist also eine starke und interessante Aussage, aber ich muss auch aus der Sicht der Anwender und der Sicherheit fragen: Eine meiner Leidenschaften algorithmisch gesehen ist die kamerabasierte Erkennung, bei der ich den Menschen nur wahrnehme; aber zu erkennen, was der Fahrer sieht, die kognitive Belastung, die Körperhaltung, das ist auf der Seite der Computerbilderkennung ein faszinierendes Problem. Und es gibt viele in der Branche, die glauben, dass man eine kamerabasierte Fahrerüberwachung haben muss. Glauben Sie, dass eine Fahrerüberwachung einen Nutzen bringen könnte?
+
+**Elon Musk:** Wenn Sie ein System haben, das auf oder unter einem menschlichen Zuverlässigkeitsniveau liegt, dann ist eine Fahrerüberwachung sinnvoll. Aber wenn Ihr System um vieles besser und zuverlässiger ist als ein Mensch, dann hilft die Fahrerüberwachung nicht viel. Und, wie ich schon sagte: Wenn Sie sich in einem Aufzug befinden, wollen Sie dann wirklich, dass eine beliebige Person mit einem großen Hebel den Aufzug zwischen den Stockwerken bedient? Darauf würde ich nicht vertrauen. Ich hätte lieber die Knöpfe.
+
+**Lex Fridman:** Okay, aufgrund Ihrer Erfahrungen mit dem FSD Computer sind Sie optimistisch, was die Fortschrittsgeschwindigkeit angeht.
+
+**Elon Musk:** Die Verbesserungsrate entwickelt sich exponentiell.
+
+**Lex Fridman:** Eine weitere sehr interessanten und frühe Designentscheidung, die damit zusammenhängt, ist der operative Designbereich (_ODD – **O**perational **D**esign **D**omain_) des Autopiloten. Also der Bereich, wo der Autopilot genutzt werden kann. Ein anderes Fahrzeugsystem, das wir untersucht haben, das Cadillac Super Cruise-System, ist im Gegensatz dazu sehr eingeschränkt auf bestimmte Arten von Autobahnen, die gut kartographiert und getestet sind. Der Bereich ist viel begrenzter als die ODD von Tesla-Fahrzeugen.
+
+**Elon Musk:** Es ist wie ADD (**_A_**_ttention **D**eficit **D**isorder_) (beide lachen). (25:00)
+
+**Lex Fridman:** Ja, das ist gut, das ist eine gute Bemerkung. Was war die Designentscheidung in dieser anderen Philosophie des Denkens? Es gibt Vor- und Nachteile. Was wir bei einem breiten ODD sehen, ist, dass Tesla-Fahrer in der Lage sind, die Grenzen des Systems besser auszuloten, zumindest in einem frühen Stadium, und sie verstehen, zusammen mit der Anzeige auf dem Display, was die Fähigkeiten des Systems sind. Das ist ein Vorteil. Der Nachteil ist, dass man die Fahrer das System im Grunde überall benutzen lässt …
+
+**Elon Musk:** Überall dort, wo es Fahrspuren zuverlässig erkennen kann.
+
+**Lex Fridman:** Gab es eine Philosophie, Designentscheidungen, die herausfordernd waren? Oder wurde das von Anfang an mit Absicht gemacht?
+
+**Elon Musk:** Ehrlich gesagt ist es ziemlich verrückt, Leute eine zwei Tonnen schwere Todesmaschine von Hand fahren zu lassen. In Zukunft wird es keiner mehr verstehen, wie es irgendjemanden erlaubt sein konnte, eine dieser zwei Tonnen schweren Todesmaschinen selbst zu fahren, egal wo. Genau wie mit den Aufzügen. Jeder konnte so einen Aufzug mit diesem Hebel einfach hin- und herbewegen. Man konnte ihn auf halbem Weg zwischen den Stockwerken anhalten, wenn man wollte. Das ist verrückt. Also wird es in Zukunft auch ziemlich verrückt erscheinen, dass Leute Autos selbst fahren.
+
+**Lex Fridman:** Also, ich habe einen Haufen Fragen über die menschliche Psychologie, über Verhalten und so weiter …
+
+**Elon Musk:** Das ist irrelevant, es ist völlig irrelevant.
+
+**Lex Fridman:** Weil Sie Vertrauen in das KI-System haben; nicht Vertrauen, sondern da es sowohl auf der Hardwareseite als auch durch den Deep Learning Ansatz, also durch Daten zu lernen, es einfach weitaus sicherer als Menschen sein wird.
+
+**Elon Musk:** Ja, genau.
+
+**Lex Fridman:** Kürzlich gab es einige Hacker, die den Autopiloten austricksten, damit er für die kontradiktorischen Beispiele auf unerwartete Weise handelte. Wir alle wissen also, dass neuronale Netzwerksysteme sehr empfindlich auf kleinere Störungen bei der Eingabe reagieren. Glauben Sie, dass es für die Industrie möglich ist, sich gegen so etwas zu wehren?
+
+**Elon Musk:** Sicher (beide lachen), ja.
+
+**Lex Fridman:** Können Sie das Vertrauen hinter dieser Antwort näher erläutern?
+
+**Elon Musk:** Ein neuronales Netz ist eigentlich nur ein Haufen Matrizenmathematik. Aber man muss ein sehr raffinierter Mensch sein (27:30), jemand, der neuronale Netze wirklich versteht und im Grunde ein Reverse-Engineering der Matrix aufbauen; und dann ein kleines Ding erschaffen, das bewirkt, dass die Matrizenmathematik ein winziges bisschen danebenliegt. Aber es ist sehr leicht, das zu blockieren, indem man eine Negativerkennung hat; wenn das System etwas sieht, das wie ein Matrix-Hack aussieht, schließt es dies aus. Das ist so einfach zu bewerkstelligen.
+
+**Lex Fridman:** Lernen Sie also sowohl über die gültigen als auch über die ungültigen Daten, also lernen Sie grundsätzlich über die kontradiktorischen Beispiele, um sie ausschließen zu können.
+
+**Elon Musk:** Ja, man möchte sowohl wissen, was ein Auto ist, als auch, was definitiv kein Auto ist. Und man trainiert, dass dies ein Auto ist, und dies ist definitiv kein Auto ist. Das sind zwei verschiedene Dinge. Viele haben keine Ahnung von neuronalen Netzen, wirklich nicht. Sie denken wahrscheinlich, dass es sich bei neuronalen Netzen um ein Fischernetz oder so etwas handelt.
+
+**Lex Fridman:** Wenn man jetzt mal nicht nur Tesla und Autopilot berücksichtigt, scheinen die derzeitigen Ansätze für Deep Learning in gewisser Weise noch weit von einer AGI entfernt zu sein. Glauben Sie, dass die derzeitigen Ansätze uns zur AGI führen werden, oder müssen völlig neue Ideen verfolgt werden?
+
+**Elon Musk:** Ich glaube, uns fehlen ein paar Schlüsselideen für AGI. Aber diese werden wir sehr schnell finden, und dann müssen wir uns überlegen, was wir tun sollen, wenn wir überhaupt diese Wahl haben werden. Es ist erstaunlich, wie Menschen nicht unterscheiden können zwischen der zum Beispiel eingeschränkten KI, mit der ein Auto herausfinden kann, was eine Fahrbahnlinie ist und Straßen befahren kann, und einer allgemeinen Intelligenz. Das sind einfach sehr unterschiedliche Dinge. So wie Ihr Toaster und Ihr Computer beides Maschinen sind, aber die eine ist viel ausgeklügelter als die andere.
+
+**Lex Fridman:** Sie sind zuversichtlich, dass Sie mit Tesla den besten Toaster der Welt herstellen können …
+
+**Elon Musk:** Den besten Toaster der Welt, ja. Der beste, selbstfahrende Toaster der Welt… ja, für mich scheint das im Moment klar zu sein. Ich meine, ich möchte nicht selbstgefällig oder übertrieben selbstbewusst erscheinen, (30:00) aber zurzeit sieht es einfach so aus – ich kann mich auch irren – aber es sieht so aus, als ob wir bei Tesla mit allen weit voraus sind.
+
+**Lex Fridman:** Glauben Sie, dass wir jemals ein KI-System schaffen werden, das wir lieben können und das uns auf eine tiefe, bedeutungsvolle Art und Weise zurückliebt, wie in dem Film ‚Her‘?
+
+**Elon Musk:** Ich denke, eine KI wird jemanden sehr gut davon überzeugen können, sich in sie zu verlieben.
+
+**Lex Fridman:** Und das ist anders als bei uns Menschen?
+
+**Elon Musk:** Wissen Sie, dies ist nun eine metaphysische Frage, ob Emotionen und Gedanken in einem anderen Bereich als dem physischen existieren. Vielleicht tun sie das, vielleicht tun sie es nicht, ich weiß es nicht. Da Physik mein Hauptfach im Studium war, neige ich dazu, die Dinge von einem physikalischen Standpunkt aus zu betrachten; und von da aus gesehen ist es im Wesentlichen so: Wenn es einen auf eine Art und Weise liebt, dass man nicht sagen kann, ob es real ist oder nicht, dann ist es real.
+
+**Lex Fridman:** Das ist eine physikalische Sichtweise der Liebe.
+
+**Elon Musk:** Ja (lacht), wenn man nicht das Gegenteil beweisen kann, wenn es keinen Test gibt, den man anwenden kann, um den Unterschied zu erkennen, dann gibt es keinen Unterschied.
+
+**Lex Fridman:** Richtig, und es ist ähnlich, wie wenn man unsere Welt als eine Simulation betrachtet; es gibt vielleicht keinen Test, der den Unterschied zwischen der realen Welt …
+
+**Elon Musk:** Ja.
+
+**Lex Fridman:** … und der Simulation aufzeigen kann, und daher könnten sie aus physikalischer Sicht genauso gut dasselbe sein.
+
+**Elon Musk:** Ja, und es mag Möglichkeiten geben, zu testen, ob es sich um eine Simulation handelt; vielleicht gibt es welche; ich sage nicht, dass es keine gibt. Aber man könnten sich sicherlich vorstellen, dass sobald eine Entität in der Simulation einen Weg gefunden hat, die Simulation zu erkennen, die Simulation dies korrigieren könnte, indem sie entweder die Simulation unterbricht, eine neue Simulation startet oder eine von vielen anderen Dingen tun könnte, die dann diesen Fehler korrigiert.
+
+**Lex Fridman:** Wenn also vielleicht Sie oder jemand anderes eine AGI erstellt, und Sie könnten ihr eine Frage stellen, wie würde diese Frage lauten?
+
+**Elon Musk:** Was ist außerhalb der Simulation?
+
+**Lex Fridman:** Elon, ich danke Ihnen vielmals für das Gespräch heute; es war mir ein Vergnügen.
+
+**Elon Musk:** In Ordnung, vielen Dank. (32:44)

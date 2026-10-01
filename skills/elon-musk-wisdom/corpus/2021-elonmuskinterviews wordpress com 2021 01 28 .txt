@@ -1,0 +1,293 @@
+# SOURCE: https://elonmuskinterviews.wordpress.com/2021/01/28/the-joe-rogan-experience-1169-elon-musk-ii-english/
+# TITLE: The Joe Rogan Experience #1169 – Elon Musk (II)
+# FETCHED: fetch_content_cache
+
+_In the second part (timestamp 20:18 – 40:40) of the [interview published on YouTube](https://www.youtube.com/watch?v=ycPr5-27vSI&t=2444s) in September 2018, Joe Rogan and Elon Musk talk about dangers and opportunities of an A.I., Elon’s futile attempts to educate in this regard, chimpanzees and why bonobos are not welcome in zoos. For the [German translation](https://elon-musk-interviews.com/?p=287) and the [first part](https://elon-musk-interviews.com/2021/01/25/the-joe-rogan-experience-1169-elon-musk-i-english/) or the [third part](https://elon-musk-interviews.com/2021/02/03/the-joe-rogan-experience-1169-elon-musk-iii-english/) click the links._
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/01/joe-rogan-1.jpg?w=1024)
+
+**Joe Rogan:** (20:18) So, what happened with you that you’ve decided or you took on a more fatalistic attitude? Was there any specific thing or was it just inevitability of our future?
+
+**Elon Musk:** I try to convince people to slow down A.I., to regulate A.I. This was futile. I tried it for years. Nobody listened.
+
+**Joe Rogan:** This seems like a scene in a movie…
+
+**Elon Musk:** Nobody listened.
+
+**Joe Rogan:** … where the robots are going to fucking take over. You’re freaking me out. Nobody listened?
+
+**Elon Musk:** Nobody listened.
+
+**Joe Rogan:** No one. Are people more inclined to listen today? It seems like an issue that’s brought up more often over the last few years than it was maybe five, ten years age. It seemed like science fiction.
+
+**Elon Musk:** Maybe they will. So far, they haven’t. I think people learned like that normally the way that regulations work is very slow; very slow, indeed. So, usually there will be something, some new technology, which will cause damage or death, there will be an outcry, there will be an investigation, years will pass, there will be some sort of insight committee, there will be rule making, then there will be oversight, eventually regulations. This all takes many years. This is the normal course of things.
+
+If you look let’s say automotive regulations. How long did it take for seat belts to be implemented, to be required? You know, the auto industry fought seat belts I think for more than a decade; successfully fought any regulations on seat belts even though the numbers were extremely obvious. If you had a seatbelt on, you would be far less likely to die or seriously injured. It was unequivocal. And the industry fought this for years successfully. (22:30) Eventually, after many, many people died, regulators insisted on seat belts. This time frame is not relevant to A.I. You can’t take ten years from the point which is dangerous. It’s too late.
+
+**Joe Rogan:** And you feel like this is decades away or years away from being too late. If you have this fatalistic attitude, and you feel like it’s going… – we’re in an almost like a doomsday countdown.
+
+**Elon Musk:** It’s not necessarily a doomsday countdown. It’s a…
+
+**Joe Rogan:** …out of control countdown?
+
+**Elon Musk:** Out of control, yeah. People call it the singularity and that’s probably a good way to think about it. It’s a singularity, it’s hard to predict, like a black hole. What happens after the event horizon?
+
+**Joe Rogan:** Right. So, once it’s implemented it’s very difficult because it would be able to…
+
+**Elon Musk:** Once the genie’s out of the bottle, what’s going to happen?
+
+**Joe Rogan:** And it will be able to improve itself.
+
+**Elon Musk:** Yes.
+
+**Joe Rogan:** That’s where it gets spooky, right? The idea that it can do thousands of years of innovation very, very quickly.
+
+**Elon Musk:** Yeah.
+
+**Joe Rogan:** And then we’ll be just ridiculous.
+
+**Elon Musk:** Ridiculous.
+
+**Joe Rogan:** We will be like this ridiculous biological shitting, pissing thing trying to stop the gods. “No stop. We like living with a finite lifespan and watching, you know, Norman Rockwell paintings.”
+
+**Elon Musk:** It could be terrible, and it could be great. It’s not clear.
+
+**Joe Rogan:** Right.
+
+**Elon Musk:** But one thing is for sure. We will not control it.
+
+**Joe Rogan:** Do you think that it’s likely that we will merge somehow or another with this sort of technology and it will augment what we are now, or do you think it will replace us?
+
+**Elon Musk:** The emerge scenario with A.I. is the one that seems like probably the best.
+
+**Joe Rogan:** For us.
+
+**Elon Musk:** Yes. If you can’t beat it, join it. From a long-term existential standpoint, that’s like the purpose of Neuralink is to create a high bandwidth interface to the brain such that we can be symbiotic with A.I. (25:00) Because we have a bandwidth problem. You just can’t communicate through your fingers. It’s too slow.
+
+**Joe Rogan:** And where is Neuralink at right now?
+
+**Elon Musk:** I think, we have something interesting to announce in a few months that’s at least an order of magnitude better than anything else. I think, better than, probably, anyone thinks is possible.
+
+**Joe Rogan:** How much can you talk about that right now?
+
+**Elon Musk:** I don’t want to jump the gun on that.
+
+**Joe Rogan:** But what’s like the ultimate… – What’s the idea behind it, like, what are you trying to accomplish with it? Like, what would you like best case scenario?
+
+**Elon Musk:** I think, best case scenario, we effectively emerge with A.I. where A.I. serves as a tertiary cognition layer. We’ve got the limbic system – kind of the primitive brain essentially. You’ve got the cortex. So, you’re currently in a symbiotic relationship. Your cortex and limbic system are in a symbiotic relationship. And generally, people like their cortex, and they like their limbic system. I haven’t met anyone who wants to delete their limbic system or delete their cortex. Everybody seems to like both.
+
+And the cortex is mostly in service to the limbic system. People may think that their thinking part of themselves is in charge, but it’s mostly their limbic system that’s in charge. And the cortex is trying to make the limbic system happy. That’s what most of that computing power is oriented towards. How can I make the limbic system happy? That’s what it’s trying to do.
+
+Now, if we do have a third layer, which is the A.I. extension of yourself, that is also symbiotic. And there’s enough bandwidth between the cortex and the A.I. extension of yourself, such that the A.I. doesn’t de facto separate. Then that could be a good outcome. That could be quite a positive outcome for the future.
+
+**Joe Rogan:** So, instead of replacing us it will radically change our capabilities.
+
+**Elon Musk:** Yes. It will enable anyone who wants to have superhuman cognition. Anyone who wants. This is not a matter of earning power because your earning power would be vastly greater after you do it. So, it’s just like, anyone who wants can just do it (27:30) in theory. That’s the theory. If that’s the case and, let’s say, billions of people do it, then the outcome for humanity will be the sum of human will. The sum of billions of people’s desire for the future.
+
+**Joe Rogan:** That billions of people with enhanced cognitive ability, radically enhanced.
+
+**Elon Musk:** Yes.
+
+**Joe Rogan:** But how much different than people today? Like, if you had to explain it to a person who didn’t really understand what you were saying – how much different are you talking about? When you say, ‘radically improved’, what do you mean? You mean mind reading?
+
+**Elon Musk:** It will be difficult to really appreciate the difference. It’s kind of like, how much smarter are you with a phone or computer than without. It’s, you’re vastly smarter actually. You know, you can answer any question if you connect with the internet. You can answer any question pretty much instantly, any calculation; your phone’s memory is essentially perfect. You can remember flawlessly. Your phone can remember videos, pictures, and everything perfectly.
+
+Your phone is already an extension of you. You’re already a cyborg. You don’t even – well, most people don’t realize they are already a cyborg. It’s that phone is an extension of yourself. It’s just that the data rate, the communication rate between you and the cybernetic extension of yourself that is your phone and computer, is slow. It’s very slow. And that is like a tiny straw of information flow between your biological self and your digital self. And we need to make that tiny straw like a giant river; huge, high bandwidth interface.
+
+It’s an interface problem, data rate problem. Solve the data rate problem, then, I think, we can hang on to human-machine symbiosis through the long term. And then people may decide (30:00) that they want to retain their biological self or not. I think they will probably choose to retain their biological self.
+
+**Joe Rogan:** Versus some sort of Ray Kurzweil scenario where they download themselves into a computer?
+
+**Elon Musk:** You will be essentially snapshotted into a computer at any time. If your biological self dies, you could probably just upload into a new unit literally.
+
+**Joe Rogan:** Pass that whiskey. We’re getting crazy over here. This is getting ridiculous.
+
+**Elon Musk:** Down the rabbit hole.
+
+**Joe Rogan:** Grab that, sucker. Give me some of that. This is too freaky. See, if I was just talking…
+
+**Elon Musk:** I’ve been thinking about this for a long time, by the way.
+
+**Joe Rogan:** I believe you. If I was talking to one…- Cheers, by the way.
+
+**Elon Musk:** Cheers. It’s a great whiskey.
+
+**Joe Rogan:** Thank you. I don’t know where this came from. Who brought this to us?
+
+**Jamie:** Trying to remember. I can’t…
+
+**Joe Rogan:** Somebody gave it to us. Old Camp. Whoever this was,…
+
+**Elon Musk:** It’s good.
+
+**Joe Rogan:** …thanks. Yeah, it is good. This is just inevitable. Again, going back to your when you decided to have this fatalistic viewpoint. So, you tried to warn people, you talked about this pretty extensively. I’ve read several interviews where you talked about this. And then you just sort of just said, ‘okay, it just is’. And, in a way, by communicating the potential for… – I mean, for sure you’re getting the warning out to some people.
+
+**Elon Musk:** Yeah. I mean, I was really going on the warning quite a lot. I was warning everyone I could. Even met with Obama, just for one reason.
+
+**Joe Rogan:** Just to talk about A.I.
+
+**Elon Musk:** Yes.
+
+**Joe Rogan:** And what did he say? So, what about Hillary? Worry about her, first. Shh, everybody be quiet.
+
+**Elon Musk:** He listened. He certainly listened. I met with Congress. I was at a meeting with all 50 governors and talked about just the A.I. danger, and I talked to everyone I could. No one seemed to realize where this was going.
+
+**Joe Rogan:** Is it that, or do they just assume that someone smarter than them has already taken care of it? Because when people hear about something like A.I., it’s almost abstract. It’s almost like it’s so hard to wrap your head around it, and by the time it already happens, it’ll be too late.
+
+**Elon Musk:** Yeah, I think they didn’t quite understand it or didn’t think it was near term or (32:30) not sure what to do about it. I said like, you know, an obvious thing to do is to just establish a committee, government committee, to gain insight before you oversight, before you do make regulations, they should try to understand what’s going on. And then, if you have an insight committee, once they learn what’s going on, you get up to speed. Then, they can make some rules or propose some rules. That would be probably a safer way to go about things.
+
+**Joe Rogan:** I know that it’s probably something that the government is supposed to handle, but it seems like I wouldn’t… I don’t want the government to handle this.
+
+**Elon Musk:** Who do you want to handle this?
+
+**Joe Rogan:** I want you to handle this.
+
+**Elon Musk:** Oh geez.
+
+**Joe Rogan:** I feel like you’re the one who could ring the bell better. Because if Mike Pence starts talking about A.I., I’m like, shut up, bitch, you don’t know anything about A.I. Come on, man, he doesn’t know what he’s talking about. That’s just games.
+
+**Elon Musk:** But I don’t have the power to regulate other companies. I don’t if I’m supposed to, but you know.
+
+**Joe Rogan:** Right. But maybe companies could agree. Maybe there could be some sort of a…- We have agreements where you’re not supposed to dump toxic waste into the ocean, you’re not supposed to do certain things that could be terribly damaging even though they’d be profitable. Maybe this is one of those things. Maybe you should realize that you can’t hit the switch on something that’s going to be able to think for itself and make up its own mind as to whether or not it wants to survive or not, and whether or not it thinks you’re a threat, and whether or not it thinks you’re useless.
+
+Like why do I keep this dumb, finite life form alive? Why keep this thing around? It’s just stupid, it just keeps polluting everything, it shits everywhere it goes, lighting everything on fire and shooting each other. Why would I keep this stupid thing alive? Because sometimes it makes good music, you know. Sometimes it makes great movies, sometimes it makes beautiful art, and sometimes it’s cool to hang out with.
+
+**Elon Musk:** Yeah, for all those reasons.
+
+**Joe Rogan:** Yeah, for us, those are great reasons. But for anything objective standing outside, this is definitely a flawed system. This is like, if you went to the jungle and you watch these chimps engage in warfare and beat each other with wooden sticks…
+
+**Elon Musk:** Chimps are really mean.
+
+**Joe Rogan:** They’re fucking real mean.
+
+**Elon Musk:** I saw this movie “Chimpanzee”, and I thought it was going to be like some Disney thing. I was like, holy cow.
+
+**Joe Rogan:** What movie was that?
+
+**Elon Musk:** It’s literally called “Chimpanzee”.
+
+![Movie Emporium » Oscar the chimpanzee](https://img.youtube.com/vi/HBAYVUQC-Fw/0.jpg)
+
+**Joe Rogan:** Is it a documentary?
+
+**Elon Musk:** Yeah, it’s kind of like a documentary. I was like,” Damn, these chimps are mean.”
+
+**Joe Rogan:** They’re mean.
+
+**Elon Musk:** They’re cruel.
+
+**Joe Rogan:** Yeah, they’re calculated. They sneak up on each other and…
+
+**Elon Musk:** I didn’t realize chimps did calculated cruelty. (35:00) I was pretty… I left that meeting kinda like, whoa, this is dark.
+
+**Joe Rogan:** Right. Well, we know better because we’re advanced. But, if we hadn’t, we’d be like, man, I don’t want to live in a house; I like the chimp ways, bro, chimp ways to go, this is it, man, chimp life. You know, we got…
+
+**Elon Musk:** Simple chimp life.
+
+**Joe Rogan:** …chimp life right now. But we, in a way, to the A.I., might be like those chimps. Like, these stupid fucks launching missiles out of drones, and shoot each other under water. Like, we’re crazy. We got torpedoes and submarines and airplanes that drop nuclear bombs indiscriminately on cities. We’re assholes. They might go, why are they doing this? It might like, look at our politics, look at what we do in terms of our food system. What kind of food we force down each other’s throats? And they might go, these people are crazy. They don’t even look out for themselves.
+
+**Elon Musk:** I don’t know. I mean, how much do we think about chimps? Not much.
+
+**Joe Rogan:** Very little.
+
+**Elon Musk:** It’s like, these chimps are at war. It’s like groups of chimps just attack each other, and they kill each other, and they torture each other, that’s pretty bad. They hunt monkeys. But this is probably the most …- You know, when was the last time you talked about chimps?
+
+**Joe Rogan:** Me?
+
+**Elon Musk:** Yeah.
+
+**Joe Rogan:** All the time.
+
+**Elon Musk:** You do?
+
+**Joe Rogan:** You’re talking to the wrong guy.
+
+**Elon Musk:** Okay. Well, unfortunately, yeah.
+
+**Joe Rogan:** This fucking podcast, dude, we’re talking about chimps every episode.
+
+**Elon Musk:** It’s chimp city? Okay.
+
+**Joe Rogan:** People are laughing right now. Yeah, constantly, I’m obsessed. I saw that David Attenborough documentary on chimps where they were eating those colobus monkeys and ripping them apart.
+
+**Elon Musk:** Yes, that’s rough. Gruesome.
+
+**Joe Rogan:** I saw that many years ago. It just changed how, if I go, ‘oh, this is why people are so crazy. We came from that thing’.
+
+**Elon Musk:** Yeah, exactly. And there’s the Bonobos. They got, like, a better philosophy.
+
+**Joe Rogan:** Yeah, they’re like swingers. Yeah, they really are. They seem to be way more – even than us – way more civilized.
+
+**Elon Musk:** They just seem to resolve everything with sex.
+
+**Joe Rogan:** Yeah, the only rules they have is, the mom won’t bang the son. That’s it.
+
+**Elon Musk:** Okay.
+
+**Joe Rogan:** That’s it. Mom won’t bang the sons. They’re good women. Good women in the bonobo community. Everybody else is just banging it out.
+
+**Elon Musk:** Yeah. I haven’t seen the bonobo movie.
+
+**Joe Rogan:** Well, they’re disturbing just at a zoo. You know, you have bonobos at the zoo.
+
+**Elon Musk:** They’re just constantly going…
+
+**Joe Rogan:** Constantly fucking, yeah. (37:30) That’s all they do. They just won’t stop. And they don’t care, gay, straight – whatever, let’s just fuck. What’s with these labels?
+
+**Elon Musk:** I haven’t seen bonobos at a zoo. It’s probably, like…
+
+**Joe Rogan:** I don’t think I have either.
+
+**Elon Musk:** And not in the PG section.
+
+**Joe Rogan:** Yeah, I don’t think they have them at many zoos. We’ve looked that up before too, didn’t we?
+
+**Elon Musk:** It’s probably pretty awkward.
+
+**Joe Rogan:** I think that’s the thing. They don’t like to keep regular chimps at zoos because bonobos are just always jacking off and…
+
+**Elon Musk:** Yeah.
+
+**Joe Rogan:** Fucking it.
+
+**Jaime:** In San Diego.
+
+**Joe Rogan:** What’s that? They have in San Diego?
+
+**Jaime:** San Diego’s got some, yeah.
+
+**Joe Rogan:** Really? Interesting.
+
+**Elon Musk:** Yeah.
+
+**Joe Rogan:** Probably separate them. Yeah.
+
+**Elon Musk:** I mean, how many are there in a cage, you know? I was like,…
+
+**Joe Rogan:** Right.
+
+**Elon Musk:** …it’s going to be pretty intense.
+
+**Joe Rogan:** Yeah, we’re a weird thing, you know. And I’ve often wondered if whether or not we’re – you know, our ultimate goal is to give birth to some new thing. And that’s why we’re so obsessed with technology. Because it’s not like this technology is really…- I mean, it’s certainly enhancing our lives in a certain way, but, I mean, ultimately, is it making people happier right now? Most technology, I would say, no. In fact, you and I were talking about social media before this, about just not having Instagram on your phone and not dealing, and you feel better.
+
+**Elon Musk:** Yes, I think, one of the issues with social media, it’s been pointed out by many people, is that I think, maybe particularly Instagram – people look like they have a much better life than they really do.
+
+**Joe Rogan:** Right.
+
+**Elon Musk:** So…
+
+**Joe Rogan:** By design.
+
+**Elon Musk:** Yeah. People are posting pictures of when they’re really happy. They’re modifying those pictures to be better looking. Even if they are not modifying the pictures, they’re, at least, selecting the pictures for the best lightning, the best angle. So, people basically seem they are way better looking than they basically really are.
+
+**Joe Rogan:** Right.
+
+**Elon Musk:** And they’re way happier seeming than they really are. So, if you look at everyone on Instagram, you might think, “Man, there are all these happy, beautiful people, and I’m not that good looking, and I am not happy. So, I must suck,” you know. And that’s going to make you feel sad; when, in fact, those people you think are super happy, actually, not that happy. Some of them are really depressed. They’re very sad. Some of the happiest-seeming people are actually some of the saddest people in reality. And nobody looks good all the time. It doesn’t matter who you are.
+
+**Joe Rogan:** No, it’s not even something you should want. (40:00)
+
+**Elon Musk:** Yeah.
+
+**Joe Rogan:** Why do you want to look great all the time?
+
+**Elon Musk:** Yeah, exactly. So, I think, things like that can make people quite sad just by comparison, because you’re sort of…- People generally think of themselves relative to others. It’s like we are constantly re-baselining our expectations. And you can see this, say, if you watch some show like ‘Naked and Afraid’, or, you know, if you just go and try living in the woods by yourself for a while, and you’re like… – they learn that civilization is quite great, it has a lot…- People want to come back to civilization pretty fast on ‘Naked and Afraid’. (40:40)

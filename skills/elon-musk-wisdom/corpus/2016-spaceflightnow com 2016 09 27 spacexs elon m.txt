@@ -1,0 +1,105 @@
+# SOURCE: https://spaceflightnow.com/2016/09/27/spacexs-elon-musk-announces-vision-for-colonizing-mars/
+# TITLE: SpaceX’s Elon Musk announces vision for colonizing Mars – Spaceflight Now
+# FETCHED: fetch_content_cache
+
+[![Elon Musk presents his Mars colonization vision at the International Astronautical Congress on Tuesday in Guadalajara, Mexico. Credit: Tim Dodd/Spaceflight Now/www.timdoddphotography.com](http://spaceflightnow.com/wp-content/uploads/2016/09/IAC-2016-07708-web-2-copy-2.jpg)](http://spaceflightnow.com/wp-content/uploads/2016/09/IAC-2016-07708-web-2-copy-2.jpg)
+
+Elon Musk presents his Mars colonization vision at the International Astronautical Congress on Tuesday in Guadalajara, Mexico. Credit: Tim Dodd/Spaceflight Now/www.timdoddphotography.com
+
+SpaceX chief executive Elon Musk on Tuesday outlined an ambition to send humans to Mars with methane-fueled reusable spaceships and the largest rocket ever built, an effort he said will likely require government support and initially cost billions of dollars to develop and test.
+
+Musk’s rollout of his Mars colonization vision, a glitzy reveal years in the making, included a description of an architecture that could eventually ferry more than 100 people to the red planet on each expedition, and perhaps thousands if SpaceX and its partners could muster support to build a fleet of boosters and airliner-sized spaceships.
+
+“What I want to do is make Mars seem possible, to make it seem as if it’s something we can do in our lifetimes, and that you can go,” Musk said.
+
+SpaceX plans to launch its first mission to Mars, a robotic test flight with a modified Dragon capsule, as soon as May 2018. After that “Red Dragon” flight, Musk said SpaceX’s goal is to send at least one spacecraft to Mars during every interplanetary launch opportunity, which come every 26 months or so.
+
+The concept detailed Tuesday features a huge rocket standing 400 feet (122 meters) tall, and a fleet of passenger-carrying spaceships and refueling tankers.
+
+Musk’s long-term vision is to build a self-sustaining civilization on Mars, complete with “iron foundries and pizza joints.” Eventually, it might have a million residents or more.
+
+“When will we reach that million person threshold? It’s probably between 20 and 50 total Mars rendezvouses,” Musk said, counting Mars launch windows occurring every other year. “It’s probably anywhere from 40 to 100 years to fully achieve a self-sustaining civilization on Mars.”
+
+He counts those numbers from the time of the first crewed flight, which might some as soon as the 2020s.
+
+“We aspire to launch in late 2024 with an arrival in early 2025,” Musk told reporters after his presentation at the International Astronautical Congress in Guadalajara, Mexico. “That’s optimistic, so I would describe that as an aspiration and within the realm of possibility, but a lot of things need to go right. That said, I don’t think it would be significantly beyond that if it did go later.”
+
+Musk’s presentation Tuesday proposes a wildly different way to travel to Mars than a plan developed by NASA, which is building its own powerful rocket, the expendable Space Launch System based on space shuttle-era propulsion systems, and Orion spaceships for a series of astronaut flights around the moon in the 2020s for long-distance shakedown cruises, then to orbit Mars some time in the mid-2030s.
+
+NASA and international astronaut crews in Mars orbit could operate rovers exploring the surface in real-time — without the communications lag between Mars and Earth — visit the Martian moon Phobos, and conduct other investigations ahead of a landing that might perhaps happen as soon as the end of the 2030s.
+
+SpaceX’s Mars architecture, dubbed the Interplanetary Transport System, is designed with a long-term base and city in mind.
+
+“This is different from Apollo,” Musk said.
+
+Musk established SpaceX in 2002 with a $100 million investment, money he earned after co-founding PayPal and selling the online payment company to eBay. He wanted to put an unpiloted lander on Mars to grow plants in the planet’s rust-colored soil, but balked at high rocket prices and a shaky launch market when he tried to purchase a Russian booster to dispatch his small-scale biosphere from Earth.
+
+Founded in a workshop in suburban Los Angeles, SpaceX’s objectives from the beginning were to reduce the cost and complexity of spaceflight, and extend humanity’s reach into the solar system and become a multi-planet species.
+
+Musk’s company has developed a series of Falcon rockets since 2002 with an eye toward achieving SpaceX’s first goal.
+
+First came the Falcon 1, a relatively simple booster with a single first stage engine to loft about a half-ton of cargo into low Earth orbit. The Falcon 1’s first three missions all failed, nearly putting SpaceX out of business.
+
+But the Falcon 1 had two successes on the heels of the failures, giving NASA confidence to award SpaceX a $1.6 billion contract in December 2008 to supply cargo and provisions to the International Space Station’s crew after the space shuttle’s retirement.
+
+The commercial cargo deal was a turning point for SpaceX, which used government and private investments to develop the larger Falcon 9 launcher and Dragon supply ship for space station servicing flights. The Falcon 9’s relatively low price, around $60 million, has also attracted commercial satellite owners to book flights on SpaceX’s workhorse launcher.
+
+[![File photo of a Falcon 9 launch. Credit: SpaceX](http://spaceflightnow.com/wp-content/uploads/2016/09/27294263035_5236360c9a_k-2.jpg)](http://spaceflightnow.com/wp-content/uploads/2016/09/27294263035_5236360c9a_k-2.jpg)
+
+File photo of a Falcon 9 launch. Credit: SpaceX
+
+SpaceX says it has a backlog of more than 70 missions worth more than $10 billion.
+
+Those figures include piloted missions under a $2.6 billion contract signed with NASA in 2014 to design and certify a highly-modified Dragon capsule — called Crew Dragon, or Dragon 2 — to carry astronauts to and from the space station.
+
+Boeing won a similar contract for its CST-100 Starliner crew capsule, giving NASA two routes for crews to reach the orbiting research laboratory.
+
+But SpaceX has run into recent trouble with the Falcon 9, the launcher intended for the company’s crew flights to low Earth orbit, with a pair of failures last year and Sept. 1. Musk said SpaceX has not lost a contract in the wake of the mishaps, but the Falcon 9 is grounded until engineers can root out the cause of the most recent explosion, which occurred during a ground test at Cape Canaveral and destroyed the rocket and its Israeli-owned communications satellite payload.
+
+SpaceX needs revenue from its commercial satellite launches to help fund Musk’s Mars voyages, which he envisions will be a public-private partnership.
+
+“It’s going to be a challenge to fund this whole endeavor, but we do generate very decent cash flow from launching lots of satellites and servicing the space station,” Musk said.
+
+“Ultimately, this is going to be a huge public-private partnership,” Musk said. “That’s how the United States was established, and many other countries around the world, through public-private partnerships.”
+
+Musk projected the cost of the Interplanetary Transport System around $10 billion before the commercial effort begins making money to recoup the investment. SpaceX is currently spending “a few tens of millions of dollars” on the effort, he said.
+
+“Right now, we’re just trying to make as much progress as we can with the resources that we have available so to keep moving forward, and hopefully, I think as we show that this is possible, that this dream is real and not just a dream, that it is something that could be made real, I think the support will snowball over time,” Musk said.
+
+He added that he is making the initial investments himself.
+
+“The main reason I’m personally accumulating assets is in order to fund this,” Musk said. “I really don’t have any other motivation for personally accumulating assets, except to be able to make the biggest contribution I can to making life mutli-planetary.”
+
+Why set up a city on Mars? To ensure the human species survives a massive extinction event on Earth, like an asteroid impact, war or a plague, Musk said.
+
+The moon is not an good option because it lacks an atmosphere, has weaker gravity than Mars, and lacks resources like large reservoirs of frozen ice and carbon dioxide that could be converted into water, air and rocket propellant on the red planet.
+
+“In general, Mars is much better suited to being able to scale up to become a self-sustaining civilization,” Musk said.
+
+[![Artist's illustration of SpaceX's huge Mars-class booster launching from launch pad 39A at NASA's Kennedy Space Center in Florida. Credit: SpaceX](http://spaceflightnow.com/wp-content/uploads/2016/09/29937258946_c5f0ec30fb_h.jpg)](http://spaceflightnow.com/wp-content/uploads/2016/09/29937258946_c5f0ec30fb_h.jpg)
+
+Artist’s illustration of SpaceX’s huge Mars-class booster launching from launch pad 39A at NASA’s Kennedy Space Center in Florida. Credit: SpaceX
+
+SpaceX’s Mars mission design drew immediate comparisons to NASA’s plan, but Musk avoided explicitly advocating for his concept over the government’s.
+
+“I think it’s good for there to be multiple paths to Mars,” Musk said. “I wouldn’t suggest any attempt at interplanetary travel be canceled. I think it’s good to have multiple irons in the fire.”
+
+Musk added that he hopes the international community, with a wide presence at the global space conference in Mexico this week, is interested in building Mars-class rockets and spaceships similar to the ones described in his presentation.
+
+“I think it’s better for the world if there are multiple companies or organizations building interplanetary spacecraft,” Musk said. “The more, the better. Anything, I think, that improves the probability of the future is good, and multiple companies doing it, I think, would be great.”
+
+John Logsdon, a respected space historian and founder of the Space Policy Institute at George Washington University, said the unveiling of the details of SpaceX’s Mars plan will “stimulate thinking, stimulate ideas, and maybe stimulate enough public support so NASA gets the funding it needs to actually do what it says it wants to do.”
+
+While Musk was circumspect about getting support from NASA, he said he hopes the space agency will offer support in the way it did to SpaceX’s Falcon 9 rocket and the first version of its Dragon spaceship, which were kick-started by hundreds of millions of dollars of NASA seed money.
+
+“In the future, there may be a NASA contract, there may not be, I don’t know,” Musk said. “If there is, that’s a good thing. If there’s not, probably it’s not a good thing, but there are larger issues at stake here. Are we going to become a multi-planet species or not? Not pedestrian questions of if it’s public or private, or what are the percentages? There are sort of small and tawdry questions.”
+
+But Mars will require money, and it is not clear whether NASA will support a plan that could damage programs like the SLS and Orion vehicles, which have widespread, bipartisan support in Congress.
+
+“It’s a vision, it’s not a plan yet,” Logsdon said of Musk’s presentation in an interview with Spaceflight Now. “I think a lot of technical details are not fully fleshed out, and certainly the non-technical part is very schematic in how anybody’s going to pay for this, who’s going to do it, and all that.
+
+“Bold visions are good. They stimulate. Elon said he’s offering this to the world as one way to do it, and he hopes people organize around it. He would like to do it, obviously, but it was good that he said he is not trying to undercut NASA. He’s not competing … Let the marketplace of Mars plans sort it out.”
+
+**_[Email](mailto:sclark@spaceflightnow.com) the author._**
+
+_**Follow Stephen Clark on Twitter: [@StephenClark1](http://www.twitter.com/stephenclark1/).**_

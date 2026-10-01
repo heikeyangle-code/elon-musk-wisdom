@@ -1,0 +1,54 @@
+# SOURCE: https://www.elonmuskbook.org/the-book-of-elon-musk-free-online-version/listen-well-correct-fast
+# HARVESTED: 2026-09-29
+
+Thank you for visiting the site. Enjoy the published content and the book. We appreciate your support, and please pay it forward.
+
+The Book of Elon Musk Elon Musk's Most Useful Ideas In His Own Words
+
+Mar 31
+
+Mar 31 Listen Well, Correct Fast
+
+Eric Jorgenson
+
+The initial thought with X.com was to create a conglomeration of financial services, so you have one place where all your financial service needs could be seamlessly integrated and work smoothly.
+
+We had a little feature: payments through email. When we showed the system to someone, we’d show the hard part first: the conglomeration of financial services. Nobody was interested.
+
+Then we showed people email payments, which were relatively easy to build, and everybody was interested. So, we focused on email payments. That’s what really got PayPal to take off.
+
+It’s important to take feedback from your environment. If we hadn’t responded to what people said, we probably would not have been successful. It’s important to look for things like that, focus on them, and correct your prior assumptions. You want to close those loops as quickly and clearly as possible.436
+
+I’m trying to create an accurate mental model of reality. If I have a wrong view on something, or if there’s a nuanced improvement that can be made, I say, “I used to think this, which turned out to be wrong—thank goodness I don’t have that wrong belief anymore.”437
+
+I’m a huge believer in taking feedback.
+
+We took a similar approach with PayPal that worked at Zip2, which was to have a small group of very talented people, and keep it small. PayPal had maybe thirty engineers for a system which I would say is more sophisticated than the Federal Reserve clearing system.
+
+Both Zip2 and PayPal operated like Silicon Valley startups. Pretty flat hierarchy, everybody had a similar desk, and anyone could talk to anyone.
+
+We had a philosophy of “best idea wins” as opposed to the person proposing the idea winning because of who they are. Even though there were times when I thought that should have been the way to go. Everyone was an equity stakeholder.438
+
+If there were two options, and one wasn’t obviously better than the other, rather than spend time trying to pick which one was slightly better, we would just pick one and go. Sometimes we were wrong and picked the suboptimal path, but at least we moved fast.439
+
+Better to pick a path and keep moving than just vacillate endlessly on a decision.
+
+We were focused on building the best product we possibly could. Both Zip2 and PayPal were product-focused companies. We didn’t worry too much about intellectual property paperwork. We were incredibly obsessive about building the best possible customer experience. That was a far more effective selling tool than having a giant sales force or marketing gimmicks.440
+
+Pay close attention to negative feedback, and solicit it, particularly from friends. It’s incredibly helpful.
+
+This may sound like simple advice, but hardly anyone does it.441
+
+Eric Jorgenson
+
+CEO of Scribe Media. Author of The Almanack of Naval and The Anthology of Balaji. Investing in technology startups as GP at Rolling Fun. Podcast: Smart Friends. Happy to be in touch through Twitter or email.
+
+Website
+
+About the book
+
+Book and website curating and sharing Elon's wisdom. Coming soon on March 24th. Follow on Twitter.
+
+Mar 31 Going All In, Again (Zip2 Earnings into PayPal)
+
+Mar 31 Unite and Conquer

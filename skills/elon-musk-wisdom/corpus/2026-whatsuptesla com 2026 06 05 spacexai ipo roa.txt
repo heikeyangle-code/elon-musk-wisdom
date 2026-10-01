@@ -1,0 +1,96 @@
+# SOURCE: https://whatsuptesla.com/2026/06/05/spacexai_ipo_roadshow
+# TITLE: Elon Musk Interviewed by Jamie Dimon at JPMorgan: Full Verbatim Transcript (SpaceX IPO, Starlink & Multi-Planetary Future)
+# FETCHED: fetch_content_cache
+
+**June 5, 2026 — Elon Musk made a virtual appearance at a special JPMorgan investor event hosted by CEO Jamie Dimon at the bank’s global headquarters in New York as part of the SpaceX IPO Roadshow.** Elon joined live (remotely) to discuss SpaceX’s upcoming IPO, the massive capital-intensive growth phase ahead, Starlink V3 and beyond, space-based AI data centers, harnessing “star power” for energy, the Moon-to-Mars roadmap, Starship reusability, Terafab chip ambitions, AI strategy with Grok, and building strong teams/culture. It was a wide-ranging, optimistic conversation about why now is the right time for SpaceX to go public and help make humanity multi-planetary.
+
+Here is my full verbatim transcript (carefully stitched from the YouTube video with captions enabled, cross-checked against available sources including Singju Post for maximum accuracy and cleaned for readability while preserving natural speech patterns, repetitions, and tone):
+
+### Welcome and Maye Musk Introduction
+
+**Host**: Elon, welcome to JP Morgan’s headquarters. You’re on the 51st floor, which is about the equivalent of nowhere near where you go generally in space, but as high as we can get in New York City. But before we get started with you and Jamie, we had a very special guest that wanted to welcome you here this afternoon. And so your mother, **Maye Musk**, is here to welcome you.
+
+**Elon Musk**: Great.
+
+**Host**: Maye, please stand up. I don’t think you can see me or everybody here.
+
+**Maye Musk**: They can see you. Yes, he can. This is your part.
+
+**Elon Musk**: I actually can’t see my mom, but I can hear her certainly. Okay.
+
+**Maye Musk**: What I’d like to say is when you were 3 years old and I told people I have a genius son, they would roll their eyes… And then when you said you wanted to start with rockets, then I rolled my eyes. And then you did it. And so this is just a great party here and we’re celebrating.
+
+**Elon Musk**: Sounds good. Love you so much.
+
+**Maye Musk**: Love you too.
+
+**Host**: One proud mama.
+
+**Jamie Dimon**: So let me, Elon, welcome you. It’s a real privilege to have you here on this momentous occasion. It is new for us, but it’s an important thing — the trajectory of American innovation. We’re here live: 3,500 people, our top individual investors around the world in 100 branches. There are 350 people here, 3,500 around the country. This is a very unique thing, by the way, because Elon has spoken to me about democratizing finance. This is part of it — treating individual investors the same way institutions are treated and hedge funds and all those things. My view is it’s a wonderful thing to do. Elon, very brave by the way because I would never let my mother speak publicly when I was in the room. God knows what she would have said.
+
+**Elon Musk**: God knows what she would have said. I had no idea she was there actually.
+
+**Jamie Dimon**: Elon is the Edison of our time. I remember visiting Elon in Tesla like 15 years ago. A whole new way of building cars, vertical integration which had not been anything remote from what our car companies are doing. Now you have SpaceX. I visited the SpaceX factory in California and it’s exceptional to have more than 650 rockets. You told me one today putting satellites in space. You have 9,000, almost 10,000 Starlink satellites up there. Starlink 3 is coming which is a whole new generation which hopefully will replace some of these undersea cables. It’s been an extraordinary 24 years watching Elon grow over time and now making a massive leap into the future. So welcome. Elon, I have 10 questions for you. So I want to make sure I get to each one. Some of them came from folks here. They’re all important, but one just to start is: why SpaceX public now? Because you had choices. You didn’t have to. Why now?
+
+### Why Take SpaceX Public Now?
+
+**Elon Musk**: Yeah. I’ve been asked for many years about taking SpaceX public. So it’s probably been, I don’t know, almost 10 years that people have been suggesting to me that I should take SpaceX public. We’ve been positive cash flow for quite a long time — I think since around 2014-2015 — and we’ve been self-funding. In fact, in our private equity rounds they actually have not been fundraising rounds. They’ve been liquidity rounds for investors and employees because we give everyone at the company stock, and SpaceX has actually bought back stock in most of our sort of funding events.
+
+So what’s different about now is a number of things, but we are embarking on a significant growth phase — like a capital growth phase — where we’re going to put in orbit probably 100,000 satellites, or probably over 100,000 satellites just for communications. And these will be Version 3 and beyond versus Version 2 and Version 1 that are currently in orbit. Version 3 is, depending on how you count it, 10 to 20 times more capable than the Version 2 satellite. And there were three chips that the SpaceX chip design team taped out that are specific to this, that are far beyond state-of-the-art, which means it’s 100 times more bandwidth than the SpaceX Starlink system currently offers and also half the latency because the altitude will be about half.
+
+I think it will actually be the highest bandwidth, lowest latency means of communicating. And the future with AI and robots is actually going to require a lot more bandwidth than we currently use. Because you can imagine what’s the bandwidth of a human? The peak bandwidth of a human is a few hundred bits per second, but bandwidth of a computer can be a trillion bits a second. So the appetite for bandwidth of AI and compute, AI and robots, is going to be enormous.
+
+And then we’re also doing the AI data centers in space, which is another massive capital endeavor. But I think it’ll be the primary means by which AI can be expanded. It’s increasingly difficult to build power plants on the ground. There are very few people who want a power plant in their backyard. So if we wanted to, say, double the electricity usage of the United States, which is on average about 500 gigawatts, we would have to build about twice as many power plants, which I don’t think most communities are super excited about.
+
+But actually, if we go to space, we can go far beyond the electricity generation of Earth. In fact, this is going to sound crazy, but you could actually increase harnessed energy by a factor of a million and still be using much less than a millionth of the Sun’s energy. Current human civilization uses much less than a trillionth of the Sun’s energy output, which is humbling to think about. We’re really a tiny dust mote in a vast darkness, and the Sun is enormous. The Sun is 99.8% of all mass in the solar system, and most of the remaining is Jupiter.
+
+Sometimes people ask me — and I’m maybe going a little wide-ranging in this answer because you just asked me why you’re going public now, and I’m talking about the Sun’s power output. A bit of a long-winded answer. But it is important. Some of these things are important because people sometimes wonder what’s the future of energy generation. And I can say that it is absolutely solar power — or maybe a better word for solar power is star power. It’s the power of a star. And the crazy thing is that if you burnt all mass in the solar system that was not the Sun, the amount of energy produced by the Sun would still round up to 100%. Because the Sun is 99.8% of the mass of the solar system. Even if you teleported two more Jupiters from another solar system and burnt them too, the Sun would round up to 100%. It’s very much the Sun, and you could scale to a million times Earth’s economy in space in terms of harnessed power — which is a good proxy for economic output — and still be much less than a millionth of the Sun’s energy, which is humbling really to think about how tiny we are, and this is just one star among many. So I guess the TL;DR would be: we’re embarking on a massive new growth phase and we need capital for that.
+
+**Jamie Dimon**: Okay. Number two. Another thing is the revenue — like I also feel pretty good about the revenue projections, but before, revenue was a little unstable, but now I feel like the revenue is much more predictable.
+
+**Elon Musk**: Yeah.
+
+**Jamie Dimon**: I always learn listening to you, I guarantee you. So I mean, people hear about multi-planetary species, travel to space — one of the most exciting ideas in human history. Can you explain the bridge that you speak about? I’ve heard you talk about from the Earth to the Moon to Mars.
+
+### Moon to Mars Roadmap
+
+**Elon Musk**: Yeah. So you don’t necessarily have to go through the Moon to get to Mars. I just think that we can build a self-growing city on the Moon faster than we could do so on Mars. And there’s also the potential, if you say you want to scale far beyond what you can do from Earth, that because the Moon has no atmosphere and about 1/6th Earth’s gravity, you can use an electromagnetic accelerator — a rail gun or mass driver. Basically, you don’t need to use rockets to do AI data centers into deep space from the Moon. You can literally just shoot them like a rail gun type of thing. And you can manufacture the solar power and radiators on the Moon from Moon materials. That would allow scaling potentially to beyond a thousand terawatts a year, which is a truly staggering number. Like I think we can do probably somewhere around 1 terawatt per year of AI space compute from Earth, but we can do a thousand terawatts or more from the Moon. And like I said, we can also make a Moon base. And I think it would be pretty cool if you could vacation on the Moon. That would be the most epic vacation. Not everybody wants to go to the Moon, but I think a lot of people do. I think it would be pretty amazing — obviously provided you could do so safely and come back safely and everything — but I think that will be possible in the future. And then Mars is another step beyond that. Mars is a whole planet with gravity much closer to that of Earth. And it has an atmosphere, albeit thin. And if you warm up Mars, you could one day make Mars like Earth — meaning with liquid oceans and life and where you could walk outside without a space suit type of thing. So Mars is, I call it, a fixer-upper of a planet, but it’s got a lot of potential.
+
+### Key Takeaways
+
+**SpaceX IPO & Massive Growth Phase**
+
+*   SpaceX has been cash-flow positive and largely self-funding for years. Prior rounds focused on liquidity for employees and investors.
+*   Going public now to fuel a huge capital-intensive expansion: 100,000+ Starlink satellites (V3+), space AI data centers, and multi-planetary infrastructure.
+
+**Starlink V3, Bandwidth & AI Future**
+
+*   V3 satellites offer dramatically higher capability, bandwidth, and lower latency.
+*   Essential for the coming explosion in AI/robot compute demand.
+
+**Space Energy (“Star Power”) & Orbital AI Data Centers**
+
+*   Terrestrial power plant expansion faces huge social and practical limits.
+*   Space-based solar and AI compute offer near-unlimited scaling potential.
+
+**Moon-to-Mars Roadmap**
+
+*   Moon as a faster path to self-sustaining presence and a launch platform for deep-space assets.
+*   Mars as the ultimate long-term home with terraforming potential.
+
+**Starship, Chips & Broader Vision**
+
+*   Full rapid reusability on Starship is a historic milestone.
+*   Vertical integration into advanced chip production (Terafab) to support orbital AI ambitions and reduce U.S. semiconductor vulnerabilities.
+
+### Elon’s Standout Quotes
+
+*   “We’re really a tiny dust mote in a vast darkness… The Sun is 99.8% of all mass in the solar system.”
+*   “It is absolutely solar power — or maybe a better word for solar power is star power. It’s the power of a star.”
+*   “Version 3 is… 10 to 20 times more capable… 100 times more bandwidth.”
+*   On the Moon: “I think it would be pretty cool if you could vacation on the Moon. That would be the most epic vacation.”
+*   “Mars is a fixer-upper of a planet, but it’s got a lot of potential.”
+
+### My Take
+
+I’m always struck by Elon’s generosity with his time and vision, even when it means late nights. The surprise appearance by **Maye Musk** was such a warm, human highlight — a proud mom moment that perfectly set the tone. This conversation really underscores that SpaceX going public isn’t just about rockets; it’s about scaling AI, energy, and making life multi-planetary. As someone who follows these developments closely from Austin, this one feels like another Elon Musk Master PLAN! Excited to see how the IPO roadshow and Starlink V3 progress unfold!

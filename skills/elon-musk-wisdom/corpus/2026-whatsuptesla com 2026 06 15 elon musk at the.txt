@@ -1,0 +1,105 @@
+# SOURCE: https://whatsuptesla.com/2026/06/15/elon-musk-at-the-montana-economic-development-summit-2013-full-transcript-with-historical-context/
+# TITLE: Elon Musk at the Montana Economic Development Summit (2013) Full Transcript with Historical Context
+# FETCHED: fetch_content_cache
+
+**Date:** September 16, 2013 **Location:** Butte, Montana (Montana Tech campus) **Event:** 6th Montana Economic Development Summit (also called Montana Jobs Summit) **Organized by:** U.S. Senator Max Baucus
+
+### Introduction & Context (for 2026 readers)
+
+In September 2013, Elon Musk was 42 years old and running two companies that had both nearly gone bankrupt just five years earlier during the 2008 financial crisis.
+
+At the time, **Tesla** had only recently begun production of the Model S. The car had just launched and was receiving strong early reviews, but the company was still fragile and not yet profitable. **SpaceX** had achieved its first orbital success in 2008 and won NASA contracts, but it was still a relatively small player in the launch industry. Elon was deeply focused on making both companies succeed and was already thinking about reusability for rockets — a goal he would publicly emphasize more in the years that followed.
+
+Elon lived in the Los Angeles area at the time (primarily in Bel Air), splitting his time between Tesla’s operations in the Bay Area and SpaceX’s headquarters in Hawthorne, California.
+
+He was invited to speak in **Butte, Montana** by longtime U.S. Senator **Max Baucus**, who had been organizing these economic development summits to bring high-profile business leaders to rural Montana. The goal was to attract investment, create jobs, and put Montana “on the map” for technology and manufacturing.
+
+A key reason Elon accepted the invitation was that **SpaceX already had a supplier relationship with a Butte company called SeaCast**. The company made cast titanium and Inconel components for SpaceX rocket engines. Elon even visited the SeaCast foundry with his five children during the trip, an experience he mentions at the beginning of the talk.
+
+The audience consisted of:
+
+*   Montana business owners and executives
+*   Local political and economic development leaders
+*   Students and faculty from Montana Tech
+*   Investors and entrepreneurs interested in bringing more industry to the state
+*   Supporters of Senator Baucus’s efforts to boost Montana’s economy
+
+It was not a tech conference or a large public event — it was a targeted economic development summit in a small city in Montana.
+
+* * *
+
+### Transcript
+
+**Elon Musk:** All right, well thanks very much for having me. I actually just came from C Cast, which is they make cast titanium and Inconel parts for the SpaceX rocket engines. And I actually brought all my five kids who are sitting right there. So they got to see steel being poured and then titanium being poured as well and creating sophisticated castings. They seem pretty excited about that. It was kind of like Charlie in the Metal Factory, I guess.
+
+So let’s see, I guess I’ll maybe talk a bit about entrepreneurship and technology, tell you about my experiences and what happened to me. And then I think we’re going to try to reserve as much time as possible for a Q&A from the audience. Certainly feel free to ask any and every question.
+
+I’ll kind of give the nutshell account because it’s getting a little bit long at this point.
+
+**Elon Musk:** I arrived in North America when I was about 17. I was born in South Africa, but I was actually named after my American great-grandfather. So I was returning to my ancestral homeland actually. He was John Elon Haldeman and he was from Minnesota and generally from the Minnesota-Wisconsin area.
+
+I wanted to come to the United States because I think it’s where great things are possible. It’s where the technological frontiers are pushed forward. I knew I wanted to be involved in that. I don’t know exactly how, but anyway I went through college and ended up at Stanford with the idea of studying applied physics and material science to try to figure out ways to store energy more effectively for electric cars so you can make them go further.
+
+I ended up putting that on hold to start an internet company in ’95.
+
+**Elon Musk:** At the time it wasn’t from the perspective of making a lot of money because nobody had made any money on the internet in ’95. But it seemed to me that the internet was something that would create effectively like a nervous system for humanity. Whereas previously if you wanted to access information you’d have to go to a library, and even if you went to a lot of libraries you still wouldn’t have access to all that much information.
+
+But if everything got connected, then anyone anywhere — if you’re in the middle of the Amazon jungle in South America or something and you had an internet connection — you’d have access to all the world’s information. In fact you’d have access to more information than the U.S. president did in, let’s say, 1980. So it’d be pretty incredible and transformative.
+
+I thought well I wanted to be part of helping make that happen. So I decided to put my studies at Stanford on hold and started an internet company initially to help the media companies get online. We had as investors and customers New York Times company and so forth, and that ended up working out. So we sold that company and then created PayPal.
+
+The idea behind PayPal was simply to facilitate payments on the internet. Because at the time if you bought something from someone you’d have to mail them a check and it would take weeks to conduct the transfer. We figured out how to make it really fast and easy to transfer funds from one person to another. And that actually grew super fast. It grew virally. The key to that was figuring out how to make the friction of signing up for an account very very low and make it easy for one person to refer another.
+
+As our customer base grew, the actual rate of growth grew. This resulted in some initial challenges in scaling because we started off with five people in customer service and after two months we had 100,000 customers. So our phone lines exploded basically, but we were able to overcome those issues. And then eBay bought the company in 2002 and it’s sort of grown from there.
+
+## Elon Musk once considered building a Mars Oasis with a Greenhouse!
+
+**Elon Musk:** What that did though was gave me the capital to try to do some things that are fairly high capital. There were two things I really wanted to get into. One was sustainable energy production and consumption of energy in a sustainable manner, and the other was space exploration.
+
+I started off initially with the idea of doing something in the space exploration arena. In fact it wasn’t actually with the idea of creating a company. It was initially with the thought of spurring interest in sending people to Mars. So I put together this idea called Mars Oasis which was to send a small greenhouse to the surface of Mars and get people excited about the idea of going there and thus increase NASA’s budget in order to make it happen.
+
+![](https://whatsuptesla.com/wp-content/uploads/2026/06/image-27.jpg?w=1024)
+
+Elon Musk considered building a Mars Oasis in a cool Greenhouse
+
+As I got more and more into that I discovered that the real issue was that the cost of space transportation was really high — in fact it was getting worse. We’re used to technology getting better every year but in some arenas it actually does not, it gets worse. Particularly when you consider that in 1969 we were able to go to the moon and then we were unable to go beyond low Earth orbit. And now with the Space Shuttle retired we’re not even able to go to Earth orbit at all with people. So that was not the right trajectory.
+
+### Elon Musk went to Russia Three Times!
+
+I actually went to Russia three times to look at buying an ICBM to launch this mission. After my third trip of trying to negotiate with the Russians to buy an ICBM — and I did actually get a deal — I concluded that my initial assumption had been wrong. It was not a question of trying to generate more will to explore, because I think the United States in particular is distillation of the human spirit of exploration. Space exploration is fundamental to the American psyche. But people really need to believe that it can be done and it’s not going to break the bank.
+
+That’s when I decided to start a rocket company. I actually didn’t think it would succeed and it almost didn’t. We started off developing a small rocket which was kind of a scale model version. It was about 100,000 lbs of thrust — big by normal standards but small for a rocket. We developed the engine and the airframe and the electronics and the guidance control system and then proceeded to have three failed launches in a row.
+
+For various technical reasons the first three launches did not succeed in reaching orbit. Launches 2 and 3 did get to space but they didn’t achieve enough speed to reach orbital velocity. This is 2008 and we’re heading into the recession and we had one rocket left. Unfortunately in late 2008 that fourth launch did work and then we made it to orbit and then we won a NASA contract after that. So fortunately things worked out, but if that fourth launch had not worked then SpaceX wouldn’t be around. It was a very close call.
+
+**Elon Musk:** There was also Tesla. The impetus for Tesla was really to create a compelling electric car. At first I thought there would not really be a need for such a thing because GM at the time had created the EV1 and Toyota had done the electric RAV4. It had been primarily as a result of regulations from the zero emission mandate states, particularly California. They created these electric vehicles and I thought okay this is great, well GM’s obviously going to go from the EV1 to the EV2 and the EV3 and everything will be fine.
+
+But when California changed regulations they actually recalled all the EV1s and then crushed them so that they could never be returned. So it was clear that if a startup company did not create an electric vehicle and show that it’s possible to have an electric car that looks good, goes fast, has long range, and that people would buy it, then it would be a very long time before the large incumbents did so. That was why I felt it was important that we create Tesla.
+
+Tesla also almost died in 2008. The recession was particularly difficult for car companies. Right in the summer of 2008 we had to raise a big funding round but because of the collapse in the financial system that funding round didn’t happen. We had to piece together the money to keep the company going from myself and existing investors. We were able to just complete a financing round that was just barely enough to keep the company going. We closed it on the last hour of the last day that it was possible to do so. It was Christmas Eve 2008 at 6 p.m. If we hadn’t, the investors were going on vacation and we would have run out of money a few days after Christmas. That was also a close call.
+
+While things are going really well these days, I think it’s always important to remember that when you’re creating a company there are very dark times and it’s about getting through those dark times that’s the difference between success and failure.
+
+**Elon Musk:** Of course now things are actually going pretty well for Tesla — may they stay that way. We’ve got the Model S which is in production. Consumer Reports gave it a 99 out of 100, which is actually the highest score that Consumer Reports has ever given a car of any kind. When the federal government did the safety test it also got the highest safety rating of any car ever, including many vans and SUVs.
+
+We’re actually exporting a lot of the cars to Europe currently and then we’ll start exporting to Asia. It’s funny, we got these incredibly good rates for shipping goods to China because all these container ships come in full and they go back empty, so it’s real cheap to ship things to China. We’ll start doing that in the first quarter.
+
+With SpaceX we’ve got a launch coming up which is our next generation rocket. The key thing for rocketry, the key breakthrough that’s needed, is to create a fully reusable rocket. I think what SpaceX has done thus far is evolutionary but not revolutionary. In order for that to occur you have to bring the rocket back to the launchpad and be able to relaunch it again. It has to be reusable much in the way that an airplane or a car or any other mode of transport is reusable. That’s kind of the Holy Grail goal of spaceflight which we’re hoping to make progress towards, but it’s very risky. There’s a good chance that the upcoming launch could go wrong. It’s currently slated for the end of this month. Hopefully that goes well. It’s always a tricky thing with the rocket business because you can’t issue a recall or send a software patch or anything after the rocket lifts off. Nine minutes later it’s either in orbit or it’s not.
+
+### Q&A Highlights with Elon Musk
+
+**Elon Musk:** (responding to audience questions)
+
+On influencing public policy: Not particularly successful at influencing public policy I would say. I kind of ride the flow of other people’s efforts more than anything else. For electric vehicles we basically followed what GM and Nissan were already doing with the tax credits. For space I think NASA should spend a much higher percentage of its budget on commercial space. Right now it’s only about seven or eight percent.
+
+On getting through dark times: The thing about dark times is that a company is really just a group of people that are trying to create a product or a service. If you believe that what you’re doing is important and you show that you’re all in — you invested everything you had, you borrowed money to pay rent — and you hire people who are really passionate about it, then they’ll stay through the tough times.
+
+On why sustainable energy matters: Even if you ignore the environmental argument, which I don’t think you should, the economic argument is pretty strong. Because if we run out of cheap energy or energy becomes very expensive then civilization as we know it could collapse. So I think it’s the most important problem to solve on Earth this century.
+
+On SpaceX’s ultimate goal: The goal is to make life multi-planetary, to create the technology to have a self-sustaining city on Mars basically as life insurance for consciousness and also because it’s an exciting thing to do.
+
+On risk tolerance: I was willing to lose everything but I figured I could always make more money. The hardest decision was having to choose between putting the last money into Tesla or SpaceX, because if I split it both would probably die. So I had to go all in on one.
+
+_(The Q&A continued with additional questions on grid storage, involving young people, building tech economies in rural areas, government regulations, and long-duration space travel challenges.)_
+
+* * *

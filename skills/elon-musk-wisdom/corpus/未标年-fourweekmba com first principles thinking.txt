@@ -1,0 +1,845 @@
+# SOURCE: https://fourweekmba.com/first-principles-thinking/
+# TITLE: First Principles Thinking: Definition & 15 Examples - FourWeekMBA
+# FETCHED: fetch_content_cache
+
+PROCESS & METHOD
+
+Table of Contents
+
+*   [First-principles Thinking](#First-principles_Thinking)
+*   [Understanding first-principles thinking](#Understanding_first-principles_thinking)
+*   [Engaging in first-principles thinking](#Engaging_in_first-principles_thinking)
+    *   [Identify and then challenge your assumptions](#Identify_and_then_challenge_your_assumptions)
+    *   [Separate the problem into its fundamental principles](#Separate_the_problem_into_its_fundamental_principles)
+    *   [Create new solutions](#Create_new_solutions)
+*   [Specific techniques that enable the establishment of first principles](#Specific_techniques_that_enable_the_establishment_of_first_principles)
+    *   [Socratic questioning](#Socratic_questioning)
+*   [The Five Whys (otherwise known as “Because I Said So”)](#The_Five_Whys_otherwise_known_as_%E2%80%9CBecause_I_Said_So%E2%80%9D)
+*   [First principles vs. analogy](#First_principles_vs_analogy)
+*   [Leveraging first principles thinking in design strategy](#Leveraging_first_principles_thinking_in_design_strategy)
+*   [How to apply first principles in design thinking](#How_to_apply_first_principles_in_design_thinking)
+    *   [Step 1 – Identify the assumption](#Step_1_%E2%80%93_Identify_the_assumption)
+    *   [Step 2 – Break down the assumption into fundamental truths](#Step_2_%E2%80%93_Break_down_the_assumption_into_fundamental_truths)
+    *   [Step 3 – Devise the new solution](#Step_3_%E2%80%93_Devise_the_new_solution)
+*   [How to apply first principles thinking to entrepreneurship](#How_to_apply_first_principles_thinking_to_entrepreneurship)
+*   [First principles thinking examples in business](#First_principles_thinking_examples_in_business)
+    *   [Auto industry entrepreneurship](#Auto_industry_entrepreneurship)
+    *   [Dutch bicycle manufacturer](#Dutch_bicycle_manufacturer)
+*   [Key takeaways](#Key_takeaways)
+*   [Key Highlights:](#Key_Highlights)
+*   [Connected Thinking Frameworks](#Connected_Thinking_Frameworks)
+*   [Frequently Asked Questions](#Frequently_Asked_Questions)
+    *   [Frequently Asked Questions](#Frequently_Asked_Questions-2)
+    *   [Related](#Related)
+
+First-principles thinking – sometimes called reasoning from first principles – is used to reverse-engineer complex problems and encourage creativity. It involves breaking down problems into basic elements and reassembling them from the ground up. Elon Musk is among the strongest proponents of this way of thinking. First-principles thinking has been employed by many greater thinkers over the years, including military strategist John Boyd and ancient Greek philosopher Aristotle.
+
+Process Flow
+
+1 Identify the assum 2 Break down the ass 3 Devise the new sol
+
+Step-by-Step Process
+
+1
+
+Identify the assumption
+
+In this case, the assumption is that active users want to create groups to share their favorite music with multiple friends simultaneously.
+
+2
+
+Break down the assumption into fundamental truths
+
+The designer starts by determining what constitutes an active user.
+
+3
+
+Devise the new solution
+
+By now it is obvious that the designer has used first principles thinking to discover the fundamental truths about a user need.
+
+Strengths
+
+—
+
+Limitations
+
+✗The next time you are faced with a problem or challenge, write down long-held assumptions about them.
+
+✗If you are trying to lose weight, you might assume you don’t have enough time to do so.
+
+✗If you are trying to grow a business, you might assume it can’t be done without a large sum of money.
+
+✗How do you know an assumption is true? What would happen if you believed the opposite?
+
+Real-World Examples
+
+Airbnb Amazon Google Intel Target Tesla
+
+Practical Application
+
+1
+
+Clear the clutter, think like a child, and rebuild your thinking system from the ground up.
+
+2
+
+Consider a music streaming [platform](https://fourweekmba.com/platform-business-models/ "platform") that wants a designer to create a new feature that will enable users to create groups.
+
+3
+
+If the designer is using first principles, the natural inclination should be to question whether users have a true need for this feature.
+
+4
+
+To avoid a scenario where they ignores first principles and [design](https://fourweekmba.com/design-thinking/ "design") the feature anyway, there are three simple steps to follow.
+
+5
+
+In this case, the assumption is that active users want to create groups to share their favorite music with multiple friends simultaneously.
+
+Quick Answers
+
+What is Engaging in first-principles thinking?
+
+To harness the power of first-principles thinking, simply work through the following steps:
+
+What are the specific techniques that enable the establishment of first principles?
+
+Here are two specific techniques that enable a practitioner to establish first principles.
+
+What is the five whys (otherwise known as “because i said so”)?
+
+Since children are naturally curious, they instinctively reason from first principles without conscious effort. This sense of wonder fades as children become adults, which, to some extent, is why first principles thinking has to be “relearned”.
+
+Key Insight
+
+“ Physics teaches you to reason from first principles rather than by analogy. So I said, okay, let’s look at the first principles. What is a rocket made of? Aerospace-grade aluminum alloys, plus some titanium, copper, and carbon fiber. Then I asked, what is the [value](https://fourweekmba.com/value-proposition-canvas/ "value") of those materials on the commodity market? It turned out that the materials cost of a rocket was around 2% of the typical price”,
+
+Exec Package + Claude OS Master Skill | [Business Engineer](https://fourweekmba.com/the-business-engineer-thinking-os-three-core-principles/) Founding Plan
+
+FourWeekMBA x Business Engineer | Updated 2026
+
+First-principles thinking – sometimes called reasoning from first principles – is used to reverse-engineer complex problems and encourage creativity. It involves breaking down problems into basic elements and reassembling them from the ground up. Elon Musk is among the strongest proponents of this way of thinking.
+
+**First principles thinking is a problem-solving approach that breaks down complex problems into their most basic, fundamental elements.** This method involves questioning assumptions, identifying core truths that cannot be reduced further, and building solutions from these foundational components rather than reasoning by analogy or convention.
+
+Aspect
+
+Explanation
+
+**Definition**
+
+First-principles thinking is a problem-solving and decision-making approach that involves breaking down complex problems or ideas into their most fundamental or basic components, starting from foundational principles or truths. It was popularized by physicist and inventor, Isaac Newton, and is often used in various fields, including science, engineering, entrepreneurship, and innovation. The goal is to gain a deeper understanding of a subject and to develop creative solutions or innovations by building knowledge from the ground up, without relying on existing assumptions or conventional wisdom.
+
+**Key Concepts**
+
+– **Fundamental Principles**: The approach starts with identifying and understanding the fundamental principles or facts related to a problem or concept.  
+– **Deconstruction**: It involves deconstructing a complex issue into its constituent parts or basic elements.  
+– **Independent Thinking**: First-principles thinking encourages independent and critical thinking, challenging established assumptions.  
+– **Creativity and Innovation**: It fosters creativity by allowing individuals to recombine foundational knowledge in novel ways to arrive at innovative solutions.  
+– **Cost-Efficiency**: In business and engineering, it can lead to more cost-efficient solutions as it questions the necessity of existing components or processes.
+
+**Characteristics**
+
+– **Rooted in Fundamental Knowledge**: The approach relies on knowledge rooted in fundamental truths and facts.  
+– **Analytical and Critical**: It involves analytical thinking and questioning established assumptions.  
+– **Customizable**: First-principles thinking is highly adaptable and can be applied to various domains and challenges.  
+– **Time-Consuming**: It can be time-consuming, especially when deconstructing complex problems, but often leads to more robust solutions.  
+– **Innovation Driver**: Commonly used by innovators and entrepreneurs to break new ground and disrupt industries.
+
+**Implications**
+
+– **Deep Understanding**: It promotes a deep and thorough understanding of the subject matter.  
+– **Innovation**: By challenging existing assumptions, it can lead to groundbreaking innovations and creative solutions. – **Cost Optimization**: In business and engineering, it can result in cost optimization by eliminating unnecessary components or processes.  
+– **Disruption**: First-principles thinking often leads to disruptive ideas and approaches that challenge the status quo.  
+– **Learning Mindset**: Requires a continuous learning mindset to keep questioning and evolving one’s understanding.
+
+**Advantages**
+
+– **Innovative Solutions**: It fosters innovation and the development of unconventional solutions.  
+– **Robust Problem Solving**: Leads to more robust and effective problem-solving.  
+– **Efficiency**: In engineering and business, it can optimize processes and reduce costs.  
+– **Independent Thinking**: Encourages independent and critical thinking.  
+– **Customizability**: Applicable to a wide range of fields and challenges.
+
+**Drawbacks**
+
+– **Time-Consuming**: The process can be time-consuming, especially when dealing with complex issues.  
+– **Requires Knowledge**: It relies on a strong foundation of knowledge and facts.  
+– **Not Always Practical**: In some situations, relying on existing knowledge or heuristics may be more practical.  
+– **Risk of Overanalysis**: Overanalysis can lead to paralysis by analysis, where individuals get stuck in the deconstruction phase and fail to take action.  
+– **Initial Effort**: It may require significant effort and mental energy to break down complex problems into first principles.
+
+**Applications**
+
+– **Science and Engineering**: Used in scientific research and engineering to develop new technologies and solve complex problems.  
+– **Entrepreneurship**: Entrepreneurs apply first-principles thinking to create innovative products or services and disrupt established industries.  
+– **Finance and Investing**: In finance, it can help in fundamental analysis and investment decision-making.  
+– **Product Design**: Designers use it to rethink product designs and features from the ground up.  
+– **Problem Solving**: Applicable to a wide range of problem-solving scenarios across different domains.
+
+**Use Cases**
+
+– **Space Exploration**: SpaceX founder Elon Musk applied first-principles thinking to reduce the cost of space travel. By reevaluating the cost of individual components, he made space exploration more affordable.  
+– **Electric Vehicles**: Tesla used this approach to design electric vehicles with longer battery life and better performance, challenging traditional automotive assumptions.  
+– **Renewable Energy**: Innovations in renewable energy technologies often start with a reexamination of energy generation and storage principles.  
+– **Medical Research**: In medical research, scientists may apply first-principles thinking to understand the fundamental biological processes underlying diseases, leading to novel treatments.  
+– **Entrepreneurship**: Entrepreneurs use it to identify market opportunities and develop disruptive business models.
+
+## **Understanding first-principles thinking**
+
+First-principles thinking has been employed by many greater thinkers over the years, including military strategist John Boyd and ancient Greek philosopher Aristotle.
+
+FIRST PRINCIPLES THINKING PROCESS
+
+IDENTIFY
+
+Assumptions
+
+→
+
+BREAK DOWN
+
+To fundamentals
+
+→
+
+QUESTION
+
+Each truth
+
+→
+
+REBUILD
+
+From ground up
+
+Used by: Elon Musk, Jeff Bezos, Charlie Munger
+
+In modern times, Elon Musk is the thinker most associated with the concept.
+
+When the entrepreneur attempted to source rockets for an expedition to Mars, he ran into a major challenge right away.
+
+After consulting with several companies, Musk learned the cost of a single rocket would be an astronomical $65 million.
+
+This presented a major obstacle to his ambitions, so he used first-principles thinking to reframe the problem.
+
+“_Physics teaches you to reason from first principles rather than by analogy. So I said, okay, let’s look at the first principles. What is a rocket made of? Aerospace-grade aluminum alloys, plus some titanium, copper, and carbon fiber. Then I asked, what is the [value](https://fourweekmba.com/value-proposition-canvas/ "value") of those materials on the commodity market? It turned out that the materials cost of a rocket was around 2% of the typical price”,_
+
+Musk would later remark.
+
+Everyone knows that SpaceX was born soon after. However, the reasons for establishing the company are perhaps more interesting.
+
+Instead of spending tens of millions of dollars on rockets, Musk decided to create SpaceX so he build the rockets himself using cheaper raw materials.
+
+Fundamentally, first-principles thinking encourages individuals to think like scientists who do not assume anything to be true.
+
+The method requires actively questioning every assumption one has regarding a problem or situation and creating new knowledge from the ground up. 
+
+Indeed, first principles can be described as basic assumptions that cannot be reduced or questioned any further.
+
+At this point, creativity and [innovation](https://fourweekmba.com/business-model-innovation/ "innovation") begin.
+
+## **Engaging in first-principles thinking**
+
+To harness the power of first-principles thinking, simply work through the following steps:
+
+### _**Identify and then challenge your assumptions**_
+
+The next time you are faced with a problem or challenge, write down long-held assumptions about them.
+
+If you are trying to lose weight, you might assume you don’t have enough time to do so.
+
+If you are trying to grow a business, you might assume it can’t be done without a large sum of money.
+
+Challenge your beliefs.
+
+How do you know an assumption is true? What would happen if you believed the opposite?
+
+### _**Separate the problem into its fundamental principles**_
+
+What are the most basic truths or elements of your problem?
+
+Asking powerful questions is one way to identify these truths or elements.
+
+When Musk was faced with historically expensive battery pack manufacturing, he used first-principles thinking to break the problem down.
+
+He asked himself what the constituent parts of a battery were and how much every part was worth if purchased separately on a commodities exchange.
+
+### **_Create new solutions_**
+
+With the constituent parts identified, how can they be recombined in a different way to produce something new and insightful?
+
+Someone who believes they have no time for losing weight could try less frequent, high-intensity workouts to burn fat.
+
+A budding entrepreneur could joint-venture with a high-profile player in their industry to share costs and promote themselves to a new audience.
+
+At this point, it’s important to be bold and courageous.
+
+As Musk once said, “_Good ideas are always crazy until they’re not._”
+
+## **Specific techniques that enable the establishment of first principles**
+
+Here are two specific techniques that enable a practitioner to establish first principles.
+
+### _**Socratic questioning**_
+
+Socratic questioning is a way to arrive at first principles via robust [analysis](https://fourweekmba.com/business-analysis/ "analysis"). The disciplined technique is used to reveal underlying assumptions, establish truths, and separate ignorance from knowledge. 
+
+The key difference between Socratic questioning and natural conversation is that the former is more systematic. To that end, the individual is encouraged to move through the following steps with several introspective questions attached to each:
+
+1.  Clarify your thinking and explain how you arrived at an idea – _What exactly do I think? Why do I think it?_
+2.  Challenge your assumptions at all costs – _How I can verify this is true? What would happen if I believed the opposite to be the case?_
+3.  Search for evidence – _Can I support my assertions with reputable sources?_
+4.  Consider alternative points of view – _How do I know I am correct? What do others believe?_
+5.  Examine consequences and their implications – _What are the ramifications in the event I am wrong?_
+6.  Question the questions – _Why did I think what I thought? Was that line of thinking correct? What conclusions can I draw from this process?_
+
+Socratic questioning avoids a tendency to reason by analogy because it reduces the reliance on intuition and prevents a strong emotional response.
+
+## **The Five Whys (otherwise known as “Because I Said So”)**
+
+Since children are naturally curious, they instinctively reason from first principles without conscious effort. This sense of wonder fades as children become adults, which, to some extent, is why first principles thinking has to be “relearned”. 
+
+Children play their own version of the Five Whys root cause technique in their attempt to understand why adults act in certain ways or say certain things. By the fifth “_Why?_”, the parent is exasperated and retorts with a firm “_Because I said so!”_
+
+Unfortunately, this retort is as useful to children as it is to adults. In the corporate world, employees who want to accomplish something see it as a point of resistance that slows their endeavors down. 
+
+This approach is also counterproductive since after two or three questions, the individual under repeated questioning becomes lost but cannot quantify why. Confronted by their ignorance of the topic at hand, they resort to self-defence, which, like resistance, kills opportunities for collaboration or [innovation](https://fourweekmba.com/business-model-innovation/ "innovation").
+
+Can you imagine if someone used the “_Because I said so”_ line on Elon Musk or Charlie Munger? Musk would build a billion-dollar business from scratch just to make a point, while Munger would no doubt profit from their ignorance.
+
+To arrive at first principles thinking as adults, we must never stop at another’s ignorance. When we let someone else tell us what is possible (or what is not possible), we outsource our thinking. We adopt their possibilities and conventions, reason by analogy, and conform to society.
+
+Clear the clutter, think like a child, and rebuild your thinking system from the ground up. Most importantly of all, be inquisitive and never satisfied with someone else’s answer.
+
+## **First principles vs. analogy**
+
+In some instances, first principles thinking can be extremely powerful.
+
+That applies in circumstances where most competition is fought around the same playfield, in what’s known as a [red ocean](https://fourweekmba.com/blue-ocean-strategy/).
+
+In that context, most players in the business landscape look at similar solutions to the same problem.
+
+Instead, first principles thinking can be powerful to break through and create a new business playfield.
+
+In that context, by creating a whole new product, a moonshot, a company can blow the competition off the ground, moving in a [blue ocean](https://fourweekmba.com/blue-ocean-strategy/).
+
+That’s where first principles thinking works well.
+
+However, in many other cases, an analogy can be a powerful thinking tool.
+
+An analogy is the opposite of first principles thinking, as in the latter case, you start from a blank slate, whereas in the former case, you can look at what’s been done before to improve it.
+
+An analogy can be applied vertically, which might create an incremental improvement.
+
+Take the case of a company that looks at another company’s products and makes it 2x better by reasoning by analogy and yet applying a twist to it.
+
+But, here, things get interesting; an analogy can also be applied horizontally, where you take an application in a field and make it into another field.
+
+Take the case of a company that borrows an idea from a geographical market and applies it to another geography.
+
+Or yet, the case of a company taking an idea from a player in a market niche and applying it to another market niche.
+
+For instance, for years, startups have applied the idea of “Uber for X and Y,” thus using the [Uber business model](https://fourweekmba.com/uber-business-model/) analogy to disrupt other verticals.
+
+In short, also via analogy, you can achieve great business outcomes. As not always, first principles thinking is well suited.
+
+## **Leveraging first principles thinking in design strategy**
+
+[Design thinking](https://fourweekmba.com/design-thinking-case-studies/) is the process of building incredible products with a customer-centered approach.
+
+Thus combining first principles thinking to [design thinking](https://fourweekmba.com/ideation-in-design-thinking/) might be extremely powerful.
+
+Let me explain how.
+
+![design-thinking](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2020/01/design-thinking.png?resize=1024%2C772&ssl=1)
+
+Tim Brown, Executive Chair of IDEO, defined [design](https://fourweekmba.com/design-thinking/ "design") thinking as “a human-centered approach to [innovation](https://fourweekmba.com/business-model-innovation/ "innovation") that draws from the designer’s toolkit to integrate the needs of people, the possibilities of technology, and the requirements for business success.” Therefore, desirability, feasibility, and viability are balanced to solve critical problems.
+
+Applying first principles to [design](https://fourweekmba.com/design-thinking/ "design") thinking involves solving [design](https://fourweekmba.com/design-thinking/ "design") problems by breaking them down into fundamental truths.
+
+Before we explain the first principles of [design](https://fourweekmba.com/design-thinking/ "design") thinking, it may be useful to define the concept of first principles.
+
+The idea, which encourages practitioners to think like a scientist, was first mentioned by Aristotle over two thousand years back.
+
+Today, first principles is the predominant way in which physicists and philosophers, in particular, question assumptions about a problem.
+
+They do this by breaking the problem into smaller and smaller fundamental truths. 
+
+Consider this article, for example.
+
+The article is comprised of paragraphs, and the paragraphs are comprised of sentences.
+
+The sentences are made up of words and the words of letters.
+
+The letter is the fundamental truth upon which all else rests because it cannot be broken down further.
+
+UX designers use first principles thinking often.
+
+Whether consciously or subconsciously, they break down problems into solutions.
+
+They hypothesize, [design](https://fourweekmba.com/design-thinking/ "design"), and question the [design](https://fourweekmba.com/design-thinking/ "design") via user testing to either prove or disprove their hypothesis. 
+
+In his 2011 book _[Design thinking](https://fourweekmba.com/design-thinking/): Understanding How Designers Think and Work_, author Nigel Cross made the connection between [design](https://fourweekmba.com/design-thinking/ "design") thinking and first principles based on research of designers in various fields:
+
+INTERACTIVE MAP Free Tool
+
+The AI Ecosystem Map — May 2026
+
+NVIDIA used first principles to dominate AI silicon. Explore the 7-layer AI map to see how the stack actually works.
+
+[Explore the Interactive AI Map →](https://businessengineer.ai/p/the-map-of-ai-redrawn?utm_source=fourweekmba&utm_medium=contextual&utm_campaign=first-principles-thinking)
+
+“_Three key strategic aspects of [design](https://fourweekmba.com/design-thinking/ "design") thinking appear to be common across all these studies: (1) taking a broad ‘systems approach’ to the problem, rather than accepting narrow problem criteria; (2) ‘framing’ the problem in a distinctive and sometimes rather personal way; and (3) designing from ‘first principles’”_. 
+
+Despite the apparent harmony between [design](https://fourweekmba.com/design-thinking/ "design") thinking and first principles, it would be unwise to assume that the two are present in _every_ organization.
+
+In some companies, poor culture and basic human psychology prevent designers from using first principles. Many instead default to reasoning by analogy, which aims to solve problems with widely-held assumptions and beliefs. 
+
+## **How to apply first principles in design thinking**
+
+Consider a music streaming [platform](https://fourweekmba.com/platform-business-models/ "platform") that wants a designer to create a new feature that will enable users to create groups.
+
+If the designer is using first principles, the natural inclination should be to question whether users have a true need for this feature.
+
+To avoid a scenario where they ignores first principles and [design](https://fourweekmba.com/design-thinking/ "design") the feature anyway, there are three simple steps to follow.
+
+### _**Step 1 – Identify the assumption**_
+
+In this case, the assumption is that active users want to create groups to share their favorite music with multiple friends simultaneously.
+
+### **_Step 2 – Break down the assumption into fundamental truths_**
+
+The designer starts by determining what constitutes an active user.
+
+They ask the product owner who then directs them to someone in analytics.
+
+Eventually, the designer learns that an active user is one that uses the streaming service for at least three hours per day.
+
+The next question writes itself: how does the designer then determine whether people who listen to music for three [hours a day](https://fourweekmba.com/eliminate-these-8-behaviors-unlocking-4-25-hours-a-day-with-ai/) want a group chat feature?
+
+Direct, qualitative data should be the first port of call, but ideally, users should also be given the chance to vote on features they want to see in the app. 
+
+Based on a poll and user interviews, the designer learns that while active users _do_ want groups, the actual user need is a group that enables them to split the cost of a subscription.
+
+In other words, the assumption that groups were for friends to share music recommendations was incorrect.
+
+### **_Step 3 – Devise the new solution_**
+
+By now it is obvious that the designer has used first principles thinking to discover the fundamental truths about a user need.
+
+This is a rather simple example, but the technique is no less effective when applied to more complex problems.
+
+When this sort of thinking becomes standard practice, the company itself becomes more innovative and competitive. 
+
+## **How to apply first principles thinking to entrepreneurship**
+
+First principles thinking can be extremely powerful also in the entrepreneurial world.
+
+Indeed, in some circumstances, it can lead to so-called paradigm shifts.
+
+Or changes in the business playbook.
+
+Indeed, one of the most exciting aspects of the business world is the fact that its rules can be, from time to time, rewritten.
+
+When the rules are rewritten, a paradigm shift happens. It means that what worked until that moment might stop working in the new landscape, but the old playbook might actually be detrimental.
+
+Take the case of the paradigm shift we had from [linear to platform business models.](https://fourweekmba.com/linear-vs-platform-business-models/)
+
+![linear-vs-platform-business-models](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2019/05/linear-vs-platform-business-models.png?resize=1024%2C772&ssl=1)
+
+Linear [business models](https://fourweekmba.com/what-is-a-business-model/) create [value](https://fourweekmba.com/value-proposition-canvas/ "value") by selling products down the supply chain. Platform [business models](https://fourweekmba.com/what-is-a-business-model/) create [value](https://fourweekmba.com/value-proposition-canvas/ "value") by enabling exchanges among consumers.
+
+While [platform business models](https://fourweekmba.com/platform-business-models/) might still operate – in part – like linear business models.
+
+On the other hand, making a shift toward becoming a [platform](https://fourweekmba.com/platform-business-models/ "platform") requires a complete rehaul of the playbook at hand.
+
+As you need to move from “how do we sell our products” to “how do we enable others to sell their products” or from “how do we build something valuable for customers?” to “how do we create the environment to enable others to build something compelling for customers.”
+
+When you change the underlying question and quest, it changes the whole business playbook.
+
+From that standpoint, therefore, first principles thinking can be powerful, as it helps redefine the fundamental question that lies underneath.
+
+## **First principles thinking examples in business**
+
+To emphasize the importance of first principles thinking in business, let’s describe one hypothetical and one real-world example and compare each to the much less effective [strategy](https://fourweekmba.com/business-strategy/ "strategy") of reasoning from analogy.
+
+### **_Auto industry entrepreneurship_**
+
+**Scenario:** A business wants to create a website where consumers can purchase a new vehicle for a low price and it have delivered to their home. The company also wants to employ staff who can carry out visual and technical inspections of the vehicle on the consumer’s behalf. 
+
+If the consumer never has to leave home, they can also avoid the stressful process of having to negotiate a price at the dealership and be subject to pushy sales tactics. 
+
+**Reasoning from analogy:** Most new cars are purchased from dealerships. Instead of allowing customers to buy a vehicle online, the entrepreneur considers whether it could use the website as a way for consumers to chat with staff and agree on a price beforehand. 
+
+The consumer could then visit the dealership to take care of any formalities such as registration and paperwork. Alternatively, this paperwork (and the car itself) could be delivered to the customer’s home by a member of staff.
+
+**Reasoning from first principles:** Irrespective of whether consumers buy new cars online or offline, the entrepreneur concludes that the traditional car dealership is no more than a middle-man that facilitates the sale. 
+
+They consider two alternative solutions. The first and most courageous involves starting a company that manufactures cars. However, this is later determined to be too complex and expensive. The second, more realistic choice involves bypassing dealerships and purchasing directly from the manufacturer to reduce costs.
+
+### **_Dutch bicycle manufacturer_**
+
+**Scenario:** In this real-world example, the Dutch bicycle manufacturer VanMoof found that the bikes it shipped to customers often arrived in the mail damaged. 
+
+This was a significant problem for the company because its bikes occupied the premium end of the market and were fitted with fragile electronics. What’s more, VanMoof had also set a goal to sell 90% of its bike online by the end of 2020.
+
+**Reasoning from analogy:** The most obvious course of action would be for the company to liaise with its shippers and ensure the freight was handled with more care. Other obvious choices include increasing the quality or quantity of packaging foam or making the bike components more resistant to dents and scratches.
+
+**Reasoning from first principles:** Ultimately, VanMoof used first principles thinking to arrive at an ingenious solution. On each of the boxes that contained the bikes, the company printed a picture of a flatscreen television.
+
+When shippers believed they were transporting a television, they tended to be more careful with customer orders. In an interview with _The Verge_, VanMoof creative director Bex Rad noted that instances of bike damage were [reduced by 70-80% almost overnight](https://www.theverge.com/2016/9/25/13048668/vanmoof-shipping-damages-dutch-bicycle-design). 
+
+VanMoof kept its [strategy](https://fourweekmba.com/business-strategy/ "strategy") a secret for a time to increase its effectiveness until it was exposed by a user on Twitter.
+
+## **Key takeaways**
+
+*   First-principles thinking helps individuals reverse engineer complex problems and think creatively.
+*   First-principles thinking has been popularized by Elon Musk, who has used the [strategy](https://fourweekmba.com/business-strategy/ "strategy") to reverse engineer the rocket and battery pack manufacturing process.
+*   First-principles thinking requires that we identify and then challenge our sometimes long-held assumptions around problems. We must then separate problems into fundamental elements and combine them in useful ways to create viable solutions.
+
+## **Key Highlights:**
+
+*   **Definition of First-Principles Thinking**: It involves breaking down complex problems into their fundamental components and reconstructing them from the ground up, without relying on existing assumptions. This method encourages creativity and [innovation](https://fourweekmba.com/business-model-innovation/ "innovation") by starting from basic truths or principles.
+*   **Key Concepts**: First-principles thinking focuses on understanding fundamental principles, deconstructing problems, fostering independent thinking, promoting creativity and [innovation](https://fourweekmba.com/business-model-innovation/ "innovation"), and optimizing cost-efficiency.
+*   **Characteristics**: It is rooted in fundamental knowledge, analytical and critical, customizable, time-consuming yet effective, and a driver of [innovation](https://fourweekmba.com/business-model-innovation/ "innovation") across various domains.
+*   **Implications**: First-principles thinking promotes deep understanding, [innovation](https://fourweekmba.com/business-model-innovation/ "innovation"), cost optimization, disruption, and a continuous learning mindset.
+*   **Advantages**: It fosters [innovation](https://fourweekmba.com/business-model-innovation/ "innovation"), robust problem-solving, efficiency, independent thinking, and customizability.
+*   **Drawbacks**: First-principles thinking can be time-consuming, requires strong foundational knowledge, may not always be practical, carries the risk of overanalysis, and demands initial effort to implement.
+*   **Applications**: It is used in science, engineering, entrepreneurship, finance, product [design](https://fourweekmba.com/design-thinking/ "design"), and problem-solving across different domains.
+*   **Use Cases**: Examples include SpaceX’s cost-effective rocket manufacturing, Tesla’s approach to designing electric vehicles, innovations in renewable energy, medical research, and entrepreneurial ventures.
+*   **Specific Techniques**: Socratic questioning and the Five Whys are techniques that enable practitioners to establish first principles effectively.
+*   **First Principles vs. Analogy**: While first-principles thinking is powerful for creating new business playfields and driving [innovation](https://fourweekmba.com/business-model-innovation/ "innovation"), analogy can also be effective for incremental improvements and expanding into new markets or niches.
+*   **Leveraging First Principles Thinking in Design Strategy**: Combining first-principles thinking with [design](https://fourweekmba.com/design-thinking/ "design") thinking can lead to the creation of innovative products and solutions by breaking down problems into fundamental truths and designing from the ground up.
+*   **How to Apply First Principles Thinking to Entrepreneurship**: First-principles thinking can lead to paradigm shifts in entrepreneurship by redefining fundamental questions and business playbooks, as demonstrated by hypothetical and real-world examples.
+*   **Key Takeaways**: First-principles thinking helps individuals reverse engineer complex problems, challenge assumptions, identify fundamental elements, and create viable solutions, driving [innovation](https://fourweekmba.com/business-model-innovation/ "innovation") and creativity across various domains.
+
+Example
+
+Description
+
+Implications
+
+SpaceX
+
+SpaceX, founded by Elon Musk, applies First Principles Thinking to the design and development of its space launch vehicles. Instead of relying on traditional aerospace industry practices and cost structures, SpaceX approaches each aspect of rocket design from first principles, questioning established assumptions and reimagining solutions. This approach has enabled SpaceX to significantly reduce the cost of space launches and achieve milestones such as reusable rocket stages.
+
+Applying First Principles Thinking to complex engineering challenges can lead to innovative solutions and cost efficiencies. Copywriters may emphasize SpaceX’s disruptive approach to space exploration and its commitment to rethinking established norms to attract clients and investors interested in groundbreaking technologies and cost-effective space access.
+
+Tesla
+
+Tesla, led by Elon Musk, applies First Principles Thinking to the design and manufacturing of electric vehicles (EVs) and renewable energy solutions. Rather than following conventional automotive industry practices, Tesla reexamines every aspect of vehicle design, battery technology, and production processes from first principles. This approach has enabled Tesla to pioneer advancements in EV battery technology, achieve economies of scale in manufacturing, and accelerate the adoption of sustainable transportation.
+
+Leveraging First Principles Thinking in product design and manufacturing can lead to technological breakthroughs and market leadership. Copywriters may highlight Tesla’s innovative approach to automotive engineering and its commitment to sustainability to appeal to environmentally conscious consumers and investors seeking disruptive technologies with long-term growth potential.
+
+Airbnb
+
+Airbnb applies First Principles Thinking to address challenges related to trust, safety, and user experience in the sharing economy. Instead of relying solely on existing hospitality industry practices, Airbnb reimagines solutions based on the fundamental principles of trust, community, and belonging. This approach has led to innovations such as user reviews, identity verification, and host guarantees, which have helped establish Airbnb as a trusted platform for peer-to-peer accommodation.
+
+Incorporating First Principles Thinking into business operations can lead to novel solutions and competitive advantages. Copywriters may highlight Airbnb’s customer-centric approach to problem-solving and its commitment to building trust and community to attract users and hosts seeking safe, reliable, and authentic travel experiences.
+
+Amazon
+
+Amazon applies First Principles Thinking to continually innovate and improve its e-commerce, cloud computing, and logistics operations. Instead of accepting conventional retail or technology industry practices, Amazon analyzes each aspect of its business from first principles, focusing on customer needs, efficiency, and long-term value creation. This approach has enabled Amazon to pioneer innovations such as one-click purchasing, Prime membership, and cloud computing services (AWS), transforming multiple industries and expanding its market reach.
+
+Adopting First Principles Thinking can drive continuous innovation and customer-centricity across diverse business domains. Copywriters may emphasize Amazon’s relentless focus on customer experience, operational excellence, and long-term value creation to attract customers and investors seeking reliable, innovative, and scalable solutions in e-commerce, cloud computing, and logistics.
+
+Google
+
+Google applies First Principles Thinking to product development, research, and organizational culture. By encouraging employees to question assumptions and explore new possibilities, Google fosters a culture of innovation and creativity. This approach has led to groundbreaking products and services such as Google Search, Gmail, and Google Maps, as well as advancements in artificial intelligence, machine learning, and autonomous vehicles.
+
+Cultivating a culture of First Principles Thinking can drive innovation and competitive advantage in technology and beyond. Copywriters may highlight Google’s commitment to curiosity, experimentation, and user-centric design to attract talent and customers seeking innovative solutions and transformative technologies with the potential to shape the future.
+
+## **Connected Thinking Frameworks**
+
+**[Convergent vs. Divergent Thinking](https://fourweekmba.com/convergent-vs-divergent-thinking/)**
+
+![convergent-vs-divergent-thinking](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2021/11/divergent-thinking-1.png?resize=1024%2C772&ssl=1)
+
+Convergent thinking occurs when the solution to a problem can be found by applying established rules and logical reasoning. Whereas divergent thinking is an unstructured problem-solving method where participants are encouraged to develop many innovative ideas or solutions to a given problem. Where convergent thinking might work for larger, mature organizations where divergent thinking is more suited for startups and innovative companies.
+
+**[Critical Thinking](https://fourweekmba.com/critical-thinking/)**
+
+![critical-thinking](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2022/12/various-frameworks.png?resize=1024%2C772&ssl=1)
+
+Critical thinking involves analyzing observations, facts, evidence, and arguments to form a judgment about what someone reads, hears, says, or writes.
+
+**[Biases](https://fourweekmba.com/biases/)**
+
+![biases](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2020/01/biases.png?resize=1024%2C772&ssl=1)
+
+The concept of cognitive biases was introduced and popularized by the work of Amos Tversky and Daniel Kahneman in 1972. Biases are seen as systematic errors and flaws that make humans deviate from the standards of rationality, thus making us inept at making good decisions under uncertainty.
+
+[**Second-Order Thinking**](https://fourweekmba.com/second-order-thinking/)
+
+![second-order-thinking](https://i2.wp.com/fourweekmba.com/wp-content/uploads/2020/10/second-order-thinking.png?resize=1024%2C772&is-pending-load=1&is-pending-load=1#038;ssl=1)
+
+Second-order thinking is a means of assessing the implications of our decisions by considering future consequences. Second-order thinking is a mental [model](https://fourweekmba.com/what-is-a-business-model/) that considers all future possibilities. It encourages individuals to think outside of the box so that they can prepare for every and eventuality. It also discourages the tendency for individuals to default to the most obvious choice.
+
+[**Lateral Thinking**](https://fourweekmba.com/lateral-thinking/)
+
+![lateral-thinking](https://i2.wp.com/fourweekmba.com/wp-content/uploads/2020/09/lateral-thinking.png?resize=1024%2C772&is-pending-load=1&is-pending-load=1#038;ssl=1)
+
+Lateral thinking is a [business strategy](https://fourweekmba.com/business-strategy/) that involves approaching a problem from a different direction. The [strategy](https://fourweekmba.com/business-strategy/) attempts to remove traditionally formulaic and routine approaches to problem-solving by advocating creative thinking, therefore finding unconventional ways to solve a known problem. This sort of non-linear approach to problem-solving, can at times, create a big impact.
+
+[**Bounded Rationality**](https://fourweekmba.com/bounded-rationality/)
+
+![bounded-rationality](https://i1.wp.com/fourweekmba.com/wp-content/uploads/2019/11/bounded-rationality.png?resize=1024%2C772&is-pending-load=1#038;ssl=1)
+
+Bounded rationality is a concept attributed to Herbert Simon, an economist and political scientist interested in decision-making and how we make decisions in the real world. In fact, he believed that rather than optimizing (which was the mainstream view in the past decades) humans follow what he called satisficing.
+
+[**Dunning-Kruger Effect**](https://fourweekmba.com/dunning-kruger-effect/)
+
+![dunning-kruger-effect](https://i2.wp.com/fourweekmba.com/wp-content/uploads/2020/08/dunning-kruger-effect-1.png?resize=1024%2C772&is-pending-load=1#038;ssl=1)
+
+The Dunning-Kruger effect describes a cognitive bias where people with low ability in a task overestimate their ability to perform that task well. Consumers or businesses that do not possess the requisite knowledge make bad decisions. What’s more, knowledge gaps prevent the person or [business](https://fourweekmba.com/business-strategy/) from seeing their mistakes.
+
+[**Occam’s Razor**](https://fourweekmba.com/occams-razor/)
+
+![occams-razor](https://i1.wp.com/fourweekmba.com/wp-content/uploads/2020/08/occams-razor.png?resize=1024%2C772&is-pending-load=1#038;ssl=1)
+
+Occam’s Razor states that one should not increase (beyond reason) the number of entities required to explain anything. All things being equal, the simplest solution is often the best one. The principle is attributed to 14th-century English theologian William of Ockham.
+
+**[Lindy Effect](https://fourweekmba.com/lindy-effect/)**
+
+![lindy-effect](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2019/02/lindy-effect-1024x772.png?resize=1024%2C772&ssl=1)
+
+The Lindy Effect is a theory about the ageing of non-perishable things, like technology or ideas. Popularized by author Nicholas Nassim Taleb, the Lindy Effect states that non-perishable things like technology age – linearly – in reverse. Therefore, the older an idea or a technology, the same will be its life expectancy.
+
+**[Antifragility](https://fourweekmba.com/antifragility/)**
+
+![antifragility](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2021/10/antifragility.jpeg?resize=759%2C1024&ssl=1)
+
+Antifragility was first coined as a term by author, and options trader Nassim Nicholas Taleb. Antifragility is a characteristic of systems that thrive as a result of stressors, volatility, and randomness. Therefore, Antifragile is the opposite of fragile. Where a fragile thing breaks up to volatility; a robust thing resists volatility. An antifragile thing gets stronger from volatility (provided the level of stressors and randomness doesn’t pass a certain threshold).
+
+**[Systems Thinking](https://fourweekmba.com/systems-thinking/)**
+
+![systems-thinking](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2021/11/systems-thinking.png?resize=1024%2C760&ssl=1)
+
+Systems thinking is a holistic means of investigating the factors and interactions that could contribute to a potential outcome. It is about thinking non-linearly, and understanding the second-order consequences of actions and input into the system.
+
+**[Vertical Thinking](https://fourweekmba.com/vertical-thinking/)**
+
+![vertical-thinking](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2022/07/vertical-thinking.png?resize=1024%2C772&ssl=1)
+
+Vertical thinking, on the other hand, is a problem-solving approach that favors a selective, analytical, structured, and sequential mindset. The focus of vertical thinking is to arrive at a reasoned, defined solution.
+
+**[Maslow’s Hammer](https://fourweekmba.com/einstellung-effect/)**
+
+![einstellung-effect](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2021/06/einstellung-effect-1024x753.png?resize=1024%2C753&ssl=1)
+
+Maslow’s Hammer, otherwise known as the law of the instrument or the Einstellung effect, is a cognitive bias causing an over-reliance on a familiar tool. This can be expressed as the tendency to overuse a known tool (perhaps a hammer) to solve issues that might require a different tool. This problem is persistent in the business world where perhaps known tools or frameworks might be used in the wrong context (like business plans used as planning tools instead of only investors’ pitches).
+
+**[Peter Principle](https://fourweekmba.com/peter-principle-in-a-nutshell/)**
+
+![peter-principle](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2020/12/peter-principle.png?resize=1024%2C772&ssl=1)
+
+The Peter Principle was first described by Canadian sociologist Lawrence J. Peter in his 1969 book The Peter Principle. The Peter Principle states that people are continually promoted within an organization until they reach their level of incompetence.
+
+**[Straw Man Fallacy](https://fourweekmba.com/straw-man-fallacy/)**
+
+![straw-man-fallacy](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2020/12/straw-man-fallacy.png?resize=1024%2C772&ssl=1)
+
+The straw man fallacy describes an argument that misrepresents an opponent’s stance to make rebuttal more convenient. The straw man fallacy is a type of informal logical fallacy, defined as a flaw in the structure of an argument that renders it invalid.
+
+**[Streisand Effect](https://fourweekmba.com/streisand-effect/)**
+
+![streisand-effect](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2020/12/streisand-effect-1024x772.png?resize=1024%2C772&ssl=1)
+
+The Streisand Effect is a paradoxical phenomenon where the act of suppressing information to reduce visibility causes it to become more visible. In 2003, Streisand attempted to suppress aerial photographs of her Californian home by suing photographer Kenneth Adelman for an invasion of privacy. Adelman, who Streisand assumed was paparazzi, was instead taking photographs to document and study coastal erosion. In her quest for more privacy, Streisand’s efforts had the opposite effect.
+
+**[Heuristic](https://fourweekmba.com/heuristics-and-biases/)**
+
+![heuristic](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2019/12/heuristic.png?resize=1024%2C772&ssl=1)
+
+As highlighted by German psychologist Gerd Gigerenzer in the paper “Heuristic Decision Making,” the term heuristic is of Greek origin, meaning “serving to find out or discover.” More precisely, a heuristic is a fast and accurate way to make decisions in the real world, which is driven by uncertainty.
+
+**[Recognition Heuristic](https://fourweekmba.com/recognition-heuristic/)**
+
+![recognition-heuristic](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2020/12/recognition-heuristic.png?resize=1024%2C772&ssl=1)
+
+The recognition heuristic is a psychological [model](https://fourweekmba.com/what-is-a-business-model/ "model") of judgment and decision making. It is part of a suite of simple and economical heuristics proposed by psychologists Daniel Goldstein and Gerd Gigerenzer. The recognition heuristic argues that inferences are made about an object based on whether it is recognized or not.
+
+**[Representativeness Heuristic](https://fourweekmba.com/representativeness-heuristic/)**
+
+![representativeness-heuristic](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2020/12/representativeness-heuristic.png?resize=1024%2C772&ssl=1)
+
+The representativeness heuristic was first described by psychologists Daniel Kahneman and Amos Tversky. The representativeness heuristic judges the probability of an event according to the degree to which that event resembles a broader class. When queried, most will choose the first option because the description of John matches the stereotype we may hold for an archaeologist.
+
+**[Take-The-Best Heuristic](https://fourweekmba.com/take-the-best-heuristic/)**
+
+![take-the-best-heuristic](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2020/12/take-the-best-heuristic.png?resize=1024%2C772&ssl=1)
+
+The take-the-best heuristic is a decision-making shortcut that helps an individual choose between several alternatives. The take-the-best (TTB) heuristic decides between two or more alternatives based on a single good attribute, otherwise known as a cue. In the process, less desirable attributes are ignored.
+
+**[Bundling Bias](https://fourweekmba.com/bundling-bias/)**
+
+![bundling-bias](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2020/11/bundling-bias.png?resize=1024%2C772&ssl=1)
+
+The bundling bias is a cognitive bias in e-commerce where a consumer tends not to use all of the products bought as a group, or bundle. Bundling occurs when individual products or services are sold together as a bundle. Common examples are tickets and experiences. The bundling bias dictates that consumers are less likely to use each item in the bundle. This means that the [value](https://fourweekmba.com/value-proposition-canvas/ "value") of the bundle and indeed the value of each item in the bundle is decreased.
+
+**[Barnum Effect](https://fourweekmba.com/barnum-effect/)**
+
+![barnum-effect](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2020/11/barnum-effect-1024x772.png?resize=1024%2C772&ssl=1)
+
+The Barnum Effect is a cognitive bias where individuals believe that generic information – which applies to most people – is specifically tailored for themselves.
+
+[**First-Principles Thinking**](https://fourweekmba.com/first-principles-thinking/)
+
+![first-principles-thinking](https://i2.wp.com/fourweekmba.com/wp-content/uploads/2021/06/first-principles-thinking-1.png?resize=1024%2C753&ssl=1&is-pending-load=1)
+
+First-principles thinking – sometimes called reasoning from first principles – is used to reverse-engineer complex problems and encourage creativity. It involves breaking down problems into basic elements and reassembling them from the ground up. [Elon Musk](https://fourweekmba.com/elon-musk-companies/) is among the strongest proponents of this way of thinking.
+
+[**Ladder Of Inference**](https://fourweekmba.com/ladder-of-inference/)
+
+![ladder-of-inference](https://i1.wp.com/fourweekmba.com/wp-content/uploads/2020/12/ladder-of-inference.png?resize=1024%2C772&is-pending-load=1&is-pending-load=1#038;ssl=1)
+
+The ladder of inference is a conscious or subconscious thinking process where an individual moves from a fact to a decision or action. The ladder of inference was created by academic Chris Argyris to illustrate how people form and then use mental models to make decisions.
+
+**[Goodhart’s Law](https://fourweekmba.com/goodharts-law/)**
+
+![goodharts-law](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2021/06/goodharts-law.png?resize=1024%2C753&ssl=1)
+
+Goodhart’s Law is named after British monetary policy theorist and economist Charles Goodhart. Speaking at a conference in Sydney in 1975, Goodhart said that “any observed statistical regularity will tend to collapse once pressure is placed upon it for control purposes.” Goodhart’s Law states that when a measure becomes a target, it ceases to be a good measure.
+
+[**Six Thinking Hats Model**](https://fourweekmba.com/six-thinking-hats-model/)
+
+## Frequently Asked Questions
+
+Q. Q: What is the first principle thinking definition?
+
+First principle thinking is a reasoning method that deconstructs problems to their fundamental truths, then rebuilds solutions from these basic elements without relying on assumptions or analogies.
+
+Q. How does arguing from first principles work?
+
+Arguing from first principles involves identifying the most basic facts about a situation, questioning all assumptions, then logically constructing arguments or solutions using only these verified foundational truths.
+
+Q. What books explain first principles thinking?
+
+Popular books on first principles thinking include "The First Principle" by Marilee Adams and works referencing Aristotelian logic, though the concept appears across philosophy, science, and business literature.
+
+![six-thinking-hats-model](https://i1.wp.com/fourweekmba.com/wp-content/uploads/2020/12/six-thinking-hats-model.png?resize=1024%2C772&ssl=1&is-pending-load=1)
+
+The Six Thinking Hats [model](https://fourweekmba.com/what-is-a-business-model/) was created by psychologist Edward de Bono in 1986, who noted that personality type was a key driver of how people approached problem-solving. For example, optimists view situations differently from pessimists. Analytical individuals may generate ideas that a more emotional person would not, and vice versa.
+
+[**Mandela Effect**](https://fourweekmba.com/mandela-effect/)
+
+![mandela-effect](https://i2.wp.com/fourweekmba.com/wp-content/uploads/2020/12/mandela-effect-1024x772.png?resize=1024%2C772&ssl=1&is-pending-load=1)
+
+The Mandela effect is a phenomenon where a large group of people remembers an event differently from how it occurred. The Mandela effect was first described in relation to Fiona Broome, who believed that former South African President Nelson Mandela died in prison during the 1980s. While Mandela was released from prison in 1990 and died 23 years later, Broome remembered news coverage of his death in prison and even a speech from his widow. Of course, neither event occurred in reality. But Broome was later to discover that she was not the only one with the same recollection of events.
+
+[**Crowding-Out Effect**](https://fourweekmba.com/crowding-out-effect/)
+
+![crowding-out-effect](https://i1.wp.com/fourweekmba.com/wp-content/uploads/2020/07/crowding-out-effect-1024x772.png?resize=1024%2C772&is-pending-load=1&is-pending-load=1#038;ssl=1)
+
+The crowding-out effect occurs when public sector spending reduces spending in the private sector.
+
+[**Bandwagon Effect**](https://fourweekmba.com/bandwagon-effect/)
+
+![bandwagon-effect](https://i2.wp.com/fourweekmba.com/wp-content/uploads/2020/07/bandwagon-effect-1024x772.png?resize=1024%2C772&is-pending-load=1&is-pending-load=1#038;ssl=1)
+
+The bandwagon effect tells us that the more a belief or idea has been adopted by more people within a group, the more the individual adoption of that idea might increase within the same group. This is the psychological effect that leads to herd mentality. What in [marketing](https://fourweekmba.com/marketing-strategy/) can be associated with social proof.
+
+**[Moore’s Law](https://fourweekmba.com/moores-law/)**
+
+![moores-law](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2022/12/various-frameworks-3.png?resize=1024%2C772&ssl=1)
+
+Moore’s law states that the number of transistors on a microchip doubles approximately every two years. This observation was made by Intel co-founder Gordon Moore in 1965 and it become a guiding principle for the semiconductor industry and has had far-reaching implications for technology as a whole.
+
+**[Disruptive Innovation](https://fourweekmba.com/disruptive-innovation/)**
+
+![disruptive-innovation](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2021/11/disruptive-innovation.png?resize=1024%2C772&ssl=1)
+
+Disruptive [innovation](https://fourweekmba.com/business-model-innovation/ "innovation") as a term was first described by Clayton M. Christensen, an American academic and business consultant whom The Economist called “the most influential management thinker of his time.” Disruptive [innovation](https://fourweekmba.com/business-model-innovation/ "innovation") describes the process by which a product or service takes hold at the bottom of a market and eventually displaces established competitors, products, firms, or alliances.
+
+**[Value Migration](https://fourweekmba.com/value-migration/)**
+
+![value-migration](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2021/03/value-migration.png?resize=1024%2C772&ssl=1)
+
+Value migration was first described by author Adrian Slywotzky in his 1996 book Value Migration – How to Think Several Moves Ahead of the Competition. Value migration is the transferal of value-creating forces from outdated [business models](https://fourweekmba.com/what-is-a-business-model/) to something better able to satisfy consumer demands.
+
+**[Bye-Now Effect](https://fourweekmba.com/bye-now-effect/)**
+
+![bye-now-effect](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2020/11/bye-now-effect-1024x772.png?resize=1024%2C772&ssl=1)
+
+The bye-now effect describes the tendency for consumers to think of the word “buy” when they read the word “bye”. In a study that tracked diners at a name-your-own-price restaurant, each diner was asked to read one of two phrases before ordering their meal. The first phrase, “so long”, resulted in diners paying an average of $32 per meal. But when diners recited the phrase “bye bye” before ordering, the average price per meal rose to $45.
+
+**[Groupthink](https://fourweekmba.com/groupthink/)**
+
+![groupthink](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2022/11/groupthink.png?resize=1024%2C772&ssl=1)
+
+Groupthink occurs when well-intentioned individuals make non-optimal or irrational decisions based on a belief that dissent is impossible or on a motivation to conform. Groupthink occurs when members of a group reach a consensus without critical reasoning or evaluation of the alternatives and their consequences.
+
+**[Stereotyping](https://fourweekmba.com/stereotyping/)**
+
+![stereotyping](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2021/10/stereotyping.png?resize=1024%2C772&ssl=1)
+
+A stereotype is a fixed and over-generalized belief about a particular group or class of people. These beliefs are based on the false assumption that certain characteristics are common to every individual residing in that group. Many stereotypes have a long and sometimes controversial history and are a direct consequence of various political, social, or economic events. Stereotyping is the process of making assumptions about a person or group of people based on various attributes, including gender, race, religion, or physical traits.
+
+**[Murphy’s Law](https://fourweekmba.com/murphys-law/)**
+
+![murphys-law](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2020/12/murphys-law.png?resize=1024%2C772&ssl=1)
+
+Murphy’s Law states that if anything can go wrong, it will go wrong. Murphy’s Law was named after aerospace engineer Edward A. Murphy. During his time working at Edwards Air Force Base in 1949, Murphy cursed a technician who had improperly wired an electrical component and said, “If there is any way to do it wrong, he’ll find it.”
+
+**[Law of Unintended Consequences](https://fourweekmba.com/law-of-unintended-consequences/)**
+
+![law-of-unintended-consequences](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2022/09/law-of-unintended-consequences.png?resize=1024%2C772&ssl=1)
+
+The law of unintended consequences was first mentioned by British philosopher John Locke when writing to parliament about the unintended effects of interest rate rises. However, it was popularized in 1936 by American sociologist Robert K. Merton who looked at unexpected, unanticipated, and unintended consequences and their impact on society.
+
+[**Fundamental Attribution Error**](https://fourweekmba.com/fundamental-attribution-error/)
+
+![fundamental-attribution-error](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2022/12/fundamental-attribution-error-1024x772.png?resize=1024%2C772&ssl=1)
+
+Fundamental attribution error is a bias people display when judging the behavior of others. The tendency is to over-emphasize personal characteristics and under-emphasize environmental and situational factors.
+
+**[Outcome Bias](https://fourweekmba.com/outcome-bias/)**
+
+![outcome-bias](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2022/01/outcome-bias.png?resize=1024%2C772&ssl=1)
+
+Outcome bias describes a tendency to evaluate a decision based on its outcome and not on the process by which the decision was reached. In other words, the quality of a decision is only determined once the outcome is known. Outcome bias occurs when a decision is based on the outcome of previous events without regard for how those events developed.
+
+**[Hindsight Bias](https://fourweekmba.com/hindsight-bias/)**
+
+![hindsight-bias](https://i0.wp.com/fourweekmba.com/wp-content/uploads/2021/12/hindsight-bias.png?resize=1024%2C772&ssl=1)
+
+Hindsight bias is the tendency for people to perceive past events as more predictable than they actually were. The result of a presidential election, for example, seems more obvious when the winner is announced. The same can also be said for the avid sports fan who predicted the correct outcome of a match regardless of whether their team won or lost. Hindsight bias, therefore, is the tendency for an individual to convince themselves that they accurately predicted an event before it happened.
+
+**Read Next: [Biases](https://fourweekmba.com/biases/), [Bounded Rationality](https://fourweekmba.com/bounded-rationality/), [Mandela Effect](https://fourweekmba.com/mandela-effect/), [Dunning-Kruger Effect](https://fourweekmba.com/dunning-kruger-effect/), [Lindy Effect](https://fourweekmba.com/lindy-effect/), [Crowding Out Effect](https://fourweekmba.com/crowding-out-effect/), [Bandwagon Effect](https://fourweekmba.com/bandwagon-effect/)**.
+
+**Main Guides:**
+
+*   [Business Models](https://fourweekmba.com/what-is-a-business-model/)
+*   [Business Strategy](https://fourweekmba.com/business-strategy/)
+*   [Marketing Strategy](https://fourweekmba.com/marketing-strategy/)
+*   [Business Model Innovation](https://fourweekmba.com/what-is-business-model-innovation/)
+*   [Platform Business Models](https://fourweekmba.com/freemium-business-model/)
+*   [Network Effects In A Nutshell](https://fourweekmba.com/network-effects/)
+*   [Digital Business Models](https://fourweekmba.com/digital-business-models/)
+
+What is Engaging in first-principles thinking?
+
+To harness the power of first-principles thinking, simply work through the following steps:
+
+What is Specific techniques that enable the establishment of first principles?
+
+Here are two specific techniques that enable a practitioner to establish first principles.
+
+What is the five whys (otherwise known as “because i said so”)?
+
+Since children are naturally curious, they instinctively reason from first principles without conscious effort. This sense of wonder fades as children become adults, which, to some extent, is why first principles thinking has to be “relearned”.
+
+What is First principles vs. analogy?
+
+In some instances, first principles thinking can be extremely powerful.
+
+What is Leveraging first principles thinking in [design](https://fourweekmba.com/design-thinking/ "design") [strategy](https://fourweekmba.com/business-strategy/ "strategy")?
+
+Design thinking is the process of building incredible products with a customer-centered approach.
+
+How to apply first principles in [design](https://fourweekmba.com/design-thinking/ "design") thinking?
+
+Consider a music streaming [platform](https://fourweekmba.com/platform-business-models/ "platform") that wants a designer to create a new feature that will enable users to create groups.

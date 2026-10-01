@@ -1,0 +1,72 @@
+# SOURCE: https://www.elonmuskbook.org/the-book-of-elon-musk-free-online-version/starting-zip2
+# HARVESTED: 2026-09-29
+
+Thank you for visiting the site. Enjoy the published content and the book. We appreciate your support, and please pay it forward.
+
+The Book of Elon Musk Elon Musk's Most Useful Ideas In His Own Words
+
+Mar 31
+
+Mar 31 Starting Zip2
+
+Eric Jorgenson
+
+When we first started Zip2, our ambitions were quite low: make enough money to pay rent.403
+
+Q: When did you start your first company?
+
+Starting a company was not actually the first thing I tried. I tried to get a job at Netscape, but they didn’t reply to my emails. So I went to hang out in the lobby at Netscape. I didn’t know who to talk to, and I was too shy to talk to anyone. I figured, “If I can’t get a job, I’ll just try writing my own software.”404
+
+It wasn’t actually from the desire to start a company. I just wanted to be part of building the internet in some way. Since I couldn’t get a job at an internet company, I had to start one myself.405
+
+I wanted to try to build something useful, but I didn’t think I would build anything particularly great. Probabilistically, greatness seemed unlikely, but I wanted to at least try.406
+
+We started off building maps, directions, and classified ads. It was, to the best of my knowledge, the first map and directions on the internet. There may still be some patents—or maybe they lapsed at this point. (Note from Eric: there is, patent #5944769. 407) The whole initial code base I wrote myself because there wasn’t anyone else. It was just me.408
+
+I was twenty-four at the time and only had a few thousand dollars saved. I convinced my brother to join, and he brought about five thousand dollars, which was a lot for us. For the first few months, we only had one computer. When the website wasn’t working, it was because I was compiling code. The website was up during the day; I was coding at night, seven days a week, all the time. We more or less squatted in the office because the landlord was always out of the country, and nobody was using it.409
+
+Soon, there were six of us. Me, my brother, a friend of my mom’s, and three salespeople we hired on contingency by putting an ad in the newspaper.410
+
+Things were pretty tough in the early going. I didn’t have any money. In fact, I had negative money because of a huge student debt. I couldn’t afford an apartment and an office, so I rented an office because that was cheaper. I slept on the futon at the office and showered at the YMCA. I briefly had a girlfriend in that period and to stay with me, she had to sleep in the office. I was in the best shape—every day a workout, shower, and you’re good to go!411
+
+There was a small internet service provider on the floor below us, so we drilled a hole through the floor and connected a modem cable. That got us our internet connection for one hundred bucks a month. We had a tiny revenue stream, but an absurdly tiny burn rate. We actually had more revenue than we had expenses. When we talked to VCs (venture capitalists), we could say we were profitable.412
+
+Most venture capitalists wouldn’t take a meeting with us, though.
+
+They said, “Who’s made money on the internet? No one. Okay, pass.”413
+
+There was a lot more interest in the internet following the Netscape IPO (initial public offering). Our software was more impressive by then, too. Mohr Davidow Ventures (a VC firm) invested $3 million for 60 percent of the company, which we thought was crazy. They’re going to give us money for nothing? They must be mad. It seemed insane to give us so much money for a company that consisted of six people at the time. But it worked out well for them.414
+
+Q: How did the original idea for Zip2 come about?
+
+We needed to build something that would earn money quickly. We thought the media industry would need help converting their content from print to electronic, and they clearly had money. If we could help them move to the internet, maybe we could generate revenue. There was no advertising revenue on the internet at the time. That was the basis of Zip2.415
+
+We hired a lot more people and wrote software to bring newspapers online. Knight Ridder, New York Times Company, and Hearst all became investors and customers. And at one point, Zip2 was responsible for a significant section of the New York Times Company website. I got to know the media industry well.416
+
+The challenge was too much control by the existing media companies. They had too many board seats and too much voting control over Zip2. They kept trying to push the company in directions that made no sense. We actually had good software—comparable to Yahoo! or Excite at the time. It was all being forced through media companies, who would not fully use it. We built the best technology, but it wasn’t being deployed properly.417
+
+It’s a bit like building F-22 fighter jets and selling them to people who roll them down the hill at each other. Not the way to use the technology!418
+
+That’s when I realized you want to sell your products straight to the end consumer. If you’ve got great technology, go directly to the end consumer. Don’t sell it to some bonehead legacy company that doesn’t understand how to use it.419
+
+Fortunately, Compaq came along.420 We had the opportunity to sell Zip2 to Compaq in early 1999 and accepted that offer. It was a little over $300 million in cash. Cash is a currency I highly recommend.421
+
+To this day, that moment astonishes me. At the time I was living in a house with four housemates. Literally, a check came in my mailbox. I was like, “This is insane. What if somebody…? I mean, I guess they’d have trouble cashing it?” Seems like a weird way to send money. My bank account went from $5,000 to $21,005,000.422
+
+Immediately after the sale, I didn’t take any time off. I still had to pay taxes, then I ended up putting almost all of that into X.com (which became PayPal). This was early 1999, and there were a lot of opportunities remaining on the internet.423
+
+I’ve always wanted to push my chips back on the table or play the next level of the game. I’m not good at sitting back.424
+
+Eric Jorgenson
+
+CEO of Scribe Media. Author of The Almanack of Naval and The Anthology of Balaji. Investing in technology startups as GP at Rolling Fun. Podcast: Smart Friends. Happy to be in touch through Twitter or email.
+
+Website
+
+About the book
+
+Book and website curating and sharing Elon's wisdom. Coming soon on March 24th. Follow on Twitter.
+
+Mar 31 Becoming a Founder
+
+Mar 31 Going All In, Again (Zip2 Earnings into PayPal)

@@ -1,0 +1,56 @@
+# SOURCE: https://www.elonmuskbook.org/the-book-of-elon-musk-free-online-version/building-the-first-prototype
+# HARVESTED: 2026-09-29
+
+Thank you for visiting the site. Enjoy the published content and the book. We appreciate your support, and please pay it forward.
+
+The Book of Elon Musk Elon Musk's Most Useful Ideas In His Own Words
+
+Mar 31
+
+Mar 31 Building the First Prototype
+
+Eric Jorgenson
+
+I first realized all vehicles would be electric in the early nineties, way before Tesla started. I was studying physics in my sophomore year in college; it was obvious to me even then.489
+
+Getting the timing right was important. Lithium-ion batteries were the critical breakthrough needed for compelling electric cars. I knew it became possible to start Tesla because we went from the energy density of lead acid batteries to lithium-ion batteries—about a 4x energy density improvement. If you had a sixty-mile range with a lead-acid battery, you would have about one-hundred-forty-mile range with lithium-ion for the same weight.
+
+A company called AC Propulsion had built a prototype, which had similar specs to what we eventually brought to market as the first Tesla Roadster. It was cool to see it in action, working. I tried hard to convince those guys to commercialize their car but they just did not want to do it.
+
+The car they wanted to make was like an electric Scion. I told them, “You guys, nobody’s gonna pay $70,000 for an electric Scion. This is not gonna work. You will sell like fourteen of these things.”
+
+Though I also said, “Even though I think this is the dumbest idea ever, I will fund one tenth of it if you can find nine other people.”490
+
+I thought it would fail, but at least it was something. They didn’t actually get it off the ground. Eventually I said, “If you guys are not going to commercialize this, do you mind if I do?”491
+
+We made so many mistakes in the beginning of Tesla. Almost every decision we made was wrong.492
+
+The founding principles of Tesla were basically completely wrong. The premise was, “It’s not gonna be that hard! We’ll take the Lotus Elise, a nice lightweight car, and we’ll take AC Propulsion’s drive unit technology, put ’er together, and we’ll have an electric car! It’ll be great!”
+
+Except the AC Propulsion technology could not be industrialized. It was handcrafted electronics. In hot or cold weather, it would respond differently or not at all. It was impossible to scale this technology. You could only have finicky, individually made, superexpensive prototypes.
+
+I remember in the early days giving a test ride to Larry Page and Sergey Brin, whom I’ve known for a long time. There was some bug in the system and, damn it, the car would only go ten miles an hour. I was in the passenger seat saying, “Guys, I swear, it goes a lot faster than this.”
+
+They were kind enough to put a little investment into the company, despite the world’s worst demo.493
+
+It was just a flat-out burning dumpster fire of stupidity. One example: The chassis had to be redesigned to fit the battery pack and became 40 percent heavier. This invalidated the crash testing Lotus had done.494
+
+We ended up using none of the AC Propulsion technology. Something that looks cool and works as an individual prototype does not necessarily scale. Eventually maybe 7 percent of the parts of the original Tesla Roadster were common with the Lotus Elise. It would have been much smarter to start with a clean-sheet design and not try to modify something else.495
+
+I was going to start an electric vehicle (EV) company with JB Straubel based on the AC Propulsion prototype. When I asked AC Propulsion if it was okay to do that, they said, “There are some other people who want to create an EV company; would you like to join forces with them?” I said, “OK.” That was a huge mistake. JB and I should have just started the company ourselves. My default inclination is to start things from scratch, even more so after this experience.496
+
+The most important thing is to start somewhere, be prepared to question your assumptions, fix what you did wrong, and adapt to reality.497
+
+Eric Jorgenson
+
+CEO of Scribe Media. Author of The Almanack of Naval and The Anthology of Balaji. Investing in technology startups as GP at Rolling Fun. Podcast: Smart Friends. Happy to be in touch through Twitter or email.
+
+Website
+
+About the book
+
+Book and website curating and sharing Elon's wisdom. Coming soon on March 24th. Follow on Twitter.
+
+Mar 31 Going All In, Again (PayPal Earnings into Tesla)
+
+Mar 31 Becoming Tesla's CEO

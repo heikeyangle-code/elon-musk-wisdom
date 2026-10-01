@@ -1,0 +1,123 @@
+# SOURCE: https://whatsuptesla.com/2026/01/10/elon-musk-talk-with-diamandis-part-1/
+# TITLE: Elon Musk Moonshots Interview with Peter Diamandis – Part 1: AGI, Abundance & The Future (Full Transcript)
+# FETCHED: fetch_content_cache
+
+PART ONE
+
+(Austin, TX) The setting is Tesla Gigafactory Texas, in Austin, the lobby is futuristic, Elon sits intentionally in front of a mural for Cybertruck with a prototype of a Cybercab right behind him. You can feel his confidence as he relaxes in his jeans, black T-shirt, and cowboy boots. This is a man who is changing the world.
+
+THIS ARTICLE WAS UPDATED ON JAN 18TH, 2026
+
+As the interview starts, Peter asks Elon how he is, and Elon responds, his mind on chips for Tesla, “Right now, putting a lot of time into chips”
+
+I recall when I accompanied Johnna Crider to interview Elon in 2022. Then, you’d ask Elon how he was, and he had his mind on scaling production. Elon is deeply involved with his teams at Tesla, I think it may be what occupies his thoughts the most. Today, Peter asks Elon if he is personally putting a lot of time into chips. Great point, as most CEOs “tell” others to do the hard work. With Elon, he does the hard work. He always has. In fact, shortly after this interview, Elon posted here on X indicating his immersion into Tesla Chip design.
+
+Diamandis: You are personally? (putting time into chips?)
+
+Elon Musk: Yeah
+
+Blundin: With some AI assistance, I assume…
+
+Dave Blundin has joined this interview, taking time off from teaching his AI class at MIT.
+
+Elon Musk: Not enough, haha. It’d be nice if we could just hand it off to the AI.
+
+Blundin: I tried to do some circuit design actually with AI recently, just a couple weeks ago. Not happening yet.
+
+Elon Musk: Ahh, very soon, though. I think probably at this point, Grok, if you took a photo and submitted to Grok, it could probably tell you if a circuit is—if there’s something wrong with it.
+
+Blundin: All right, I’m going to give it a shot. You’re using the same Grok that I’m using?
+
+Elon Musk: Grok keeps updating.
+
+Dave Blundin: So 4.2. But 5 is soon, right?
+
+Elon Musk: 5 is Q1. 4.2 has not been released yet externally, but yeah, I mean, if you just upload an image into Grok, it does quite a good job of analyzing any given image. Let’s see if I take a picture of you. What is it? Let’s see what it does
+
+Diamandis: Yeah. What’s it going to say about me?
+
+Blundin: Yeah, it’s going to say you’re a flawed circuit.
+
+Elon is updating his phone’s Grok app, “I also have to remember to update it because we update the Grok app so frequently,” as the update happened, Peter Diamandis confesses he asked Grok to roast Elon.
+
+Diamandis: I asked Grok to roast you. And I spit out my coffee. It was hilarious.
+
+Elon Musk: Just say, be more vulgar. Just keep telling it to be more and more vulgar, until it’s like, haha, mother of god!
+
+Blundin: Is Bad Rudy still out or did that get repealed? Bad Rudy’s still there?
+
+Elon assures Dave Blundin that the Grok AI companion, Bad Rudy, is still around.
+
+Diamandis: And I asked Grok, does Elon know what you say about him? And she goes—it’s a she for me—she goes, “What is he going to do about it?”
+
+Elon Musk: HAHAHA, What is he going to do about it? Yeah, let’s see (shifting focus) Okay, so I just literally took a photo of you and it will tell you what it is.
+
+Peter Diamandis: Did you ask it a question?
+
+Elon Musk: No, nothing. I didn’t say anything, there’s no context whatsoever.
+
+Elon shows Grok’s reply about the picture, “He’s wearing a black quilted jacket featuring a Sundance logo. Not quite true. It’s my Abundance logo.
+
+Blundin: A little wrinkled on the clothing.
+
+Elon Musk: Anyway, yeah, but basically, it’s pretty damn good. Yeah. “He’s smiling and relaxed with a laptop in front of him”. Should we say, Roast him.
+
+Diamandis: It has to be read by you, though.
+
+Elon Musk: I mean, I won’t read the whole thing, but—
+
+Peter Diamandis: Give me a taste. I can take it.
+
+Elon Musk: Okay (He reads part of Grok’s roast of Diamandis). “Check out that grin, dude. Smiling like you just discovered a new way to monetize hope”.
+
+Cameron’s Movie vs. Star Trek
+
+Diamandis: I want to try and answer the question, can AI and tech help save America and the world? I want to give people listening a dose of optimism. There’s a survey done in mid-December by Pew that said 45% of Americans would rather live in the past and only 14% said they’d rather live in the future. Which is insane to me. Obviously they never read history. The challenge is most Americans, all they have of the future—it’s like Hollywood has shown us killer AIs and rogue robots. Right. And people are worried about their jobs, they’re worried about health care, they’re worried about the cost of living. The challenge is how do we help people? I mean, you posted, you pinned on X: “The future is going to be amazing with AI and robots enabling sustainable abundance for all.”
+
+Elon Musk: I was thinking of you when I did that. I was thinking, What would Peter Diamandis say? I was channeling you, haha!
+
+Diamandis: Thank you. Thank you. I couldn’t agree more either. So my question is from a first principle standpoint, right. The rationale for optimism, you know, how do we head towards Star Trek and not Terminator?
+
+Elon Musk: Towards Roddenberry, not Cameron? It’s the diverging path meme.
+
+Diamandis: Avatar has some hopeful parts, but anyway, how do we go towards universal high income instead of social unrest?
+
+Elon is realistic, and when Peter suggests an either/or scenario here, Elon sees both happening. Here he explains why.
+
+Elon Musk: Well, because there’s going to be so much change, it’s sort of the, you know, it’s like, be careful what you wish for, because you might get it. Now if you actually get all the stuff you want, is that actually the future you want? Because it means that your job won’t matter.
+
+Diamandis: If you’re living an unchallenged life. With no challenges. No. You know, if you become a couch potato, if it’s a WALL-E future, it does not go well for humans.
+
+A WALL-E future means a dystopia where humans become lazy, overweight couch potatoes, totally dependent on technology and automation, with zero challenges or effort in daily life—like the bloated, screen-addicted people floating around in the movie WALL-E. It’s the warning: remove all struggle and difficulty, and humanity atrophies fast.
+
+Blundin: And we’re used to being told, here’s your challenge. So people haven’t historically been very good at creating their own challenge.
+
+Diamandis: I think Elon does a damn good job. Every time one company takes off, you start your next.
+
+Elon Musk: I’m a glutton for punishment.
+
+Diamandis: I think you are, thank God for that.
+
+Elon Musk: So why do I do this to myself?
+
+Blundin: Actually, after AI and robots, is there another thing after that?
+
+Diamandis: Well, there’s always space conquering, you know, the universe.
+
+Elon Musk: Oh, it’s just rocks, really! Hahaha! We just need to get there.
+
+Diamandis: Why, Elon? Why are you so optimistic? Are you optimistic? Let’s start there.
+
+Elon Musk: I’m not as optimistic as you are, but I’m more optimistic than most people.
+
+Peter Diamandis really wants to know WHY Elon Musk is so optimistic. He will continue to press for an answer, and it is interesting, as Elon does not directly answer his question, and I’m including one of Elon’s most famous quotes, and my personal favorite for you!
+
+_“Better to live life erring on the side of being optimistic and wrong than pessimistic and right!_
+
+_Be realistic, but, as Monty Python would say, always look on the bright side of life!”_
+
+> Better to live life erring on the side of being optimistic and wrong than pessimistic and right!
+> 
+> Be realistic, but, as Monty Python would say, always look on the bright side of life! [https://t.co/ISdddxdpQl](https://t.co/ISdddxdpQl)
+> 
+> — Elon Musk (@elonmusk) [September 17, 2025](https://twitter.com/elonmusk/status/1968363218491027624?ref_src=twsrc%5Etfw)

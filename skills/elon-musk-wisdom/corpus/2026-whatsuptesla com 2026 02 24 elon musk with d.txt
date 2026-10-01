@@ -1,0 +1,280 @@
+# SOURCE: https://whatsuptesla.com/2026/02/24/elon-musk-with-dwarkesh-patel-john-collison-the-future-of-ai-is-in-space-parts-1-8/
+# TITLE: Elon Musk with Dwarkesh Patel & John Collison: The Future of AI Is in Space (Parts 1–8)
+# FETCHED: fetch_content_cache
+
+In early February 2026 (published February 5), podcaster Dwarkesh Patel and Stripe co-founder John Collison sat down with Elon Musk for a nearly three-hour conversation. Recorded in a relaxed, casual setting over pints of Guinness, this wide-ranging discussion explores the converging revolutions in AI infrastructure, orbital data centers, energy scaling, humanoid robotics, and humanity’s long-term future.
+
+What began as an in-depth podcast has been transformed into this special 10-part series. The hosts’ questions and context have been distilled into concise, flowing narrative prose for maximum readability, while every single word spoken by Elon Musk remains 100% verbatim — exactly as originally delivered, with no changes, omissions, or paraphrasing.
+
+Here are the 10 parts:
+
+*   **Part 1. Opening Banter and the Economics of Space-Based Data Centers**
+*   **Part 2. Why Space is the Optimal Solution for AI**
+*   **Part 3. The Scale of Power Requirements and Utility Challenges**
+*   **Part 4. The Turbine Bottleneck and Scaling Solar Production**
+*   **Part 5. Detailed Power Requirements and Space Engineering Difficulties**
+*   **Part 6. AI Capacity Projections in Five Years and Starship Launch Rates**
+*   **Part 7. SpaceX as Hyperscaler, Capital Markets, and the Kardashev Scale**
+*   **Part 8. Building Terafabs for Chips, xAI Mission, and Propagating Consciousness**
+*   **Part 9. Truth-Seeking AI, Alignment, Reward Hacking, and Interpretability**
+*   **Part 10. Future AI Products, Optimus Robots, Manufacturing Challenges, Management, and Reflections**
+
+## Part 1: Opening Banter and the Economics of Space-Based Data Centers
+
+The interview opened with some light-hearted and playful banter. Elon Musk jokingly questioned whether they were really going to talk for three full hours. Dwarkesh Patel teased him in return, saying he didn’t have much to talk about. Elon reacted with mock surprise.
+
+**Elon Musk:** “So are there really three hours of questions or are you f_ing serious?”_ **_Elon Musk:_** _“Holy f_, man.”
+
+John Collison jumped in, agreeing that it was actually the most interesting time because all the major storylines seemed to be converging at once. Elon playfully replied that it was almost as if he had planned it that way.
+
+**Elon Musk:** “Almost like I planned it.”
+
+John Collison laughed and said “Exactly.”
+
+**Elon Musk:** “That would never do such a thing.”
+
+With the lighthearted tone set, Dwarkesh Patel steered the discussion into the first major topic: the economics of data centers and why anyone would consider moving them into space. He explained that in a typical data center, energy accounts for only 10 to 15 percent of total cost of ownership, with GPUs representing the vast majority of the expense. He pointed out that placing those GPUs in space would make servicing nearly impossible, shortening their depreciation cycle and driving costs far higher, then asked directly what possible reason there could be to put them in orbit anyway.
+
+**Elon Musk:** “Well, the availability of energy is the issue. So, I mean, if you look at electrical output outside of China, everywhere outside of China, it’s more or less flat. It’s very, you know, maybe a slight increase, but pretty close to flat. China has a rapid increase in electrical output. But if you’re putting data centers anywhere except China, where are you going to get your electricity? Especially as you scale, the output of chips is growing pretty much exponentially, but the output of electricity is flat. So how are you going to turn the chips on? Magical power sources. Magical electricity fairies.”
+
+Dwarkesh Patel followed up by noting Elon’s well-known advocacy for solar power, calculating that one terawatt of solar (requiring about 4 terawatts of panels at 25 percent capacity factor) would cover only 1 percent of U.S. land area, yet even that seemed insufficient once data centers themselves reached terawatt scale. He asked what exactly we are running out of. Elon pressed him on how far into the singularity he thought we already were, and Dwarkesh turned the question back. Dwarkesh then asked whether the plan was to move to space only after blanketing places like Nevada with solar panels on the ground.
+
+**Elon Musk:** “Right.” **Elon Musk:** “Yeah, exactly. So I think we’ll find we’re in the singularity and like, okay, we’ve still got a long way to go.” **Elon Musk:** “I think it’s pretty hard to cover Nevada in solar panels. You have to get permits from, try getting the permits for that.”
+
+## Part 2: Why Space is the Optimal Solution for AI
+
+Dwarkesh Patel suggested that space was really a regulatory play because it is harder to build on land than it is in space. He then asked how to service GPUs as they fail, which happens quite often in training. John Collison added questions about solving the power issue with private behind-the-meter generation co-located with data centers.
+
+**Elon Musk:** “It’s harder to scale on ground than it is to scale in space. But also, you’re going to get about five times the effectiveness of solar panels in space versus the ground. And you don’t need batteries. I almost wore my other shirt, which says “it’s always sunny in space,” which it is. Because you don’t have a day-night cycle or seasonality, clouds, or an atmosphere in space. The atmosphere alone results in about a 30% loss of energy. So any given solar panel can do about five times more power in space than on the ground, and you avoid the cost of having batteries to carry you through the night. So it’s actually much cheaper to do in space. And my prediction is that it will be by far the cheapest place to put AI will be space in 36 months or less.”
+
+![](https://whatsuptesla.com/wp-content/uploads/2026/03/63acae22-6a10-4ac0-86a2-9f07c3ff297a.jpg?w=809)
+
+Elon Musk in his “Its Always Sunny in Space” t shirt, enjoying a Grok Imagine moment in a fictional Tiki Bar!
+
+[](https://x.com/gailalfaratx/article/2026505081021989366/media/2026407784015679488)Dwarkesh Patel responded skeptically to the aggressive timeline.
+
+**Elon Musk:** “Less than 36 months.”
+
+Dwarkesh Patel then asked the critical practical question: how would one service GPUs as they fail, which happens quite often during training, when they are in space and physically inaccessible.
+
+**Elon Musk:** “Actually, it depends on how recent the GPUs are that have arrived. I mean, at this point, we found our GPUs to be quite reliable. There’s infant mortality, which you can obviously iron out on the ground. So you can just run them on the ground and confirm that you don’t have infant mortality with the GPUs. But once they start working, their actual reliability, once they start working and you’re past the initial debug cycle of Nvidia or whatever, or whoever’s making the chips—could be Tesla AI 6 chips or something like that, or it could be TPUs or Trainiums or whatever—the reliability is actually quite reliable past a certain point. So I don’t think the servicing thing is an issue. But you can mark my words, in 36 months, but probably closer to 30 months, the most economically compelling place to put AI will be space. And then it’ll get ridiculously better to be in space. And then the scaling—the only place you can really scale is space. Once you start thinking in terms of what percentage of the sun’s power are you harnessing, you realize you have to go to space. You can’t scale very much on Earth.”
+
+> **_**_But you can mark my words, in 36 months, but probably closer to 30 months, the most economically compelling place to put AI will be space._**_**
+
+## **Part 3: The Scale of Power Requirements and Utility Challenges**
+
+Dwarkesh Patel sought clarification on the sheer scale, confirming that Elon was indeed talking about terawatts of power. The conversation then shifted to the staggering real-world difficulties of actually delivering that much electricity at the pace AI compute demands. Both Dwarkesh and John Collison pressed on why the notoriously slow utility industry was even involved and whether companies could simply bypass it by building their own private power plants right next to the data centers.
+
+**Elon Musk:** “Yeah, well, all of the United States currently uses only half a terawatt per hour on average. Right. So if you say a terawatt, that would be twice as much electricity as the United States currently consumes. So that’s quite a lot. And can you imagine building that many data centers, that many power plants? It’s like those who have lived in software land don’t realize that they’re about to have a hard lesson in hardware—that it’s actually very difficult to build power plants. And then you don’t just need the power plants, you need all of the electrical equipment, you need the electrical transformers to run the transformers, the AI transformers. Now, the utility industry is a very slow industry. They impedance match to the government, to the public utility commission. So they’re very slow because their past has been very slow. So trying to get them to move fast is just like, you know, if you’re trying to do an interconnect agreement—have you ever tried to do an interconnect agreement with a utility at scale? Like with a lot of power?”
+
+Dwarkesh Patel replied with a laugh, admitting that as a professional podcaster he had never attempted such a thing.
+
+**Elon Musk:** “In fact, yeah, they have to do a study for a year. Okay. Like a year later they’ll come back to you with their interconnect study.”
+
+John Collison asked whether the entire utility bottleneck could be avoided by building private, behind-the-meter power generation co-located with the data centers.
+
+**Elon Musk:** “You can build power plants. Yeah, that’s what we did at xAI for Colossus.”
+
+John Collison followed up, noting that xAI had done exactly that for Colossus and asking why the private-power solution wasn’t the obvious generalized answer to all the utility problems just described.
+
+**Elon Musk:** “That’s what we did.”
+
+John Collison clarified that he meant why not make this the standard approach instead of dealing with utilities at all.
+
+**Elon Musk:** “Right. But it begs the question of where do you get the power plants? Where do you get the power plants from? I mean the power plant makers.”
+
+John Collison realized the deeper constraint and summed it up as the massive backlog for gas turbines and power-plant equipment in general.
+
+## **Part 4: The Turbine Bottleneck and Scaling Solar Production**
+
+John Collison suggested that the turbine blade bottleneck sounded like a classic problem Elon would tackle head-on and proposed that making solar themselves might be the better path forward.
+
+**Elon Musk:** “We are going to make solar. Okay, great. Both SpaceX and Tesla are building towards 100 gigawatts here of solar cell production.”
+
+Dwarkesh Patel asked how deep into the supply chain they would go – from raw polysilicon all the way to the finished solar panel.
+
+**Elon Musk:** “I think you got to do the whole thing from raw materials to the finished cell. Now, if it’s going to space, it actually costs less. And it’s easier to make solar cells that go to space because they don’t need glass or they don’t need much glass and they don’t need heavy framing because they don’t have to survive weather events. There’s no weather in space. So it’s actually a cheaper solar cell that goes to space than the one on the ground.”
+
+Elon continued, emphasizing how inexpensive solar cells already are and why moving them to space changes the economics by an order of magnitude. He then recounted the extraordinary difficulties his xAI team faced just to bring a single gigawatt online for Colossus — the miracles required, the permitting nightmares, and how most people dramatically underestimate the real power needs of a data center.
+
+**Elon Musk:** “Solar cells are already very cheap. They’re like farcically cheap. And if you say, I think solar cells in China are around like 25, 30 cents a watt or something like that, it’s absurdly cheap. And when you take into account now put it in space and it’s five times cheaper because it’s five times—in fact, no, it’s 10 times cheaper because you don’t need any batteries. So the moment your cost of access to space becomes low, by far the cheapest and most scalable way to generate tokens is space. It’s not even close. It’ll be an order of magnitude easier to scale. And chips aside, an order of magnitude. The point is you won’t be able to scale on the ground. You just won’t. People are going to hit the wall big time on power generation. There already are. So the number of miracles in series that the xAI team had to accomplish in order to get a gigawatt of power online was crazy.
+
+> So the number of miracles in series that the xAI team had to accomplish in order to get a gigawatt of power online was crazy.
+> 
+> **Elon Musk:** We had to gang together a whole bunch of turbines. And then we had permit issues in Tennessee and had to go across the border to Mississippi, which is fortunately only a few miles away. But then we still had to run the high power lines a few miles and build a power plant in Mississippi. And it was very difficult to build that. And people don’t understand how much electricity do you actually need at the generator level, at the generation level in order to power a data center? Because they look at the specs, will look at the power consumption of say a GB 300 and multiply that by the number and then think that’s the amount of power you need.”
+> 
+> John Collison pointed out that this calculation still failed to account for major additional power demands such as cooling and all the supporting systems.
+> 
+> **Elon Musk:** “Wake up. Yeah, that’s a total noob. You’ve never done any hardware in your life before. Besides the GB 300, you’ve got to power all of the networking hardware. There’s a whole bunch of CPU and storage stuff that’s happening. You’ve got to size for your peak cooling requirements. So that means can you cool even on the worst hours, the worst day of the year? Well, it gets pretty freaking hot in Memphis, so you’re going to have like a 40% increase on your power just for cooling. Assuming you don’t want your data center to turn off on hot days and you want it to keep going, then you’ve got to say, well, there’s another multiplicative element on top of that, which is are you assuming that you never have any hiccups in your power generation? Like, oh, well, actually sometimes we have to take the generators, some of the power offline in order to service it. Oh, okay, now you add another 20, 25% multiplier on that because you’ve got to assume that you’ve got to take power offline to service it. So the actual—roughly every 110,000 GB 300s inclusive of networking, CPU, storage, cooling, margin for servicing power is roughly 300 megawatts.”
+> 
+> John Collison asked him to repeat the number.
+> 
+> **Elon Musk:** “It’s roughly—or think about it like a way to think about it is like 330,000. What you need at the generation level to service, probably service 330,000 GB 300s, including all of the associated support, networking and everything else, and the peak cooling and to have some power margin reserve is roughly a gigawatt.”
+> 
+> ## **Part 5: Detailed Power Requirements and Space Engineering Difficulties**
+> 
+> Dwarkesh Patel asked a very naive but central question: while Elon had laid out the enormous engineering and power challenges on Earth in detail, there would be entirely new and unprecedented engineering difficulties in space — such as replacing InfiniBand with orbital lasers, hardening systems against radiation, and countless other issues that had never been solved at scale before. He asked why anyone should believe those novel challenges would ultimately prove easier than simply building more turbines on Earth, where established companies already know how to manufacture them.
+> 
+> **Elon Musk:** “I invite again, try doing it and then you’ll see. So like, the turbines are sold out through 2030.”
+> 
+> John Collison asked whether they had considered manufacturing their own turbines.
+> 
+> **Elon Musk:** “I think in order to bring enough power online, I think SpaceX and Tesla will probably have to make the turbine blades, the vanes and blades internally.”
+> 
+> John Collison asked if they meant just the blades or the entire turbines.
+> 
+> **Elon Musk:** “The limiting factor, you can get everything except the blades. They call the blades and vanes. You can get that 12 to 18 months before the vanes and blades. The limiting factor of the vanes and blades, and there are only three casting companies in the world that make these and they’re massively backlogged, is this Siemens.”
+> 
+> John Collison asked whether it was GE and the big names or subcontractors.
+> 
+> **Elon Musk:** “No, it’s other companies. I mean sometimes they have a little bit of casting capability in house. But I’m just saying you can just call any of the turbine makers and they will tell you it’s not top secret. They’re probably on the, it’s probably on the Internet right now.”
+> 
+> Dwarkesh Patel asked whether, if it weren’t for the tariffs, Colossus would be running on solar power.
+> 
+> **Elon Musk:** “It would be much easier to make it solar powered. Yeah, the tariffs are nuts, so several hundred percent.”
+> 
+> John Collison began to suggest that Elon surely knew some people who could help.
+> 
+> **Elon Musk:** “We also need speed. Yeah, no, you know, President has his, you know, we don’t agree on everything and this demonstration is not the biggest fan of solar. We also need the land, the permits and everything. So if you’re trying to move very fast, I do think scaling solar on Earth is a good way to go. But you do need some amount of time to find the land, get the permits, get the solar, pair that with batteries.”
+> 
+> John Collison pressed further: why not simply stand up their own massive solar production? There is plenty of private land in Texas and Nevada, enough at least to power the next Colossus and the one after that before eventually hitting a wall.
+> 
+> **Elon Musk:** “As I said, we are scaling solar production. There’s a rate at which you can scale physical production of solar cells where we’re going as fast as possible.”
+> 
+> John Collison confirmed they were building the solar cells domestically at Tesla.
+> 
+> **Elon Musk:** “Both Tesla and SpaceX have a mandate to get to 100 gigawatts a year of solar.”
+> 
+> ## **Part 6: AI Capacity Projections in Five Years and Starship Launch Rates**
+> 
+> John Collison shifted the conversation to a concrete five-year horizon, asking what the installed AI compute capacity would look like on Earth versus in space by then. He deliberately chose five years because it would be after the initial “we’re up and running” threshold for orbital infrastructure. Dwarkesh Patel followed up on the staggering numbers, noting that even 100 gigawatts of space-based AI — with all the solar arrays, radiators, and supporting systems — would require on the order of 10,000 Starship launches. He asked Elon to walk through a realistic world in which Starship was launching once every hour.
+> 
+> **Elon Musk:** “Five years? I think probably if you say five years from now, we’re probably AI in space will be launching every year the sum total of all AI on Earth in excess, meaning five years from now. My prediction is we will launch and be operating every year more AI in space than the cumulative total on Earth, which is I would expect to be at least sort of five years from now. A few hundred gigawatts per year of AI in space and rising. So you can get to, I think on Earth you can get to around a terawatt a year of AI in space before you start having fuel supply challenges for the rocket.”
+> 
+> John Collison pressed for confirmation on the hundreds-of-gigawatts-per-year figure.
+> 
+> **Elon Musk:** “Yes.”
+> 
+> Dwarkesh Patel highlighted the launch cadence implied by those numbers.
+> 
+> **Elon Musk:** “Yes.”
+> 
+> Dwarkesh Patel continued: to deliver 100 gigawatts in a single year would mean roughly 10,000 Starship launches annually — the equivalent of one launch every single hour, nonstop, from this city.
+> 
+> **Elon Musk:** “Yeah, I mean that’s actually a lower rate compared to airlines like aircraft.”
+> 
+> Dwarkesh Patel pointed out that there are a lot of airports around the world.
+> 
+> **Elon Musk:** “A lot of airports.”
+> 
+> Dwarkesh Patel noted the additional complexity of launching into polar or sun-synchronous orbits.
+> 
+> **Elon Musk:** “No, it doesn’t have to be polar, but there’s some value to sun synchronous. But I think actually you just go high enough, you start getting out of Earth’s shadow.”
+> 
+> Dwarkesh Patel asked how many physical Starships would be needed to sustain 10,000 launches per year.
+> 
+> **Elon Musk:** “I don’t think we’ll need more than. I mean, you could probably do it with as few as like 20 or 30. It really depends on how quickly the ship has to go around the Earth and the ground track before the ship has to come back over the launch pad. So if you can use a ship every, say 30 hours, you could do it with 30 ships, but we’ll make more ships than that. But SpaceX is gearing up to do 10,000 launches a year and maybe even 20 or 30,000 launches a year.”
+> 
+> ## **Part 7: SpaceX as Hyperscaler, Capital Markets, and the Kardashev Scale**
+> 
+> Dwarkesh Patel asked whether the long-term vision was for SpaceX to become a hyperscaler — launching and operating vast orbital AI capacity and then providing (or lending) that compute power to other companies.
+> 
+> **Elon Musk:** “Hyper. Hyper, yeah. I mean, if some of my predictions come true, SpaceX will launch more AI than the cumulative amount on Earth of everything else combined.”
+> 
+> Dwarkesh followed up on whether this capacity would mostly be used for inference or training.
+> 
+> **Elon Musk:** “Will be inferenced already? Inference for the purpose of training is most training.”
+> 
+> John Collison then explored the business implications, noting the shifting narrative around a possible SpaceX IPO. He pointed out that SpaceX had long been extremely capital efficient, but the scale of building orbital AI infrastructure would require capital raises far beyond what private markets had demonstrated they could comfortably provide — even as AI labs were already raising tens of billions. He asked if going public was the logical next step and more broadly about the difference in capital availability between public and private markets, as well as whether debt financing (common in capital-intensive industries with clear revenue streams) could suffice.
+> 
+> **Elon Musk:** “Yeah, I have to be careful about saying things about companies that might go public.”
+> 
+> **Elon Musk:** “There’s a price to pay for these things.”
+> 
+> **Elon Musk:** “Yeah, there’s a lot more capital in the very general. There’s obviously a lot more capital available in the public markets than private. I mean, it might be, it’s at least, at least, it might be 100 times more capital, but it’s at least way more than 10.”
+> 
+> John Collison noted that highly capital-intensive sectors like real estate are typically debt-financed once they have predictable near-term revenue.
+> 
+> **Elon Musk:** “A clear revenue stream.”
+> 
+> John Collison agreed.
+> 
+> **Elon Musk:** “Speed is important. So I’m generally going to do the thing that, I mean, I just repeatedly tackle the limiting factor, whatever the limiting factor is on speed, I’m going to tackle that. So there’s, if capital is the only factor, then I’ll solve for capital. If it’s not limiting factor, I’ll solve for something else.”
+
+Speed is important. So I’m generally going to do the thing that, I mean, I just repeatedly tackle the limiting factor, whatever the limiting factor is on speed, I’m going to tackle that. - Elon
+
+Dwarkesh Patel observed that, based on Elon’s past comments about Tesla being public, he would not have expected Elon to see going public as the way to move fastest.
+
+**Elon Musk:** “Normally I would say yeah, that’s true. Like I said, I mean, I’d love to talk about this in more detail, but the problem is like if you talk about public companies where they become public, you get into trouble and then you have to delay your offering and then you.”
+
+John Collison noted that this was again about solving for speed.
+
+**Elon Musk:** “Yes, exactly. So you can’t hype companies that might go public. So that’s why we have to be a little careful here.”
+
+Elon then pivoted to the fundamental long-term physics of scaling.
+
+**Elon Musk:** “But we can talk about physics. So the way you think about scaling long term is that Earth only receives about half a billionth of the sun’s energy. And the sun is essentially all the energy. This is a very important point to appreciate because sometimes people will talk about marginal nuclear reactors or any various fusion on Earth, but you have to step back a second and say if you’re going to climb the Kardashev scale and have some non trivial and harness some non trivial percentage of the sun’s energy, like let’s say you wanted to harness a millionth of the sun’s energy, which sounds pretty small, that would be about, call it roughly 100,000 times more electricity than we currently generate on Earth for all of civilization, give or take an order of magnitude. So it obviously the only way to scale is to go to space. With solar, from launching from Earth you can get to about a terawatt per year. Beyond that you want to launch from the moon, you want to have a mass driver on the moon, and that mass driver on the moon you could do probably a petawatt per year.”
+
+## Part 8: Building Terafabs for Chips, xAI Mission, and Propagating Consciousness
+
+Dwarkesh Patel noted that even with more efficient solar panels in space, the chips themselves would still be the ultimate limiter long before reaching terawatt scale. He asked how the world would produce a terawatt of logic compute by 2030 when today the entire planet has only about 20–25 gigawatts.
+
+**Elon Musk:** “You need to build a lot more chips and make them much cheaper.”
+
+**Elon Musk:** “I guess we’re going to need some very big chip apps.”
+
+**Elon Musk:** “I’ve mentioned publicly that the idea of doing sort of a terafab, terabying the new Giga.”
+
+Dwarkesh asked for details on the plan: what level of the stack they would build themselves versus partnering with an existing fab for process technology.
+
+**Elon Musk:** “Well, you can’t partner with existing fabs because they can’t output enough. The chip volume is too low.”
+
+**Elon Musk:** “IP (Intellectual Property), the fabs today all basically use machines from like five companies. Yeah, you know, so you’ve got ASML (ASML Holding), Tokyo Electron (Tokyo Electron Limited), KLA (KLA Corporation), Lam Research (Lam Research Corporation), you know, et cetera. So at first I think you’d have to get equipment from them and then modify it or work with them to increase the volume. But I think you’d have to build perhaps in a different way. So I think the logical thing to do is to use conventional equipment in an unconventional way to get to scale and then start modifying the equipment to increase the rate.”
+
+John Collison drew the parallel to how The Boring Company started.
+
+**Elon Musk:** “Yeah, kind of like. Yeah, you sort of buy an existing boring machine and then figure out how to dig tunnels in the first place and then design a much better machine that’s, I don’t know, some orders of magnitude faster.”
+
+![On November 24, 2025, on a rainy day in Bastrop, Texas, Prufrock-5 left the Boring Company factory.
+](https://whatsuptesla.com/wp-content/uploads/2026/03/screenshot-2026-03-02-at-10.41.37-am.png?w=809)
+
+On November 24, 2025, on a rainy day in Bastrop, Texas, Prufrock-5 left the Boring Company factory.
+
+John Collison offered a simple lens: look at technologies China has not yet replicated at leading edge, such as advanced chips and turbine engines, and asked whether the fact that China has not duplicated TSMC gave Elon pause about the difficulty.  
+**Elon Musk:** “It’s not that they have not replicated TSMC, they have not replicated ASML. That’s the limiting factor.”  
+John Collison asked if Elon thought it was simply the sanctions preventing China from advancing.  
+**Elon Musk:** “Yeah. China would be outputting vast numbers of chips at.”  
+John Collison followed up, noting that China had been able to buy 2 nm or 3 nm chips until relatively recently.  
+**Elon Musk:** “No. The ASML banners have been in place for a while, but I think China’s going to start making pretty compelling chips in three or four years.”  
+The discussion moved to the massive manufacturing requirements for space-based AI. Elon explained the need to match solar, chips, and rocket payload, with memory actually being his biggest concern.  
+**Elon Musk:** “I don’t know yet is the right answer. So it’s just that to produce at high volume and to reach large volume in say 36 months to match the rocket payload to orbit. So if we’re doing a million tons to orbit and like, let’s say, I don’t know, three or four years from now, something like that, and we’re doing 100 kilowatts per ton, so that means we need at least 100 gigawatts per year of solar and we’ll need an equivalent amount of chips. You need 100 gigawatts worth of chips. You’ve got to match these things. The master orbit, the power generation and the chips. And I’d say my biggest concern actually is memory. So I think the path to creating logic chips is more obvious than the path to having sufficient memory to support logic chips. That’s why you see DDR (Double Data Rate memory) prices going ballistic and these memes about like, you know, you’re marooned on a desert island. You write help me on the sand. Nobody comes. You write DDR ships come swarming in.”  
+Elon then painted the long-term picture of lunar manufacturing and mass drivers to reach petawatt-scale production, noting how the whole endeavor increasingly felt like a video game where each level is difficult but solvable.  
+**Elon Musk:** “I don’t know how to build a fab yet. I will figure it out. Obviously I’ve never built a fab.”  
+**Elon Musk:** “I don’t think it’s PhDs. It’s mostly people who are not PhDs. Most engineering is done with people who don’t have PhDs. Do you guys have PhDs? No. Okay.”  
+**Elon Musk:** “I don’t think you need PhDs for this stuff, but you do need competent personnel. So I don’t know. I mean right now, like Tesla’s pedal to the metal max production of going as fast as possible to get AI5 Tesla AI5 chip design into production and then reaching scale. That’ll probably happen around the second quarter ish of next year, hopefully. And then AI6 would hopefully follow less than a year later. But. And we’ve secured all the chip fab production that we can.”  
+**Elon Musk:** “Yeah, and we’ll be using TSMC Taiwan, Samsung Korea, TSMC Arizona, Samsung Texas and we still booked out all the…”  
+**Elon Musk:** “Yes. And then if I ask TSMC or Samsung, okay, what’s the timeframe to get to volume production? The point is you’ve got to build the fab and you’ve got to start production, then you’ve got to climb the yield curve and reach volume production at high yield. That from start to finish is a five year period. And so the limiting factor is chips. Limiting factor once you can get to space is chips. But the limiting factor before you can get to space will be power.”  
+**Elon Musk:** “I’ve already told them that, but they won’t take your money.”  
+**Elon Musk:** “They’re building fabs as fast as they can and so is Samsung. They’re pedal to the metal. I mean, they’re going balls to wall as fast as they can. So. Still not fast enough. I mean, like I said, there will be. I think if you say I think towards the end of this year, I think probably chip production will outpace the ability to turn chips on. But once you can get to space and unlock the power constraint and you can now do hundreds of gigawatts per year of power in space. Again bearing in mind that average power usage in the US is 500 gigawatts. So if you’re launching say 200 gigawatts a year to space, you’re sort of lapping the US every two and a half years. The entire all US electricity production, this is a very huge amount. But between now and then, actually the constraint for server side computer concentrated compute will be electricity.  
+My guess is that we start hitting, people start getting a point where they can’t turn the chips on for large clusters. Towards the end of this year the chips are going to be piling up and you won’t be able to be turned on. Now for edge computers, a different story. So for Tesla, so the AI 5 chip is going into our Optimus robot, you know, Optimus, and so if you have an AI edge compute, that’s distributed power. Now the power is distributed over a large area, it’s not concentrated. And if you can charge at night, you can actually use the grid much more effectively because the actual peak power production in the US is over 1,000 gigawatts. But the average power usage because the day night cycle is 500. So if you can charge at night, there’s an incremental 500 gigawatts that you can generate at night. So that’s why Tesla for edge compute is not constrained. And we can make a lot of chips to make very large number of robots and cars, but if you try to concentrate that compute, you going to have a lot of trouble turning it on.”  
+Elon explained that while launching at that massive scale from Earth would be almost impossible, the moon offered a far better path using mass drivers.  
+**Elon Musk:** “I don’t see any way that you could do 500 to 1,000 terawatts per year launch from Earth.”  
+**Elon Musk:** “But you could do that from the moon.”  
+Dwarkesh Patel agreed and then zoomed out to the bigger philosophical picture behind SpaceX. Dwarkesh asked whether, by the time humans are sending ships to Mars, Grok would be on board with them, and if so, how that relates to the main risk people worry about with AI.
+
+The vast majority of intelligence in the future will be AI - Elon Musk
+
+**Elon Musk:** “Well, I’m not sure AI is the main risk I’m worried about. I mean the important thing is that consciousness, which I think arguably most consciousness or most intelligence, certainly consciousness is more of a debatable thing. The vast majority of intelligence in the future will be AI. So AI will exceed you say, how many, I don’t know. Petawatts of intelligence will be silicon versus biological and basically humans will be a very tiny percentage of all intelligence in the future if current trends continue. Anyways, as long as I think, this intelligence ideally, also which includes human intelligence and consciousness propagated into the future, that’s a good thing. So you want to take the set of actions that maximize the probable a light cone of consciousness and intelligence.”[](https://x.com/gailalfaratx/article/2026505081021989366/media/2026463245188349952)
+
+![lon says, "I mean to be clear, I’m very pro human, so I want to make sure we take sort of actions that ensure that humans are along for the ride." 
+](https://whatsuptesla.com/wp-content/uploads/2026/03/screenshot-2026-03-02-at-10.50.09-am.png?w=809)
+
+Elon says, “I mean to be clear, I’m very pro human, so I want to make sure we take sort of actions that ensure that humans are along for the ride.”
+
+**Elon Musk:** “Yeah, I mean to be clear, I’m very pro human, so I want to make sure we take sort of actions that ensure that humans are along for the ride. We’re at least there. But I’m just saying the total amount of intelligence, I think maybe in five or six years AI will exceed the sum of all human intelligence. And then if that continues, at some point human intelligence will be less than 1% of all intelligence.”  
+Please click link to read on to the last 2 parts of this interview. I would have included them here, but the word count far exceeded what X currently allows. For Part 9 and 10, [Click here.](https://x.com/gailalfaratx/status/2026526924734878140)
+
+**_This 10-part series is based on a nearly three-hour conversation recorded in early February 2026 (aired February 5, 2026) between Elon Musk, podcaster Dwarkesh Patel, and Stripe co-founder John Collison. The discussion was filmed casually in Austin, Texas, over pints of Guinness, covering space-based AI, energy scaling, Optimus robots, xAI’s mission, Starship engineering, government efficiency, and humanity’s long-term future._**  
+**_Watch the complete unedited interview on YouTube:_**
+
+[Elon Musk with Dwarkesh Patel & John Collison – February 2026 (Full 3-Hour Podcast)](https://www.youtube.com/watch?v=BYXbuik3dgA)

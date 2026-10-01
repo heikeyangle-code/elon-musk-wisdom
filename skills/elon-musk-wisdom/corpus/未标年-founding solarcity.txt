@@ -1,0 +1,46 @@
+# SOURCE: https://www.elonmuskbook.org/the-book-of-elon-musk-free-online-version/founding-solarcity
+# HARVESTED: 2026-09-29
+
+Thank you for visiting the site. Enjoy the published content and the book. We appreciate your support, and please pay it forward.
+
+The Book of Elon Musk Elon Musk's Most Useful Ideas In His Own Words
+
+Mar 31
+
+Mar 31 Founding SolarCity
+
+Eric Jorgenson
+
+Q: How did SolarCity fit into the vision for Tesla?
+
+The earth is almost entirely solar powered today. The only reason we’re not a frozen ice ball at three degrees Kelvin is the sun. The sun is responsible for precipitation. It’s responsible for the vast majority of the ecosystem. We could say the entire earth is solar powered. That may not be super obvious to people. Also, the energy we consume to power civilization today is actually a tiny amount of the total energy the sun sends in our direction.571
+
+I wouldn’t say there was a particular epiphany to start SolarCity. I was at Burning Man with my cousins. They were thinking about what company to start after their first startup, called Everdream, sold to Dell. They built software that enabled companies to manage tens of thousands of computers.572
+
+I was trying to convince them to do solar, because I thought it was an area that needed really good entrepreneurs. I was already somewhat overcommitted at the time. I said, “If you guys do a solar company, I’ll fund you and give whatever guidance I can provide.”573
+
+I thought it was really important for great entrepreneurs to build in solar because it wasn’t doing well as an industry. People were not focusing on the right problem. The industry acted like the solar panel production was the main problem. It’s a problem, but it’s not the most important problem. The panel is somewhat commoditized at this point. Making standard-efficiency solar panels is about as hard as making drywall. It’s easy. In fact, making drywall is probably harder.574
+
+The thorny problem is figuring out how to get solar on tens of thousands, eventually hundreds of thousands, of rooftops. You’ve got to reroof millions of buildings, figure out how the grid interconnects work, and then manage all those systems.
+
+With hundreds of thousands of distributed systems, managing them all is tough. It is a really complex distributed energy company. This played to their strengths: creating scalable software for managing computers in a distributed fashion.
+
+The SolarCity team did an awesome job. I would show up to the board meetings asking, “What’s the good news this time?” They did an amazing job with almost no help from me.575
+
+We want to create a well-integrated beautiful solar-roof-with-battery product. This empowers individuals to be their own utility, then scale that throughout the world. One ordering experience, one installation, one service contact, one phone app.
+
+We can’t do this well if Tesla and SolarCity are different companies. We needed to break down the barriers of being separate companies. That they were separate at all is largely an accident of history. They have similar origins and pursue the same overarching goal of sustainable energy. When Tesla was ready to scale Powerwall (our home battery for energy storage) and SolarCity was ready to provide a differentiated solar system for energy generation, the time had come to bring them together.576
+
+Eric Jorgenson
+
+CEO of Scribe Media. Author of The Almanack of Naval and The Anthology of Balaji. Investing in technology startups as GP at Rolling Fun. Podcast: Smart Friends. Happy to be in touch through Twitter or email.
+
+Website
+
+About the book
+
+Book and website curating and sharing Elon's wisdom. Coming soon on March 24th. Follow on Twitter.
+
+Mar 31 The Battle of Public Perception
+
+Mar 31 The Only One Crazy Enough for Space

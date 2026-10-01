@@ -1,0 +1,17 @@
+# SOURCE: https://www.jaakkoj.com/concepts/idiot-index
+# TITLE: Idiot index - A quick explanation
+# FETCHED: fetch_content_cache
+
+Elon's SpaceX has brought the cost of building rockets down by probably +90% compared to competitors. One of the reasons is the systemic use of an "idiot index": comparing the price of a component to the cost of its raw materials. If you're buying a valve that costs $10,000, while the steel it's made of only costs $100, you're overpaying and should find other options or manufacture in house. "If the ratio is high, you're an idiot."
+
+A high ratio suggests overly complex design or manufacturing process, or high profit margins. With a bit of effort, you can probably find a cheaper alternative.
+
+Ways I'm applying the idiot index:
+
+*   At the grocery store, I'm asking: "is this a reasonable manufacturing price for the product or am I being swayed by branding and packaging?" There's very little room to be an idiot when buying eggs vs a flavored drink. My rule of thumb is that the more branded or processed the product is, the higher the idiot index.
+*   I want as many things in my house to be solid wood as possible: furniture, doors, closets etc. That leaves me with basically three options: buy used (often old) furniture; buy the material and make it myself; or hire a woodworker. The idiot index on second hand wooden things is incredibly, incredibly low: the sofa table I'm resting my legs on was 70€ , while the wood to build something similar would easily be 300€. That's just the wood! It just makes sense to find good second hand deals; it's only the custom dimensions / use case stuff that I bother building myself.
+*   For many larger purchases, I usually ask if there's a second-grade product available. This way you can get much closer to the actual cost of the materials / process. Eg for my grandpa, I bought a second-grade outdoor _palju_, a Finnish hot tub, for 50% off. We don't care that there are minor aesthetic defects, so long as the thing works.  
+    *   For big purchases, I also want to get a quote directly from the factory, in addition to the retailer, to remove the retailer markup. Eg on wallpaper & floorboards for our renovation, the factory could give 30-50% discounts when asked, simply because that was roughly what the retailer is taking for their services (showroom, sales staff, marketing, warehousing, customer service, etc.).
+    *   My rule of thumb with any larger purchase (appliances, renovation material etc) is that if I don't get at least 30% off, I'm an idiot.
+
+Figure out what the price consists of & what are the parts you can influence through a bit of creative thinking or negotiation. Figure out the profit margin & try to get it close to 0. You should make it really hard for companies to make money off of you!

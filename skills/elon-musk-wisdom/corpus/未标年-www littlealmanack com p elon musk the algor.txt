@@ -1,0 +1,202 @@
+# SOURCE: https://www.littlealmanack.com/p/elon-musk-the-algorithm
+# TITLE: Elon Musk's "Algorithm" to Build a Great Product
+# FETCHED: fetch_content_cache
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!3c2M!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F731a148a-5d15-4615-b361-38328de16315_3000x813.png)
+
+](https://substackcdn.com/image/fetch/$s_!3c2M!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F731a148a-5d15-4615-b361-38328de16315_3000x813.png)
+
+👋 Hey friend,
+
+I’m currently reading _The Book of Elon_ (by Eric Jorgenson) and I’m finding so many nuggets.
+
+One of my favorite (and which I’m sharing with you in today’s letter) is Elon Musk’s “Algorithm” to build a great product. And it’s in Elon’s own words, so there’s no loss in translation.
+
+(New → I just launched my latest 📙 ebook: _**14 Short Stories From The World’s Best Founders: Lessons You Don't Have To Learn The Hard Way.**_ 👉 **[Click here to check it out!](https://pickingnuggets.gumroad.com/l/founders-stories)**)
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!LqWJ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F937511b1-f8cc-4830-9926-2e6cdd3baffa_1460x370.png)
+
+](https://substackcdn.com/image/fetch/$s_!LqWJ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F937511b1-f8cc-4830-9926-2e6cdd3baffa_1460x370.png)
+
+> **🟠 Elon Musk:**
+> 
+> I have everyone at my companies rigorously implement a five-step process for engineering.
+> 
+> I call it _**The Algorithm.**_
+> 
+> I’ll list the steps, then explain.
+> 
+> The order is very important.
+> 
+> 1.  **Make your requirements less dumb.**
+>     
+> 2.  **Try very hard to delete the part or process.**
+>     
+> 3.  **Simplify or optimize.**
+>     
+> 4.  **Accelerate.**
+>     
+> 5.  **Automate.**
+>     
+
+**STEP 1: Make your requirements less dumb.**
+
+> **🟠 Elon Musk:**
+> 
+> **The first step is to question the requirements, and make your requirements less dumb.** You have to start there, because otherwise you could get the perfect answer to the wrong question. This step makes the question the least wrong possible.
+
+Reminded me these words from Einstein:
+
+_“If I had an hour to solve a problem I’d spend 55 minutes thinking about the problem and 5 minutes thinking about solutions.”_
+
+It shows how important it is to first think deeply about the problem before jumping to solutions, because if you’re solving the wrong question then it doesn’t matter how good your solution is or how fast you go.
+
+And I think that’s what Jeff Bezos meant — at least partly — when he said:
+
+_“Slow is smooth, and smooth is fast. Everything I have ever succeeded at in life is because of that philosophy.” \[[Source](https://youtu.be/NSzdCAt8phE?si=9HvDoDbHo5N_Faa0&t=2244)\]_
+
+**STEP 2: Try very hard to delete the part or process.**
+
+> **🟠 Elon Musk:**
+> 
+> **Step two: Try very hard to delete the part or process.** It sounds obvious, but people often forget to try deleting something entirely.
+> 
+> If you’re not adding deleted things back in 10 percent of the time, you’re clearly not deleting enough. Somewhat illogically, people often feel they’ve succeeded if they are not forced to put anything back in. But actually they have failed in a different way, because they’ve been overly conservative and have left things in there that shouldn’t be.
+> 
+> I tell them this in advance: “Look, we’re deliberately going to delete more than we should. Some of the things we delete, we’re going to put back in. At least one in ten things, we’re going to add back in.” People get a little shook by that. But if you’re so conservative in deleting that you never have to put anything back in, you obviously have a lot of stuff that isn’t needed.
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!LSHS!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdde21206-40b6-4698-bbea-e5f756d3b3d5_3278x962.png)
+
+](https://substackcdn.com/image/fetch/$s_!LSHS!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Fdde21206-40b6-4698-bbea-e5f756d3b3d5_3278x962.png)
+
+**STEP 3: Simplify or optimize.**
+
+> **🟠 Elon Musk:**
+> 
+> Then, once you have deleted as much as you can, **the third step is to simplify or optimize.**
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!FdP6!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf52322f-b2e0-4922-80a8-2da28e65570b_1388x578.png)
+
+](https://substackcdn.com/image/fetch/$s_!FdP6!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Faf52322f-b2e0-4922-80a8-2da28e65570b_1388x578.png)
+
+> The third step. The third step. Not the first step. Why?
+> 
+> Everyone was trained in high school and college to answer the question in front of them. It’s convergent logic. You can’t tell the professor, “Your question is dumb.” You have to answer the question. Without knowing it, almost everyone has this mental straightjacket on. They’ll work on optimizing a thing that should simply not exist.
+
+Alan Kay talked about this too…
+
+> **🟠 Alan Kay:**
+> 
+> Most people are rewarded in school for solving problems…
+> 
+> When was the last time your child or you were rewarded for finding a problem?
+> 
+> “You found a new problem? We’ve got too many already!”
+> 
+> Whereas in fact, finding what the real problem is is the big deal…
+> 
+> And people fight you every step of the way, they’ll fight your kids in school every step of the way if they’re a “problem-finder” type.
+> 
+> Don’t let the teachers hurt them.
+> 
+> Most problems are bogus — because they come out of the current context. We’re trying to get beyond the current context.
+> 
+> So forget about “problem-solving”. It’s just a bad heuristic. It’s the last thing you do…
+> 
+> Source: [Alan Kay, 2015: Power of Simplicity](https://www.youtube.com/watch?v=NdSD07U5uBs&t=1435s)
+
+**STEP 4: Accelerate.**
+
+> **🟠 Elon Musk:**
+> 
+> Then, and only then, **step four: accelerate cycle time.** Once you’re moving in the right direction, and moving efficiently… you’re moving too slow. Go faster. You can always make things go faster.
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!QSKn!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5b2a94cd-db89-4f2f-a385-43b9f3537201_3278x1223.png)
+
+](https://substackcdn.com/image/fetch/$s_!QSKn!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5b2a94cd-db89-4f2f-a385-43b9f3537201_3278x1223.png)
+
+**STEP 5: Automate.**
+
+> **🟠 Elon Musk:**
+> 
+> Step five, the final step, is to automate.
+> 
+> Always wait until the end of designing a process—after you have questioned all the requirements and deleted unnecessary parts—before you introduce automation.
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!JzF8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82580c57-c07c-48a4-a3da-01ef99f8a471_2969x16.png)
+
+](https://substackcdn.com/image/fetch/$s_!JzF8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82580c57-c07c-48a4-a3da-01ef99f8a471_2969x16.png)
+
+📙 I just launched my latest ebook: _**14 Short Stories From The World’s Best Founders: Lessons You Don’t Have To Learn The Hard Way ([click here to check it out](https://pickingnuggets.gumroad.com/l/founders-stories))**_
+
+It’s a collection of 14 personal stories told by some of the world’s best founders (such as Steve Jobs and Patrick Collison), and each conveys an important lesson for entrepreneurs.
+
+[check out the ebook!](https://pickingnuggets.gumroad.com/l/founders-stories)
+
+This quote from Jensen Huang (founder of Nvidia) accurately captures my motivation for making this book:
+
+> Learning from mistakes, other people’s mistakes, is the best way to learn.
+> 
+> Why learn from your own mistakes? You know, why learn from your own embarrassment?
+> 
+> You got to learn from other people’s embarrassment. That’s why we have case studies, and isn’t that right?
+> 
+> We’re trying to read from other people’s disasters, other people’s tragedies. Nothing makes us happier than that.
+> 
+> \- Jensen Huang \[Source: [A conversation with NVIDIA’s Jensen Huang](https://www.youtube.com/watch?v=8Pfa8kPjUio&t=932s)\]
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!JzF8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82580c57-c07c-48a4-a3da-01ef99f8a471_2969x16.png)
+
+](https://substackcdn.com/image/fetch/$s_!JzF8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82580c57-c07c-48a4-a3da-01ef99f8a471_2969x16.png)
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!HZlX!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F922b4ac4-fb9f-4784-bdfc-4d3834e1189d_1344x80.png)
+
+](https://substackcdn.com/image/fetch/$s_!HZlX!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F922b4ac4-fb9f-4784-bdfc-4d3834e1189d_1344x80.png)
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!1umY!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f8eea5a-2078-4095-bc18-caa388aa0a8c_2808x1518.png)
+
+](https://substackcdn.com/image/fetch/$s_!1umY!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F2f8eea5a-2078-4095-bc18-caa388aa0a8c_2808x1518.png)
+
+_👉 Highlight resurfaced using [Readwise](https://readwise.io/pickingnuggets/) ([click here to check it out](https://readwise.io/pickingnuggets/))_
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!8gOg!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31ec300c-bace-4a29-8d28-726db8b6fe64_1344x80.png)
+
+](https://substackcdn.com/image/fetch/$s_!8gOg!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F31ec300c-bace-4a29-8d28-726db8b6fe64_1344x80.png)
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!mVkQ!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5be7577e-5f74-489a-afbf-3ec6730eec99_1344x80.png)
+
+](https://substackcdn.com/image/fetch/$s_!mVkQ!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F5be7577e-5f74-489a-afbf-3ec6730eec99_1344x80.png)
+
+[
+
+![](https://substackcdn.com/image/fetch/$s_!JzF8!,w_1456,c_limit,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82580c57-c07c-48a4-a3da-01ef99f8a471_2969x16.png)
+
+](https://substackcdn.com/image/fetch/$s_!JzF8!,f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F82580c57-c07c-48a4-a3da-01ef99f8a471_2969x16.png)
+
+I hope you enjoyed today’s letter!
+
+Talk you soon,
+
+Your nuggets friend Julio :)

@@ -1,0 +1,81 @@
+# SOURCE: https://whatsuptesla.com/2025/06/22/sandy-munro-and-elon-musk-interview-transcript/
+# TITLE: Sandy Munro and Elon Musk Interview Transcript
+# FETCHED: fetch_content_cache
+
+I hope this article finds you well and that you have a moment to absorb the awesome words of Elon Musk. Whenever I read Elon’s words, it is like getting a high voltage injection of happiness and inspiration.
+
+The video was originally posted on X but has since been deleted, so this highlights the importance of preserving such conversations. If this interview is also removed from YouTube, it risks being lost in history. That’s why documenting the remarkable words of Elon Musk, the greatest genius of our time, is critical. I’ve documented many of Elon’s talks.
+
+**Sandy Munro:** Hey, boys and girls, and all technical kind of people as well! Thanks so much for joining us. I’m here again with Mr. Elon Musk. Elon, it’s great to see you! By the way, I gotta tell you, the last time I was here, there were dirt floors. This building is absolutely amazing now—six months?!
+
+**Elon Musk:** Yeah, take a look. There are some really nice touches, like that mezzanine area over there.
+
+![](https://whatsuptesla.com/wp-content/uploads/2025/06/screenshot-2025-06-19-at-10.23.08e280afam.png?w=1024)
+
+**Elon Musk:** The team can work in the office here. One of the things I like is making sure engineering and production are closely connected. That way, engineering isn’t up in some ivory tower, disconnected from the problems on the production floor. When engineering is right here, you walk out, see the production floor, and can actually see where you’ve designed something that’s difficult to manufacture. You can see the pain in the factory—where things aren’t getting made, what’s choking the production line. We have the same setup in Hawthorne for Falcon 9 and Dragon.
+
+**Sandy Munro:** I was looking around in here, and I haven’t seen much going on, but I’m assuming that has to do with everything else that’s happening. I mean, you’ve got interviews every two minutes—that’s amazing!
+
+**Elon Musk:** Actually, I’m only doing four interviews, and you’re one of them.
+
+**Sandy Munro:** Well, you know what? I’m very, very grateful, I really am. But I’d like to get into some of the other technical stuff—your build area or whatnot is brilliant. I was asked to make comments to somebody else that’s making rocket ships, and I said, “You’re doing them sideways, why? Why aren’t you doing them vertically? You’ll never get them around.” And yet, everything here is so perfect. I mean, you didn’t get this idea from Boeing, because they make them horizontally as well.
+
+**Elon Musk:** Yeah, we make Falcon 9 horizontally. I guess you can do it either way, horizontal or vertical. If it’s horizontal, you need things to keep the barrel sections round; otherwise, they just flatten out on you. But if you’re going to do the sections vertically, you need a lot of roof height. You can see how the factory progresses from a lower roof height to a medium roof height to a high roof height. So, you can really do it either way. Basically, you just need 9-meter rounding rings, which are kind of unwieldy. And we’re trying to design this with what, by rocket standards, is a high production rate.
+
+**Sandy Munro:** That’s my next question, actually. What is your production rate per year?
+
+**Elon Musk:** We’re aiming for 1,000 ships per year long-term. A thousand ships per year, and each one of those ships is the largest flying object ever made.
+
+**Sandy Munro:** That’s pretty impressive. “Occupy Mars” You’ve got it on your shirt—gotta be okay. So, I can see how you can launch, and I can see how you might get there in a hurry. So, two questions I’ve got: One is propulsion. Are you going to be using ionic propulsion for the craft that’s actually going to head for Mars?
+
+**Elon Musk:** Not currently, no. The amount we could speed up the journey with ion propulsion is very low. Ion thrusters have such low thrust, and to get that high specific impulse, you need a lot of energy. So, you’d have to unfurl massive solar panels and then stow them for entry. We don’t currently plan to use ion thrusters, but that could be a future optimization, maybe. If you want to get there faster, you’d need a higher transfer velocity from Earth. But then you’re going to need to use a lot of atmospheric braking or some amount of propulsive braking when you get to Mars. So your payload drops dramatically unless you coast all the way there, your payload drops quite a bit. Ultimately, you could see a path to turning a six-month journey into a three-month journey, but you would probably cut your payload by four.
+
+**Sandy Munro:** So, the other thing is, okay, let’s say you get entry into the Martian atmosphere—or lack thereof…
+
+**Elon Musk:** It’s similar to Earth at 100,000 feet. Most of the slowing down, even for Earth’s atmospheric reentry, occurs at 100,000 feet atmospheric density or above. Mars’ atmospheric density is about one percent that of Earth, but that’s actually plenty for getting to sonic velocity, maybe a little below subsonic.
+
+**Sandy Munro:** So, okay, touchdown. Are you going to have thrusters to slow the craft?
+
+**Elon Musk:** Oh, yes. For landing on Mars, Starship would land using thrusters with the Raptor engines, and it would land with a lot of payload. It’s different from Earth, where it’s delivering satellites to orbit and coming back much lighter. But if it’s going to Mars, it’s landing with maximum payload.
+
+**Sandy Munro:** And that’s where I’m kind of like, are you going to have anything else to slow it down?
+
+**Elon Musk:** Well, it’s just heat shield and thrusters.
+
+**Sandy Munro:** Yeah.
+
+**Elon Musk:** You do need quite a lot of propellant to slow it down because it’s coming in heavy with maximum payload. To your point earlier, the atmospheric density is only one percent that of Earth. So, you’re lucky if you can get subsonic on Mars, but you can certainly get the vast majority of the kinetic energy taken out with the atmosphere. And so, you’re going to need a lot more propellant than we need on Earth, because your terminal velocity is still going to be, you know, Mach 1-ish. And you’re heavy, so you’re going to need a lot more propellant to land.
+
+**Sandy Munro:** So, how many… I’m assuming the first shot to Mars is not going to have people on it. You’re going to have to drop stuff for them and whatnot.
+
+## **THE FIRST MISSIONS TO MARS ARE ALL ABOUT LANDING SAFELY**
+
+**Elon Musk:** The first missions to Mars are all about making sure the rocket can land safely. So, the first missions are focused on confirming that we can land without generating more craters on Mars. We want the crater count on Mars to stay constant—no new craters. As long as we don’t increment the crater count on Mars, and we feel confident that future missions are safe for people, then we would send people. You only get to do this every two years, roughly, because Earth and Mars align every 26 months for a launch window. So, you really have a small number of opportunities in our lifetime—maybe 15 or 20.
+
+**Sandy Munro:** So, I was just wondering about that window. How many would you shoot up in that brief window you’ve got? Would you send four or five?
+
+**Elon Musk:** Ultimately, we’ll send thousands.
+
+**Sandy Munro:** No, I mean for the first one.
+
+**Elon Musk:** It depends on how many rockets we have ready. The next Mars window is only 18 months from now. To send something to Mars, we still have to solve a lot of technical problems, and we’ve got to refill propellant in orbit. So, it’s going to be close as to whether we’re able to send test rockets to Mars by the end of next year. We might not make it, but we might. I’d say 50/50 right now. And we’d send, I don’t know, three to five, something like that.
+
+**Sandy Munro:** That’s what I thought. I was interviewed a while ago, and I said five. That’s what I’d think—you’re going to send five up.
+
+**Elon Musk:** That depends on how many we have.
+
+## HUMANITY’S PLANETARY BACKUP PLAN
+
+**Sandy Munro:** I’ve got one last question, because she’s going like this _\[Sandy swirls his hand\]_. Have you got anything you’d like to tell the audience that no one has asked about yet?
+
+**Elon Musk:** Well, I guess it’s worth repeating—people often ask why we’re doing this, because sometimes people are puzzled as to why we’re doing it. The reason we’re doing it is to make life, consciousness, multi-planetary, so as to preserve the future of civilization and consciousness, and to protect life as we know it. There’s always some chance of something going wrong on Earth. Overall, I am optimistic about earth, and I think if there’s even just a one percent chance of life and consciousness as we know it being annihilated on Earth, you’d want to protect against that by having a second planet to back up the biosphere and ensure the continuity of life and consciousness. This is the first time in Earth’s 4.5-billion-year history that this has been possible, so we should take advantage of this window while it’s still open. We don’t want to be complacent and assume a constant upward trajectory of civilization. Hopefully that happens, but it might not. This is about protecting the future of life itself.
+
+**Sandy Munro:** As far as I’m concerned, that’s admirable. I think it’s a great idea. By the way, I like the idea of having children as well.
+
+**Elon Musk:** No kids, no humans, no humanity.
+
+**Sandy Munro:** Anyway, thank you again. I really appreciate it. Thank you. Good luck.
+
+_Transcript ends._
+
+_NOTE: In this_ [third exclusive interview](https://youtu.be/fgPbxReNmNo?si=1PnADgMhulcCJzNf)_, Sandy and Elon Musk discuss SpaceX’s unique technical prowess, manufacturing methodology, and mission to occupy Mars._

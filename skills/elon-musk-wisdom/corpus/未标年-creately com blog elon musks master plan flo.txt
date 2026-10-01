@@ -1,0 +1,16 @@
+# SOURCE: https://creately.com/blog/elon-musks-master-plan-flowchart/
+# TITLE: Elon Musk’s Master Plan Flowchart - Creately Blog
+# FETCHED: fetch_content_cache
+
+**Elon Musk’s Master Plan to Give the World a Second Chance**
+
+Announcing the second part of his Secret Tesla Motors Master Plan on 20th of July 2016, Elon Musk revealed his company’s next steps, which, in fact, are part of his larger plan to give the world a second chance.
+
+His plan is to ‘achieve a sustainable energy economy’ by ceasing people’s dependency on fossil fuels. With the acquisition of SolarCity, he intends to create a world where there would be;
+
+*     Solar roofs with seamlessly integrated battery storage
+*     Electric vehicles (pickup trucks, heavy-duty trucks, public transport vehicles) that will address all major segments
+*     Autopilot that is 10x safer (with hardware “necessary to be fully self-driving with fail-operational capability”) than actual driving
+*     A Tesla shared fleet that will generate income for the owner while he is at work or vacation
+
+Find out how his Master Plan ‘Part Deux’ would ultimately contribute to giving the world a second chance with this flowchart.

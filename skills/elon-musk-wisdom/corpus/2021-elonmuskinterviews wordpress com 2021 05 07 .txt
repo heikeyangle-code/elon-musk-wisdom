@@ -1,0 +1,113 @@
+# SOURCE: https://elonmuskinterviews.wordpress.com/2021/05/07/neuralink-demo-event-2020-i-the-presentation/
+# TITLE: Neuralink Demo Event 2020 (I) – The Presentation
+# FETCHED: fetch_content_cache
+
+_On 29th August 2020, Elon Musk presented Neuralink’s technical progress and answered questions from the audience and social media together with the team. This is the transcript of the first part of the event (minute 0:35 – 23:04), which not only explains science and technology, but also presents healthy and happy pigs. Some of the images inserted in this transcript of the [video](https://www.youtube.com/watch?v=iOWFXqT5MZ4&t=90s) published by CNET on YouTube and in the [German translation](https://elon-musk-interviews.com/?p=1441) contain links leading to video sequences shown during the presentation._
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/05/titel-presentation.png?w=1024)
+
+**Elon Musk:** (0:35) Alright, welcome to the Neuralink product demo. Really excited to show you what we’ve got; I think it’s going to blow your mind.
+
+The primary purpose of this demo is actually recruiting. I’m going to emphasize at the beginning and then again at the end, we’re not trying to raise money or do anything else. The main purpose is to convince great people to come work at Neuralink and help us bring the product to fruition, make it affordable and reliable, and such that anyone who wants one can have one. And so when I emphasize the purpose of Neuralink, like what do we, what’s our goal – our goal is to solve important spine and brain problems with a seamlessly implanted device. So you want to have a device that you can basically put in your head and feel and look totally normal. But it solves some important problems in your brain or spine.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/05/bild-1_41.jpg?w=1024)
+
+The reality is that almost everyone, over time, will develop brain and spine problems. These range from minor to very severe. But if you live long enough, everyone’s going to basically have some kind of neurological disorder, and these range, you know, from memory loss to brain damage. But the thing that’s important to appreciate is that an implantable device can actually solve these problems.
+
+I think a lot of people don’t quite realize that. But all of your senses – your sight, hearing, feeling, pain – these are all electrical signals sent by neurons to your brain. And if you can correct these signals, you can solve everything from memory loss, hearing loss, blindness, paralysis, depression, insomnia, extreme pain, seizures, anxiety, addiction, strokes, brain damage. These can all be solved with an implantable Neuralink. This is an extremely fundamental thing. I think a lot of people don’t quite understand that. The neurons are like wiring, and you kind of need an electronic thing to solve an electronic problem.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/05/bild-3_08.jpg?w=983)
+
+Current medical research – I will just go through what is the state of the art in medical research. And then what’s the state of the art in what consumers or people, in general, can get. So the current medical research has shown that you can read neurons in a human’s brain.
+
+It’s something called the Utah Array, which has about 100 channels per array. But it’s kind of like a bed of rigid spikes that’s literally inserted with an air hammer. That’s slightly discomforting, I think. There’s wires and a box on your head. So it’s some infection risk, and obviously, it will look pretty weird if you’re walking around with boxes on your head. In order to use it, you have to have an expert medical professional there. It’s only been done in a few dozen people, but it served as an important proof of concept that this can be done. We did want to point this out and ensure that this actually does work. It’s just not something that the average person could use effectively.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/05/bild-4_18.jpg?w=1024)
+
+Then in terms of what is currently available, there is something called Deep Brain Stimulation, where they put electrodes – a small number of electrodes – in your brain and will actually zap your brain with an electric current. It’s valuable for its users but can’t read or write high bandwidth information. I would say this is a bit like sort of kicking the TV, which does work, but not always, and it has limitations. Nonetheless, this has greatly helped over 150,000 people. Despite being somewhat of a brute force approach, it has been very effective for a lot of people. And this is what’s currently available.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/05/bild-5_38.jpg?w=1024)
+
+We want to radically improve this by multiple orders of magnitude – improved by a factor of 100, then 1000, then 10,000. Going into the Neuralink architecture, what we’ve done over the past year is dramatically simplify the device. About a year ago, we had a device which had multiple parts, including a piece that had just sort of sit behind your ear. It was complex, and you wouldn’t still look totally normal – you’d have a thing behind your ear. (5:36) We’ve simplified this to simply something that is about the size of a large coin, and it goes in your skull, replaces a piece of skull, and the wires then connect within a few centimeters or about an inch away from the device. And this is sort of what it looks like.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/05/bild-6_02.jpg?w=1024)
+
+This is this little device. That thing at the bottom is just to hold the threads in place because they’re just like little fine wires.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/05/zeitlink-6_18.jpg?w=709)](https://youtu.be/iOWFXqT5MZ4?t=371)
+
+I mean, frankly, to sort of simplifying this – I mean, it’s more complicated than this – but in a lot of ways, it’s kind of like a [Fitbit](https://en.wikipedia.org/wiki/Fitbit) in your skull with tiny wires.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/05/bild-6_42.jpg?w=1024)
+
+Our current prototype version 0.9 has about 1000 channels. So that’s near about 100 times better than the next best consumer devices available. And it’s 23 millimeters by eight millimeters – it actually fits quite nicely in your skull because your skull is about 10 millimeters thick. So it fits, it goes flush with your skull, it’s invisible, and all you can see afterwards is this tiny scar. And if it’s under your hair, you can’t see it at all. In fact, I could have that Neuralink right now, and you wouldn’t know – maybe I do.
+
+It’s also got all the things that you would expect to see – the sensors you’d expect to see in a smartwatch or a phone, like inertial measurement, temperature, pressure. So there’s actually a lot of functions that this device could do related to monitoring your health and warning you about a possible heart attack or stroke or other damage, as well as sort of convenience features like playing music. It do a lot. Sort of like if your phone went on your brain or something. Maybe that’s not a great analogy.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/05/bild-7_55.jpg?w=1024)
+
+Anyway… –  It’s also inductively charged, so it’s charged in the same way that you charge a smartwatch or a phone. You can use it all day, charge it at night and have full functionality. So you would really… it would be completely seamless. And yeah, no wires.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/05/bild-8_20.jpg?w=1024)
+
+In terms of getting a link, we need to have the device, a great device, and you also need to have a great robot that puts in the electrodes and does the surgery. You want the surgery to be as automated as possible. The only way you can achieve the level of precision that is needed is with an advanced robot. So we’re really looking for great people who can help develop both the device and the robot. And we feel confident about getting the link procedure, the installation of a link, done in under an hour. So you can basically go in in the morning and leave the hospital in the afternoon. And it can be done without general anesthesia.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/05/bild-9_00.jpg?w=1024)
+
+In terms of getting a link, like I said, it’s essentially open a piece of scalp, you remove about a coin size piece of skull, and then the robot inserts the electrodes. We’ll talk more about that later. Then the device replaces the portion of skull that was removed, and we basically close that up with actually super glue, which is how a lot of wounds are closed. And then you can just walk around right afterwards. It’s pretty cool.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/05/zeitlink-9_35.jpg?w=1024)](https://youtu.be/iOWFXqT5MZ4?t=572)
+
+This is our surgical robot. And we actually ultimately want this robot to do essentially the entire surgery, in everything from incision, removing the skull, inserting electrodes, placing the device, and then closing things up and having you ready to leave. We want to have a fully automated system. To be clear – this robot does actually work. We’ve used it for all of the implantations.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/05/zeitlink-10_15.jpg?w=1024)](https://youtu.be/iOWFXqT5MZ4?t=613)
+
+This shows you a sort of close-up view which I think it’s actually not too gruesome of the electrodes being inserted in the brain. And if you look closely, you’ll see that – that’s a little counterintuitive – that if the electrodes are inserted very carefully, that there is no bleeding. (10:35) If you have very tiny electrodes, and if they’re inserted very carefully… – The robot actually images the brain and makes sure to avoid any veins or arteries so that the electrodes can be inserted with no noticeable damage. You will have no noticeable neural damage in inserting the link. Yeah, like you sort of think like, if you stabbed something with a wire, surely it will bleed; but actually, at a really small scale, it does not.
+
+So does it actually work? What I’m excited to show you, I call like [the three little pigs](https://en.wikipedia.org/wiki/The_Three_Little_Pigs) demo. We’re bringing out the pigs and what we’re going to show you is a… – well, I’ll walk right over and show you.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/05/zeitlink-11_49.jpg?w=1017)](https://youtu.be/iOWFXqT5MZ4?t=699)
+
+What we have in pen number one is Joyce, and she does not have an implant. Obviously healthy and happy. We’re trying to get Gertrude out. Well, this is – how you know – it’s a live demo. She’s a little… she’s like, trying to eat something in the corner of her pen. Come on, Gertrude. Snacks show this way. Oh, man. All right. Well, wait, we’ll give Gertrude a second.
+
+And we’ll move on to Dorothy. Sometimes the pigs are a little shy. Here’s Dorothy, and in the case of Dorothy, Dorothy used to have an implant, and then we removed the implant. This is a very important thing to demonstrate – its reversibility. If you have a Neuralink, and then you decide you don’t want it, or you want to get an upgrade, and the Neuralink is removed, is it removed in such a way that you’re still healthy and happy afterwards? And what Dorothy illustrates is that you can put in the neural link, remove it and be healthy, happy, and indistinguishable from a normal pig. Now, thanks, Dorothy.
+
+_(Gertrude still doesn’t want to come to the front pen in the audience room)_ Man, Gertrude, are you serious? (13:04) Okay. Well, sure, bring them all out or something? Would that be better? How about everyone just comes into this pen? It will be a little crowded, but whatever… okay, all right. Well, is Gertrude still back in the thing. Okay. We need to bring Gertrude out. Yeah. Oh, the beauty of live demos. This is real live demo. All right. Maybe we just zoom in. She’s really very interested in something at the back of the pen. Can you see her? All right, this might take a sec. Well, this worked earlier. All right, well, what if we lift the curtain and then zoom in? _(Gertrude comes to the front pen)_ Alright, here we go. Great.
+
+Okay, this is a high-energy pig. (15:17) Alright, Gertrude, thanks for coming out. So the beats you’re hearing are real-time signals from the Neuralink in Gertrude’s head. This Neuralink connects to neurons that are in her snout. Whenever she snuffles around and touches something with the snout, that sends out neural spikes, which are detected here. On the screen, you can see each of the spikes from the 1024 electrodes. If she snuffles around, touches the snout on the ground, or you kind of feed her some food – pigs love food – then you can see the neurons will fire much more than when you’re not touching the snout. And that’s what’s making the beeping sound.
+
+So as you can see, we have a healthy and happy pig, initially shy, but obviously high energy and, you know, kind of loving life. She’s had the implant for two months. So this is a healthy and happy pig with an implant that is two months old and working well. Yeah.
+
+(16:37) All right, cool. Then we actually have – I hope this works _(referring to the pigs to be led into the front pen)_  – is… we said, well, what if we do two Neuralink implants. And we’ve been able to do dual Neuralink implants in actually, I think, three pigs at this point. We have a couple of them here. We’re able to show that you can actually have multiple Neuralinks implanted – and again, healthy and happy and indistinguishable from a normal pig. So it’s possible to have multiple links in your head and have them all be sending out signals, and be working well. All right.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/05/zeitlink-17_39.jpg?w=992)](https://youtu.be/iOWFXqT5MZ4?t=1051)
+
+So we just showed you a demonstration of reading brain activity, and as I’m saying, each of those dots represents a neural spike. And the blue chart at the bottom is showing an accumulation of neural spikes in that region.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/05/bild-17_48.jpg?w=989)](https://youtu.be/iOWFXqT5MZ4?t=1069)
+
+In terms of additional brain reading activity, when we have one of our pigs on a treadmill – pig on a treadmill, it’s a funny concept, really – and we take the readings from the neurons, and we try to predict the position of the joints, and we say we have the predicted position of the joints, and then we measure the actual position of the joints, you can see that they’re almost exactly aligned. So we’re able, with a wireless neural implant, to actually predict the position of all of the limbs in the pig’s body with very high accuracy.
+
+(18:36) Now in terms of writing to the brain or stimulating neurons, we also need precise control of the electric field in space and time. We need a wide range of current for different brain regions. Some regions require delicate stimulation, some require a lot of current, and you want obviously no harm to the brain over time.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/05/zeitlink-18_55.jpg?w=1024)](https://youtu.be/iOWFXqT5MZ4?t=1134)
+
+The way we analyzed the stimulating neurons is with a two-photon microscopy – I always have trouble pronouncing that -microscopy. It’s a very impressive technology. You can actually literally see in real-time how the neurons are firing. So, the red sort of things are the neurons – the red flashing things are the neurons firing; or I should say the electrodes firing. The red things are electrodes firing, and then the green are the neuron body’s responding to the current from the electrode.
+
+You can see them lighting up different brain regions. And then, by carefully controlling the electric field, you can actually have one electrode influence possibly 1000 or 10,000 neurons. So although you might only have 1000 electrodes implanted, you could be influencing millions of neurons.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/05/zeitlink-19_59.jpg?w=1024)](https://youtu.be/iOWFXqT5MZ4?t=1197)
+
+That’s just a similar chart showing stimulation at different power levels.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/05/bild-20_10.jpg?w=1024)
+
+Like I said, for the initial device, it’s read & write on every channel with about 1024 channels, all-day battery life, recharges overnight, has quite a long range. So you have the range – the range being to your phone, I should say, that’s kind of important thing: this would connect to your phone, and actually, the application would be on your phone, and it’ll be communicating by essentially Bluetooth low energy to the device in your head. That’s why I said in a lot of ways it is like a Fitbit in your skull with tiny wires. Then like I said, you would not be able to see the device at all; you would look completely normal and just have a small scar under your hair.
+
+We’re making good progress towards clinical studies. I’m excited to announce that we received a Breakthrough Device designation from the FDA in July, thanks to the hard work of the Neuralink team. (21:14) I want to be clear, we’re working closely with the FDA, and we will be extremely rigorous. In fact, we will significantly exceed the minimum FDA guidelines for safety. We’ll make this as safe as possible. Just as with Tesla – while it is legally possible to ship a one-star car, at Tesla, the only cars we make are five stars in every category. We actually maximize safety, and we’ll take the same approach here at Neuralink.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/05/bild-21_52.jpg?w=1024)
+
+To emphasize again, what the goal of this presentation is, is recruiting. We want people who are great at solving problems to join the company and help us complete this device, take care of the animals, write the software, create the chips, and productionize everything. So we need like robotics engineers. I think we also especially need people who have worked on and shipped products. So if you’ve like shipped a smartwatch or a phone, or any kind of complex electronics or complex device, or advanced medical devices, we’d love for you to contact us and consider working here.
+
+A very important point to emphasize is that you do not need to have prior experience on brains. A lot of people think, well, I couldn’t possibly work for Neuralink because I don’t know anything about how brains work. That’s okay, you can learn. But we need software engineering, we need mechanical engineering, electrical engineering, like said chip design, robotics, and all the things that a company needs to work. So please send in your resume. Actually, it’s not just engineering, but obviously everything at Neuralink. (23:04)

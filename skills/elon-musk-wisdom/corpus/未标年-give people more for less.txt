@@ -1,0 +1,52 @@
+# SOURCE: https://www.elonmuskbook.org/the-book-of-elon-musk-free-online-version/give-people-more-for-less
+# HARVESTED: 2026-09-29
+
+Thank you for visiting the site. Enjoy the published content and the book. We appreciate your support, and please pay it forward.
+
+The Book of Elon Musk Elon Musk's Most Useful Ideas In His Own Words
+
+Mar 31
+
+Mar 31 Give People More for Less
+
+Eric Jorgenson
+
+Revolutionizing industries is not for the faint of heart.548
+
+Q: How do you think about iterating through products to reach a mass market?
+
+The nature of new technology adoption tends to follow an S-curve. People underpredict it in the beginning, because they tend to extrapolate trends in a straight line. Then they’ll overpredict it at the midpoint during massive growth. It will take longer than people think at the midpoint, but much shorter than people think at the beginning.549
+
+One way to look at technology is like rendering an image in successive levels of detail. The first layer of the image is very blurry and things are out of place. Then with the next pass, it gets a bit more defined and things start to shift into place. And you do another pass and another pass, and eventually it’s refined and actually works.550 It generally takes three major iterations of any major new technology to have it work really, really well.551
+
+Progress comes from design and technology improvements as well as scale. Look at the earliest cell phones. In the original Wall Street movie in 1987, the guy’s walking down the beach with a giant phone, carrying a briefcase to power it. It had like thirty minutes of battery life. Without technology improvements, no amount of money or scale could have made that phone affordable. It took a lot of engineering and design iterations.552
+
+In the early days of cell phones, laptops, and gasoline cars, they were considered toys for rich people. You need to go through this phase of having an expensive car available to few in order to build the low-cost car available to many. The first version is simply about making the new technology work. Then, you work to optimize.553
+
+We’re probably on the thirtieth version of a cell phone, and with each successive design iteration we add more capability. We integrate more parts and figure out better ways to produce it so it gets both better and cheaper. Progress in any new technology takes multiple versions and a large production volume to make it affordable.554
+
+Air travel used to be accessible to only a few people. It was insanely expensive and dangerous. Now it is common to fly. The first TVs were rare and expensive. Then big, flat-screen plasma TVs used to be extremely expensive. Now, you can buy an amazing flat-screen plasma for two hundred bucks. It’s amazing.555
+
+This is also true for electric cars. The strategy for Tesla was to enter at the high end of the market with the Roadster, where customers are prepared to pay a premium. Then move as fast as possible to higher volume and lower prices with each successive model.556
+
+The Model S was a sporty four-door family car at roughly half the price point of the Roadster. Then the Model 3 was even more affordable. All free cash flow was plowed back into R&D to drive down costs and bring the next products to market as fast as possible. When someone bought the Tesla Roadster, they were helping pay for development of the low-cost family car.557
+
+Q: Any other unique aspects about Tesla’s product philosophy?
+
+Focus on signal over noise. A lot of companies get confused. They spend a lot of money on things that don’t actually make the product better. At Tesla, we put all the money into research and development, manufacturing, and design to try and make the cars as good as possible. For any company, ask, “Are the efforts we’re expending resulting in a better product or service?” If they’re not, stop those efforts.558
+
+Also, go for extreme levels of precision. One of the examples we use at Tesla is LEGO blocks. LEGO is super precise. The press-fit comes down to a quarter millimeter or less, and each one is exactly the same. LEGO doesn’t work if the press-fit is too soft or too hard. If it’s too soft, the press-and-click won’t stick; if it’s too hard, you can’t get it on. They can make something that is a tiny fraction of a millimeter accurate and it’s a low-cost plastic toy. If LEGO can be that precise, so can a car.559
+
+Eric Jorgenson
+
+CEO of Scribe Media. Author of The Almanack of Naval and The Anthology of Balaji. Investing in technology startups as GP at Rolling Fun. Podcast: Smart Friends. Happy to be in touch through Twitter or email.
+
+Website
+
+About the book
+
+Book and website curating and sharing Elon's wisdom. Coming soon on March 24th. Follow on Twitter.
+
+Mar 31 A Whole New Kind of Car Company
+
+Mar 31 The Battle of Public Perception

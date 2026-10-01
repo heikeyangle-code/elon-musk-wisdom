@@ -1,0 +1,72 @@
+# SOURCE: https://www.elonmuskbook.org/the-book-of-elon-musk-free-online-version/the-last-human-drivers
+# HARVESTED: 2026-09-29
+
+Thank you for visiting the site. Enjoy the published content and the book. We appreciate your support, and please pay it forward.
+
+The Book of Elon Musk Elon Musk's Most Useful Ideas In His Own Words
+
+Mar 31
+
+Mar 31 The Last Human Drivers
+
+Eric Jorgenson
+
+It’s crazy to let people drive a two-ton death machine manually. TheIt’s crazy to let people drive a two-ton death machine manually. They can drive into whatever they want. In the future, it’s going to seem like a mad thing that people once drove cars.770
+
+In the early days of Tesla, 2013, a guy fell asleep at the wheel in a Model S, and he ran over a cyclist and killed him. Unfortunately, people fall asleep at the wheel often. If we had already built autopilot, this cyclist would still be alive. I thought, We’d better hurry up and get it working.771
+
+There are clearly two massive revolutions coming to the automobile industry; one is the transition to electrification, and then the other is autonomy. It became obvious to me that in the future, any car that does not have autonomy would be about as useful as a horse. That’s not to say it has no use…but it is rare for somebody to have a horse these days. It’s obvious cars will drive themselves completely; it’s just a question of time.772
+
+An autonomous car is arguably worth five to ten times more than a car that is not autonomous.773
+
+The autonomy system is likely to mitigate crashes except in rare circumstances. Vehicle safety is probabilistic. There’s some chance any time a human driver gets in a car that they will have an accident that is their fault. The odds are never zero. The key threshold for autonomy is: How much better does autonomy need to be than a person before you can rely on it?774
+
+About a million people die every year in car accidents and about ten million per year have serious injuries. Bringing the day of self-driving sooner translates directly to lives saved and injuries avoided. The sooner, the better. A lot of lives will be saved and made better.775
+
+Tesla deployed partial autonomy immediately because when used correctly, it was already significantly safer than a person driving by themself. It would be morally reprehensible to delay release simply for fear of bad press or some mercantile calculation of legal liability.776
+
+Autonomous cars could maneuver with a reaction time much faster than a human. Over time, autopilot will be capable of impossible maneuvers that a human could never do.777
+
+I told the team I want the latest data on miles per intervention to be the starting slide at each of our meetings. If we’re training AI to drive, what do we optimize? The answer is higher miles between interventions. It is motivating to watch each day as the miles per intervention increases. Video games without a score are boring.
+
+We always try to do the right thing. When we make mistakes, it may be because we were being foolish or stupid, but it’s always with the right motivations.778
+
+When true self-driving is approved by regulators, you will be able to summon your Tesla from pretty much anywhere. Once it picks you up, you will be able to sleep, read, or do anything else en route to your destination.779
+
+Mega-long-term, I think of cars as being effectively carriers for the autonomy software. It’s the vehicle, literally and figuratively for autonomy. It’s the software that rides on the car.780
+
+Eventually, self-driving cars will take the form of a shared autonomous fleet. You buy your car, and you could choose to use your car exclusively yourself, have it used only by friends and family, or only by other drivers who are rated five stars. You can choose to share it sometimes but not other times. That’s 100 percent what will occur. It’s just a question of when.781
+
+This autonomy shift is massive, because you could suddenly have five times the utility of the car you currently have. Say a normal passenger car gets ten to twelve hours a week of usage. An autonomous car could be used fifty to sixty hours a week.782
+
+This is all good for the environment, because you need fewer cars to get the same thing done. We would need fewer parking lots and garages to store cars when they’re not in use, because they’re in use a lot more.783
+
+If this is true, as autonomous driving capability is turned on for the Tesla fleet, it may be the biggest asset value increase in history…overnight.784
+
+So, in short, Master Plan Part Deux is:
+
+Create stunning solar roofs with seamlessly integrated battery storage.
+
+Expand the electric vehicle product line to address all major segments.
+
+Develop a self-driving capability that is ten times safer than manual via massive fleet learning.
+
+Enable your car to make money for you when you aren’t using it.785
+
+I can’t say enough about the profundity of full self-driving. It will be one of the biggest changes in history. It’s not just some feature; it is as profound as electrification. We already have millions of cars on the road now able to achieve this with the right software update.786
+
+Eventually, a vehicle must be designed as a clean Robotaxi. We’re going to take that risk. No mirrors, no pedals, no steering wheel. This will be a historically megarevolutionary product. It will transform everything. This is the product that makes Tesla a ten-trillion-dollar company. People will be talking about this moment in a hundred years.787
+
+Eric Jorgenson
+
+CEO of Scribe Media. Author of The Almanack of Naval and The Anthology of Balaji. Investing in technology startups as GP at Rolling Fun. Podcast: Smart Friends. Happy to be in touch through Twitter or email.
+
+Website
+
+About the book
+
+Book and website curating and sharing Elon's wisdom. Coming soon on March 24th. Follow on Twitter.
+
+Mar 31 Upgrading the Human Mind
+
+Mar 31 Sustainable Abundance

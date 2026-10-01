@@ -1,0 +1,60 @@
+# SOURCE: https://www.elonmuskbook.org/the-book-of-elon-musk-free-online-version/innovation-needs-permission-to-fail
+# HARVESTED: 2026-09-29
+
+Thank you for visiting the site. Enjoy the published content and the book. We appreciate your support, and please pay it forward.
+
+The Book of Elon Musk Elon Musk's Most Useful Ideas In His Own Words
+
+Mar 31
+
+Mar 31 Innovation Needs Permission to Fail
+
+Eric Jorgenson
+
+Failure is essentially irrelevant unless it is catastrophic.294
+
+You have to always look at the incentive structure of an organization and ask, “Is that organization properly incentivizing innovation?”295 We’re looking for any possible action that can improve the probability of success, no matter how small. Whether that comes from an intern, me, or anyone else doesn’t matter.296
+
+When trying new things, you’ve got to have some acceptance of failure…failure must be an option. If failure is not an option, it’s going to result in extremely conservative choices and you may get something even worse than lack of innovation—things may go backward.297
+
+When we had early failures in the SpaceX flights, I didn’t fire anyone responsible for those particular causes of failure. They could have made better decisions, but they were smart and hardworking. It just wouldn’t have been fair in that situation. Letting people go is only fair if they can’t get themselves motivated around the core mission or they’re really not giving it everything they can.298
+
+It’s important to create an environment that fosters innovation, and you want to let it evolve in a Darwinian way. You don’t want to pick one technology or path and decide that it will win, because it may not be the best option. Let things evolve.299
+
+With innovation and new technology, you don’t know what the path is—there’s no map. By nature it’s unknown, which means you’re going to make false moves. It must be culturally acceptable to make false moves.300
+
+So to provide support for innovation, make sure the penalty for failure is low. You don’t want the response to failure to be too punitive. That’s one of the keys to Silicon Valley’s success. There are many founders who’ve built successful companies after a previous company failed. They quickly reconstituted. People left and joined other companies. That’s critical.301
+
+If you punish people too much for failure, then they will respond accordingly, and the innovation you get will be incremental. Nobody’s going to try anything bold for fear of getting fired or being punished in some way. If you expect innovation, the compensation structure must reflect that. The risk-reward must favor taking bold moves.302
+
+Failure is a side effect of iteration. I once told a discouraged engineer, “If you can’t tell me the four ways you fucked something up before you got it right, you weren’t the one doing the real work.”303
+
+If we’re not occasionally blowing up an engine on the test stand, we’re not trying hard enough.304
+
+Q: Why is it so hard to predict what will work and what won’t?
+
+We do as much as we can on the ground and in simulations, but a lot of factors can’t be simulated. A design might work in simulation or the test stand, but not in a real flight.305 There’s no test stand that can test a rocket at 17,000 mph, doing six Gs in every different orientation. It’s not possible.306
+
+After we fly a mission, hundreds of changes take place. Not a few. Hundreds. If you go to a detailed level across the ship, booster, and engines, there might be thousands of changes between flights. I’m just talking hardware here; software changes even more.307
+
+Many are small, but a small change could be a big deal. The first issues you find are fundamental design flaws that would make success impossible. Some issues vary. They make success possible sometimes, but not every time. Maybe a design will blow up only once in a while. Things that work only sometimes can throw you off. Just because it worked once does not mean it will work again, because the combination of factors isn’t the same. It requires a lot of flights to figure out which issues cause one in ten failures and which cause one in one hundred failures.308
+
+You will lose.
+
+It will hurt the first fifty times.
+
+When you get used to losing, you will play each game with less emotion.309
+
+Eric Jorgenson
+
+CEO of Scribe Media. Author of The Almanack of Naval and The Anthology of Balaji. Investing in technology startups as GP at Rolling Fun. Podcast: Smart Friends. Happy to be in touch through Twitter or email.
+
+Website
+
+About the book
+
+Book and website curating and sharing Elon's wisdom. Coming soon on March 24th. Follow on Twitter.
+
+Mar 31 Simple Communication
+
+Mar 31 Simplicity Wins

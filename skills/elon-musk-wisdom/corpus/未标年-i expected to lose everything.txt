@@ -1,0 +1,100 @@
+# SOURCE: https://www.elonmuskbook.org/the-book-of-elon-musk-free-online-version/i-expected-to-lose-everything
+# HARVESTED: 2026-09-29
+
+Thank you for visiting the site. Enjoy the published content and the book. We appreciate your support, and please pay it forward.
+
+The Book of Elon Musk Elon Musk's Most Useful Ideas In His Own Words
+
+Mar 31
+
+Mar 31 I Expected to Lose Everything
+
+Eric Jorgenson
+
+When something is important enough, you do it even if the odds are not in your favor.588
+
+When I started them, I guessed both SpaceX and Tesla each had a probability of less than 10 percent to succeed.
+
+I don’t look at ideas and ask, “What is the rank-ordered list of best business opportunities from a financial standpoint?” I look for problems that are important to fix for people now and for the future to be good.
+
+If one were to do a risk-adjusted rate of return estimate on opportunities, building rockets and building cars would be pretty close to the bottom of the list. They would be the dumbest things you could possibly do.
+
+Company stock value is not a metric by which I judge my own achievements.589
+
+I had a lot of friends try to talk me out of starting a rocket company, because they thought it was crazy. Everyone thought it was a crazy idea. Some people had actually tried to start rocket companies before and failed. They tried to talk me out of it too.590
+
+One good friend compiled a bunch of footage of rocket failures and forced me to watch it. I said, “I’ve seen them all already.”591
+
+I think these people misunderstood my premise. When I started SpaceX, it was not with the expectation of success. I thought the most likely outcome was failure.
+
+Their premise for talking me out of it was, “You’re going to lose the money you invest.” I replied, “Well, that was my expectation anyway, so I don’t really mind!”
+
+I mean, I mind losing money, but it’s not like I was trying to figure out the rank-ordered best way to invest my money and on that basis chose space. I didn’t think, “I could do real estate, or invest in shoemaking, and—whoa! Space has the highest ROI!” That was not my premise.592
+
+There have been many times where I expected to lose everything. Who starts a car company and a rocket company expecting them to succeed? Certainly not me. I thought they both had a low chance of success, less than 10 percent. Maybe 1 percent, I don’t know. Frankly, I wasn’t wrong.593
+
+We must be optimistic. There’s no point in being pessimistic. It just doesn’t help. My theory is you’d rather be optimistic and wrong about the future than pessimistic and right. If you’re pessimistic, you’re going to be miserable. Might as well enjoy the journey.594
+
+Q: How did you go about creating belief and support for the Mars mission?
+
+If you’re trying to convince the public to do something, you have to think about what will excite people.
+
+What message are we going to try to convey? What will people respond to? What would I respond to if I was an objective member of the public?
+
+I thought we could send a small greenhouse to the surface of Mars, with seeds and a nutrient gel to hydrate the seeds upon landing.595
+
+The greenhouse mission would be the first life on another planet, as far as we knew. The farthest life had ever traveled. We would have a great picture of green plants on a red background. That’s the money shot. People tend to respond to precedents and superlatives.
+
+I thought getting a greenhouse on Mars would get people excited about sending humans there. My original goal was to get the public excited, to get NASA’s budget increased to get a mission to Mars funded.596
+
+I was willing to spend half the money I got from PayPal, so $90 million, on this mission with no expectation of return. This was just something important to accomplish. If I spent $90 million to get NASA a bigger budget, which resulted in us going to Mars, that would be a good outcome.597
+
+Also, I was trying to figure out if I could afford to build a spacecraft. I wanted to budget for two missions because if we only did one and it failed, it might actually deter people from trying in the future.598
+
+I was able to get the cost of the spacecraft, communications, and the little greenhouse down. But the one thing I couldn’t compress was the cost to launch. There were only a few options, and the US options were way too expensive. I ended up going to Russia three times to try to buy the biggest intercontinental ballistic missile (ICBM) in the Russian nuclear fleet. That didn’t work out.599
+
+In doing this, I realized what we really need to do is improve the technology of space transportation.600 I wanted to hold out hope that humans could be a space-faring civilization, out there among the stars. There was no chance of that unless a new company was started to create revolutionary rockets.601
+
+If a startup didn’t do something to advance rocket technology, it wouldn’t happen. Either it’s coming from a startup or it’s not happening at all. A small chance of success is better than no chance of success. So I started SpaceX in mid-2002, expecting to fail.602
+
+Q: Why did you decide to fund SpaceX yourself?
+
+After PayPal was sold, I started debating between working on solar, electric cars, or space. I figured space would be the least likely to succeed, so least likely to attract other entrepreneurs. Nobody else was crazy enough to do space. I thought I’d better work on space first.
+
+My first idea, the greenhouse mission, would have a 100 percent chance of losing all the money associated with it. If anything, starting a rocket company had less than a 100 percent chance of losing all the money associated with it. From my perspective, it was actually less risky than the first idea, which was just paying to send the greenhouse to Mars.603
+
+The likeliest outcome is I will lose all my money.
+
+But what’s the alternative? No progress in space exploration?
+
+We’ve got to give this a shot, or we’re stuck on Earth forever.604
+
+I would not recommend a space company to first-time entrepreneurs. Space is advanced entrepreneuring. You’re better off starting something that requires little capital first. Space is definitely a high-capital effort.605
+
+I’m a big believer in this: Don’t ask investors to invest their money if you’re not prepared to invest your money. It doesn’t seem right to me to ask other people to invest if you don’t also invest. I’d rather lose my money than any of my friends’ money or investors’ money.606
+
+I didn’t even seek investor funding for the first three rounds of SpaceX because the first thing investors want to ask you is, “Tell us about prior successes in this field. What can we compare this to?” When you have about zero in the success category and a cemetery full of failures, they’re not too keen. Rockets are pretty far out of the comfort zone of most venture capitalists.
+
+We were able to get venture funding after we demonstrated we were almost able to get to orbit. Credit goes to Founders Fund, my compatriots from PayPal: Peter Thiel, Luke Nosek, Ken Howery, and the guys. They invested before we got to orbit, so credit to them.
+
+Rockets are hard. I had never made physical stuff before SpaceX, let alone rockets. I had to show I could actually make stuff.607
+
+Once we started building a space launch company, I predicated the strategic plan on a known market, something I know for a fact exists: the need to put small- to medium-sized satellites into orbit. We served that need initially. With that as a base of revenue, we could eventually move into the human transportation market.608
+
+First, we built an orbital launch vehicle. A high mass-efficiency launch vehicle targeted to solving the satellite delivery market. Our approach was to make this a solid, sound business from the beginning.609
+
+The long-term aims of the company were always human transportation. But I think the smart strategy was to first go for cargo delivery, putting satellites into orbit. Our eventual upgrade path was to build Starship, the successor to Saturn V rocket, a superheavy-lift vehicle that could be used for setting up a moon base or doing a Mars mission. That is our holy grail objective.610
+
+Eric Jorgenson
+
+CEO of Scribe Media. Author of The Almanack of Naval and The Anthology of Balaji. Investing in technology startups as GP at Rolling Fun. Podcast: Smart Friends. Happy to be in touch through Twitter or email.
+
+Website
+
+About the book
+
+Book and website curating and sharing Elon's wisdom. Coming soon on March 24th. Follow on Twitter.
+
+Mar 31 The Only One Crazy Enough for Space
+
+Mar 31 Rockets from First Principles

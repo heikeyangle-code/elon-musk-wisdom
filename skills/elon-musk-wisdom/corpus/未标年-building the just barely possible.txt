@@ -1,0 +1,86 @@
+# SOURCE: https://www.elonmuskbook.org/the-book-of-elon-musk-free-online-version/building-the-just-barely-possible
+# HARVESTED: 2026-09-29
+
+Thank you for visiting the site. Enjoy the published content and the book. We appreciate your support, and please pay it forward.
+
+The Book of Elon Musk Elon Musk's Most Useful Ideas In His Own Words
+
+Mar 31
+
+Mar 31 Building the Just Barely Possible
+
+Eric Jorgenson
+
+I was told many times rocket reusability was impossible.I was told many times rocket reusability was impossible.651
+
+One of the hardest engineering problems known to man is making a reusable orbital rocket.
+
+We have reusability in bicycles, cars, and airplanes. It’s bizarre to not have reusability in another form of transport. It would be insane to chuck a boat away after every trip. Getting one trip every four days would not cut it in a car. But this is how rockets have worked thus far.652
+
+The design goal is immediate reflight. Refill propellants and go again, just like any other mode of transport. This is gigantic.653
+
+Getting to orbit was solved in the 1950s. The math clearly demonstrates there is no point in another expendable rocket; you have to achieve reusability.654
+
+It’s not like other rocket scientists were huge idiots who wanted to throw their rockets away all the time. It’s hard to make something like this. Nobody has ever succeeded, and for a good reason. Earth’s gravity is heavy. On Mars this would be no problem. Moon, piece of cake. On Earth, fucking hard. Just barely possible.
+
+A fully reusable orbital system would be one of the biggest breakthroughs in the history of humanity. That’s why it hurts my brain. We’re just a bunch of monkeys. How did we even get this far? It beats me. We were swinging through the trees eating bananas not long ago.655
+
+Can you imagine if human civilization continued at the current pace of technological advancement for another million years? Where would we be?
+
+I told my team, “Imagine there was a pallet of cash plummeting through the atmosphere and it was going to burn up and smash into tiny pieces. Would you try to save it? You probably would.”656
+
+When people tried to make a reusable system before, they would conclude success was not one of the possible outcomes. In government programs, of course, the program would still continue for quite some time. It’s funny but it’s true.657
+
+The space shuttle attempted some level of reusability, but it ended up costing more per flight than an expendable vehicle of equivalent capability. For a long time, people pointed to the space shuttle as an example of why attempting reusability was dumb. But you can’t take a single example and make an entire theory out of it.658
+
+I wasn’t sure if it was possible when we started SpaceX, but after a few years of work I became convinced. Full and rapid reuse is possible. It is possible to make this work, and that gave me hope. Of course, just because something is possible does not mean it will occur.659
+
+The first step is to establish that something is possible, then the probability it will occur.660
+
+In no prior design was full reusability one of the possible outcomes.661
+
+SpaceX’s Falcon 9 was the first rocket with any reusability. We bring the boosters back and refly them. Only the upper stage is expended. Falcon 9 is not rapidly reusable because most boosters land on a ship in the ocean. It takes a while to bring it back, fuel, and reuse it. Falcon 9 first had reusability measured in months, then weeks, and now finally days. But, the efficiency is limited. We can’t bring it lower than several days.662
+
+Knock on wood, Falcon 9 is the most reliable rocket in the world and launches about every two to three days.663 Every one has come home safely, which is the most important thing. We learned a tremendous amount from the Falcon program that fed into the Starship program.664 We wouldn’t have been able to make Starship without the benefit of Falcon 9.665
+
+Nobody thought this was possible. But we’re not breaking any laws of physics, so we knew it was possible.666
+
+Starship is the largest flying object of any kind. It’s five thousand tons at liftoff, much heavier than any other aircraft, ever. The body diameter is nine meters (roughly fifty feet). It will get taller with newer versions too. And it’s going straight up; aircraft don’t go straight up. It’s an insanely gigantic thing, twice the size of Saturn V, previously the largest rocket ever built.667
+
+There could be other solutions too, but this will work. The first order of business was to get one that works. Now we optimize.668 Full and rapid reusability will work. It’s just a question of how many attempts we need to make it work, and then make it work really well.669
+
+It has to be true reuse, which means rapid and complete reuse. The problem with the space shuttle was only a portion of the system came back, and the reusable parts were incredibly difficult to refurbish. Reuse matters more if it’s rapid and complete—if the only thing we do between flights is maintenance and refuel, like an airplane.670
+
+If there is no major work required between flights, then the cost of a flight approaches the cost of propellant. Nearly 80 percent of Starship’s propellant is liquid oxygen, and a little over 20 percent methane, which are both very low-cost fuels. The fuel cost of a flight is maybe a million dollars or less.671
+
+Full and rapid reusability is the holy grail of rocketry because then you’re only constrained by propellant costs.672
+
+Q: What made you remove the landing legs?
+
+We fight to save mass constantly, especially with the reusable upper stage, where nobody has ever succeeded.
+
+Again here, we try to think in the limit of physics. The problem with landing legs is they add mass, we have to protect them during reentry, and we have to get a giant rocket from wherever it landed back onto the launch stand. That’s tricky. I was trying to think of the limit. What’s the fastest way to achieve reusability?
+
+It would be to land on the launch stand. Why not just have it land on the arms of the tower it launches from?673
+
+This is the best-case outcome for rapid reuse. It gets caught by the same arms that placed it in the launch ring. In principle, the superheavy booster can be reflown within an hour of landing. It comes back in about five minutes one way and then it gets caught by the tower arms, placed back in the launch mount, and then we refill propellant in about thirty to forty minutes and place a ship on top of it.674
+
+When we first talked about it, it sounded batshit crazy. To custom-build a giant tower to catch the heaviest flying object ever made with mechanical arms. Pluck it out of the air. But we did it.675
+
+It’s an epic sight: giant robot arms catching a giant rocket. This is much more efficient than having landing legs on the rocket itself.676
+
+I call it rapidly reusable, reliable rockets. RRRR. Space pirates.677
+
+Eric Jorgenson
+
+CEO of Scribe Media. Author of The Almanack of Naval and The Anthology of Balaji. Investing in technology startups as GP at Rolling Fun. Podcast: Smart Friends. Happy to be in touch through Twitter or email.
+
+Website
+
+About the book
+
+Book and website curating and sharing Elon's wisdom. Coming soon on March 24th. Follow on Twitter.
+
+Mar 31 You Have to Blow Things Up
+
+Mar 31 Optimizing for Mass to Mars

@@ -1,61 +1,52 @@
 # 第三方内容声明 · Third-Party Notices
 
-本仓库**不分发**原始语料（`corpus/`）。本文档说明语料的来源、归属，
-以及为什么不分发。
+## 语料来源与权利归属
 
-## 为什么不分发语料
+本仓库的 `skills/elon-musk-wisdom/corpus/` 收录 **258 份公开来源的文本**，
+共约 **9,235,950 字符**，时间跨度 **1971–2026**。
 
-本技能蒸馏自 **258 份第三方材料** —— 访谈转录、演讲记录、传记、新闻报道、
-官方文件。这些内容的著作权**不属于本仓库**：
+**这些内容的著作权属于各自的原始权利人，不属于本仓库。**
 
-| 类型 | 例 | 权利状态 |
-|---|---|---|
-| 传记 | 《Elon Musk》Ashlee Vance / Walter Isaacson | 版权，出版社持有 |
-| 编纂语录集 | *The Book of Elon Musk*（Eric Jorgenson 编） | 版权，编者持有 |
-| 访谈转录 | The Joe Rogan Experience、Lex Fridman Podcast | 转录稿版权归各播客 |
-| 长篇文章 | Wait But Why 系列 | 版权，作者持有 |
-| 新闻报道 | Rolling Stone、CNBC、Reuters 等 | 版权，各媒体持有 |
-| 官方文件 | SEC 文件、Tesla 10-K | 美国政府文件多为公有领域，公司文件另论 |
+| 类型 | 份数 | 体积 | 例 | 权利状态 |
+|---|---|---|---|---|
+| 访谈 / 演讲转录 | 104 | 4.5 MB | TED、Khan Academy、IAC 火星演讲、西点军校演讲、股东会 | 转录稿版权归各主办方/播客 |
+| 播客转录 | 30 | 1.8 MB | The Joe Rogan Experience、Lex Fridman Podcast | 转录稿版权归各播客 |
+| 书籍 / 编纂集 | 97 | 0.4 MB | *The Book of Elon Musk*（Eric Jorgenson 编） | 版权归编者/出版方 |
+| 媒体报道 | 23 | 1.1 MB | Rolling Stone、CNBC、Reuters、Forbes | 版权归各媒体 |
+| 传记 | 3 | 0.8 MB | Ashlee Vance《Elon Musk》、Walter Isaacson 相关 | 版权归作者/出版社 |
+| 官方文件 | 1 | 0.2 MB | SEC 文件、Tesla 10-K | 美国政府文件多为公有领域 |
 
-**把 258 份第三方文件打进仓库分发，越界了。** 所以本仓库的做法是：
+**本仓库以研究、评论、引用为目的汇集这些材料，不代表有权再授权。**
+若要商业使用或再分发，请自行核实每一份的条款。
 
-- ✅ 分发**我们的原创工作**：结构、索引、标注、失败边界、路由表
-- ✅ 分发**逐字引文**：属于评论、批评、研究性质的引用（fair use 范畴）
-- ✅ 分发**来源清单**：每份语料的原始 URL
-- ✅ 分发**抓取脚本**：你自己去原始出处取，权利关系在你自己那里
-- ❌ 不分发第三方文件本体
+## 我们做了什么、没做什么
 
-## 语料怎么拿
-
-```bash
-python3 tools/fetch_corpus.py --out <你的 skills 目录>/elon-musk-wisdom/corpus
-```
-
-脚本会读 `skills/elon-musk-wisdom/references/corpus-index.md` 里的来源清单，
-逐条从原始 URL 抓取，重建成技能期望的扁平文件名。
-
-**抓取前请自行确认各来源的使用条款。** 个人研究、本地使用与再分发是两回事。
+- ✅ 收录原始文本，保证每一条引文**可回查**
+- ✅ 标注每份材料的**出处 URL**（见 `tools/corpus-sources.json`，254/258 条）
+- ✅ 提供**完整性校验**（`tools/corpus-checksums.json`，逐文件 md5）
+- ✅ 明确区分**本人亲述**（`high`）与**第三方转述**（`medium`）
+- ❌ 不声称对语料拥有任何权利
+- ❌ 不对二次分发授权
 
 ## 逐字引文的性质
 
-`references/evidence.md` 收录 **1113 张逐字引文卡**，每张附出处、语料位置、
-置信度（`high` = 本人亲述 / `medium` = 第三方转述）。
+`references/evidence.md` 收录 **1113 张逐字引文卡**，每张附出处、语料位置、置信度。
 
-这些引文的用途是**支撑判断与可核查**，不是替代原作。读到某条引文想引用，
-**请回到原始出处**——`corpus-index.md` 里有 URL。
+这些引文的用途是**支撑判断与可核查**，不是替代原作。读到某条引文想正式引用，
+**请回到原始出处** —— `references/corpus-index.md` 与 `tools/corpus-sources.json` 里有 URL。
 
 ## 引文准确性
 
-全部 **1319 段引文**经确定性脚本在归一化语料上**逐字回查**，命中率 100%。
-回查脚本的思路记录在 `docs/BUILD-NOTES.md`。
+全部 **1319 段引文**经确定性脚本在归一化语料上**逐字回查**，命中率 **100%**。
+构建方法与踩过的坑记录在 `docs/BUILD-NOTES.md`。
 
-这不代表引用在法律上无风险，只代表**引文是准确的**。
+**这证明引文准确，不构成法律意见。**
 
-## 第三方工具的致谢
+## 第三方工具致谢
 
-- [Mind-Distill-Factory](https://github.com/) —— 本技能使用的蒸馏流水线
-- [agentskills.io](https://agentskills.io) —— Agent Skills 开放规范
-- [anthropics/skills](https://github.com/anthropics/skills) —— 官方技能模板与结构参考
+- [Agent Skills](https://agentskills.io) —— 开放规范
+- [anthropics/skills](https://github.com/anthropics/skills) —— 官方技能结构与模板参考
+- Mind-Distill-Factory —— 本技能使用的蒸馏流水线
 
 ## 免责
 
@@ -63,3 +54,6 @@ python3 tools/fetch_corpus.py --out <你的 skills 目录>/elon-musk-wisdom/corp
 **无关联、无授权、无背书**。
 
 技能中所有观点均为引述与整理，不代表本仓库立场。
+
+若你是某份材料的权利人，认为本仓库的收录超出了合理使用范围，
+请开 issue 或按仓库联系方式提出，我们会移除对应文件。

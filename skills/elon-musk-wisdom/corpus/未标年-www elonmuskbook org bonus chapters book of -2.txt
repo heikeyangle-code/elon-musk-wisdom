@@ -1,0 +1,29 @@
+# SOURCE: https://www.elonmuskbook.org/bonus-chapters-book-of-elon/competition-drives-progress-bonus-chapter
+# TITLE: Competition Drives Progress — The Book of Elon Musk
+# FETCHED: fetch_content_cache
+
+> _It's good to have meaningful competition, where somebody can actually lose.\[91\]_
+
+You want a situation where it’s truly competitive, where companies aren’t gaming the system, and where the rules are set correctly. We must be on the alert for regulatory capture, where the referees are secretly working for a player. Players should not control the referees, which can happen.\[52\]
+
+Look at the tobacco industry and how long they fought any research and regulation about smoking. That's part of why I helped make the movie, _Thank You For Smoking_. It shows just how pernicious it can be when companies achieve regulatory capture of our government. It’s bad.\[5\]
+
+When oligopolies or duopolies form, you get anti-competitive behavior. It’s the equivalent of price-fixing. Companies cut back on research and development spending. The development of new products and technologies slows down.\[52\]
+
+The inertia of large existing companies is hard to appreciate. They just want to keep doing the same thing–_maybe_ 5% different every year. Large companies hate change. At the time Tesla was created, no one was doing electric cars. There weren’t many car startups, and big car companies weren’t doing it. GM and Toyota had canceled their EV programs.\[52\]
+
+> _This is how civilizations decline. They quit taking risks. Every year there are more referees and fewer doers._ 
+> 
+> _When you’ve had success for too long, you lose the desire to take risks.\[156\]_
+
+You want a strong competitive forcing function so companies have to make their product better, or they lose. If a company doesn’t make the product better for the customer, they should have less prosperity than a company which does make better products. The car industry is pretty competitive, and that’s good. The good thing about a competitive industry is that if you make a better product, you know it will do better in the marketplace.\[52\]
+
+If somebody makes better cars than we do, they will sell more cars than we do, and that's totally fine. Our intent with Tesla was always to serve as an example to the car industry. I hoped others would also make electric cars, so we can accelerate the transition to sustainable energy. I'm confident Tesla will do well in the future. I hope some of these other companies do well, too.\[36\]
+
+At Tesla we made our supercharger system Open Access. We made our charger technology available for free to the other manufacturers. We could have put a wall up, instead we invited them in.\[91\]
+
+Nothing any of my companies has done has been to stifle competition. In fact, we've done the opposite. At Tesla, we have open-sourced our patents. Anyone can use our patents for free. How many other companies have done that? Can you name one? I can't. 
+
+At SpaceX, we don't use patents. Once in a while, we will file a patent just so some patent troll doesn't cause trouble, but we've done nothing to stop our competitors. Some companies have done anti-competitive things. I think the unusual thing about SpaceX and Tesla is that we've done things that have helped our competition. 
+
+If there were a button I could press that would delete Blue Origin, I wouldn't press it. I think it's good that Jeff Bezos is spending money on making rockets too. I hope their rockets make it into space.\[91\]

@@ -1,0 +1,33 @@
+# SOURCE: https://elonmuskinterviews.wordpress.com/2021/09/26/world-internet-conference-china-2021-english/
+# TITLE: World Internet Conference China 2021
+# FETCHED: fetch_content_cache
+
+_On the occasion of the World Internet Conference China 2021, Elon Musk answered questions about the development of digital technologies and their future impact on society. You can access the [German translation](https://elon-musk-interviews.com/?p=1916) of the speech published on [YouTube](https://www.youtube.com/watch?v=y12YVwqzfEQ) on September 26th, 2021 by clicking on the link._
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/world-internet-conf-china-titel.jpg?w=1024)
+
+**Elon Musk:** Dear distinguished guests, I am Elon Musk from Tesla. I would like to extend my sincere gratitude for inviting me to be able to share my opinions on intelligent and connected vehicles boosted by digital technologies. It is a pity that I could not join in the 2021 world internet conference in person because of the pandemic.
+
+**Question:** How does the development of digital technologies bring opportunities in heading towards digital civilization?
+
+**Elon Musk:** Many people believe AI is the ultimate application of digital technologies, and it will push human society towards a digital civilization. It seems likely to me that AI will both serve and be served by humans in a symbiotic relationship that I hope will benefit both digital and biological intelligence.
+
+Moreover, with the widespread use of humanoid robots, physical work will become a choice. AI-powered robots will help people eliminate dangerous, repetitive, and boring tasks. Most immediately, intelligent and connected vehicles are the next generation of internet devices that will transform our lives.
+
+**Question:** What are the future trends of Tesla’s development in digital technologies, and how it would affect the human and society development?
+
+**Elon Musk:** Tesla is much more than an electric car company. We are developing full self-driving vehicles with practical vision-based artificial intelligence, including chip development on the inference level and on the training level. I should emphasize that we believe autonomous driving can be achieved entirely by vision neural nets. After all, humans are running a biological vision neural net in order to drive, so it makes sense that computers will be able to drive by using a silicon camera neural net.
+
+Tesla is arguably the biggest robotics company because our cars are like semi-sentient robots on wheels. The economy is fundamentally built on labor, so this will have profound implications as capital equipment enters the labor market.
+
+**Question:** What are your perspectives on data security of intelligent and connected vehicles (ICV)?
+
+**Elon Musk:** Data Security is key to the success of intelligent and connected vehicles. It is not only closely linked to an individual’s interests but also matters to the whole society. At Tesla, we are glad to see a number of laws and regulations that have been released to strengthen data management. Tesla has set up a data center in China to localize all data generated from our business here, including production, sales, service, and charging. All personally identifiable information is securely stored in China without being transferred overseas. Only in very rare cases, for example, spare parts order from overseas, is data approved for transfer internationally.
+
+I believe data protection is not only an issue of one single company but should be a mutual effort for all industry players. We are working with regulators on finding the best solution for data security. My frank observation is that China spends a lot of resources and efforts applying the latest digital technologies in different industries, including the automobile industry, making China a global leader in digitalization.
+
+Tesla will continue to expand investment and R&D _(research & development)_ efforts in China. Tesla hopes to contribute to build a digitized future of shared benefits, responsibilities, and governance.
+
+I believe the conference will provide great opportunities for exchanges among regulators, business leaders, and academics. Again, thank you for inviting me. I look forward to meeting you soon, and I send my best wishes to the 2021 World Internet Conference. Thank you.
+
+## Beitrags-Navigation

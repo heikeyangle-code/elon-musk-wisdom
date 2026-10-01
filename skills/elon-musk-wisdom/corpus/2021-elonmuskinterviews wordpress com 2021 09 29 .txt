@@ -1,0 +1,267 @@
+# SOURCE: https://elonmuskinterviews.wordpress.com/2021/09/29/tesla-ai-day-the-presentation-ii/
+# TITLE: Tesla AI Day – The Presentation (II)
+# FETCHED: fetch_content_cache
+
+_In the second part (1:24:34 – 2:05:22) of the [Tesla AI presentation](https://www.youtube.com/watch?v=j0z4FweCy4M&t=3037s), Elon Musk is mentioned but does not speak personally. The Tesla AI team goes into the technical details of the development steps towards a super AI and presents superlatives in this field. It gets pretty technical, and I’m not sure I got everything right since I don’t work in that particular field. So if you find a mistake, please get in touch so that the transcript and/or [German translation](https://elon-musk-interviews.com/?p=1934) can be improved._ _Also please note that_ _many of the images included in the transcript and German translation contain links to video sequences shown at the event._ _[Part 1](https://elon-musk-interviews.com/2021/08/31/tesla-ai-day-the-presentation-i/) of the presentation can be accessed [here](https://elon-musk-interviews.com/2021/08/31/tesla-ai-day-the-presentation-i/)._
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/ai-titel-2.jpg?w=1024)
+
+**Andrej Karpathy:** (1:24:34) Yes, so the story of data sets is critical, of course. So far, we’ve talked only about neural networks. But neural networks only establish an upper bound on your performance. Many of these neural networks, they have hundreds of millions of parameters. And these hundreds of millions of parameters, they have to be set correctly. If you have a bad setting of parameters, it is not going to work. So neural networks are just an upper bound. You also need massive data sets to actually train the correct algorithms inside them.
+
+Now, in particular, I mentioned, we want data sets directly in the vector space. And so really the question becomes, how can you accumulate – because our networks have hundreds of millions of parameters – how do you accumulate millions and millions of vector space examples that are clean and diverse to actually train these neural networks effectively? Now, so there’s a story of data sets and how they’ve evolved on beside of all of the models and developments that we’ve achieved.
+
+(1:25:24) Now, in particular, when I joined roughly four years ago, we were working with a third party to obtain a lot of our data sets. Now, unfortunately, we found very quickly that working with a third party to get data sets – for something this critical – was just not going to cut it. The latency of working with a third party was extremely high. And honestly, the quality was not amazing. And so, in the spirit of full vertical integration at Tesla, we brought all of the labeling in-house.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/bild-1.jpg?w=1024)
+
+And so, over time, we’ve grown more than a 1000-person data labeling org that is full of professional labelers who are working very closely with the engineers. Actually, they’re here in the US and co-located with the engineers here in the area as well. And so we work very closely with them, and we also build all of the infrastructure for them from scratch ourselves. So we have a team we are going to meet later today that develops and maintains all of this infrastructure for data labeling. And so here, for example, I’m showing some of the screenshots of some of the latency throughput and quality statistics that we maintain about all of the labeling workflows, and the individual people involved and all the tasks, and how the numbers of labels are growing over time. We found this to be quite critical, and we’re very proud of this.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/1_26_37.jpg?w=1024)](https://youtu.be/j0z4FweCy4M?t=5192)
+
+Link
+
+Now, in the beginning, roughly three or four years ago, most of our labeling was in image space. And so, you can imagine that this is taking quite some time to annotate an image like this. And this is what it looked like, where we are sort of drawing polygons and polylines on top of these single individual images. As I mentioned, we need millions of vector space labels, so this is not going to cut it. So, very quickly we graduated to three-dimensional or four-dimensional labeling, where we are directly labeling in vector space, not in individual images.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/1_27_06.jpg?w=1024)](https://youtu.be/j0z4FweCy4M?t=5218)
+
+Link
+
+(1:27:04) So here, what I’m showing is a clip, and you are seeing a very small reconstruction – you’re about to see a lot more reconstructions soon – but it’s very small reconstruction of the ground plane on which the car drove, and a little bit of the point cloud here that was reconstructed. And what you’re seeing here is that the labeler is changing the labels directly in vector space. And then we are reprojecting those changes into camera images. So, we’re labeling directly in vector space. And this gave us a massive increase in throughput for a lot of our labels, because you label once in 3D, and then you get to reproject.
+
+But even this, we realized, was actually not going to cut it because people and computers have different pros and cons. People are extremely good at things like semantics, but computers are very good at geometry, reconstruction, triangulation, tracking. And so really, for us, it’s much more becoming a story of how do humans and computers collaborate to actually create these vector space data sets. And so, we’re going to now talk about auto labeling, which is some of the infrastructure we’ve developed for labeling these clips at scale.
+
+**Ashok Elluswamy:** (1:28:09) Hi again. So even though we have lots of human labelers, the amount of training that are needed for training the networks significantly outnumbers them. So we tried to invest in a massive auto labeling pipeline. Here’s an example of how we label a single clip.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/bild-2.jpg?w=1024)
+
+A clip is an entity that has dense sensor data, like videos, IMU radar, GPS, odometry, etc. This can be 45 seconds to a minute long. These can be uploaded from our own engineering cars or from customer cars. We collect these clips, and then send them to our servers, where we run a lot of neural networks offline to produce intermediate results like segmentation masks, depth, point matching etc. This then goes through a lot of robotics and AI algorithm to produce a final set of labels that can be used to train the networks.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/bild-3.jpg?w=1024)
+
+(1:28:55) First, we want to label the road surface. Typically, we can use splines or meshes to represent the road surface, but those are – because of the topology restrictions – are not differentiable and not amenable to producing this. What we do instead is in the style of neural radiance fields work from last year, which is quite popular… – we use an implicit representation to represent the road surface. Here, we are querying xy points on the ground and asking the network to predict the height of the ground surface along with various semantics such as curbs, lane boundaries, road surface, driving space, etc.
+
+So, given a single xy we get a z. Together they make a 3D point, and they can be reprojected into all the camera views. We make millions of such queries and get lots of points. These points are reprojected into all the camera views. We are showing on the top right here, one such camera image with all these points we projected. Now we can compare this reprojected point with the image-based prediction of the segmentations, and jointly optimizing this for all the camera views both across space and time, produced an excellent reconstruction.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/1_30_03.jpg?w=1024)](https://youtu.be/j0z4FweCy4M?t=5402)
+
+Link
+
+Here’s an example of how that looks like. So here, this is an optimized road surface, that reproduction to the eight cameras that the car has, and across all of time, and you can see how it’s consistent across both space and time.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/1_30_18.jpg?w=1024)](https://youtu.be/j0z4FweCy4M?t=5415)
+
+Link
+
+(1:30:17) A single car driving through some location can sweep out some patch around the trajectory using this technique. But we don’t have to stop there. So here, we collected different clips from the same location from different cars, maybe, and each of them sweeps out some part of the road. The cool thing is, we can bring them all together into a single giant optimization. So here, the 16 different trips are organized, all aligned using various features such as roadages, lane lines – all of them should agree with each other, and also agree with all of the image-based observations.
+
+Together, this produces an effective way to label the road surface not just where the car drove, but also in other locations that it hasn’t driven yet. Again, the point of this is not just with HD maps or anything like that. It’s only to label the clips through these intersections, so we don’t have to maintain them forever as long as the labels are consistent with the videos that they were collected at. Optionally, then humans can come on top of this and clean up any noise or add additional metadata to make it even richer.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/1_31_22.jpg?w=1024)](https://youtu.be/j0z4FweCy4M?t=5481)
+
+Link
+
+(1:31:22) We don’t have to stop at just the road surface, we can also arbitrarily reconstruct 3D static obstacles. Here, this is a reconstructed 3D Point Cloud from our cameras. The main innovation here is the density of the point cloud. Typically, these points require texture to form associations from one frame to the next frame. But here we are able to produce these points even on textureless surfaces, like the road surface or walls. And this is really useful to annotate arbitrary obstacles that we can see.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/1_31_55.jpg?w=1024)](https://youtu.be/j0z4FweCy4M?t=5513)
+
+Link
+
+(1:31:55) One more cool advantage of doing all of this on several of the servers offline is that we have the benefit of hindsight. This is a super useful hack because, say in the car, the network needs to produce the velocity, it just has to use the historical information and guess what the velocity is. But here, we can look at both the history but also the future and basically cheat and get the correct answer of the kinematics like velocity, acceleration, etc.
+
+One more advantage is that we can have different tracks, but we can stitch them together, even through occlusions because we know the future. We have future tracks, we can match them and then associate them. So here you can see the pedestrians on the other side of the road are persisted even through multiple occlusions by these cars. This is really important for the planner, because the planner needs to know. If it saw someone, it still needs to account for them, even when they’re occluded. So, this is a massive advantage.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/1_32_50.jpg?w=1024)](https://youtu.be/j0z4FweCy4M?t=5568)
+
+Link
+
+(1:32:49) Combining everything together, we can produce these amazing data sets that annotate all of the road texture, or the static objects, and all of the moving objects even through occlusions, producing excellent kinematic labels. You can see how the cars turn smoothly, produce really smooth labels, or the pedestrians are consistently tracked, the parked cars – obviously zero velocity, so we can also know that they are parked. So, this is huge for us.
+
+_(shows new scene)_ This is one more example of the same thing. You can see how everything is consistent. We want to produce a million such labeled clips and train our multi-cam video networks with such a large data set and really crush this problem. We want to get the same view that is consistent that we’re seeing here in the car.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/1_33_36.jpg?w=1024)](https://youtu.be/j0z4FweCy4M?t=5616)
+
+Link
+
+(1:33:36) We started our first exploration of this with the Remove Radar project. We removed it in a very short time span – I think within three months. In the early days of the network, we noticed for example, in low visibility conditions, the network can suffer, understandably, because obviously this truck just dumped a bunch of snow on us and it’s really hard to see. But we should still remember that this car was in front of us. But our networks early on did not do this because of the lack of data in such conditions.
+
+So what we did, we add the fleet to produce lots of similar clips. And the fleet responded to it. It produces lots of video clips where shits falling out of all other vehicles. And we send this through our auto labeling pipeline that was able to label 10k clips in within a week. This would have taken several months with humans labeling every single clip here. So we did this for 200 different conditions, and we’re able to very quickly create large data sets. And that’s how we’re able to remove this. So once we trained the networks with this data, you can see that it’s totally working and keeps the memory that the subject was there and provides this.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/1_34_52.jpg?w=1024)](https://youtu.be/j0z4FweCy4M?t=5692)
+
+Link
+
+(1:34:52) Finally we wanted to actually get a Cybertruck into data set for the Remove Radar. Can you all guess where we got this clip from? I’ll give you a moment. Someone said it. Yes, yes, it’s rendered. It’s our simulation. It was hard for me to tell initially, and if I may say so myself, it looks pretty, it looks very pretty.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/1_35_21.jpg?w=1024)](https://youtu.be/j0z4FweCy4M?t=5721)
+
+Link
+
+In addition to auto-labeling, we also invest heavily in using simulation for labeling our data. So, this is the same scene as seen before, but from a different camera angle. A few things that I wanted to point out, for example, the ground surface – it’s not plain asphalt, there are lots of scars and cracks and tar seams, there’s some patch work done on top of it. Vehicles more realistically, the truck is articulated, even goes over the curb and makes a wide turn. The other cars behave smartly, they avoid collisions, go around cars, and also brake and accelerate smoothly.
+
+The car here with the logo on the top, autopilot actually is driving the car and it’s making an unpredicted left turn. And since it’s a simulation, it starts from the vector space, so it has perfect labels. Here we show a few of the labels that we produce. These are regular cuboids with kinematics, depth, surface normals, segmentation. But Andrej can name a new task that he wants next week, and we can very quickly produce this because we already have the vector space, and we can write the code to produce these labels very, very quickly.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/1_36_30.jpg?w=1024)](https://youtu.be/j0z4FweCy4M?t=5787)
+
+Link
+
+(1:36:28) So, when does simulation help? It helps, number one, when the data is difficult to source. As large as our fleet is, it can still be hard to get some crazy scenes like this couple and their dog running on the highway while there are other high speed cars around. This is a pretty rare scene, I’d say, but still, can happen. And autopilot still needs to handle it when it happens.
+
+When data is difficult to label: There are hundreds of persons crossing the road. This could be in Manhattan downtown people crossing the road. This can take several hours for humans to label this clip. And even for automatic labeling algorithms, this is really hard to get the association right and it can produce like bad velocities. But in simulation this is trivial because you already have the objects. You just have to like spit out the cuboids and the velocities.
+
+Now, it’s finally when we introduce Closed Loop behavior where the car needs to be in a determining situation or the data depends on the actions. This is pretty much the only way to get it reliably. All this is great. What’s needed to make this happen?
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/1_37_30.jpg?w=1024)](https://youtu.be/j0z4FweCy4M?t=5847)
+
+Link
+
+(1:37:28) Number one, accurate sensor simulation. Again, the point of the simulation is not to just produce pretty pictures. It needs to produce what the camera in the car would see and other sensors would see. So here we are stepping through different exposure settings of the real camera on the left side and the simulation on the right side. We’re able to pretty much match what the real cameras do. In order to do this, we had to model a lot of the properties of the camera in our sensor simulation, starting from sensor noise, motion blur, optical distortions, even headlight transmissions, even light diffraction patterns of the windshield, etc. We don’t use this just for the autopilot software. We also use it to make hardware decisions such as lens design, camera design, sensor placement, even headlight transmission properties.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/1_38_20.jpg?w=1024)](https://youtu.be/j0z4FweCy4M?t=5899)
+
+Link
+
+(1:38:19) Second, we need to render the visuals in a realistic manner. You cannot have what in the game industry called jaggies. These are aliasing artifacts that are dead giveaway that this is simulation. We don’t want them. So we go through a lot of paints to produce nice spatial, temporal anti-aliasing. We also are working on neural rendering techniques to make this even more realistic. In addition, we also use ray tracing to produce realistic lighting and global illumination. _(referring to the scene shown)_ Okay, that’s the last of the cop cars, I think.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/1_38_56.jpg?w=1024)](https://youtu.be/j0z4FweCy4M?t=5936)
+
+Link
+
+(1:38:57) We obviously cannot have really just four or five cars because the network will easily overfit because it knows the sizes. So we need to have realistic assets like the moose on the road here. We have 1000s of assets in our library. And they can wear different shirts, and actually can move realistically, so this is really cool. We also have a lot of different locations mapped and created to create these sim environments. We have actually 2000 miles of road built. And this is almost the length of the roadway from the east coast to the west coast of the United States, which I think is pretty cool. In addition, we have built efficient tooling to build several miles more on a single day for a single artist.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/1_39_37.jpg?w=1024)](https://youtu.be/j0z4FweCy4M?t=5976)
+
+Link
+
+(1:39:36) But this is just the tip of the iceberg. Actually, most of the data that we use to train is created procedurally using algorithms as opposed to artists making these simulation scenarios. So these are all procedurally created roads, with lots of parameters such as curvature, various varying trees, cones, poles, cars with different velocities, and the interaction produce an endless stream of data for the network. But a lot of this data can be boring because the network might already get it correct. So, what we do is, we use also ML-based techniques to basically put up the network to see where it’s failing at and create more data around the failure points of the network. So this is in closed loop trying to make the network performance be better.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/1_40_18.jpg?w=1024)](https://youtu.be/j0z4FweCy4M?t=6017)
+
+Link
+
+(1:40:18) You don’t want to stop there. Actually, we want to recreate any failures that happens to the autopilot in simulation so that we can hold autopilot to the same bar from then on. So here on the left side, you’re seeing a real clip that was collected from a car. It then goes through our auto labeling pipeline to produce a 3D reconstruction of the scene along with all the moving objects. With this, combined with the original visual information, we recreate the same scene, synthetically and create a simulation scenario entirely out of it. Then, when we replay autopilot on it, autopilot can do entirely new things, and we can form new worlds, new outcomes from the original failure. This is amazing, because we really don’t want autopilot to fail. And when it fails, we want to capture it and keep it to that bar.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/1_41_06.jpg?w=1024)](https://youtu.be/j0z4FweCy4M?t=6065)
+
+Link
+
+(1:41:07) Not just that, we can actually take the same approach that we said earlier and take it one step further. We can use neural rendering techniques to make it look even more realistic. we take the original video clip, recreate a synthetic simulation from it, and then apply neural rendering techniques on top of it, and it produces this, which looks amazing, in my opinion, because this one is very realistic, and looks almost like it was captured by the actual cameras. These are results from last night, because it was cool and we wanted to present it. But yeah, I’m very excited for what it can achieve.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/bild-4.jpg?w=1024)
+
+This is not all bullshit because networks trained in the car already use simulation data. We used 300 million images with almost half a billion labels, and we want to crush down all the tasks that are going to come up for the next several months. With that, I invite Milan to explain how we scale his operations and really build a label factory and spit out millions of labels.
+
+**Milan Kovac:** (1:42:09) All right, thanks Ashok. Hey everyone, I’m Milan, I’m responsible for the integration of our neural networks in the car, and for most of our neural network training and evaluation infrastructure. And so tonight, I just like to start by giving you some perspective into the amount of compute that’s needed to power this type of data generation factory.
+
+And so, in the specific context of the push we went through as a team here a few months ago, to get rid of the dependency on the radar sensor for the pilot, we generated over 10 billion labels across two and a half million clips. And so, to do that, we had to scale our huge offline neural networks and our simulation engine across 1000s of GPUs, and just a little bit shy of 20,000 CPU cores. On top of that, we also included over 2000 actual autopilot full self-driving computers in the loop with our simulation engine. And that’s our smallest compute cluster.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/bild-5.jpg?w=1024)
+
+I’d like to give you some idea of what it takes to take our neural networks and move them in the car. The two main constraints that we’re working on are mostly latency and framerate, which are very important for safety, but also to get proper estimates of acceleration and velocity of our surroundings. And so the meat of the problem really is around the AI compiler that we write and extend here within the group that essentially maps the computer operations from my PyTorch model to a set of dedicated and accelerated pieces of hardware.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/bild-6.jpg?w=1024)
+
+And we do that by figuring out a schedule that’s optimized for throughput while working on very severe SRAM constraints. And by the way, we’re not doing that just on one engine, but on across two engines on the autopilot computer. And the way we use those engines here at Tesla is such that, at any given time, only one of them will actually output control commands to the vehicle, while the other one is used as an extension of compute. But those rules are interchangeable, both on the hardware and software level.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/bild-7.jpg?w=1024)
+
+(1:44:14) So, how do we iterate quickly together as a group to this AI development cycles? Well, first, we have been scaling our capacity to evaluate our software neural network dramatically over the past few years. And today, we are running over a million evaluations per week on any code change that the team is producing. And those evaluations run on over 3000 actual full self-driving computers that are hooked up together in a dedicated cluster.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/1_44_43.jpg?w=1024)](https://youtu.be/j0z4FweCy4M?t=6282)
+
+Link
+
+On top of this, we’ve been developing really cool debugging tools. And so here’s a video of one of our tools, which is helping developers iterate through the development of neural networks and comparing live the outputs from different revisions of the same neural network model as reiterating live through video clips.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/bild-8.jpg?w=1024)
+
+So last but not least, we’ve been scaling our neural network training compute dramatically over the past few years. And today, we’re barely shy of 10,000 GPUs, which, just to give you some sense, in terms of number of GPU is more than the top five publicly known supercomputers in the world. But that’s not enough. And so I’d like to invite Ganesh to talk about the next steps.
+
+**Ganesh Venkataramanan:** (1:45:34) Thank you, Milan. My name is Ganesh, and I lead Project Dojo. It’s an honor to present this project on behalf of the multidisciplinary Tesla team that is working on this project. As you saw from Milan, there’s an insatiable demand for speed as well as capacity for neural network training. And Elon prefetched this. A few years back, he asked us to design a super fast training computer. And that’s how we started Project Dojo.
+
+Our goal is to achieve best AI training performance and support all these larger, more complex models that Andrej’s team is dreaming of, and be power efficient and cost effective at the same time. So we thought about how to build this, and we came up with a distributed compute architecture. After all, all the training computers there are, are distributed computers in one form or the other. They have compute elements in the box out here, connected with some kind of network.
+
+In this case, it’s a two-dimensional network. But it could be any different network: CPU, GPU, accelerators, all of them have compute little memory and network. But one thing which is common trend amongst this is, it’s easy to scale the compute, it’s very difficult to scale up bandwidth, and extremely difficult to reduce latencies. And you’ll see how our design point catered to that, how our philosophy addressed these aspects of traditional limits.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/bild-9.jpg?w=1024)
+
+(1:47:19) For Dojo, we envisioned a large compute plane, filled with very robust compute elements, backed with large pool of memory, and interconnected with very high bandwidth and low latency fabric, and in a 2d mesh format. And onto this for extreme scale big neural networks will be partitioned and mapped to extract different parallelism, model graph data parallelism. And then a neural compiler of ours will exploit spatial and temporal locality such that it can reduce communication footprint to local zones and reduce global communication. And if we do that, our bandwidth utilization can keep scaling with the plane of compute, that we desire out here.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/bild-10.jpg?w=844)
+
+(1:48:12) We wanted to attack this all the way top to bottom of the stack and remove any bottlenecks at any of these levels. And let’s start this journey in an inside out fashion, starting with the chip. As I described, chips have compute elements. Our smallest entity of scale is called a training node. And the choice of this node is very important to ensure seamless scaling. If you go too small, it will run fast. But the overheads of synchronization will end software, will dominate. If you pick it too big, it will have complexities in implementation in the real hardware and ultimately run into memory bottleneck issues. We wanted to address latency and bandwidth as our primary optimization point. Let’s see how we went about doing this.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/bild-11.jpg?w=1024)
+
+What we did was we picked the farthest distance a signal could traverse in a very high clock cycle, in this case 2 gigahertz plus, and we drew a box around it. This is the smallest latency that a signal can traverse one cycle at a very high frequency. And then we filled up the box with wires to the brink. This is the highest bandwidth you can feed the box with. And then we added machine learning compute underneath, and then a large pool of SRAM, and last but not the least a programmable core to control. This gave us our high-performance training node.
+
+What this is, is a 64-bit superscalar CPU optimized around matrix multiply units and vector SIMD. It supports floating point 32, bfloat 16, and a new format CFP8, configurable FP8. And it is backed by one and a quarter megabyte of fast ECC protected SRAM and the low latency high bandwidth fabric that we designed. This might be our smallest entity of scale, but it packs a big punch: more than one teraflop of compute in our smallest entity of scale.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/bild-12.jpg?w=1024)
+
+(1:50:31) So let’s look at the architecture of this. The computer architects out here may recognize this. This is a pretty capable architecture as soon as you see this. It is a superscalar in-order CPU, with 4 wide scalar and 2 wide vector pipes. We call it in-order, although the vector and the scalar pipes can go out of order, but for the purists out there, we still call it in-order. And it also has 4-way multithreading. This increases utilization because we can do compute and data transfers simultaneously. And our custom ISA, which is the instruction set architecture, is fully optimized for machine learning workloads. It has features like transpose, gather, link traversals, broadcast, just to name a few.
+
+And even in the physical realm, we made it extremely modular, such that we could start averting these training nodes in any direction and start forming the compute plane that we envisioned. When we clicked together 354 of these training nodes, we get our compute array. It’s capable of delivering 362 teraflops of machine learning compute. And of course, the high bandwidth fabric that interconnects these.
+
+Around this compute array, we surrounded it with high-speed low power SerDes – 576 of them – to enable us to have extreme I/O bandwidth coming out of this chip. Just to give you a comparison point, this is more than two times the bandwidth coming out of the state-of-the-art networking switch chips, which are out there today, and networks which chips are supposed to be the gold standards for I/O bandwidth.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/bild-13.jpg?w=1024)
+
+(1:52:29) If we put all of it together, we get a training optimized chip, our D1 chip. This chip is manufactured in 7 nanometer technology, it packs 50 billion transistors in a miserly 645 millimeter square. One thing you’ll notice, 100% of the area out here is going towards machine learning training and bandwidth. There is no dark silicon, there is no legacy support. This is a pure machine learning machine.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/bild-14.jpg?w=496)
+
+And this is the D1 chip in a flip chip BGA package. This was entirely designed by Tesla team internally all the way from the architecture to GDS OUT and package. This chip is like a GPU level compute with a CPU level flexibility and twice the network chip level I/O bandwidth. If I were to plot, the I/O bandwidth on the vertical scale versus teraflops of compute, that is available in the state-of-the-art machine learning chips are there, including some of the startups, you can easily see why our design point excels beyond power.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/bild-15.jpg?w=1024)
+
+(1:53:56) Now that we had this fundamental physical building block: How to design the system around it? Let’s see. Since D1 chips can seamlessly connect without any glue to each other, we just started putting them together. We just put 500,000 training nodes together to form our compute plane. This is 1500 D1 chips seamlessly connected to each other.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/bild-16.jpg?w=1024)
+
+And then we add Dojo interface processors on each end. This is the host bridge to typical hosts in the data centers. It’s connected with PCIe Gen4 on one side with a high bandwidth fabric to our compute plane. The interface processors provide not only the host bridge but high bandwidth DRAM shared memory for the compute plane. In addition, the interface processors can also allow us to have a higher radix network connection.
+
+In order to achieve this compute plane, we had to come up with a new way of integrating these chips together. And this is what we call as a training tile. This is the unit of scale for our system. This is a groundbreaking integration of 25 known good D1 tiles onto a fair fan-out wafer process tightly integrated such that it preserves the bandwidth between them; the maximum bandwidth is preserved there. And in addition, we generated a connector, a high bandwidth high density connector that preserves the bandwidth coming out of this training tile.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/bild-17.jpg?w=1024)
+
+(1:56:00) And this tile gives us 9 petaflops of compute with a massive I/O bandwidth coming out of it. This perhaps is the biggest organic MCMm in the chip industry – multi-chip module. It was not easy to design this, there were no tools that existed, all the tools were croaking. Even our compute cluster couldn’t handle it. Our engineers came up with different ways of solving this, they created new methods to make this a reality.
+
+Now, that we had our compute plane tile with high bandwidth I/Os, we had to feed it with power. And here we came up with a new way of feeding power vertically. We created a custom voltage regulator module that could be refloat directly onto this fan-out wafer. So what we did out here is we got chip package, and we brought PCB level technology of reflow onto the fan-out wafer technology. This is a lot of integration already out here.
+
+[![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/1_57_24.jpg?w=1024)](https://youtu.be/j0z4FweCy4M?t=7035)
+
+Link
+
+But we didn’t stop here. We integrated the entire electrical, thermal and mechanical pieces out here to form our training tile fully integrated interfacing with a 52 volt DC input. It’s unprecedented. This is an amazing piece of engineering. Our compute plane is completely orthogonal to power supply and cooling. That makes high bandwidth compute planes possible. What it is, is a 9 petaflop training tile, this becomes our unit of scale for our system. And this is real.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/bild-18.jpg?w=1024)
+
+I can’t believe I’m holding nine petaflops out here. And in fact, last week, we got our first functional training tile and on a limited cooling benchtop setup. We got some networks running. And I was told Andrej doesn’t believe that we could run networks till we could run one of his creations. Andrej, this is minGPT2 running on Dojo. Do you believe it?
+
+(1:59:12) Next step: how to form a compute cluster out of it? By now you must have realized our modularity story is pretty strong. We just put together some tiles, we just tile together tiles. A two by three tile in a tray makes our training matrix and two trays in a cabinet gave 100 petaflops of compute.
+
+Did we stop here? No. We just integrated seamlessly; we broke the cabinet walls. We integrated these tiles seamlessly all the way through preserving the bandwidth; there is no bandwidth divide out here, there’s no bandwidth close. All the tiles are seamlessly connected with the same bandwidth. And with this we have an ExaPOD. This is one exaflop of compute in 10 cabinets. It’s more than a million training nodes that you saw. We paid meticulous attention to that training node, and there are 1 million nodes out here with uniform bandwidth.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/bild-19.jpg?w=1024)
+
+Not just the hardware, software aspects are so important to ensure scaling. And not every job requires a huge cluster. So we plan for it right from the get go. Our compute plane can be subdivided, can be partitioned into units called Dojo processing unit. A DPU consists of one or more D1 chips. It also has our interface processor and one or more hosts. And this can be scaled up or down as per the needs of any algorithm, any network running on it.
+
+(2:01:26) What does the user have to do? They have to change their scripts minimally. And this is because of our strong compiler suite. It takes care of fine-grained parallelism and is mapping the neural networks very efficiently onto our compute plane.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/bild-20.jpg?w=1024)
+
+Our compiler uses multiple techniques to extract parallelism. It can transform the networks to achieve not only fine-grained parallelism using data model, graph parallelism techniques, it also can do optimizations to reduce memory footprints.
+
+One thing – because of our high bandwidth nature of the fabric – is enabled out here is model parallelism could not have been extended to the same level as what we can. It was limited to chip boundaries. Because of our high bandwidth, we can extend it to training tiles and beyond. Thus, large networks can be efficiently mapped here at low batch sizes, and extract utilization and new levels of performance.
+
+In addition, our compiler is capable of handling high level dynamic control flows like loops, if then else, etc. And our compiler engine is just part of our entire software suite. The stack consists of an extension to PyTorch that ensures the same user level interfaces that ML-scientists are used to. And our compiler generates code on the fly, such that it could be reused for subsequent execution. It has a LLVM backend that generates the binary for the hardware. And this ensures we can create optimized code for the hardware without relying on even a single line of handwritten kernels. Our driver stack takes care of the multi-host multi partitioning that you saw a few slides back. And then we also have profilers and debuggers in our software stack.  
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/bild-21.jpg?w=1024)
+
+(2:03:49) So with all this, we integrated in a vertical fashion, we broke the traditional barriers to scaling. And that’s how we got modularity up and down the stack to add to new levels of performance. To sum it all, this is what it will be. It will be the fastest AI training computer 4x the performance at the same cost, 1.3x better performance per watt – that is energy saving – and 5x smaller footprint. This will be Dojo computer.
+
+We are not done. We are assembling our first cabinets pretty soon. And we have a whole next generation plan. Already we are thinking about 10x more with different aspects that we can do all the way from silicon to the system again. We will have this journey again. We’re recruiting heavily for all of these areas. Thank you very much.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2021/09/bild-22.jpg?w=1024)
+
+And next up, Elon will update us on what’s beyond our vehicle fleet for AI. (2:05:22)

@@ -1,0 +1,152 @@
+# SOURCE: https://whatsuptesla.com/2025/11/19/full-transcript-elon-musk-jensen-huang-on-ai-factories-humanoid-robots-the-dawn-of-the-intelligence-age-u-s-saudi-investment-forum/
+# TITLE: Full Transcript: Elon Musk & Jensen Huang on AI Factories, Humanoid Robots & the Dawn of the Intelligence Age – U.S.-Saudi Investment Forum
+# FETCHED: fetch_content_cache
+
+On **November 19, 2025**, Elon Musk and Jensen Huang participated in a 28-minute panel discussion moderated by Abdullah Alswaha at the **U.S.-Saudi Investment Forum** held at the **Kennedy Center** in **Washington, D.C.**
+
+The talk was **released to the public the same day** via live coverage and video recordings (including C-SPAN broadcast).
+
+The **audience** consisted of high-level government officials, business leaders, investors, and dignitaries from the United States and Saudi Arabia, including representatives attending under the patronage of the U.S. President and Saudi Crown Prince.
+
+To help you navigate this rich exchange quickly, here are the main areas covered:
+
+*   A Historic Alliance Enters the Intelligence Age
+*   From Oil Refineries to Global AI Infrastructure
+*   The Future of Work: From Necessity to Optional Pursuit
+*   The Radiology Paradox: How AI Creates More Jobs
+*   Saudi Innovators Leading With AI
+*   Major Announcements: 500 MW xAI Supercluster and Beyond
+*   AI in Space: The Ultimate Compute Frontier
+*   The AI Opportunity: No Bubble — Just Accelerated Computing
+
+**1\. A Historic Alliance Enters the Intelligence Age**
+
+Abdullah Alswaha welcomed the audience and celebrated the combined market value of the speakers’ companies. He described the event as a landmark moment following a dinner hosted under the patronage of the U.S. President and Saudi Crown Prince. He highlighted the deep U.S.-Saudi partnership that first powered the industrial age through energy and now drives the intelligence age through AI factories, robotics, electric vehicles, and more. He praised Elon Musk’s first-principles thinking — sometimes called first-order scaling — for slashing battery costs from $1,000 per kilowatt-hour to under $100 and applying the same approach to robotics components. He then invited Elon to explain how he consistently transforms entire industries.
+
+**Elon Musk:** Well, it’s mostly not disruption, it’s creation. So with say SpaceX, with reusable rockets, there really weren’t any reusable rockets. But the essence of revolutionizing space travel is reusability. If you throw the rocket away every time, the cost of access to space is extremely high.
+
+With respect to electric cars, there weren’t any electric cars when we started making them. Really, you couldn’t buy any to the best of my knowledge. So with Tesla, we wanted to make electric cars compelling and affordable. That was the goal.
+
+With respect to humanoid robotics, there are no useful humanoid robots at this point. There are sort of gimmicks, but there are no actually useful humanoid robots. And I think Tesla is going to make the first actually useful humanoid robots. And this will be quite a revolution and I think something that everyone will want because I always think of, who wouldn’t want their own personal C-3PO or R-2-D-2?
+
+Oh yeah, of course everyone would want one, right? And then there would be many in industry providing products and services. This is why I say that humanoid robots will be the biggest industry or the biggest product ever. Bigger than cell phones or anything else. Because everyone’s going to want one or maybe more than one. And there’ll be many in industry.
+
+**Jensen Huang:** I want R-2-D-2 in C-3PO’s body.
+
+**Elon Musk:** Yeah, there you go. Well, I mean a humanoid robot would be better than R-2-D-2 and C-3PO combined times ten.
+
+And you know, people often talk about sort of eliminating poverty and that kind of thing, but really, how long have they been talking about that? There’s lots of talk, you know, there’s lots of NGOs sort of trying to do these things but really not succeeding. And the evidence speaks for itself.
+
+But AI and humanoid robots will actually eliminate poverty. And Tesla won’t be the only one that makes them. I think Tesla will pioneer this, but there will be many other companies that make humanoid robots. But there is only basically one way to make everyone wealthy and that is AI and robotics.
+
+**2\. From Oil Refineries to Global AI Infrastructure**
+
+Abdullah Alswaha noted that robotics cannot be discussed without AI factories. He referenced the previous day’s historic AI strategic partnership, signed and witnessed by the President and Crown Prince, in which Saudi Arabia commits capital, energy, and land to power the U.S. AI ecosystem with massive inference and training nodes. He asked what comes next for AI factories.
+
+**Jensen Huang:** There’s a beautiful story about how Saudi Arabia is building AI refineries now, building AI factories from oil refineries to AI factories.
+
+You know, I’ve said that AI is an infrastructure and the reason for that, of course we understand AI from the perspective of the technology and how it’s revolutionizing every industry. Digital intelligence of course has applications into every field and so it’s going to be used by every company, every industry, every country. In that way it’s foundational and therefore it’s part of infrastructure.
+
+What is new about AI from a computer science perspective is that the way computing was done in the past was largely retrieval-based computing. Somebody typed in a story or somebody created a piece of art or came up with four versions of a digital ad. It’s all pre-built by somebody which is then using a system to retrieve the appropriate version for you. It’s a retrieval-based computing model. Hadoop and many of the frameworks and operating systems of the past, all designed to retrieve the appropriate information for you.
+
+But today software is going to be generated in real time. It’s generative based on the context, based on the circumstance, based on who you are, based on the problem you asked, based on your prompt. It will generate unique content for you every single time, for everybody. It’s unique. When you use Grok, every time you use it is different, right? Based on the prompt that you give it and based on the circumstance.
+
+And so therefore it used to be retrieval-based, today it’s generative. And if it’s generative, and every time is different, then you need AI factories all over the world to generate the content in real time, which is the reason why you need AI factories. And this is a unique way of doing computation. But the benefit of course is that everything isn’t preconceived and pre-documented and it’s contextually sensible and therefore intelligent.
+
+![Abdullah Alswaha and Elon Musk and Jensen Huang](https://whatsuptesla.com/wp-content/uploads/2026/03/screenshot-2026-03-02-at-7.10.57-pm.png?w=809)
+
+Abdullah Alswaha and Elon Musk and Jensen Huang
+
+**3\. The Future of Work: From Necessity to Optional Pursuit**
+
+Abdullah Alswaha acknowledged the excitement around AI factories and robotics but noted that many people fear job displacement. He asked Elon Musk and Jensen Huang for their long-term vision on the future of work.
+
+**Elon Musk:** Well, say in the long term, where will things end up long term? I don’t know what long term is. Maybe it’s ten, twenty years, something like that. For me that’s long term. My prediction is that work will be optional.
+
+Yeah, I mean it’ll be like playing sports or a video game or something like that. If you want to work — in the same way, you can go to the store and just buy some vegetables. Or you could grow vegetables in your backyard. It’s much harder to grow vegetables in your backyard. But some people still do it because they like growing vegetables. That will be what work is like: optional.
+
+And between now and then there’s actually a lot of work to get to that point. And I always recommend people read Iain M. Banks’ Culture books to get a sense for what a probable positive AI future is like. And interestingly, in those books money no longer exists. It’s kind of interesting.
+
+And my guess is if you go out long enough, assuming there’s a continued improvement in AI and robotics, which seems likely, money will stop being relevant at some point in the future. There will still be constraints on power, like electricity and mass. The fundamental physics elements will still be constraints, but I think at some point currency becomes irrelevant.
+
+**Elon Musk:** Cheers.
+
+![(Elon and Jensen raise their water bottles and clink them in a playful toast, drawing laughter and applause from the audience.)](https://whatsuptesla.com/wp-content/uploads/2026/03/screenshot-2026-03-02-at-7.12.18-pm.png?w=809)
+
+(Elon and Jensen raise their water bottles and clink them in a playful toast, drawing laughter and applause from the audience.)
+
+_(Elon and Jensen raise their water bottles and clink them in a playful toast, drawing laughter and applause from the audience.)_
+
+**4\. The Radiology Paradox: How AI Creates More Jobs**
+
+Abdullah Alswaha turned to Jensen Huang for his perspective on productivity and employment.
+
+**Jensen Huang:** I would say there’s different horizons you can look at. Everybody’s jobs will be different, I think that’s for sure. How the students learn will be different, how people do their work will be different, obviously, because a lot of the things that we do mundanely or arduously or very difficultly are going to be done very simply. And so we’re going to be more productive from that sense.
+
+One of the things that I will say is that for most people or companies, if your life becomes more productive and if the things that you’re doing with great difficulty become simpler, it is very likely because you have so many ideas, you’ll have more time to go pursue things. It is my guess that Elon will be busier as a result of AI. I’m going to be busier as a result of AI.
+
+And the reason for that is because we have so many ideas we want to pursue, so many things that we still have in our backlog inside our company that we can go pursue. If we’re more productive, we can get to those things faster. And so in the near term, I would say that there is every evidence that we will be more productive and yet still be busier because we have so many ideas.
+
+One thing that I will say, give you some evidence, is that, and I was just telling Elon about this earlier, radiology, for example, has largely been converted to AI-driven radiology. And there’s some really great companies doing that. And the surprising thing is the prediction that all radiologists would be the first jobs to go was exactly the opposite. The trend shows that there are more radiologists being hired now as a result of AI.
+
+And the reason for that, if you take a step back, it’s because the goal of a radiologist is not to study the images. The goal of a radiologist is to diagnose a disease. Now the studying of the images became so productive they could study more images, study more modalities, spend more time with the patients, and as a result, they were actually accepting more patients. We’re doing more radiology all around the world, we’re doing a better job with diagnosing disease.
+
+And so that’s kind of the near term outcome of AI and productivity. And we’ll see what happens long term when currency doesn’t matter anymore. Just let me know right before.
+
+**5\. Saudi Innovators Leading With AI**
+
+Abdullah Alswaha agreed with both speakers and shared two inspiring Saudi success stories powered by Nvidia and xAI technology: Professor Omar Yaghi’s Nobel-winning work on metal-organic frameworks for water and carbon capture, and the Nanopalm nanorobot project using CRISPR to eliminate sickle-cell disease. He emphasized how AI has accelerated decades-old research into new value pools.
+
+**6\. Major Announcements: 500 MW xAI Supercluster and Beyond**
+
+Abdullah Alswaha invited Elon and Jensen to share breaking partnership news.
+
+**Elon Musk:** Yeah, we’re excited to announce that we’re doing a 500 megawatt — I mean, yeah, 500, sorry, 500 megawatt. 500 megawatt? Yeah. Sorry, yeah, yeah, it’s 500 gigawatt… So, yeah, we’re doing — xAI and the Kingdom of Saudi Arabia are doing…
+
+**Jensen Huang:** We are. We’re announcing all kinds of things. Our partnership with Humane is going incredibly well… We’re working with Humane on Omniverse Digital Twins. As you know, that AI is not just agentic AI and chatbots and cognitive AI is incredibly important to the world. But AI applies to everything: chemicals and proteins and genes and physics and fluid dynamics and particles and of course, robotics and actuation.
+
+And we created this world called Omniverse, where robots can learn how to be good robots. And it’s physically based, it obeys the laws of physics so robots can learn in these environments. And we’re working with Humane to apply Omniverse to all kinds of digital factories and robotics and warehouses and things like that.
+
+And we’re also working in Saudi Arabia to build supercomputers to simulate quantum computers and using our computers to be the controller and the error correction. Quantum error correction requires an enormous amount of computation. And so we’re doing a lot of great work there too. So a big partnership with Humane. They’re off the charts, off the ground and off the charts at the same time.
+
+**7\. AI in Space: The Ultimate Compute Frontier**
+
+Abdullah Alswaha asked about the possibility of AI in space.
+
+**Elon Musk:** Yes. If civilization continues, which it probably will, then AI in space is inevitable. You know, I always have to preface that, you know, we shouldn’t take civilization for granted. We need to make sure to take care to ensure that civilization has an upward arc.
+
+I mean, any student of history knows that civilization does not always have an upward arc. And in fact civilizations have life cycles. So hopefully we are in a strong upward arc. I think we are for now, but we don’t want to take that for granted or be complacent.
+
+But in order to achieve any meaningful percentage of a Kardashev 2 scale civilization, where you’re using even a millionth of the sun’s energy, you must have solar powered AI satellites in deep space.
+
+The Earth only receives roughly one or two billionth of the sun’s energy. So if you want to have something that is say a million times more energy than Earth could possibly produce, you must go into space. And so this is where it’s kind of handy to have a space company, I guess.
+
+There’s definitely no water in space. So you’re going to have to do something that doesn’t involve water… it’s just got to radiate.
+
+So my estimate is that actually the cost of electricity, the cost effectiveness of AI in space will be overwhelmingly better than AI on the ground so far. Long before you exhaust potential energy sources on Earth. Meaning, I think even perhaps in the four or five year time frame, the lowest cost way to do AI compute will be with solar powered AI satellites. So I’d say not more than five years from now.
+
+And in space, you’ve got continuous solar. You actually don’t need batteries because it’s always sunny in space. And the solar panels actually become cheaper because you don’t need glass or framing. And the cooling is just radiative. So that’s why I think that’s the dream.
+
+**8\. The AI Opportunity: No Bubble — Just Accelerated Computing**
+
+Abdullah Alswaha asked Jensen Huang about concerns over an AI bubble, especially ahead of Nvidia’s earnings call.
+
+**Jensen Huang:** Let me just tell you what we see. Okay? So I think it’s really important when you look at what’s happening around the world and go back to first principles of what’s happening in computer science and computing.
+
+There are three things that’s happening. The first thing is that we all know that Moore’s Law has run its course and the ability, the amount of demand for computing versus the amount of computation we can get out of general purpose computing is really challenging. And so the world’s been moving to accelerated computing for some time.
+
+CPUs were 90% of the world’s supercomputers six years ago… this year less than 15%. Went from 90% to 10%. And meanwhile accelerated computing went from the other way, 10% to now 90%.
+
+The second thing is recommender systems… That RecSys is the engine of the Internet today that’s going generative AI. It used to be running on CPUs, now it runs on GPUs.
+
+Of course then it creates the third opportunity on top of it, which is agentic AI. This is Grok and this is OpenAI, this is Anthropic, you know, this is Gemini. Agentic AI sits on top of that. But don’t forget to think about what is happening underneath what everybody sees as AI today.
+
+There’s a whole movement of computing from general purpose computing to accelerated computing. And if you just take that into consideration, you’ll come to the conclusion that in fact what is left over to fuel that revolutionary agentic AI is not only substantially less than you thought, but and all of it justified.
+
+**Closing**
+
+Abdullah Alswaha concluded by thanking Elon Musk and Jensen Huang for their visionary leadership and lifelong partnership between Saudi Arabia and the United States.
+
+**Elon Musk:** Thank you.
+
+**_[Read this Article on X for a better experience!](https://x.com/gailalfaratx/status/2028644596860014950)_**

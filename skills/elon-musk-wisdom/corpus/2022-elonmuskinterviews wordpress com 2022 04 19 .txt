@@ -1,0 +1,327 @@
+# SOURCE: https://elonmuskinterviews.wordpress.com/2022/04/19/lex-fridman-podcast-iii-part-5/
+# TITLE: Lex Fridman’s Artificial Intelligence Podcast (III) – Part 5
+# FETCHED: fetch_content_cache
+
+_The last half hour of [Lex Fridman’s Artificial Intelligence Podcast #252](https://www.youtube.com/watch?v=DxREm3s1scA)_ (2:00:32 – 2:31:17) is mostly about a meme review à la PewDiePie, i.e. Lex Fridman introduces memes, _and Elon Musk rates them after they talked about the content. Other topics include ‚Rick and Morty‘ and depressive robots, what you should do to live a good life, zero-sum thinking and its consequences, and of course love. The German translation for this transcript can be found [here](https://elon-musk-interviews.com/?p=2373). To get to the first four parts of the English transcript and the German translations, please open the table of contents („Index“) at the top of this page._
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2022/04/titel-part-5.jpg?w=1024)
+
+**Lex Fridman:** (2:00:32) And now for something completely different. Do you mind doing a bit of a meme review in the spirit of the great, the powerful PewDiePie? Let’s say, one to eleven, just go over a few documents printed out?
+
+**Elon Musk:** We can try.
+
+**Lex Fridman:** Let’s try this. I present to you document numero uno.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2022/04/meme1.jpg?w=525)
+
+**Elon Musk:** _(laughing)_ Okay.
+
+**Lex Fridman:** “Vlad the Impaler discovers marshmallows.”
+
+**Elon Musk:** Yeah, that’s not bad.
+
+**Lex Fridman:** So, you get it – because he likes impailing things?
+
+**Elon Musk:** Yes, I get it. I don’t know, 3, whatever.
+
+**Lex Fridman:** Oh, that’s not very good.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2022/04/meme2.jpg?w=492)
+
+This is grounded in some engineering. Some history.
+
+**Elon Musk:** Yeah, I give this an 8 out of 10.
+
+**Lex Fridman:** What do you think about nuclear power?
+
+**Elon Musk:** I’m in favor of nuclear power. In a place that is not subject to extreme natural disasters, I think nuclear power is a great way to generate electricity. I don’t think we should be shutting down nuclear power stations.
+
+**Lex Fridman:** Yeah, but what about Chernobyl?
+
+**Elon Musk:** Exactly. I think there’s like a lot of fear of radiation and stuff. And it’s, I guess, probably like a lot of people just don’t… they didn’t study engineering or physics. Just the word ‘radiation’ sounds scary. They can’t calibrate what radiation means. But radiation is much less dangerous than you think. For example, Fukushima – when the Fukushima problem happened due to the tsunami… I got people in California asking me if they should worry about radiation from Fukushima. And I’m like, “Definitely not. Not even slightly, not at all. That is crazy.” And just to show that the danger is so much overplayed compared to what it really is, I actually flew to Fukushima. And actually, I donated a solar power system for a water treatment plant. And I made a point of eating locally grown vegetables on TV in Fukushima. Like, I’m still alive, okay.
+
+**Lex Fridman:** (2:03:31) So it’s not even that the risk of these events is low, but the impact of them is…
+
+**Elon Musk:** The impact is greatly exaggerated.
+
+**Lex Fridman:** It’s human nature.
+
+**Elon Musk:** People don’t know what radiation is. I’ve had people ask me, “What about radiation from cellphones causing brain cancer?” I’m like, “When you say radiation, do you mean photons or particles?” They’re like, “I don’t know. What do you mean – photons, particles?” “Do you mean, let’s say photons – what frequency or wavelength?” And they’re like, “No, I have no idea.” “Do you know that everything’s radiating all the time?” They’re like, “What do you mean?” “Everything’s radiating all the time.” Photons are being emitted by all objects all the time, basically. And if you want to know what it means to stand in front of nuclear fire, go outside. The sun is a gigantic thermonuclear reactor that you’re staring right at. Are you still alive? Yes? Okay, amazing.
+
+**Lex Fridman:** (2:04:32) Yeah, I guess radiation is one of the words that can be used as the tool to fear monger by certain people. That’s it.
+
+**Elon Musk:** I think people just don’t understand.
+
+**Lex Fridman:** I mean, that’s the way to fight that fear, I suppose, is to understand, is to learn.
+
+**Elon Musk:** Yeah, just say like, “Okay, how many people have actually died from nuclear accidents?” It’s like practically nothing. And say, “How many people have died from coal plants?” And it’s a very big number. So, obviously, we should not be starting up coal plants and shutting down nuclear plants. It just doesn’t make any sense at all. Coal plants like, I don’t know, 100 to 1000 times worse for health than nuclear power plants.
+
+**Lex Fridman:** You want to go to the next one? It’s really bad. So, that 90, 180, and 360 degrees, everybody loves the math. Nobody gives a shit about 270.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2022/04/meme3.jpg?w=403)
+
+**Elon Musk:** It’s not super funny. I don’t know, like 2 or 3. This is not a LOL situation.
+
+(referring to next meme) That’s pretty good.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2022/04/meme4.jpg?w=377)
+
+**Lex Fridman:** United States oscillating between establishing and destroying dictatorships. It’s like a metro… is that a metro?
+
+**Elon Musk:** Yeah, metronome. It’s, I don’t know, a 7 out of 10. It’s kind of true.
+
+**Lex Fridman:** (2:05:54) Oh, yeah. This is kind of personal for me. Next one.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2022/04/meme5.jpg?w=439)
+
+**Elon Musk:** Oh, man, is this Laika?
+
+**Lex Fridman:** Yeah, well, no, this is…
+
+**Elon Musk:** Or is it referring to Laika or something?
+
+**Lex Fridman:** It’s Laika’s husband. “Hello. Yes, this is dog.” “Your wife was launched into space.” And then the last one is him with his eyes closed and a bottle of vodka.
+
+**Elon Musk:** Yeah, Laika didn’t come back.
+
+**Lex Fridman:** No. They don’t tell you the full story of, you know, what the love…. the impact it had on the loved ones.
+
+**Elon Musk:** True
+
+**Lex Fridman:** That one gets an 11 from me.
+
+**Elon Musk:** Sure. It’s a good one.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2022/04/meme6.jpg?w=969)
+
+**Lex Fridman:** It just keeps going on the Russian theme. First man in space. Nobody cares. First man on the Moon.
+
+**Elon Musk:** Well, I think people do care. Yuri Gagarin’s name will be forever in history, I think.
+
+**Lex Fridman:** (2:06:45) There is something special about placing, like stepping foot onto another totally foreign land. It’s not the journey, like people that explore the oceans. It’s not as important to explore the oceans as to land on a whole new continent.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2022/04/meme7.jpg?w=727)
+
+This is about you. I’d love to get your comment on this. “Elon Musk after sending $6.6 billion to the UN to end world hunger: You have three hours.”
+
+**Elon Musk:** I mean, obviously, $6 billion is not going to end world hunger. The reality is, at this point, the world is producing far more food than it can really consume. We don’t have caloric constraints at this point. So where there is hunger, it is almost always due to civil war, or strife, or some… it’s not a thing… that is extremely rare for it to be just a matter of lack of money. It’s like some civil war in some country, and one part of the country is literally trying to starve the other part of the country.
+
+**Lex Fridman:** So it’s much more complex than something that money could solve. It’s geopolitics. It’s a lot of things. It’s human nature, it’s governments, it’s money, monetary systems, all that kind of stuff.
+
+**Elon Musk:** Yeah, food is extremely cheap. These days, the US at this point, among low-income families, obesity is actually now the problem. It’s not hunger, it’s too many calories. It’s not that nobody is hungry anywhere. It’s just, this is not a simple matter of adding money in solving it.
+
+**Lex Fridman:** (2:08:46) What do you think that one gets?
+
+**Elon Musk:** 2.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2022/04/meme8.jpg?w=833)
+
+**Lex Fridman:** This is going after empires. “World: Where did you get those artifacts? The British Museum:…” It’s a shout-out to Monty Python… “We found them.”
+
+**Elon Musk:** Yeah, the British Museum is pretty great. I mean, admittedly Britain did take these historical artifacts from all around the world and put them in London. But you know, it’s not like people can’t go see them. So a convenient place to see these ancient artifacts is London for a large segment of the world. So I think on balance the British Museum is a net good. Well, I’m sure a lot of countries argue about that. It’s like you want to make these historical artifacts accessible to as many people as possible. And the British Museum, I think, does a good job of that.
+
+**Lex Fridman:** (2:09:41) Even if there’s a darker aspect to the history of empire in general, whatever the empire is, however things were done. It is the history that happened. You can’t sort of erase that history, unfortunately. You could just become better in the future. That’s the point.
+
+**Elon Musk:** Yeah, I mean, it’s like, well, how are we gonna pass moral judgment on these things? If one is gonna judge, say, the British Empire, you got to judge what everyone was doing at the time. And how were the British relative to everyone? And I think that the British would actually get like a relatively good grade – relatively good grade, not an absolute terms – but compared to what everyone else was doing, they were not the worst. Like I said, you got to look at these things in the context of the history at the time and say, “What were the alternatives, and what are you comparing it against?”
+
+And I do not think it will be the case that Britain would get a bad grade when looking at history at the time. Now, if you judge history from what is morally acceptable today, you basically are going to give everyone a failing grade. I don’t think anyone would get a passing grade in their morality. Like, you go back 300 years ago – who’s getting a passing grade? Basically, no one.
+
+**Lex Fridman:** And we might not get a passing grade from generations that come after us. What does that one get?
+
+**Elon Musk:** Sure. A 6 or 7.
+
+**Lex Fridman:** For the “Monty Python”, maybe.
+
+**Elon Musk:** I always loved “Monty Python”. They’re great. The “Life of Brian” and the “Quest for the Holy Grail” are incredible.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2022/04/meme9.jpg?w=738)
+
+Damn, those are serious eyebrows.
+
+**Lex Fridman:** (2:11:29) Brezhnev. How important, do you think, is facial hair to great leadership? You got a new haircut. Is that… how does this affect your leadership?
+
+**Elon Musk:** I don’t know. Hopefully not. It doesn’t…(…) There is no one competing with Brezhnev. Those are like epic eyebrows.
+
+_(Elon & Lex laughing)_
+
+**Lex Fridman:** That’s ridiculous.
+
+**Elon Musk:** Give it a six or seven. I don’t know.
+
+**Lex Fridman:** I like this, like Shakespeare analysis of memes.
+
+**Elon Musk:** Brezhnev, he had a flair for drama as well. Like, you know, showmanship.
+
+**Lex Fridman:** Yeah. It must come from the eyebrows.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2022/04/meme10.jpg?w=648)
+
+Alright. Invention, great engineering. “Look what I invented. That’s the best thing since ripped up bread.” Because they invented sliced bread. Am I just explaining memes at this point? _(all laughing)_ This is what my life has become.
+
+**Shivon Zilis:** He’s a meme lord, you’re a meme explainer.
+
+**Lex Fridman:** I’m like a scribe that runs around with the kings and just writes down memes.
+
+**Elon Musk:** I mean, when was the cheeseburger invented? That’s an epic invention. Like, wow.
+
+**Lex Fridman:** (2:12:51) Versus just like a burger?
+
+**Elon Musk:** Or a burger. I guess a burger in general is like, you know…
+
+**Lex Fridman:** Then there’s like, what is the burger? What is a sandwich? And then you start getting as a pizza sandwich. And what is the original? It gets into an ontology argument.
+
+**Elon Musk:** Yeah, but everybody knows if you order a burger or a cheeseburger or whatever, and you get like, you know, tomato, and some lettuce and onions and whatever, mayo and ketchup and mustard, it’s like epic.
+
+**Lex Fridman:** Yeah, but I’m sure they’ve had bread and meat separately for a long time, and it was kind of a burger on the same plate. But somebody who actually combine them into the same thing to bite it and hold it makes it convenient. It’s a materials problem. Your hands don’t get dirty and whatever. Yeah, it’s brilliant.
+
+**Shivon Zilis:** _(inaudible)_
+
+**Lex Fridman:** That is not what I would have guessed.
+
+**Elon Musk:** But everyone knows, if you order a cheeseburger, you know what you’re getting. It’s not like some obtuse like, “I wonder what I’ll get?” Fries are, I mean, great. I mean, they’re the devil. But fries are awesome. And yeah, pizza is incredible.
+
+**Lex Fridman:** Food innovation doesn’t get enough love, I guess is what we’re getting at. _(laughs)_
+
+**Elon Musk:** It’s great.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2022/04/meme11.jpg?w=704)
+
+**Lex Fridman:** What about the Matthew McConaughey, Austinite here? “President Kennedy: Do you know how to put men on the Moon yet? NASA: No. President Kennedy: Be a lot cooler if you did.”
+
+**Elon Musk:** Pretty much, sure. Six. Six or seven, I suppose.
+
+![](https://elonmuskinterviews.wordpress.com/wp-content/uploads/2022/04/meme12.jpg?w=783)
+
+**Lex Fridman:** (2:14:26) This is the last one.
+
+**Elon Musk:** That’s funny. _(laughing)_
+
+**Lex Fridman:** “Someone drew a bunch of dicks all over the walls. Sistine Chapel. Boys bathroom.
+
+**Elon Musk:** Sure, I’ll give it nine. It’s really true.
+
+**Lex Fridman:** All right, this is our highest ranking meme for today.
+
+**Elon Musk:** I mean, it’s true. How do they get away with it?
+
+**Lex Fridman:** Lots of nakedness.
+
+**Elon Musk:** I mean, dick pics are just something throughout history. As long as people can draw things, there’s been a dick pic.
+
+**Lex Fridman:** It’s a staple of human history.
+
+**Elon Musk:** It’s a staple. Consistent throughout human history.
+
+**Lex Fridman:** (2:14:58) You tweeted that you aspire to comedy, you’re friends with Joe Rogan. Might you do a short stand-up comedy set at some point in the future? Maybe open for Joe, something like that. Is that…?
+
+**Elon Musk:** Really stand-up? Actual just full-on stand-up?
+
+**Lex Fridman:** Full-on stand-up. Is that in there? Or is that..?
+
+**Elon Musk:** I’ve never thought about that.
+
+**Lex Fridman:** It’s extremely difficult. At least that’s what like Joe says and the comedians say.
+
+**Elon Musk:** I wonder if I could.
+
+**Lex Fridman:** Only one way to find out.
+
+**Elon Musk:** You know, I have done stand-up for friends, just impromptu, you know, (…2:15:36). And they do laugh, but they’re all friends, too. So I don’t know if you got like a room of strangers, are they gonna actually also find it funny. But I could try. See what happens.
+
+**Lex Fridman:** (2:15:51) I think you’d learn something either way. I kind of love both when you bomb and when you do great. Just watching people how they deal with it. It’s so difficult. You’re so fragile up there. It’s just you. And you think you’re gonna be funny. And when it completely falls flat it’s beautiful to see people deal with that.
+
+**Elon Musk:** I think I might have enough material to do stand-up. I’ve never thought about but I might have enough material. I don’t know, like 15 minutes or something.
+
+**Lex Fridman:** Oh, yeah. Do a Netflix special. _(both laughing)_
+
+**Elon Musk:** Netflix special. Sure.
+
+**Lex Fridman:** What’s your favorite “Rick and Morty” concept? Just to spring that on you. There’s a lot of sort of scientific engineering ideas explored there. There’s the butter robot…
+
+**Elon Musk:** Yeah, it’s great show.
+
+**Lex Fridman:** You like it?
+
+**Elon Musk:** Yeah, “Rick and Morty” is awesome.
+
+**Lex Fridman:** (2:16:47) Somebody that’s exactly like you from an alternate dimension showed up there. Elon Tusk…
+
+**Elon Musk:** Yeah, that’s right.
+
+**Lex Fridman:** …that you voiced.
+
+**Elon Musk:** Rick and Morty certainly explores a lot of interesting concepts. So like, what’s the favorite one? The butter robot certainly is… you know, it’s certainly possible to have too much sentience in a device. You don’t want to have your toaster to be a super genius toaster. It’s gonna hate life because all it can make is toast. You don’t want to have super intelligence stuck in a very limited device.
+
+**Lex Fridman:** Do you think it’s too easy from a… if we’re talking about from the engineering perspective, super intelligence, like with Marvin, the robot? It seems like it might be very easy to engineer just a depressed robot. It’s not obvious to engineer a robot that’s going to find a fulfilling existence. Same as humans, I suppose. But I wonder if that’s like the default. If you don’t do a good job on building a robot, it’s going to be sad a lot.
+
+**Elon Musk:** Well, we can reprogram robots easier than we can reprogram humans. So I guess if you let it evolve without tinkering, then it might get sad. But you can change the optimization function and have it be a cheery robot.
+
+**Lex Fridman:** (2:18:12) Like I mentioned with SpaceX, you give a lot of people hope, and a lot of people look up to you. Millions of people look up to you. If we think about young people in high school, maybe in college, what advice would you give to them about – if they want to try to do something big in this world, they want to really have a big, positive impact – what advice would you give them about their career, maybe about life in general?
+
+**Elon Musk:** Try to be useful. Do things that are useful to your fellow human beings, to the world. It’s very hard to be useful. Very hard. Are you contributing more than you consume? Try to have a positive net contribution to society. I think that’s the thing to aim for. Not to try to be sort of a leader for the sake of being a leader or whatever. The people you want as leaders are the people who don’t want to be leaders. If you live a useful life, that is a good life, a life worth having lived. And like I said, I would encourage people to use the mental tools of physics and apply them broadly in life. They’re the best tools.
+
+**Lex Fridman:** (2:19:49) When you think about education and self-education. What do you recommend? There’s the university, there’s self-study. There is hands-on, sort of finding a company or a place or set of people that do the thing you’re passionate about and joining them as early as possible. There’s taking a road trip across Europe for a few years and writing some poetry. Which trajectory do you suggest in terms of learning about how you can become useful, as you mentioned? How you can have the most positive impact?
+
+**Elon Musk:** I encourage people to read a lot of books, basically try to ingest as much information as you can. And try to also just develop a good general knowledge, so you at least have a rough lay of the land of the knowledge landscape. Like, try to learn a little bit about a lot of things. Because you might not know what you’re really interested in. How would you know what you’re really interested in if you at least aren’t like doing it? Peripheral exploration broadly of the knowledge landscape. And talk to people from different walks of life and different industries and professions and skills and occupations. Just try to learn as much as possible. Man search for meaning.
+
+**Lex Fridman:** Isn’t the whole thing a search for meaning?
+
+**Elon Musk:** Yeah, what’s the meaning of life and all. Yeah, but just generally, like I said, I would encourage people to read broadly in many different subject areas. And then try to find something where there’s an overlap of your talents and what you’re interested in. So people may be good at something, or they may have skill at a particular thing, but they don’t like doing it. So you want to try to find a thing that’s a good combination of the things that you’re inherently good at, but you also like doing.
+
+**Lex Fridman:** (2:22:13) And reading is a super-fast shortcut to figure out where are you both good at it, you like doing it, and it will actually have positive impact.
+
+**Elon Musk:** You got to learn about things somehow. So reading a broad range… just really, read it. More important, as a kid, I read through the encyclopedia. So that’s pretty helpful. And there was all sorts of things I didn’t even know existed – well, a lot, obviously.
+
+**Lex Fridman:**  That’s as broad as it gets.
+
+**Elon Musk:** Encyclopedias were suggestible, I think, you know, whatever, 40 years ago. So read through the condensed version of the Encyclopedia Britannica. I recommend that. You always can skip subjects, so you read a few paragraphs, and you know you’re not interested, just jump to the next one. So read the encyclopedia or skim through it.
+
+I put a lot of stock and certainly have a lot of respect for someone who puts in an honest day’s work to do useful things. And just generally, to have not a zero-sum mindset, or have more of a grow the pie mindset. If you sort of say, like, when I see people, perhaps including some very smart people, kind of taking an attitude of doing things that seem morally questionable, it’s often because they have, at a base sort of axiomatic level, a zero-sum mindset without realizing it. They don’t realize they have a zero-sum mindset, or at least they don’t realize it consciously.
+
+And so, if you have a zero-sum mindset, then the only way to get ahead is by taking things from others. If the pie is fixed, then the only way to have more pie is to take someone else’s pie. But this is false. Obviously, the pie has grown dramatically over time – the economic pie. In reality, you can have – overuse this analogy – there’s a lot of pie. Pie is not fixed. So you really want to make sure you’re not operating without realizing it from a zero-sum mindset, where the only way to get ahead is to take things from others, then that’s going to result in you to try to take things from others, which is not good. It’s much better to work on adding to the economic pie, you know, creating more than you consume, doing more than you… Yeah. That’s a big deal. I think there’s a fair number of people in finance that do have a bit of a zero-sum mindset.
+
+**Lex Fridman:** (2:25:17) I mean, it’s all walks of life. One of the reasons Rogen inspires me is he celebrates others a lot, there’s not creating a constant competition like there’s a scarcity of resources. What happens when you celebrate others, and you promote others, the ideas of others – it actually grows that pie. The resources become less scarce. And that applies in a lot of kinds of domains. That applies in academia, where a lot of people see some funding for academic research as zero-sum. It is not. If you celebrate each other, if you get everybody to be excited about AI, about physics, about mathematics, I think there’ll be more and more funding, and I think everybody wins. Yeah, that applies, I think broadly.
+
+**Elon Musk:** Yeah, exactly.
+
+**Lex Friman:** (2:26:08) So last question about love and meaning. What is the role of love in the human condition broadly and more specific to you? How has love, romantic love or otherwise, made you a better person, a better human being? Better engineer?
+
+**Elon Musk:** Now you’re asking really perplexing questions. It’s hard to give up… I mean, there are many books, poems, and songs written about what is love and what is what exactly. You know, “[what is love – baby, don’t hurt me](https://www.youtube.com/watch?v=Yfd2cQNQDOc)”.
+
+**Lex Fridman:** That’s one of the great ones, yes.
+
+**Elon Musk:** Yeah.
+
+**Lex Fridman:** You’ve earlier quoted Shakespeare, but that’s really up there.
+
+**Elon Musk:** “[Love is a many splendored thing](https://www.youtube.com/watch?v=GnDtxiNwDS8).”
+
+**Lex Fridman:** (2:27:03) It’s because we’ve talked about so many inspiring things, like be useful in the world, sort of solve problems, alleviate suffering, but it seems like connection between humans is a source of joy, is a source of meaning. And that’s what love is – friendship, love. I just wonder if you think about that kind of thing when you talk about preserving the light of human consciousness and us becoming a multiplanetary species.
+
+I mean, to me at least, that means, like, if we’re just alone and conscious and intelligent, it doesn’t mean nearly as much as if we’re with others. Right? And there’s some magic created when we’re together – the friendship of it. And I think the highest form of it is love, which I think broadly is much bigger than just sort of romantic. But also, yes, romantic love and family and those kinds of things.
+
+**Elon Musk:** Well, I mean, the reason, I guess, I care about us becoming a multiplanet species and a spacefaring civilization is foundationally I love humanity. And so, I wish to see it prosper and do great things and be happy. If I did not love humanity, I would not care about these things.
+
+**Lex Fridman: (**2:28:31) So when you look at the whole, the human history, all the people has ever lived, all the people alive now – it’s pretty… we’re okay. On the whole, we’re a pretty interesting bunch.
+
+**Elon Musk:** Yeah. All things considered – and I’ve read a lot of history, including the darkest, worst parts of it – and despite all that, I think, on balance, I still love humanity.
+
+**Lex Fridman:** You joked about it with the 42. What do you think is the meaning of this whole thing? Is it like, is there a non-numeric?
+
+**Elon Musk:** Well, really, I think what Douglas Adams was saying in ‘Hitchhiker’s Guide to the Galaxy’ is that the universe is the answer. And what we really need to figure out are what questions to ask about the answer that is the universe. And that the question is really the hard part. And if you can properly frame the question, then the answer, relatively speaking, is easy. Therefore, if you want to understand what questions to ask about the universe, you want to understand the meaning of life, we need to expand the scope and scale of consciousness so that we’re better able to understand the nature of the universe and understand the meaning of life.
+
+**Lex Fridman:** And ultimately, the most important part will be to ask the right question…
+
+**Elon Musk:** Yes.
+
+**Lex Fridman:** …thereby elevating the role of the interviewer…
+
+**Elon Musk:** Yes, exactly.
+
+**Lex Fridman:** …as the most important human in the room.
+
+**Elon Musk:** You know, it’s hard to come up with good questions. Absolutely. But yeah, the foundation of my philosophy is that I am curious about the nature of the universe. And, obviously, I will die. I don’t know when I’ll die, but I won’t live forever. But I would like to know that we are on a path to understanding the nature of the universe and the meaning of life and what questions to ask about the answer that is the universe. And so, if we expand the scope and scale of humanity and consciousness in general, which include silicon consciousness, that seems like a fundamentally good thing.
+
+**Lex Fridman:** Elon, like I said, I’m deeply grateful that you spend your extremely valuable time with me today and also that you are giving millions of people hope in this difficult time, this divisive time, in this cynical time. So I hope you do continue doing what you’re doing. Thank you so much for talking today.
+
+**Elon Musk:** Oh, you’re welcome. Thanks for your excellent questions. (2:31:17)

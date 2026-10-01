@@ -1,0 +1,60 @@
+# SOURCE: https://www.elonmuskbook.org/the-book-of-elon-musk-free-online-version/rockets-from-first-principles
+# HARVESTED: 2026-09-29
+
+Thank you for visiting the site. Enjoy the published content and the book. We appreciate your support, and please pay it forward.
+
+The Book of Elon Musk Elon Musk's Most Useful Ideas In His Own Words
+
+Mar 31
+
+Mar 31 Rockets from First Principles
+
+Eric Jorgenson
+
+I was trying to figure out if there was something fundamentally supeI was trying to figure out if there was something fundamentally superexpensive about rockets.611
+
+Q: How did you determine whether your vision for SpaceX had the potential to succeed?
+
+How could the Russians build low-cost rockets? It’s not like we drive Russian cars, fly Russian planes, or have Russian kitchen appliances. The US is a pretty competitive place, and we should be able to build a cost-efficient launch vehicle.612
+
+I started reading quite a bit about rockets, trying to understand why they’re so friggin’ expensive. It used to be $60 million to build the Delta II. Now, a Delta II costs $100 million to make. Crazy number. Delta II is a relatively small rocket! The bigger rockets are anywhere from $200 to $400 million.
+
+I was pretty mad, and when I get mad I try to reframe the problem.613
+
+I looked at the suppliers NASA had been relying on. With suppliers like Boeing and Lockheed, you’re screwed.614
+
+One problem with those big aerospace firms is incredible aversion to risk. Even if better technology is available, they still use legacy components, often ones that were developed in the 1960s. Everyone is trying to optimize their ass-covering.615
+
+Second, there’s a tendency in big aerospace companies to outsource everything. That’s been trendy in many industries, but aerospace has done it to a ridiculous degree. They outsource to subcontractors, and then the subcontractors outsource to sub-subcontractors, and so on. You have to go four or five layers down to find somebody actually doing real work—cutting metal, shaping atoms. Every level above that tacks on cost—it’s overhead to the fifth power. I began to understand why things were so expensive.616
+
+Boeing and Lockheed just want their cost-plus gravy trains. When you’ve had success for too long, you lose the desire to take risks. We can’t get to Mars with that system. They have an incentive to never finish the job.617
+
+There wasn’t really a good reason for rockets to be so expensive. Rockets could be a lot cheaper even if they were still expendable. But, if one could make them reusable, like airplanes, then the cost of rocketry and space travel would both drop dramatically.618
+
+I put together a feasibility study with a team of engineers who were involved in all major launch vehicle developments over the last thirty years. We met over a number of Saturdays in early 2001 to find the smartest way to approach launch cost and reliability, and we came up with a default design.619
+
+It was fortunate timing. The feasibility study finished around the time we agreed to sell PayPal to eBay. So coincidently with that sale, I moved down to Los Angeles, the biggest concentration of aerospace talent in the world.620
+
+Q: Did people give you a hard time for this? It seems like a lot of people were saying “Elon is a software guy. Why is he working on hardware?”
+
+One hundred percent. A lot of the press from that time is still online. They kept calling me an “internet guy” attempting to build a rocket company. We got ridiculed quite a bit.
+
+It does sound absurd. “Internet guy starts rocket company” doesn’t sound like a recipe for success, frankly, so I don’t hold it against them. It does sound improbable, and I agreed. It was improbable.621
+
+I didn’t study rocket science but have picked it up along the way.622
+
+I didn’t really know how to start a rocket company. The first three launches failed. I did not hit the bull’s-eye.623
+
+Eric Jorgenson
+
+CEO of Scribe Media. Author of The Almanack of Naval and The Anthology of Balaji. Investing in technology startups as GP at Rolling Fun. Podcast: Smart Friends. Happy to be in touch through Twitter or email.
+
+Website
+
+About the book
+
+Book and website curating and sharing Elon's wisdom. Coming soon on March 24th. Follow on Twitter.
+
+Mar 31 I Expected to Lose Everything
+
+Mar 31 Keeping SpaceX Alive
