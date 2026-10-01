@@ -70,7 +70,7 @@
 > In the Tesla factory, I mistakenly spent a lot of time accelerating processes that I later realized should have been deleted.
 
 - 出处：The Algorithm — The Book of Elon Musk
-- 语料位置：`corpus/未标年-the algorithm.txt`
+- 语料位置：`corpus/未标年-www claimlane com resources blog elon musks .txt`
 - confidence：high
 - 现代转译：支撑原则 3「算法五步，顺序不可乱」的判断规则：「按顺序走，不许跳步：先问「这要求是谁定的、还成立吗」，再问「这东西能不能整个删掉」，然后才谈优化，再谈加速，最后才谈自动化。**任何一步跳过的代价，都远大于跳过省下的时间。**」
 
@@ -199,7 +199,7 @@
 > We need at least a tenfold improvement in the cost per mile of tunneling.
 
 - 出处：TED 2021 —— 他本人对「数量级目标」的表述
-- 语料位置：`corpus/2021-elonmuskinterviews wordpress com 2021 01 21 .txt`
+- 语料位置：`corpus/未标年-thinking in limits.txt`
 - confidence：high
 - 现代转译：支撑原则 9「极限思维：把目标定在物理极限上」的判断规则：「对任何要改进的东西，先算出它的理论极限（能量密度、材料成本、光速、热力学），把当前值标在坐标上。然后问：差距有多少来自物理，多少来自惯例。**只把「来自惯例」的那部分当机会。**」
 
@@ -337,7 +337,7 @@
 > In the Tesla factory, I mistakenly spent a lot of time accelerating processes that I later realized should have been deleted.
 
 - 出处：自我承认失误（BS05）
-- 语料位置：`corpus/未标年-the algorithm.txt`
+- 语料位置：`corpus/未标年-www claimlane com resources blog elon musks .txt`
 - confidence：high
 - 现代转译：支撑盲区 BS05 证据 1/2：他自己承认的算法执行错误：顺序颠倒。缓解建议：这条不是盲区而是**已知的执行陷阱**，但因为反复发生，值得单独列出来。他承认自己在产线上花大力气加速了本该删掉的流程。**判据：如果你的团队正在为一件说不清「为什么需要它」的事加班赶工期，你就在重犯这个错误。** 停下来，先回答那件东西为何存在。
 
@@ -1091,7 +1091,7 @@
 > The fundamental good of Tesla, it's like, if you look back in history and say, "What good did Tesla do?" The good will be by how many years did we accelerate sustainable energy? That's the true metric of success. It matters if sustainable energy happens faster or slower, and so that's really how I think about Tesla and how we should assess our progress.
 
 - 出处：Tesla 2020 年度股东大会与 Battery Day（2020-09-22）
-- 语料位置：`corpus/2020-elonmuskinterviews wordpress com 2020 12 11 .txt`
+- 语料位置：`corpus/2021-elonmuskinterviews wordpress com 2021 04 04 .txt`
 - confidence：high
 
 ### 记分牌 P39-补 3/5：换单位会换掉结论（支撑节 39）
@@ -1123,7 +1123,7 @@
 > We also have consistent free cashflow generation. This is really important for growth. A key element here is tightening up the time from when a car is ordered to when it is built and delivered.
 
 - 出处：Tesla 2020 年度股东大会与 Battery Day（2020-09-22）
-- 语料位置：`corpus/2020-elonmuskinterviews wordpress com 2020 12 11 .txt`
+- 语料位置：`corpus/2021-elonmuskinterviews wordpress com 2021 04 04 .txt`
 - confidence：high
 
 ### 原则 2-补 4/4：物性参数要取在它实际工作的温度（支撑原则 2）
@@ -2650,7 +2650,7 @@
 
 ---
 
-## 二、补料新收的逐字证据
+## 八、补料新收的逐字证据
 
 本节由第二轮全语料补料产生（123 个此前从未供养过引文的文件），共 692 张。
 
@@ -4409,7 +4409,7 @@
 
 > But the planets only align every two years. So yeah. Been asked a few times: do I want to die on Mars? And I’m like, yes—just not on impact.
 
-- 语料位置：`corpus/2021-elonmuskinterviews wordpress com 2021 11 04 .txt`
+- 语料位置：`corpus/2026-whatsuptesla com 2026 01 27 transcript elon .txt`
 - confidence：high
 - 备注：这句他讲过两次：2021 年 CodeCon 上 Kara Swisher 问同一件事，他答 "Yes, just not on impact." —— 见 `corpus/2021-elonmuskinterviews wordpress com 2021 11 04 .txt`。`references/evidence.md` grep `not on impact` 为 0。
 
